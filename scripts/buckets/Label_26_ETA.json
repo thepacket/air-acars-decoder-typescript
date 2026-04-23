@@ -1,0 +1,2224 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547255183,
+      "label": "26",
+      "text": "2226KIAHAF0099/22\r\n0647LFPG09L",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0099"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KIAH"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:26:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "06:47:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "22:26"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "06:47"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "09L"
+        }
+      ]
+    },
+    {
+      "id": 6547303104,
+      "label": "26",
+      "text": "2239LFPGAF024X/22\r\n2315KLAX25L ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF024X"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "LFPG"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLAX"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:39:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "23:15:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "22:39"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "23:15"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "25L"
+        }
+      ]
+    },
+    {
+      "id": 6547320592,
+      "label": "26",
+      "text": "-",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6547320586,
+      "label": "26",
+      "text": "-",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6547290703,
+      "label": "26",
+      "text": "-",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6547290701,
+      "label": "26",
+      "text": "-",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6547343008,
+      "label": "26",
+      "text": "DPT01G74447/22222249KAVPKORD****************************",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6547490121,
+      "label": "26",
+      "text": "-",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6547489064,
+      "label": "26",
+      "text": "DPT01G74450/22222327KORDKTVC****************************",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6547484613,
+      "label": "26",
+      "text": "2326LFPGAF0010/22\r\n2341KJFK22L ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0010"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "LFPG"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KJFK"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "23:26:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "23:41:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "23:26"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "23:41"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "22L"
+        }
+      ]
+    },
+    {
+      "id": 6547954556,
+      "label": "26",
+      "text": "-",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6547943041,
+      "label": "26",
+      "text": "-",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6547970748,
+      "label": "26",
+      "text": "-",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6548001703,
+      "label": "26",
+      "text": "-\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6548008987,
+      "label": "26",
+      "text": "DPT01G74188/22230152KIADKEWR****************************",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6548008986,
+      "label": "26",
+      "text": "DPT01G74188/22230152KIADKEWR****************************",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6548008985,
+      "label": "26",
+      "text": "DPT01G74188/22230152KIADKEWR****************************",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6548008982,
+      "label": "26",
+      "text": "DPT01G74188/22230152KIADKEWR****************************",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6548022612,
+      "label": "26",
+      "text": "-",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6548069239,
+      "label": "26",
+      "text": "220226 KMSP KSTL7\r\n/FN 1609\r\nKSTL",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6548079682,
+      "label": "26",
+      "text": "-",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6548210836,
+      "label": "26",
+      "text": "DPT01G74523/22230251KIADKBUF****************************",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6548210834,
+      "label": "26",
+      "text": "DPT01G74523/22230251KIADKBUF****************************",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6548210384,
+      "label": "26",
+      "text": "0251RJTTAF0279/22\r\n0336LFPG09L ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:51:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "02:51"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "09L"
+        }
+      ]
+    },
+    {
+      "id": 6548210382,
+      "label": "26",
+      "text": "0251RJTTAF0279/22\r\n0336LFPG09L ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:51:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "02:51"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "09L"
+        }
+      ]
+    },
+    {
+      "id": 6548210381,
+      "label": "26",
+      "text": "0251RJTTAF0279/22\r\n0336LFPG09L ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:51:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "02:51"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "09L"
+        }
+      ]
+    },
+    {
+      "id": 6548210380,
+      "label": "26",
+      "text": "0251RJTTAF0279/22\r\n0336LFPG09L ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:51:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "02:51"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "09L"
+        }
+      ]
+    },
+    {
+      "id": 6548210379,
+      "label": "26",
+      "text": "0251RJTTAF0279/22\r\n0336LFPG09L ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:51:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "02:51"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "09L"
+        }
+      ]
+    },
+    {
+      "id": 6548210378,
+      "label": "26",
+      "text": "0251RJTTAF0279/22\r\n0336LFPG09L ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:51:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "02:51"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "09L"
+        }
+      ]
+    },
+    {
+      "id": 6548210376,
+      "label": "26",
+      "text": "0251RJTTAF0279/22\r\n0336LFPG09L ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:51:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "02:51"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "09L"
+        }
+      ]
+    },
+    {
+      "id": 6548210375,
+      "label": "26",
+      "text": "0251RJTTAF0279/22\r\n0336LFPG09L ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:51:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "02:51"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "09L"
+        }
+      ]
+    },
+    {
+      "id": 6548210374,
+      "label": "26",
+      "text": "0251RJTTAF0279/22\r\n0336LFPG09L ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:51:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "02:51"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "09L"
+        }
+      ]
+    },
+    {
+      "id": 6548210373,
+      "label": "26",
+      "text": "0251RJTTAF0279/22\r\n0336LFPG09L ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:51:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "02:51"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "09L"
+        }
+      ]
+    },
+    {
+      "id": 6548225629,
+      "label": "26",
+      "text": "0256RPLLAF0249/22\r\n0341LFPG08R",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0249"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RPLL"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:56:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:41:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "02:56"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:41"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548251322,
+      "label": "26",
+      "text": "-\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact ETA / Arrival Report",
+      "items": []
+    },
+    {
+      "id": 6548254900,
+      "label": "26",
+      "text": "0305ZSPDAF0111/22\r\n0320LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0111"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZSPD"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:05:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:20:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:05"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:20"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548258107,
+      "label": "26",
+      "text": "0306RJTTAF0279/22\r\n0336LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:06:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:06"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548258104,
+      "label": "26",
+      "text": "0306RJTTAF0279/22\r\n0336LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:06:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:06"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548258103,
+      "label": "26",
+      "text": "0306RJTTAF0279/22\r\n0336LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:06:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:06"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548258101,
+      "label": "26",
+      "text": "0306RJTTAF0279/22\r\n0336LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:06:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:06"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548258100,
+      "label": "26",
+      "text": "0306RJTTAF0279/22\r\n0336LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:06:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:06"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548258099,
+      "label": "26",
+      "text": "0306RJTTAF0279/22\r\n0336LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:06:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:06"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548258097,
+      "label": "26",
+      "text": "0306RJTTAF0279/22\r\n0336LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:06:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:06"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548258096,
+      "label": "26",
+      "text": "0306RJTTAF0279/22\r\n0336LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:06:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:06"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548258095,
+      "label": "26",
+      "text": "0306RJTTAF0279/22\r\n0336LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:06:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:06"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548258094,
+      "label": "26",
+      "text": "0306RJTTAF0279/22\r\n0336LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:06:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:06"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548258093,
+      "label": "26",
+      "text": "0306RJTTAF0279/22\r\n0336LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0279"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:06:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:36:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:06"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:36"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548265644,
+      "label": "26",
+      "text": "0308SOCAAF0837/22\r\n0323LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0837"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "SOCA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:08:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:23:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:08"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:23"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548265640,
+      "label": "26",
+      "text": "0308SOCAAF0837/22\r\n0323LFPG08R ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF0837"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "SOCA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:08:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:23:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:08"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:23"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "08R"
+        }
+      ]
+    },
+    {
+      "id": 6548274757,
+      "label": "26",
+      "text": "0311KBOSAF333F/22\r\n0356LFPG09L",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact ETA / Arrival Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact ETA / Arrival Report"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AF333F"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KBOS"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LFPG"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:11:00"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "03:56:00"
+        },
+        {
+          "type": "report_time",
+          "code": "RPTTIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "03:11"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "eta_time",
+          "code": "ETATIME",
+          "label": "ETA (UTC, HHMM)",
+          "value": "03:56"
+        },
+        {
+          "type": "arrival_runway",
+          "code": "ARRRWY",
+          "label": "Expected Landing Runway",
+          "value": "09L"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2005 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547259280,
+      "label": "52",
+      "text": "2604223222757",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "22"
+        }
+      ]
+    },
+    {
+      "id": 6547259263,
+      "label": "52",
+      "text": "2604223222757",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "22"
+        }
+      ]
+    },
+    {
+      "id": 6547257719,
+      "label": "52",
+      "text": "2604223222722",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "22"
+        }
+      ]
+    },
+    {
+      "id": 6547257717,
+      "label": "52",
+      "text": "2604223222722",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "22"
+        }
+      ]
+    },
+    {
+      "id": 6547257575,
+      "label": "52",
+      "text": "2604223222722",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "22"
+        }
+      ]
+    },
+    {
+      "id": 6547257096,
+      "label": "52",
+      "text": "2604223222723",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "22"
+        }
+      ]
+    },
+    {
+      "id": 6547257095,
+      "label": "52",
+      "text": "2604223222723",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "22"
+        }
+      ]
+    },
+    {
+      "id": 6547254982,
+      "label": "52",
+      "text": "2604223222651",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "22"
+        }
+      ]
+    },
+    {
+      "id": 6547248710,
+      "label": "52",
+      "text": "2604223222522",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "22"
+        }
+      ]
+    },
+    {
+      "id": 6547245141,
+      "label": "52",
+      "text": "2604223222430",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "22"
+        }
+      ]
+    },
+    {
+      "id": 6547967457,
+      "label": "52",
+      "text": "2604234013947",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6547962169,
+      "label": "52",
+      "text": "2604234013821",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6547959746,
+      "label": "52",
+      "text": "2604234013742",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6547949750,
+      "label": "52",
+      "text": "2604234013444",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6547948851,
+      "label": "52",
+      "text": "2604234013430",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6547948850,
+      "label": "52",
+      "text": "2604234013430",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6547948849,
+      "label": "52",
+      "text": "2604234013430",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6547945606,
+      "label": "52",
+      "text": "2604234013329",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6547945602,
+      "label": "52",
+      "text": "2604234013329",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6547937511,
+      "label": "52",
+      "text": "2604234013117",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6547978633,
+      "label": "52",
+      "text": "2604234014300",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548001327,
+      "label": "52",
+      "text": "2604234014936",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548001318,
+      "label": "52",
+      "text": "2604234014936",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548016214,
+      "label": "52",
+      "text": "2604234015409",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548016359,
+      "label": "52",
+      "text": "2604234015413",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548034796,
+      "label": "52",
+      "text": "2604234015931",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548034784,
+      "label": "52",
+      "text": "2604234015931",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548038510,
+      "label": "52",
+      "text": "2604234020044",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548038509,
+      "label": "52",
+      "text": "2604234020044",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548038508,
+      "label": "52",
+      "text": "2604234020044",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548047170,
+      "label": "52",
+      "text": "2604234020309",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548060698,
+      "label": "52",
+      "text": "2604234020656",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548060697,
+      "label": "52",
+      "text": "2604234020656",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548072649,
+      "label": "52",
+      "text": "2604234021010",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548072469,
+      "label": "52",
+      "text": "2604234021037",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548078320,
+      "label": "52",
+      "text": "2604234021207",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548078314,
+      "label": "52",
+      "text": "2604234021207",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548078307,
+      "label": "52",
+      "text": "2604234021207",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548095157,
+      "label": "52",
+      "text": "2604234021730",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548095052,
+      "label": "52",
+      "text": "2604234021730",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548103750,
+      "label": "52",
+      "text": "2604234022021",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548103572,
+      "label": "52",
+      "text": "2604234022020",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548103400,
+      "label": "52",
+      "text": "2604234022003",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548103012,
+      "label": "52",
+      "text": "2604234022011",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548127455,
+      "label": "52",
+      "text": "2604234022727",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548130571,
+      "label": "52",
+      "text": "2604234022832",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548133019,
+      "label": "52",
+      "text": "2604234022915",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548133017,
+      "label": "52",
+      "text": "2604234022915",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548136792,
+      "label": "52",
+      "text": "2604234023030",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "id": 6548136770,
+      "label": "52",
+      "text": "2604234023030",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AGM — Ground UTC Request",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AGM — Ground UTC Request"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "year",
+          "code": "YEAR",
+          "label": "Year",
+          "value": "2026"
+        },
+        {
+          "type": "month",
+          "code": "MONTH",
+          "label": "Month",
+          "value": "04 (April)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day",
+          "value": "23"
+        }
+      ]
+    }
+  ]
+}

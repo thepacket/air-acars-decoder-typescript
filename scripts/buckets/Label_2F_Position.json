@@ -1,0 +1,486 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547256305,
+      "label": "2F",
+      "text": "2227+3612-497/3559",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Compact Periodic Position Report (Label 2F)"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:27:00"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "36.120 N, 4.970 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "3559 feet"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "22:27"
+        }
+      ]
+    },
+    {
+      "id": 6547319955,
+      "label": "2F",
+      "text": "PACEPOSREQ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547314549,
+      "label": "2F",
+      "text": "2242+3526-11540/36121\r\nLFPG/KLAX/36000/-133/ -54/0.84/237631/225602/25.0/SMASH  /SHTNR  / -95/   94",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547313875,
+      "label": "2F",
+      "text": "2242+4524-6821/38123\r\nLFPG/KJFK/37999/-136/ -45/0.82/194884/182710/27.0/PLYMM  /ENE    / -69/   30",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547313874,
+      "label": "2F",
+      "text": "2242+4524-6821/38123\r\nLFPG/KJFK/37999/-136/ -45/0.82/194884/182710/27.0/PLYMM  /ENE    / -69/   30",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547308324,
+      "label": "2F",
+      "text": "PACEPOSREQ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547304497,
+      "label": "2F",
+      "text": "2239+3905-7590/23610\r\nKIAD/LFPG/23002/ +86/ -28/0.73/266680/205807/37.0/CORNE  /DONIL  / -50/   37",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547304492,
+      "label": "2F",
+      "text": "2239+3905-7590/23610\r\nKIAD/LFPG/23002/ +86/ -28/0.73/266680/205807/37.0/CORNE  /DONIL  / -50/   37",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547304488,
+      "label": "2F",
+      "text": "2239+3905-7590/23610\r\nKIAD/LFPG/23002/ +86/ -28/0.73/266680/205807/37.0/CORNE  /DONIL  / -50/   37",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547304487,
+      "label": "2F",
+      "text": "2239+3905-7590/23610\r\nKIAD/LFPG/23002/ +86/ -28/0.73/266680/205807/37.0/CORNE  /DONIL  / -50/   37",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547963270,
+      "label": "2F",
+      "text": "0138+4534+2457/36214\r\nWSSS/LFPG/35995/ -60/ -50/0.83/244599/223697/29.0/BUD-25 /IRL-24 / +31/   20",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547936106,
+      "label": "2F",
+      "text": "0130+3832-7522/33580\r\nKATL/LFPG/33004/ +40/ -50/0.84/259985/201706/36.0/CAA-12 /PAJ-11 / -23/   53",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547936101,
+      "label": "2F",
+      "text": "0130+3832-7522/33580\r\nKATL/LFPG/33004/ +40/ -50/0.84/259985/201706/36.0/CAA-12 /PAJ-11 / -23/   53",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547936100,
+      "label": "2F",
+      "text": "0130+3832-7522/33580\r\nKATL/LFPG/33004/ +40/ -50/0.84/259985/201706/36.0/CAA-12 /PAJ-11 / -23/   53",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547936098,
+      "label": "2F",
+      "text": "0130+3832-7522/33580\r\nKATL/LFPG/33004/ +40/ -50/0.84/259985/201706/36.0/CAA-12 /PAJ-11 / -23/   53",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547969783,
+      "label": "2F",
+      "text": "M57AAF01870140+4184+14999/32935\n\tRJTT/LFPG/31991/ +45/ -43/0.82/276550/183508/25.0/PUGAL  / -88/  163",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6547996688,
+      "label": "2F",
+      "text": "0148+4763+1789/36148\r\nZSPD/LFPG/35999/ -69/ -58/0.81/206152/190602/26.0/DEXIT  /BEGLA  / +78/   55",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548035735,
+      "label": "2F",
+      "text": "0159+4224-8153/29516\r\nKDTW/LFPG/28759/ +91/ -39/0.77/227888/176395/33.0/JHW    /LNCON  / -33/   51",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548047510,
+      "label": "2F",
+      "text": "0203+4841+1503/38134\r\nZSPD/LFPG/38000/ -68/ -56/0.82/204628/190602/26.0/INBED  /DEX-34 / +56/   44",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548047498,
+      "label": "2F",
+      "text": "0203+4841+1503/38134\r\nZSPD/LFPG/38000/ -68/ -56/0.82/204628/190602/26.0/INBED  /DEX-34 / +56/   44",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548069983,
+      "label": "2F",
+      "text": "0209+3463-11723/29795\r\nKLAX/LFPG/28680/ +54/ -36/0.82/288308/209000/33.0/BLAZN  /NNAVY  / -95/   73",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548069981,
+      "label": "2F",
+      "text": "0209+3463-11723/29795\r\nKLAX/LFPG/28680/ +54/ -36/0.82/288308/209000/33.0/BLAZN  /NNAVY  / -95/   73",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548069137,
+      "label": "2F",
+      "text": "0209+3463-11723/29795\r\nKLAX/LFPG/28680/ +54/ -36/0.82/288308/209000/33.0/BLAZN  /NNAVY  / -95/   73",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548069135,
+      "label": "2F",
+      "text": "0209+3463-11723/29795\r\nKLAX/LFPG/28680/ +54/ -36/0.82/288308/209000/33.0/BLAZN  /NNAVY  / -95/   73",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548097018,
+      "label": "2F",
+      "text": "0218+4895+1202/38119\r\nZSPD/LFPG/37994/ -79/ -57/0.82/203158/190602/26.0/BOM-37 /INB-36 / +63/   36",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548097015,
+      "label": "2F",
+      "text": "0218+4895+1202/38119\r\nZSPD/LFPG/37994/ -79/ -57/0.82/203158/190602/26.0/BOM-37 /INB-36 / +63/   36",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548134968,
+      "label": "2F",
+      "text": "0229+4238-7577/37478\r\nKDTW/LFPG/37002/ +88/ -57/0.83/224096/176395/33.0/GDM-03 /PON-02 / -31/   93",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548134967,
+      "label": "2F",
+      "text": "0229+4238-7577/37478\r\nKDTW/LFPG/37002/ +88/ -57/0.83/224096/176395/33.0/GDM-03 /PON-02 / -31/   93",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548134965,
+      "label": "2F",
+      "text": "0229+4238-7577/37478\r\nKDTW/LFPG/37002/ +88/ -57/0.83/224096/176395/33.0/GDM-03 /PON-02 / -31/   93",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548134960,
+      "label": "2F",
+      "text": "0229+4238-7577/37478\r\nKDTW/LFPG/37002/ +88/ -57/0.83/224096/176395/33.0/GDM-03 /PON-02 / -31/   93",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548188747,
+      "label": "2F",
+      "text": "0245+4028-468/36168\r\nGOBD/LFPG/36003/ +34/ -57/0.83/248209/231698/28.0/CNA    /LUSEM  /-121/   31",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548217617,
+      "label": "2F",
+      "text": "0253+4921+1002/36127\r\nWSSS/LFPG/35996/ -81/ -56/0.83/235853/223697/29.0/RUD-30 /BOM-29 / +95/   42",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548217615,
+      "label": "2F",
+      "text": "0253+4921+1002/36127\r\nWSSS/LFPG/35996/ -81/ -56/0.83/235853/223697/29.0/RUD-30 /BOM-29 / +95/   42",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548217614,
+      "label": "2F",
+      "text": "0253+4921+1002/36127\r\nWSSS/LFPG/35996/ -81/ -56/0.83/235853/223697/29.0/RUD-30 /BOM-29 / +95/   42",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548226577,
+      "label": "2F",
+      "text": "0256+4832-454/37116\r\nTFFR/LFPG/37000/ +85/ -60/0.82/228541/216802/37.0/ROMGO  /LATGO  / -85/   22",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548226611,
+      "label": "2F",
+      "text": "0256+4832-454/37116\r\nTFFR/LFPG/37000/ +85/ -60/0.82/228541/216802/37.0/ROMGO  /LATGO  / -85/   22",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548233040,
+      "label": "2F",
+      "text": "PACEPOSREQ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548234916,
+      "label": "2F",
+      "text": "0259+4763-057/3881\r\nSOCA/LFPG/38488/ +54/ -61/0.82/183798/175307/35.0/BANOX  /ROM-06 / -49/   44",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548234676,
+      "label": "2F",
+      "text": "0259+4763-057/3881\r\nSOCA/LFPG/38488/ +54/ -61/0.82/183798/175307/35.0/BANOX  /ROM-06 / -49/   44",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548234675,
+      "label": "2F",
+      "text": "0259+4763-057/3881\r\nSOCA/LFPG/38488/ +54/ -61/0.82/183798/175307/35.0/BANOX  /ROM-06 / -49/   44",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548234673,
+      "label": "2F",
+      "text": "0259+4763-057/3881\r\nSOCA/LFPG/38488/ +54/ -61/0.82/183798/175307/35.0/BANOX  /ROM-06 / -49/   44",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548234672,
+      "label": "2F",
+      "text": "0259+4763-057/3881\r\nSOCA/LFPG/38488/ +54/ -61/0.82/183798/175307/35.0/BANOX  /ROM-06 / -49/   44",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548248277,
+      "label": "2F",
+      "text": "0303+4749-201/41104\r\nMMGL/LFPG/41004/ +86/ -65/0.82/173420/162896/34.0/NTS-29 /OLE-28 / -70/   37",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548248275,
+      "label": "2F",
+      "text": "0303+4749-201/41104\r\nMMGL/LFPG/41004/ +86/ -65/0.82/173420/162896/34.0/NTS-29 /OLE-28 / -70/   37",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548248273,
+      "label": "2F",
+      "text": "0303+4749-201/41104\r\nMMGL/LFPG/41004/ +86/ -65/0.82/173420/162896/34.0/NTS-29 /OLE-28 / -70/   37",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548248721,
+      "label": "2F",
+      "text": "0303+4749-201/41104\r\nMMGL/LFPG/41004/ +86/ -65/0.82/173420/162896/34.0/NTS-29 /OLE-28 / -70/   37",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548254464,
+      "label": "2F",
+      "text": "PACEPOSREQ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548265067,
+      "label": "2F",
+      "text": "0308+5094-001/36115\r\nRJTT/LFPG/36358/+153/ -55/0.83/227580/216711/27.0/WAFFU  /SFD    / -22/   30",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548265066,
+      "label": "2F",
+      "text": "0308+5094-001/36115\r\nRJTT/LFPG/36358/+153/ -55/0.83/227580/216711/27.0/WAFFU  /SFD    / -22/   30",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    },
+    {
+      "id": 6548265064,
+      "label": "2F",
+      "text": "0308+5094-001/36115\r\nRJTT/LFPG/36358/+153/ -55/0.83/227580/216711/27.0/WAFFU  /SFD    / -22/   30",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Compact Periodic Position Report (Label 2F)",
+      "items": []
+    }
+  ]
+}

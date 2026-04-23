@@ -28,9 +28,9 @@ describe('Label_SQ', () => {
       'JFK' +
       'KJFK' +
       '3' +
-      '4075' +
+      '4038' +
       'N' +
-      '7398' +
+      '07347' +
       'W' +
       'V136975' +
       '/extra';
@@ -49,8 +49,8 @@ describe('Label_SQ', () => {
     expect(res.raw.groundStation.iataCode).toBe('JFK');
     expect(res.raw.groundStation.icaoCode).toBe('KJFK');
 
-    expect(res.raw.groundStation.coordinates.latitude).toBeCloseTo(40.75, 5);
-    expect(res.raw.groundStation.coordinates.longitude).toBeCloseTo(-73.98, 5);
+    expect(res.raw.groundStation.coordinates.latitude).toBeCloseTo(40.633, 3);
+    expect(res.raw.groundStation.coordinates.longitude).toBeCloseTo(-73.783, 3);
 
     expect(res.raw.vdlFrequency).toBeCloseTo(136.975, 6);
 

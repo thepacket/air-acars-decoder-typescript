@@ -1,0 +1,730 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547274798,
+      "label": "41",
+      "text": " /FB 0102/AD KLGA/N 37.352,W 77.082,JBU1962,SOM03,HOLDING AT HURTS. EFC,2320Z. FOB NOW 10.3, ATC DOESNT KNOW WHY,,,,,,,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "CMC Maintenance Fault Report (Label 41)"
+        },
+        {
+          "type": "sub_label",
+          "code": "SUBLBL",
+          "label": "Sub-Label",
+          "value": "/FB"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:02:00"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "37.352 N, 77.082 W"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JBU1962"
+        },
+        {
+          "type": "report_time",
+          "code": "TIME",
+          "label": "Fault Time (UTC, HHMM)",
+          "value": "01:02"
+        },
+        {
+          "type": "ad_destination",
+          "code": "ADDR",
+          "label": "Address (maintenance routing)",
+          "value": "KLGA"
+        },
+        {
+          "type": "cmc_message_code",
+          "code": "MCMCODE",
+          "label": "CMC Message Code",
+          "value": "SOM03"
+        },
+        {
+          "type": "fault_text",
+          "code": "FAULT",
+          "label": "Fault Description",
+          "value": "HOLDING AT HURTS. EFC"
+        }
+      ]
+    },
+    {
+      "id": 6547274792,
+      "label": "41",
+      "text": " /FB 0102/AD KLGA/N 37.352,W 77.082,JBU1962,SOM03,HOLDING AT HURTS. EFC,2320Z. FOB NOW 10.3, ATC DOESNT KNOW WHY,,,,,,,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "CMC Maintenance Fault Report (Label 41)"
+        },
+        {
+          "type": "sub_label",
+          "code": "SUBLBL",
+          "label": "Sub-Label",
+          "value": "/FB"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:02:00"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "37.352 N, 77.082 W"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JBU1962"
+        },
+        {
+          "type": "report_time",
+          "code": "TIME",
+          "label": "Fault Time (UTC, HHMM)",
+          "value": "01:02"
+        },
+        {
+          "type": "ad_destination",
+          "code": "ADDR",
+          "label": "Address (maintenance routing)",
+          "value": "KLGA"
+        },
+        {
+          "type": "cmc_message_code",
+          "code": "MCMCODE",
+          "label": "CMC Message Code",
+          "value": "SOM03"
+        },
+        {
+          "type": "fault_text",
+          "code": "FAULT",
+          "label": "Fault Description",
+          "value": "HOLDING AT HURTS. EFC"
+        }
+      ]
+    },
+    {
+      "id": 6547314072,
+      "label": "41",
+      "text": " /FB 0109/AD KLGA/N 35.439,W 78.912,JBU272,SOM03,THEY SAY HOLDING FOR,LGA,,,,,,,,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "CMC Maintenance Fault Report (Label 41)"
+        },
+        {
+          "type": "sub_label",
+          "code": "SUBLBL",
+          "label": "Sub-Label",
+          "value": "/FB"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:09:00"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "35.439 N, 78.912 W"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JBU272"
+        },
+        {
+          "type": "report_time",
+          "code": "TIME",
+          "label": "Fault Time (UTC, HHMM)",
+          "value": "01:09"
+        },
+        {
+          "type": "ad_destination",
+          "code": "ADDR",
+          "label": "Address (maintenance routing)",
+          "value": "KLGA"
+        },
+        {
+          "type": "cmc_message_code",
+          "code": "MCMCODE",
+          "label": "CMC Message Code",
+          "value": "SOM03"
+        },
+        {
+          "type": "fault_text",
+          "code": "FAULT",
+          "label": "Fault Description",
+          "value": "THEY SAY HOLDING FOR"
+        }
+      ]
+    },
+    {
+      "id": 6547328365,
+      "label": "41",
+      "text": " /FB 0091/AD KLGA/N 37.476,W 76.965,JBU1962,SOM03,THANKS. FOB NOW9.1,,,,,,,,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547328364,
+      "label": "41",
+      "text": " /FB 0091/AD KLGA/N 37.476,W 76.965,JBU1962,SOM03,THANKS. FOB NOW9.1,,,,,,,,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547328209,
+      "label": "41",
+      "text": " /FB 0091/AD KLGA/N 37.476,W 76.965,JBU1962,SOM03,THANKS. FOB NOW9.1,,,,,,,,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547325476,
+      "label": "41",
+      "text": "FTX01,RECEIVED ON 22 AT\r\n2236UTC\r\nPRE-DEPARTURE ATC\r\nCLEARANCE\r\nWEN3399  DEPART YYC AT\r\n2320Z FL 240\r\nM/DH8D/R TRANSPONDER\r\n7374\r\n\r\nROUTE: \r\nIPSIT Q810 EPLAN YQU\r\n \r\n \r\n\r\nREMARKS:\r\nUSE SID RODEO2\r\nDEPARTURE RUNWAY 35L\r\nDESTINATION CYXJ\r\nCONTACT CLEARANCE\r\nDELIVERY WITH\r\nIDENTIFIER - 986X\r\n\r\nPDC RECEIVED ON 22 AT\r\n2236Z\r\n\r",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547325231,
+      "label": "41",
+      "text": "FTX01,RECEIVED ON 22 AT\r\n2236UTC\r\nPRE-DEPARTURE ATC\r\nCLEARANCE\r\nWEN3399  DEPART YYC AT\r\n2320Z FL 240\r\nM/DH8D/R TRANSPONDER\r\n7374\r\n\r\nROUTE: \r\nIPSIT Q810 EPLAN YQU\r\n \r\n \r\n\r\nREMARKS:\r\nUSE SID RODEO2\r\nDEPARTURE RUNWAY 35L\r\nD",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547300214,
+      "label": "41",
+      "text": " /FB 0097/AD KLGA/N 37.464,W 77.392,JBU1962,SOM03,IF WE NEED TO DIVERT,WHAT DO YOU SUGGEST,,,,,,,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547300213,
+      "label": "41",
+      "text": " /FB 0097/AD KLGA/N 37.464,W 77.392,JBU1962,SOM03,IF WE NEED TO DIVERT,WHAT DO YOU SUGGEST,,,,,,,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547964935,
+      "label": "41",
+      "text": "INR,230139\r\n\r\nGATE:D18\r\nCAROUSEL:1\r\nAC TURN: NO TURN INFO NEXT 6 HRS\r\nCREW CONNECTIONS\r\n\r\nPAX CONNECTIONS",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547964411,
+      "label": "41",
+      "text": "MSG02,230123,MESSAGE,\r\nPDC ADS121\r\nKSFO-CYVR\r\n-ATC CLEARANCE-\r\nTRUKN2 DEDHD RBL\r\nTHEN AS FILED\r\n-FILED FLIGHT PLAN-\r\nKSFO NIITE4 GRTFL RBL KNUTT\r\nHRMNS PAE GRIZZ9 CYVR\r\n-REMARKS-\r\nCLEARED TRUKN2 DEPARTURE DEDHD TRSN\r\n \r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547964372,
+      "label": "41",
+      "text": "INR,230139\r\n\r\nGATE:D18\r\nCAROUSEL:1\r\nAC TURN: NO TURN INFO NEXT 6 HRS\r\nCREW CONNECTIONS\r\n\r\nPAX CONNECTIONS",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547962051,
+      "label": "41",
+      "text": "MSG02067 Cg.C:76L55x?L7\r\nSas?<\";caxM;iC:).;*3a?o;2;_dL?R;SE4;\"xsa;Mff(<5;s5;x[xsaxoaL;SE4;4L_xaa\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547961982,
+      "label": "41",
+      "text": "FTX01,WARNING PDC NO RECENT\r\nDATA\r\nRECEIVED ON 22 AT\r\n2337UTC\r\nPRE-DEPARTURE ATC\r\nCLEARANCE\r\nWEN3447  DEPART YVR AT\r\n0010Z FL 200\r\nM/DH8D/R TRANSPONDER\r\n0327\r\n\r\nROUTE: \r\nFASBO TRENA DAVED\r\n \r\n \r\n\r\nREMARKS:\r\nUSE SID YVR4\r\nDEPARTURE RUNWAY 26L\r\nDESTINATION CYXT\r\nCONTACT CLEARANCE\r\nDELIVERY 121.4 WITH\r\nIDENTIFIER 386C\r\n\r\nPDC RECEIVED ON 22 AT\r\n2338Z\r\n\r",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547961450,
+      "label": "41",
+      "text": "MSG02067 Cg.C:76L55x?L7\r\nSas?<\";caxM;iC:).;*3a?o;2;_dL?R;SE4;\"xsa;Mff(<5;s5;x[xsaxoaL;SE4;4L_xaa\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547957963,
+      "label": "41",
+      "text": "NO PDC AVAILABLE\r\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547950189,
+      "label": "41",
+      "text": "FTX01,RECEIVED ON 23 AT\r\n0131UTC\r\nPRE-DEPARTURE ATC\r\nCLEARANCE\r\nWEN3312  DEPART YYC AT\r\n0215Z FL 170\r\nM/DH8D/R TRANSPONDER\r\n4567\r\n\r\nROUTE: \r\nPEVLU T759 OILRS OILRS2\r\n \r\n \r\n\r\nREMARKS:\r\nUSE SID YYC8\r\nDEPARTURE RUNWAY 35R\r\nDESTINATION CYEG\r\nCONTACT CLEARANCE\r\nDELIVERY WITH\r\nIDENTIFIER - 989G\r\n\r\nPDC RECEIVED ON 23 AT\r\n0131Z\r\n\r",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547950044,
+      "label": "41",
+      "text": "FTX01,RECEIVED ON 23 AT\r\n0131UTC\r\nPRE-DEPARTURE ATC\r\nCLEARANCE\r\nWEN3312  DEPART YYC AT\r\n0215Z FL 170\r\nM/DH8D/R TRANSPONDER\r\n4567\r\n\r\nROUTE: \r\nPEVLU T759 OILRS OILRS2\r\n \r\n \r\n\r\nREMARKS:\r\nUSE SID YYC8\r\nDEPARTURE RUNWAY 35R\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547949786,
+      "label": "41",
+      "text": " /FB 0130/AD KBOS/N 39.799,W 74.466,JBU74,MCM03,SINK IN FWD LAV DRAINS,V SLOWLY,,,,,,,,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "CMC Maintenance Fault Report (Label 41)"
+        },
+        {
+          "type": "sub_label",
+          "code": "SUBLBL",
+          "label": "Sub-Label",
+          "value": "/FB"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:30:00"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "39.799 N, 74.466 W"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JBU74"
+        },
+        {
+          "type": "report_time",
+          "code": "TIME",
+          "label": "Fault Time (UTC, HHMM)",
+          "value": "01:30"
+        },
+        {
+          "type": "ad_destination",
+          "code": "ADDR",
+          "label": "Address (maintenance routing)",
+          "value": "KBOS"
+        },
+        {
+          "type": "cmc_message_code",
+          "code": "MCMCODE",
+          "label": "CMC Message Code",
+          "value": "MCM03"
+        },
+        {
+          "type": "fault_text",
+          "code": "FAULT",
+          "label": "Fault Description",
+          "value": "SINK IN FWD LAV DRAINS"
+        }
+      ]
+    },
+    {
+      "id": 6547949785,
+      "label": "41",
+      "text": " /FB 0130/AD KBOS/N 39.799,W 74.466,JBU74,MCM03,SINK IN FWD LAV DRAINS,V SLOWLY,,,,,,,,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "CMC Maintenance Fault Report (Label 41)"
+        },
+        {
+          "type": "sub_label",
+          "code": "SUBLBL",
+          "label": "Sub-Label",
+          "value": "/FB"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:30:00"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "39.799 N, 74.466 W"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JBU74"
+        },
+        {
+          "type": "report_time",
+          "code": "TIME",
+          "label": "Fault Time (UTC, HHMM)",
+          "value": "01:30"
+        },
+        {
+          "type": "ad_destination",
+          "code": "ADDR",
+          "label": "Address (maintenance routing)",
+          "value": "KBOS"
+        },
+        {
+          "type": "cmc_message_code",
+          "code": "MCMCODE",
+          "label": "CMC Message Code",
+          "value": "MCM03"
+        },
+        {
+          "type": "fault_text",
+          "code": "FAULT",
+          "label": "Fault Description",
+          "value": "SINK IN FWD LAV DRAINS"
+        }
+      ]
+    },
+    {
+      "id": 6547949259,
+      "label": "41",
+      "text": "FTX01,SORRY I MEANT RLSE 1. AND RLSE 1 SHOULD BE THERE NOW. THANKS\r\nDXP/FI ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547947409,
+      "label": "41",
+      "text": "RKSI/PANC/22APR26/820/---/042/-46/0134/0251/N5856.2/W16539.6/32998/ 38700/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547944589,
+      "label": "41",
+      "text": "KATL/RKSI/22APR26/831/---/042/-44/0133/0846/N5904.0/W16744.0/33999/129200/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547943124,
+      "label": "41",
+      "text": "M69AKE0054PHNL/RKSI/22APR26/1/-98/49/-44/0132/0149/N25.39/W177.74/35999/96100/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547942790,
+      "label": "41",
+      "text": "FTX01,WS 3614 YLW-YYC\r\nYYC GATE A01C/OPS",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547935854,
+      "label": "41",
+      "text": "MSG0300,230130,MESSAGE,PDC AVAILABLE FOR:\r\nKMDW - KTEB\r\nETD: 0200Z\r\nDATE: APR 23\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547979387,
+      "label": "41",
+      "text": "0,1,1,12,0,0,0,0,,0,0,0,0,0,0,,0,7,0,0,0,0,,0,10,4,0,0,0,,0,7,0,0,0,0,,0,0521",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547979011,
+      "label": "41",
+      "text": "RECEIVED ON 23 AT\r\n0130UTC\r\nPRE-DEPARTURE ATC\r\nCLEARANCE\r\nJIA5169  DEPART PHL AT\r\n0200Z FL 300\r\nCRJ7/L TRANSPONDER 1172\r\nROUTE KPHL MXE PENSY\r\nJ110 FLIRT\r\nBRNAN Q42 PSYKO KOZAR\r\nBONZZ2\r\nKDTW\r\nCLEARED PHL4 DEPARTURE \r\nMAINTAIN 5000FT\r\nEXP 300 10 MIN AFT\r\nDP,DPFRQ 124.35\r\n\r\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547978715,
+      "label": "41",
+      "text": "RECEIVED ON 23 AT\r\n0130UTC\r\nPRE-DEPARTURE ATC\r\nCLEARANCE\r\nJIA5169  DEPART PHL AT\r\n0200Z FL 300\r\nCRJ7/L TRANSPONDER 1172\r\nROUTE KPHL MXE PENSY\r\nJ110 FLIRT\r\nBRNAN Q42 PSYKO KOZAR\r\nBONZZ2\r\nKDTW\r\nCLEARED PHL4 DEPARTURE \r\nMAI",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547975450,
+      "label": "41",
+      "text": "MSG0202I-0,3m3IEt|vX1eI\n\tE!MDHjP_$EKPjw~$tzbHjP$|uHbP$#wb$eqo1<\n\tONE$k@PHb#HbH@jH$X##HjPH%$*uz.SP$1H.zw@L\n\teSH$bH.zw@$5w!$KbH$H@PHbz@.$SKL$MHH@$z%H@Pz#zH%$M5$X|E|$KL$K$?wLLzMuH$K##HjPH%$bH.zw@$#wb$OuwMKu$rKCz.KPzw@Ku$EKPHuuzPH$E5LPH~L$wb$ONE$z@PHb#HbH@jH$K@%&wb$L?ww#z@.T$NwLzPzw@$L5LPH~L$~K5$MHjw~H$!@bHuzKMuH$z@$PSzL$*uz.SP$k@#wb~KPzw@$1H.zw@T$ONE$Lz.@Ku$L?ww#z@.$uHK%z@.$Pw$K$uwLL$w#$@KCz.KPzw@$jK?KMzuzP5$SKL$wjj!bbH%$z@$K@%$Kbw!@%$:KuPzjI$sH%zPHbbK@HK@I$qKzbwI$:Hzb!PI$eHu$|CzC$K@%$z@$PSH$:K.S%K%$K@%$eHSbK@$*k1LT$qw@PKjP$Et$E!??wbP$#wb$~wbH$z@#wb~KPzw@T$|L$K$bH~z@%HbI$Kuu$jbHUL$KbH$wMuz.KPH%$Pw$bH?wbP$K@5$HCH@PL$z~?KjPz@.$LK#HP5$Kjjwb%z@.$Pw$X4$1H.!uKPzw@LT",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547972641,
+      "label": "41",
+      "text": "M04AKE0402YSSY/RKSI/22APR26/1/   /23/-50/0141/0154/S9.25/E144.53/38001/84900/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547971779,
+      "label": "41",
+      "text": "0,1,1,12,0,0,0,0,,0,9,0,0,0,0,,0,13,0,0,0,0,,0,12,0,0,1,0,,0,15,0,0,0,0,,0,396E",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547970076,
+      "label": "41",
+      "text": "M60AKE0278CYVR/RKSI/22APR26/827/006/015/-45/0140/0810/N5700.3/W17957.5/35001/120500/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547969870,
+      "label": "41",
+      "text": "RKSI/RCMQ/22APR26/ 542/26032/  30//0140/0154/N 24.969/E121.284/13824/8160/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547969357,
+      "label": "41",
+      "text": "0,1,1,12,0,0,0,0,,0,0,0,0,0,0,,0,7,0,0,0,0,,0,10,4,0,0,0,,0,7,0,0,0,0,,0,0521",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547968745,
+      "label": "41",
+      "text": "MSG0201b~SlA'lb@644y26b\n\t#H*H04HyHM40y40*C0l'j~Sj~L0lA'l^\n\t_AL(_n0s0F6#y\\\\0cq??L\n\tF6y4*_P0yGF0HFyCCG#0C\\*n0@y_y26@6_H0IM60H*0yH#04HyCCG_206_0F*MH6\n\tF62M\\yHG*_P0@I^~S@\n\t\\2H4s\\1#4\n\t#H*H0l'j~Sj~L0lSPE?^",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6547995608,
+      "label": "41",
+      "text": "M70AKE0054PHNL/RKSI/22APR26/1/-96/49/-46/0147/0151/N26.23/W179.55/36002/92900/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6548008955,
+      "label": "41",
+      "text": "M61AKE0042KSEA/RKSI/22APR26/1/   /13/-50/0151/0153/N53.74/E169.56/35002/73800/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6548012539,
+      "label": "41",
+      "text": "RKSI/VHHH/22APR26/----/27899/  62/- 52/0153/0251/N 23.481/E119.459/37997/30480/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6548013027,
+      "label": "41",
+      "text": "RKSI/VHHH/22APR26/----/27899/  62/- 52/0153/0251/N 23.481/E119.459/37997/30480/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6548022684,
+      "label": "41",
+      "text": "SXS5TM,0156,00097,0000,370,0507,MMMM.MMM,MMMM.MMM,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6548022683,
+      "label": "41",
+      "text": "SXS5TM,0156,00097,0000,370,0507,MMMM.MMM,MMMM.MMM,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6548071939,
+      "label": "41",
+      "text": "0,1,1,7,0,0,0,0,,0,5,0,0,0,0,,0,12,0,0,0,0,,0,13,0,0,0,0,,0,11,0,0,0,0,,0,CDA8",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6548077758,
+      "label": "41",
+      "text": "M16AKE0530EDDF/RKSI/22APR26/819/---/024/-53/0211/0440/N4111.9/E10411.1/33102/ 61600/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6548078839,
+      "label": "41",
+      "text": "M12AKE0077RKSI/CYYZ/23APR26/001/?/  110/  -51/0212/1324/N3742.2/E13829.1/35007/156140/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6548081232,
+      "label": "41",
+      "text": "FTX01,WS 3687 YYC-YXX\r\nYXX GATE 1/OPS",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6548081187,
+      "label": "41",
+      "text": "YW\r\n\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6548088562,
+      "label": "41",
+      "text": "FTX01,WS 3447 YVR-YXT\r\nYXT GATE 1/OPS",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    },
+    {
+      "id": 6548094425,
+      "label": "41",
+      "text": "FTX01,WS 3406 YYJ-YVR\r\nYVR GATE A9/OPS",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airborne Maintenance / CMC Fault Report",
+      "items": []
+    }
+  ]
+}

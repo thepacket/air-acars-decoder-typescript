@@ -1,0 +1,4575 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547262322,
+      "label": "36",
+      "text": "71,M,2228,5,2,KLGA,39.60,-76.18,39.60,-76.18,34,331063,-53,64.9,8423,35,36,463,455,7884FCB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:28:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "39.600 N, 76.180 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "34000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-53 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "22:28"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "39.6, -76.18"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "331° @ 63 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "64.9"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "463 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "455 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "7884FCB"
+        }
+      ]
+    },
+    {
+      "id": 6547262318,
+      "label": "36",
+      "text": "71,M,2228,5,2,KLGA,39.60,-76.18,39.60,-76.18,34,331063,-53,64.9,8423,35,36,463,455,7884FCB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:28:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "39.600 N, 76.180 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "34000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-53 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "22:28"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "39.6, -76.18"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "331° @ 63 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "64.9"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "463 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "455 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "7884FCB"
+        }
+      ]
+    },
+    {
+      "id": 6547251287,
+      "label": "36",
+      "text": "71,M,2225,5,3,KORD,39.93,-85.44,39.92,-85.47,26,340022,-32,73.0,7454,0,10,320,320,529A87F",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:25:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KORD"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "39.930 N, 85.440 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "26000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-32 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "22:25"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "3"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "39.92, -85.47"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "340° @ 22 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "73"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "320 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "320 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "529A87F"
+        }
+      ]
+    },
+    {
+      "id": 6547237015,
+      "label": "36",
+      "text": "71,M,2222,3,3,KPWM,42.63,-86.33,42.64,-86.32,19,335021,-18,73.0,5956,999,10,400,405,650F30B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:22:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KPWM"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "42.630 N, 86.330 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "19000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-18 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "22:22"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "3"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "3"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "42.64, -86.32"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "335° @ 21 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "73"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "400 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "405 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "650F30B"
+        }
+      ]
+    },
+    {
+      "id": 6547237012,
+      "label": "36",
+      "text": "71,M,2222,3,3,KPWM,42.63,-86.33,42.64,-86.32,19,335021,-18,73.0,5956,999,10,400,405,650F30B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:22:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KPWM"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "42.630 N, 86.330 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "19000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-18 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "22:22"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "3"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "3"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "42.64, -86.32"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "335° @ 21 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "73"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "400 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "405 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "650F30B"
+        }
+      ]
+    },
+    {
+      "id": 6547231439,
+      "label": "36",
+      "text": "71,M,2221,1,1,KBNA,36.20,-86.06,36.19,-86.08,19,337009,-16,65.6,8202,45,31,362,362,580C8BE",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:21:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KBNA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "36.200 N, 86.060 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "19000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-16 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "22:21"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "1"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "36.19, -86.08"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "337° @ 9 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "65.6"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "362 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "362 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "580C8BE"
+        }
+      ]
+    },
+    {
+      "id": 6547228769,
+      "label": "36",
+      "text": "71,M,2220,5,2,KLGA,38.91,-79.03,38.93,-78.99,36,337064,-56,70.1,9331,30,36,454,454,791D07B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:20:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "38.910 N, 79.030 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "36000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-56 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "22:20"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "38.93, -78.99"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "337° @ 64 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "70.1"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "454 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "454 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "791D07B"
+        }
+      ]
+    },
+    {
+      "id": 6547228768,
+      "label": "36",
+      "text": "71,M,2220,5,2,KLGA,38.91,-79.03,38.93,-78.99,36,337064,-56,70.1,9331,30,36,454,454,791D07B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:20:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "38.910 N, 79.030 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "36000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-56 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "22:20"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "38.93, -78.99"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "337° @ 64 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "70.1"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "454 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "454 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "791D07B"
+        }
+      ]
+    },
+    {
+      "id": 6547222103,
+      "label": "36",
+      "text": "71,M,2219,2,1,KLGA,40.33,-75.02,40.33,-75.01,25,308046,-35,65.7,9211,35,36,406,420,6990A9B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:19:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.330 N, 75.020 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "25000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-35 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "22:19"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "2"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.33, -75.01"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "308° @ 46 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "65.7"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "406 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "420 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "6990A9B"
+        }
+      ]
+    },
+    {
+      "id": 6547222102,
+      "label": "36",
+      "text": "71,M,2219,2,1,KLGA,40.33,-75.02,40.33,-75.01,25,308046,-35,65.7,9211,35,36,406,420,6990A9B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:19:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.330 N, 75.020 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "25000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-35 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "22:19"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "2"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.33, -75.01"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "308° @ 46 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "65.7"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "406 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "420 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "6990A9B"
+        }
+      ]
+    },
+    {
+      "id": 6547968004,
+      "label": "36",
+      "text": "71,M,0139,2,1,KLGA,39.87,-76.84,39.87,-76.84,32,332075,-49,74.6,10411,30,32,432,433,7421ED8",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "39.870 N, 76.840 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "32000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-49 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:39"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "2"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "39.87, -76.84"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "332° @ 75 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "74.6"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "432 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "433 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "7421ED8"
+        }
+      ]
+    },
+    {
+      "id": 6547968003,
+      "label": "36",
+      "text": "71,M,0139,2,1,KLGA,39.87,-76.84,39.87,-76.84,32,332075,-49,74.6,10411,30,32,432,433,7421ED8",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "39.870 N, 76.840 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "32000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-49 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:39"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "2"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "39.87, -76.84"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "332° @ 75 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "74.6"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "432 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "433 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "7421ED8"
+        }
+      ]
+    },
+    {
+      "id": 6547967960,
+      "label": "36",
+      "text": "71,M,0139,5,2,KLGA,40.83,-76.39,40.82,-76.35,30,333071,-44,61.2,7312,99,30,407,453,767B018",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.830 N, 76.390 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "30000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-44 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:39"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.82, -76.35"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "333° @ 71 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "61.2"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "407 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "453 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "767B018"
+        }
+      ]
+    },
+    {
+      "id": 6547967959,
+      "label": "36",
+      "text": "71,M,0139,5,2,KLGA,40.83,-76.39,40.82,-76.35,30,333071,-44,61.2,7312,99,30,407,453,767B018",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.830 N, 76.390 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "30000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-44 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:39"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.82, -76.35"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "333° @ 71 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "61.2"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "407 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "453 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "767B018"
+        }
+      ]
+    },
+    {
+      "id": 6547967958,
+      "label": "36",
+      "text": "71,M,0139,5,2,KLGA,40.83,-76.39,40.82,-76.35,30,333071,-44,61.2,7312,99,30,407,453,767B018",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.830 N, 76.390 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "30000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-44 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:39"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.82, -76.35"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "333° @ 71 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "61.2"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "407 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "453 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "767B018"
+        }
+      ]
+    },
+    {
+      "id": 6547966590,
+      "label": "36",
+      "text": "71,M,0139,1,1,KLGA,39.89,-76.80,39.90,-76.76,32,332075,-49,74.6,10433,30,32,432,434,743D1DF",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "39.890 N, 76.800 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "32000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-49 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:39"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "1"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "39.9, -76.76"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "332° @ 75 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "74.6"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "432 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "434 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "743D1DF"
+        }
+      ]
+    },
+    {
+      "id": 6547966588,
+      "label": "36",
+      "text": "71,M,0139,1,1,KLGA,39.89,-76.80,39.90,-76.76,32,332075,-49,74.6,10433,30,32,432,434,743D1DF",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "39.890 N, 76.800 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "32000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-49 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:39"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "1"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "39.9, -76.76"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "332° @ 75 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "74.6"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "432 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "434 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "743D1DF"
+        }
+      ]
+    },
+    {
+      "id": 6547966107,
+      "label": "36",
+      "text": "71,M,0139,3,3,KBNA,38.59,-78.31,38.58,-78.37,19,335031,-21,62.0,4698,16,10,383,377,6094294",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KBNA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "38.590 N, 78.310 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "19000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-21 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:39"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "3"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "3"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "38.58, -78.37"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "335° @ 31 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "62"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "383 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "377 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "6094294"
+        }
+      ]
+    },
+    {
+      "id": 6547965191,
+      "label": "36",
+      "text": "28,E,23APR26,013918,N 38.735,W 75.029,36990, 10080,KFLL,KHPN,KHPN,16/,34/,,,,,,,,0,0,0,0,0,0,0,,109.9,007.4,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Periodic Position / Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547965186,
+      "label": "36",
+      "text": "28,E,23APR26,013918,N 38.735,W 75.029,36990, 10080,KFLL,KHPN,KHPN,16/,34/,,,,,,,,0,0,0,0,0,0,0,,109.9,007.4,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Periodic Position / Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547960071,
+      "label": "36",
+      "text": "71,M,0137,3,3,KLGA,43.16,-86.57,43.16,-86.53,19,327020,-17,65.4,5926,16,10,366,376,603BA32",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:37:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "43.160 N, 86.570 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "19000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-17 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:37"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "3"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "3"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "43.16, -86.53"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "327° @ 20 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "65.4"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "366 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "376 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "603BA32"
+        }
+      ]
+    },
+    {
+      "id": 6547960070,
+      "label": "36",
+      "text": "71,M,0137,3,3,KLGA,43.16,-86.57,43.16,-86.53,19,327020,-17,65.4,5926,16,10,366,376,603BA32",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:37:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "43.160 N, 86.570 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "19000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-17 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:37"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "3"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "3"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "43.16, -86.53"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "327° @ 20 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "65.4"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "366 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "376 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "603BA32"
+        }
+      ]
+    },
+    {
+      "id": 6547958241,
+      "label": "36",
+      "text": "1,0,0,0,10,00,09,02,09,00,06,02,04,00,00,00000,00000,00000,00000,00000,7E89\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Periodic Position / Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547956251,
+      "label": "36",
+      "text": " \r\n23APR26,013636,EI-DUZ\r\nN 41.943,W 72.006,34399\r\n------,  457250",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Periodic Position / Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547952092,
+      "label": "36",
+      "text": "28,E,23APR26,013524,N 34.182,W 77.968,35004,  9160,KFLL,KRIC,KRIC,34/,/,,,,,,,,0,0,0,0,0,0,0,,129.4,007.0,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Periodic Position / Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547951025,
+      "label": "36",
+      "text": " \r\n23APR26,013506,EI-XLR\r\nN 42.320,W 71.108,32999\r\n------,  468375",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Periodic Position / Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547951024,
+      "label": "36",
+      "text": " \r\n23APR26,013506,EI-XLR\r\nN 42.320,W 71.108,32999\r\n------,  468375",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Periodic Position / Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547949308,
+      "label": "36",
+      "text": "71,M,0134,2,1,CYYZ,43.73,-80.60,43.73,-80.55,22,312050,-27,70.5,8964,30,32,338,376,615BBA1",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:34:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CYYZ"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "43.730 N, 80.600 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "22000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-27 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:34"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "2"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "43.73, -80.55"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "312° @ 50 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "70.5"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "338 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "376 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "615BBA1"
+        }
+      ]
+    },
+    {
+      "id": 6547949305,
+      "label": "36",
+      "text": "71,M,0134,2,1,CYYZ,43.73,-80.60,43.73,-80.55,22,312050,-27,70.5,8964,30,32,338,376,615BBA1",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:34:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CYYZ"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "43.730 N, 80.600 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "22000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-27 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:34"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "2"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "43.73, -80.55"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "312° @ 50 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "70.5"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "338 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "376 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "615BBA1"
+        }
+      ]
+    },
+    {
+      "id": 6547948741,
+      "label": "36",
+      "text": "71,M,0134,5,3,KCVG,41.03,-73.16,41.02,-73.19,26,317056,-40,68.7,6413,30,10,431,425,713B90B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:34:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCVG"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "41.030 N, 73.160 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "26000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-40 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:34"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "3"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "41.02, -73.19"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "317° @ 56 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "68.7"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "431 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "425 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "713B90B"
+        }
+      ]
+    },
+    {
+      "id": 6547948731,
+      "label": "36",
+      "text": "71,M,0134,5,3,KCVG,41.03,-73.16,41.02,-73.19,26,317056,-40,68.7,6413,30,10,431,425,713B90B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:34:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCVG"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "41.030 N, 73.160 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "26000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-40 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:34"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "3"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "41.02, -73.19"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "317° @ 56 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "68.7"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "431 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "425 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "713B90B"
+        }
+      ]
+    },
+    {
+      "id": 6547948725,
+      "label": "36",
+      "text": "71,M,0134,5,3,KCVG,41.03,-73.16,41.02,-73.19,26,317056,-40,68.7,6413,30,10,431,425,713B90B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:34:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCVG"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "41.030 N, 73.160 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "26000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-40 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:34"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "3"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "41.02, -73.19"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "317° @ 56 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "68.7"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "431 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "425 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "713B90B"
+        }
+      ]
+    },
+    {
+      "id": 6547948541,
+      "label": "36",
+      "text": "71,M,0134,1,1,CYYZ,43.73,-80.57,43.73,-80.55,22,314049,-26,70.5,8980,30,32,337,373,609D431",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:34:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CYYZ"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "43.730 N, 80.570 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "22000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-26 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:34"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "1"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "43.73, -80.55"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "314° @ 49 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "70.5"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "337 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "373 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "609D431"
+        }
+      ]
+    },
+    {
+      "id": 6547948535,
+      "label": "36",
+      "text": "71,M,0134,1,1,CYYZ,43.73,-80.57,43.73,-80.55,22,314049,-26,70.5,8980,30,32,337,373,609D431",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:34:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CYYZ"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "43.730 N, 80.570 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "22000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-26 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:34"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "1"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "43.73, -80.55"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "314° @ 49 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "70.5"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "337 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "373 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "609D431"
+        }
+      ]
+    },
+    {
+      "id": 6547947634,
+      "label": "36",
+      "text": "1\r\n*03               10200\r\n*13                8900>\r\n*21               10200\r\n*31                8900\r\n48D3\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Periodic Position / Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547947633,
+      "label": "36",
+      "text": "1\r\n*03               10200\r\n*13                8900>\r\n*21               10200\r\n*31                8900\r\n48D3\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Periodic Position / Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547946393,
+      "label": "36",
+      "text": "71,M,0133,5,2,KCVG,40.99,-73.24,40.98,-73.25,27,318056,-41,68.7,6446,30,10,430,430,7237AFC",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:33:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCVG"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.990 N, 73.240 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "27000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-41 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:33"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.98, -73.25"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "318° @ 56 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "68.7"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "430 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "430 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "7237AFC"
+        }
+      ]
+    },
+    {
+      "id": 6547946390,
+      "label": "36",
+      "text": "71,M,0133,5,2,KCVG,40.99,-73.24,40.98,-73.25,27,318056,-41,68.7,6446,30,10,430,430,7237AFC",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:33:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCVG"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.990 N, 73.240 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "27000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-41 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:33"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.98, -73.25"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "318° @ 56 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "68.7"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "430 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "430 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "7237AFC"
+        }
+      ]
+    },
+    {
+      "id": 6547946389,
+      "label": "36",
+      "text": "71,M,0133,5,2,KCVG,40.99,-73.24,40.98,-73.25,27,318056,-41,68.7,6446,30,10,430,430,7237AFC",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:33:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCVG"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.990 N, 73.240 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "27000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-41 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:33"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.98, -73.25"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "318° @ 56 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "68.7"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "430 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "430 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "7237AFC"
+        }
+      ]
+    },
+    {
+      "id": 6547946388,
+      "label": "36",
+      "text": "71,M,0133,5,2,KCVG,40.99,-73.24,40.98,-73.25,27,318056,-41,68.7,6446,30,10,430,430,7237AFC",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:33:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCVG"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.990 N, 73.240 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "27000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-41 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:33"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.98, -73.25"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "318° @ 56 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "68.7"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "430 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "430 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "7237AFC"
+        }
+      ]
+    },
+    {
+      "id": 6547946387,
+      "label": "36",
+      "text": "71,M,0133,5,2,KCVG,40.99,-73.24,40.98,-73.25,27,318056,-41,68.7,6446,30,10,430,430,7237AFC",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:33:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCVG"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.990 N, 73.240 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "27000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-41 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:33"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.98, -73.25"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "318° @ 56 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "68.7"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "430 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "430 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "7237AFC"
+        }
+      ]
+    },
+    {
+      "id": 6547939820,
+      "label": "36",
+      "text": "28,E,23APR26,013156,N3331.2,W07950.7,34616,6275,KBOS,KJAX,KJAX,8/,/,,,,,,,,0,0,0,0,0,0,0,,114.2,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Periodic Position / Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547935962,
+      "label": "36",
+      "text": "71,M,0130,2,1,KLGA,40.92,-75.10,40.92,-75.10,20,322055,-21,62.0,8106,99,30,350,388,627FB17",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:30:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.920 N, 75.100 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "20000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-21 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:30"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "2"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.92, -75.1"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "322° @ 55 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "62"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "350 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "388 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "627FB17"
+        }
+      ]
+    },
+    {
+      "id": 6547935961,
+      "label": "36",
+      "text": "71,M,0130,2,1,KLGA,40.92,-75.10,40.92,-75.10,20,322055,-21,62.0,8106,99,30,350,388,627FB17",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:30:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.920 N, 75.100 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "20000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-21 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:30"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "2"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.92, -75.1"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "322° @ 55 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "62"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "350 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "388 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "627FB17"
+        }
+      ]
+    },
+    {
+      "id": 6547935960,
+      "label": "36",
+      "text": "71,M,0130,2,1,KLGA,40.92,-75.10,40.92,-75.10,20,322055,-21,62.0,8106,99,30,350,388,627FB17",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:30:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "40.920 N, 75.100 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "20000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-21 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:30"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "2"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "40.92, -75.1"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "322° @ 55 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "62"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "350 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "388 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "627FB17"
+        }
+      ]
+    },
+    {
+      "id": 6547982489,
+      "label": "36",
+      "text": "71,M,0143,5,1,KLGA,39.60,-77.40,39.62,-77.36,33,329071,-51,74.3,10106,30,34,452,457,786B391",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:43:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "39.600 N, 77.400 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "33000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-51 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:43"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "1"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "39.62, -77.36"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "329° @ 71 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "74.3"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "452 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "457 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "786B391"
+        }
+      ]
+    },
+    {
+      "id": 6547982125,
+      "label": "36",
+      "text": "71,M,0144,5,2,CYYZ,43.58,-81.92,43.60,-81.89,32,325060,-49,69.7,8189,30,32,430,440,754FB8C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:44:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CYYZ"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "43.580 N, 81.920 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "32000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-49 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:44"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "43.6, -81.89"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "325° @ 60 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "69.7"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "430 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "440 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "754FB8C"
+        }
+      ]
+    },
+    {
+      "id": 6547980851,
+      "label": "36",
+      "text": "71,M,0143,5,3,KCVG,41.55,-71.91,41.53,-71.96,22,306053,-31,68.2,5881,30,10,426,403,6644A98",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:43:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCVG"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "41.550 N, 71.910 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "22000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-31 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:43"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "3"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "41.53, -71.96"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "306° @ 53 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "68.2"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "426 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "403 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "6644A98"
+        }
+      ]
+    },
+    {
+      "id": 6547980839,
+      "label": "36",
+      "text": "71,M,0143,5,3,KCVG,41.55,-71.91,41.53,-71.96,22,306053,-31,68.2,5881,30,10,426,403,6644A98",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:43:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCVG"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "41.550 N, 71.910 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "22000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-31 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:43"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "3"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "41.53, -71.96"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "306° @ 53 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "68.2"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "426 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "403 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "6644A98"
+        }
+      ]
+    },
+    {
+      "id": 6547977625,
+      "label": "36",
+      "text": "71,M,0142,5,2,KLGA,39.69,-77.20,39.69,-77.20,32,329070,-49,74.4,10213,30,34,452,457,7834F65",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Periodic Position / Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Periodic Position / Performance Report"
+        },
+        {
+          "type": "flight_tag",
+          "code": "FLTAG",
+          "label": "Flight Tag",
+          "value": "71"
+        },
+        {
+          "type": "mode_qualifier",
+          "code": "MODE",
+          "label": "Mode Qualifier",
+          "value": "M"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:42:00"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "39.690 N, 77.200 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "32000 feet"
+        },
+        {
+          "type": "outside_air_temperature",
+          "code": "OATEMP",
+          "label": "Outside Air Temperature (C)",
+          "value": "-49 degrees"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Report Time (UTC, HHMM)",
+          "value": "01:42"
+        },
+        {
+          "type": "report_sequence",
+          "code": "SEQ",
+          "label": "Report Sequence",
+          "value": "5"
+        },
+        {
+          "type": "leg_index",
+          "code": "LEG",
+          "label": "Leg Index",
+          "value": "2"
+        },
+        {
+          "type": "previous_position",
+          "code": "PREVPOS",
+          "label": "Previous Position",
+          "value": "39.69, -77.2"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "329° @ 70 kt"
+        },
+        {
+          "type": "fuel",
+          "code": "FUEL",
+          "label": "Fuel",
+          "value": "74.4"
+        },
+        {
+          "type": "true_airspeed",
+          "code": "TAS",
+          "label": "True Airspeed",
+          "value": "452 kt"
+        },
+        {
+          "type": "ground_speed",
+          "code": "GS",
+          "label": "Ground Speed",
+          "value": "457 kt"
+        },
+        {
+          "type": "message_serial",
+          "code": "SERIAL",
+          "label": "Serial / CRC Token",
+          "value": "7834F65"
+        }
+      ]
+    }
+  ]
+}

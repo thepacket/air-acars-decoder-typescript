@@ -1,0 +1,109 @@
+{
+  "count": 17,
+  "entries": [
+    {
+      "id": 6548603674,
+      "label": "1E",
+      "text": "LSZH,23APR26,0500,0500,0441,0457,"
+    },
+    {
+      "id": 6548609880,
+      "label": "1E",
+      "text": "379\r\nUNDLD 6203\r\nPAX/17/94 TTL 115\r\n\r\nFUEL DENSITY 0.801\r\n\r\nDOI 49.1\r\nLIZFW  47.9 MACZFW 23.8\r\nLITOW  48.7 MACTOW 23.9\r\nMACTOW LIMIT\r\nFWD 14.3 AFT 32.0\r\nSI -\r\nEND0DD7"
+    },
+    {
+      "id": 6548681771,
+      "label": "1E",
+      "text": "QUQVITPAF~1FREE TEXT MSG\n\tPC: SUPERVISION AF\n\tVOL: AF 551 - EB 23/04/26 05:41\n\tRE BJONJOUR AF551/CAI LES POMPIERS SERONT PRESENTS A L ARV\n\tPKG L65 POUR PRISE EN CHARGE MME CONVERS EPSE VASSANT . CDLT\n\tENVOYE A 05:20 UTC\n\tPCC CDG: COURTOIS CELINE\n\tCONTACT: (01742)93535BCEA"
+    },
+    {
+      "id": 6548683053,
+      "label": "1E",
+      "text": "LSZH,23APR26,0521,0520,0450,0520"
+    },
+    {
+      "id": 6548697363,
+      "label": "1E",
+      "text": "LSZH,23APR26,0524,0524,2114,0523"
+    },
+    {
+      "id": 6548710821,
+      "label": "1E",
+      "text": "LSZH,23APR26,0527,0527,0421,0523"
+    },
+    {
+      "id": 6548715376,
+      "label": "1E",
+      "text": "LSZH,23APR26,0528,0528,0457,0525"
+    },
+    {
+      "id": 6548718719,
+      "label": "1E",
+      "text": "LSZH,23APR26,0529,0529,0522,0527"
+    },
+    {
+      "id": 6548723227,
+      "label": "1E",
+      "text": "LSZH,23APR26,0530,0528,0443,0530"
+    },
+    {
+      "id": 6548803874,
+      "label": "1E",
+      "text": "P,E,2026-04-23 05:49:19,3200,A,S,054919,"
+    },
+    {
+      "id": 6548807350,
+      "label": "1E",
+      "text": "QUORYOAAF~7PAX INFO MSG\r\n    *PAXINFO /AUTOMATIQUE\r\nTRANSFER PAX INFO: AF 191/22APR: SA 0830 EA 0839\r\nARRIVAL  PKG: K26   PKG TYPE: C    TERM: E  HALL: M    TBAG:41\r\n  CNT  TO  SD/ED ICT  DCT PAX NBP  RMK  HC TERM HALL N"
+    },
+    {
+      "id": 6548807405,
+      "label": "1E",
+      "text": "EW CONNECT\r\nAF1150 CPH 0930 0051 -023 2   0            2F  *F\r\nAF1294 BUD 0930 0051 -018 1   0            2F  *F\r\nAF1366 FLR 0930 0051 -018 1   0         1  2F  *F\r\nKL1404 AMS 0940 0101 -008 2   0         1  2F  *F\r\nAF73"
+    },
+    {
+      "id": 6548807734,
+      "label": "1E",
+      "text": "06 NCE 0945 0106 -003 1   0         1  2F  *F\r\nAF7432 BOD 0945 0106 -003 2   0         2  2F  *F\r\nAF1058 NCL 1000 0121 0039 1   0         1  2E  *L\r\nAF1618 FRA 1000 0121 -004 3   0            2G  *G\r\nAF1842 GVA 1000 0121"
+    },
+    {
+      "id": 6548807691,
+      "label": "1E",
+      "text": "EW CONNECT\r\nAF1150 CPH 0930 0051 -023 2   0            2F  *F\r\nAF1294 BUD 0930 0051 -018 1   0            2F  *F\r\nAF1366 FLR 0930 0051 -018 1   0         1  2F  *F\r\nKL1404 AMS 0940 0101 -008 2   0         1  2F  *F\r\nAF73"
+    },
+    {
+      "id": 6548808007,
+      "label": "1E",
+      "text": "06 NCE 0945 0106 -003 1   0         1  2F  *F\r\nAF7432 BOD 0945 0106 -003 2   0         2  2F  *F\r\nAF1058 NCL 1000 0121 0039 1   0         1  2E  *L\r\nAF1618 FRA 1000 0121 -004 3   0            2G  *G\r\nAF1842 GVA 1000 0121"
+    },
+    {
+      "id": 6548808055,
+      "label": "1E",
+      "text": "QUORYOAAF~7PAX INFO MSG\r\n    *PAXINFO /AUTOMATIQUE\r\nTRANSFER PAX INFO: AF 191/22APR: SA 0830 EA 0839\r\nARRIVAL  PKG: K26   PKG TYPE: C    TERM: E  HALL: M    TBAG:41\r\n  CNT  TO  SD/ED ICT  DCT PAX NBP  RMK  HC TERM HALL NEW CONNECT\r\nAF1150 CPH 0930 0051 -023 2   0            2F  *F\r\nAF1294 BUD 0930 0051 -018 1   0            2F  *F\r\nAF1366 FLR 0930 0051 -018 1   0         1  2F  *F\r\nKL1404 AMS 0940 0101 -008 2   0         1  2F  *F\r\nAF7306 NCE 0945 0106 -003 1   0         1  2F  *F\r\nAF7432 BOD 0945 0106 -003 2   0         2  2F  *F\r\nAF1058 NCL 1000 0121 0039 1   0         1  2E  *L\r\nAF1618 FRA 1000 0121 -004 3   0            2G  *G\r\nAF1842 GVA 1000 0121 0121 1   0         1  2F  *F\r\nAF1426 VCE 1005 0126 0017 3   0         1  2F  *F\r\n*   = ANNONCE EN VOL\r\nENDD1AA"
+    },
+    {
+      "id": 6548808483,
+      "label": "1E",
+      "text": " 0121 1   0         1  2F  *F\r\nAF1426 VCE 1005 0126 0017 3   0         1  2F  *F\r\n*   = ANNONCE EN VOL\r\nENDD1AA"
+    }
+  ],
+  "ids": {
+    "6548603674": 1,
+    "6548609880": 1,
+    "6548681771": 1,
+    "6548683053": 1,
+    "6548697363": 1,
+    "6548710821": 1,
+    "6548715376": 1,
+    "6548718719": 1,
+    "6548723227": 1,
+    "6548803874": 1,
+    "6548807350": 1,
+    "6548807405": 1,
+    "6548807734": 1,
+    "6548807691": 1,
+    "6548808007": 1,
+    "6548808055": 1,
+    "6548808483": 1
+  }
+}

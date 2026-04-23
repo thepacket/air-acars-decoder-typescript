@@ -1,0 +1,2562 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547264971,
+      "label": "A6",
+      "text": "/MLOCAYA.ADS.A7-AMH07200B0063C9",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MLOCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "A7-AMH"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07200B00 (4 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "63C9 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547264823,
+      "label": "A6",
+      "text": "/RGNCAYA.ADS.A6-BNF017064",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RGNCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "A6-BN"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "F0170 (2.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "64 (short — possibly payload byte)"
+        }
+      ]
+    },
+    {
+      "id": 6547264822,
+      "label": "A6",
+      "text": "/RGNCAYA.ADS.A6-BNF017064",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RGNCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "A6-BN"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "F0170 (2.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "64 (short — possibly payload byte)"
+        }
+      ]
+    },
+    {
+      "id": 6547264799,
+      "label": "A6",
+      "text": "/BNECAYA.ADS.B-124308031321021F0C14E300",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "BNECAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "B-1243"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "08031321021F0C14 (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "E300 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547264795,
+      "label": "A6",
+      "text": "/BNECAYA.ADS.B-124308031321021F0C14E300",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "BNECAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "B-1243"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "08031321021F0C14 (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "E300 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547264631,
+      "label": "A6",
+      "text": "/MLOCAYA.ADS.A7-AMH07200B0063C9",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MLOCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "A7-AMH"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07200B00 (4 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "63C9 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547264305,
+      "label": "A6",
+      "text": "/ANCATYA.ADS.N2998907020B000D010E010F011FB5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "ANCATYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N29989"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07020B000D010E010F01 (10 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "1FB5 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547264300,
+      "label": "A6",
+      "text": "/ANCATYA.ADS.N2998907020B000D010E010F011FB5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "ANCATYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N29989"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07020B000D010E010F01 (10 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "1FB5 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547264266,
+      "label": "A6",
+      "text": "/MLOCAYA.ADS.A7-AMH07200B0063C9",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MLOCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "A7-AMH"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07200B00 (4 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "63C9 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547264206,
+      "label": "A6",
+      "text": "/GVSCAYA.ADS.EC-OMC07030B000D01ABAE",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "GVSCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "EC-OM"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "C07030B000D01 (6.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "ABAE (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547968151,
+      "label": "A6",
+      "text": "/RPHIAYA.ADS.JA832A080113235A22F687AD",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RPHIAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "JA832A"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "080113235A22F6 (7 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "87AD (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547968148,
+      "label": "A6",
+      "text": "/RPHIAYA.ADS.JA832A080113235A22F687AD",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RPHIAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "JA832A"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "080113235A22F6 (7 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "87AD (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967975,
+      "label": "A6",
+      "text": "/SMACAYA.ADS.EC-LXK080313254E24EA140A1807040B000D010F01D20A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "SMACAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "EC-LXK"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "080313254E24EA140A1807040B000D010F01 (18 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "D20A (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967973,
+      "label": "A6",
+      "text": "/SMACAYA.ADS.EC-LXK080313254E24EA140A1807040B000D010F01D20A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "SMACAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "EC-LXK"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "080313254E24EA140A1807040B000D010F01 (18 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "D20A (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967961,
+      "label": "A6",
+      "text": "/SMACAYA.ADS.EC-LXK080313254E24EA140A1807040B000D010F01D20A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "SMACAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "EC-LXK"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "080313254E24EA140A1807040B000D010F01 (18 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "D20A (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967818,
+      "label": "A6",
+      "text": "/FUKJJYA.ADS.N7701907000BCA0D010E010F01150125837B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N77019"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07000BCA0D010E010F01150125 (13 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "837B (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967813,
+      "label": "A6",
+      "text": "/FUKJJYA.ADS.N7701907000BCA0D010E010F01150125837B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N77019"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07000BCA0D010E010F01150125 (13 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "837B (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967803,
+      "label": "A6",
+      "text": "/SMACAYA.ADS.EC-NXC080D1322F6222E140A189FD9",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "SMACAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "EC-NX"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "C080D1322F6222E140A18 (10.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "9FD9 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967612,
+      "label": "A6",
+      "text": "/FUKJJYA.ADS.N728AN07070BCA0D010E010F0115012530C9",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N728AN"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07070BCA0D010E010F01150125 (13 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "30C9 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967610,
+      "label": "A6",
+      "text": "/MELCAYA.ADS..B-LRS0806140A245026",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MELCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": ".B-LRS"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "0806140A24 (5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "5026 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967606,
+      "label": "A6",
+      "text": "/FUKJJYA.ADS.N728AN07070BCA0D010E010F0115012530C9",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N728AN"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07070BCA0D010E010F01150125 (13 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "30C9 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967605,
+      "label": "A6",
+      "text": "/MELCAYA.ADS..B-LRS0806140A245026",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MELCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": ".B-LRS"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "0806140A24 (5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "5026 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967513,
+      "label": "A6",
+      "text": "/PIKCPYA.ADS.G-TUIN0802144221",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "PIKCPYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "G-TUIN"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "080214 (3 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "4221 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967364,
+      "label": "A6",
+      "text": "/BOMCAYA.ADS.A7-BHA011EF3",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "BOMCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "A7-BH"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "A011E (2.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "F3 (short — possibly payload byte)"
+        }
+      ]
+    },
+    {
+      "id": 6547967342,
+      "label": "A6",
+      "text": "/MELCAYA.ADS..B-LRS07050BCA0D010E0110015303",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MELCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": ".B-LRS"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07050BCA0D010E011001 (10 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "5303 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967340,
+      "label": "A6",
+      "text": "/MELCAYA.ADS..B-LRS07050BCA0D010E0110015303",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MELCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": ".B-LRS"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07050BCA0D010E011001 (10 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "5303 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967297,
+      "label": "A6",
+      "text": "/PIKCPYA.ADS.G-TUIN07010BCC0C010D011001C43D",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "PIKCPYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "G-TUIN"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07010BCC0C010D011001 (10 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "C43D (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547967007,
+      "label": "A6",
+      "text": "/MLOCAYA.ADS.SU-GDT07830B0095ED",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MLOCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "SU-GDT"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07830B00 (4 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "95ED (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547966915,
+      "label": "A6",
+      "text": "/RGNCAYA.ADS.A7-BFJ0805131B8A1B26FFDF",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RGNCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "A7-BFJ"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "0805131B8A1B26 (7 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "FFDF (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547966913,
+      "label": "A6",
+      "text": "/RGNCAYA.ADS.A7-BFJ0805131B8A1B26FFDF",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RGNCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "A7-BFJ"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "0805131B8A1B26 (7 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "FFDF (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547966718,
+      "label": "A6",
+      "text": "/RPHIAYA.ADS.JA832A07000BD50D010E0110019695",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RPHIAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "JA832A"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07000BD50D010E011001 (10 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "9695 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547966716,
+      "label": "A6",
+      "text": "/RPHIAYA.ADS.JA832A07000BD50D010E0110019695",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RPHIAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "JA832A"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07000BD50D010E011001 (10 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "9695 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547966513,
+      "label": "A6",
+      "text": "/MGQCAYA.ADS.4X-EDN072E0B000E010F01C8C2",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MGQCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "4X-EDN"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "072E0B000E010F01 (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "C8C2 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547966487,
+      "label": "A6",
+      "text": "/BNECAYA.ADS.HL72080170E8",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "BNECAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "HL7208"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "0170 (2 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "E8 (short — possibly payload byte)"
+        }
+      ]
+    },
+    {
+      "id": 6547966479,
+      "label": "A6",
+      "text": "/BNECAYA.ADS.HL72080170E8",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "BNECAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "HL7208"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "0170 (2 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "E8 (short — possibly payload byte)"
+        }
+      ]
+    },
+    {
+      "id": 6547966309,
+      "label": "A6",
+      "text": "/FUKJJYA.ADS.N728AN07060B000D010E010F011501253153",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N728AN"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07060B000D010E010F01150125 (13 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "3153 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547966305,
+      "label": "A6",
+      "text": "/FUKJJYA.ADS.N728AN07060B000D010E010F011501253153",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N728AN"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07060B000D010E010F01150125 (13 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "3153 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547966193,
+      "label": "A6",
+      "text": "/MLOCAYA.ADSHZ-AK71074F0B000199",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": []
+    },
+    {
+      "id": 6547965942,
+      "label": "A6",
+      "text": "/RGNCAYA.ADS.TC-LGL01EB25",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RGNCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "TC-LGL"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "01EB (2 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "25 (short — possibly payload byte)"
+        }
+      ]
+    },
+    {
+      "id": 6547965939,
+      "label": "A6",
+      "text": "/RGNCAYA.ADS.TC-LGL01EB25",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RGNCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "TC-LGL"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "01EB (2 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "25 (short — possibly payload byte)"
+        }
+      ]
+    },
+    {
+      "id": 6547965759,
+      "label": "A6",
+      "text": "/BOMCAYA.ADS.SU-GET019FA1",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "BOMCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "SU-GET"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "019F (2 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "A1 (short — possibly payload byte)"
+        }
+      ]
+    },
+    {
+      "id": 6547965637,
+      "label": "A6",
+      "text": "/FUKJJYA.ADS.C-FIUL08010A28A41C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "C-FIUL"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "08010A28 (4 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "A41C (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547965635,
+      "label": "A6",
+      "text": "/FUKJJYA.ADS.C-FIUL08010A28A41C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "C-FIUL"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "08010A28 (4 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "A41C (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547965534,
+      "label": "A6",
+      "text": "/RGNCAYA.ADS.A7-BFJ07040BDB0D010E011001D98A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RGNCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "A7-BFJ"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07040BDB0D010E011001 (10 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "D98A (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547965524,
+      "label": "A6",
+      "text": "/RGNCAYA.ADS.A7-BFJ07040BDB0D010E011001D98A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RGNCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "A7-BFJ"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07040BDB0D010E011001 (10 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "D98A (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547965389,
+      "label": "A6",
+      "text": "/MELCAYA.ADS.9V-OFN08091329CC26DE14DD8D",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MELCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "9V-OFN"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "08091329CC26DE14 (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "DD8D (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547965383,
+      "label": "A6",
+      "text": "/MELCAYA.ADS.9V-OFN08091329CC26DE14DD8D",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MELCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "9V-OFN"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "08091329CC26DE14 (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "DD8D (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547965133,
+      "label": "A6",
+      "text": "/FUKJJYA.ADS.B-203508010A28BC96",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "B-2035"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "08010A28 (4 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "BC96 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547965130,
+      "label": "A6",
+      "text": "/FUKJJYA.ADS.B-203508010A28BC96",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "B-2035"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "08010A28 (4 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "BC96 (4-hex standard CRC)"
+        }
+      ]
+    },
+    {
+      "id": 6547965025,
+      "label": "A6",
+      "text": "/MLOCAYA.ADS.G-XWBL07FE0B00F06C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Request ADS Reports (RAR — ADS-C contract, uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Request ADS Report (RAR) — ADS-C contract"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MLOCAYA"
+        },
+        {
+          "type": "imi",
+          "code": "IMI",
+          "label": "IMI (Embedded Message ID)",
+          "value": "ADS (ADS-C protocol)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "G-XWBL"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "ADS-C Payload (hex)",
+          "value": "07FE0B00 (4 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (trailing hex)",
+          "value": "F06C (4-hex standard CRC)"
+        }
+      ]
+    }
+  ]
+}

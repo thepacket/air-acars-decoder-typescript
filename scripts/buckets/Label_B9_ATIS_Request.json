@@ -1,0 +1,2562 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547264082,
+      "label": "B9",
+      "text": "/KPHL.TI2/024KPHLA9412",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KPHL"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KPHL (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "9"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "412"
+        }
+      ]
+    },
+    {
+      "id": 6547263273,
+      "label": "B9",
+      "text": "/RJSS.TI2/000RJSSA8DA5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "RJSS"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "000"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "RJSS (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "8"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "DA5"
+        }
+      ]
+    },
+    {
+      "id": 6547262488,
+      "label": "B9",
+      "text": "/RJSS.TI2/000RJSSA8DA5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "RJSS"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "000"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "RJSS (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "8"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "DA5"
+        }
+      ]
+    },
+    {
+      "id": 6547262426,
+      "label": "B9",
+      "text": "/KSTP.TI2/024KSTPC5F90",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KSTP"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KSTP (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "5"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "F90"
+        }
+      ]
+    },
+    {
+      "id": 6547262424,
+      "label": "B9",
+      "text": "/KSTP.TI2/024KSTPC5F90",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KSTP"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KSTP (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "5"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "F90"
+        }
+      ]
+    },
+    {
+      "id": 6547262422,
+      "label": "B9",
+      "text": "/KSTP.TI2/024KSTPC5F90",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KSTP"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KSTP (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "5"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "F90"
+        }
+      ]
+    },
+    {
+      "id": 6547262187,
+      "label": "B9",
+      "text": "/RJSS.TI2/000RJSSA8DA5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "RJSS"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "000"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "RJSS (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "8"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "DA5"
+        }
+      ]
+    },
+    {
+      "id": 6547261898,
+      "label": "B9",
+      "text": "/RJSS.TI2/000RJSSA8DA5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "RJSS"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "000"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "RJSS (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "8"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "DA5"
+        }
+      ]
+    },
+    {
+      "id": 6547261628,
+      "label": "B9",
+      "text": "/RJSS.TI2/000RJSSA8DA5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "RJSS"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "000"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "RJSS (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "8"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "DA5"
+        }
+      ]
+    },
+    {
+      "id": 6547261345,
+      "label": "B9",
+      "text": "/EIDW.TI2/024EIDWA1982",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "EIDW"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "EIDW (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "982"
+        }
+      ]
+    },
+    {
+      "id": 6547968372,
+      "label": "B9",
+      "text": "/KCLT.TI2/000KCLTA2431",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KCLT"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "000"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KCLT (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "2"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "431"
+        }
+      ]
+    },
+    {
+      "id": 6547968371,
+      "label": "B9",
+      "text": "/KCLT.TI2/000KCLTA2431",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KCLT"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "000"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KCLT (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "2"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "431"
+        }
+      ]
+    },
+    {
+      "id": 6547968174,
+      "label": "B9",
+      "text": "/CYYZ.TI2/040CYYZA1F4A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "CYYZ"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "040"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "CYYZ (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "F4A"
+        }
+      ]
+    },
+    {
+      "id": 6547968101,
+      "label": "B9",
+      "text": "/LEMD.TI2/024LEMDC163F",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "LEMD"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "LEMD (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "63F"
+        }
+      ]
+    },
+    {
+      "id": 6547968096,
+      "label": "B9",
+      "text": "/LEMD.TI2/024LEMDC163F",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "LEMD"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "LEMD (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "63F"
+        }
+      ]
+    },
+    {
+      "id": 6547967987,
+      "label": "B9",
+      "text": "J07ACI0100/RJAA.TI2/000RJAAAC5B7",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": []
+    },
+    {
+      "id": 6547967290,
+      "label": "B9",
+      "text": "/CYYZ.TI2/040CYYZA1F4A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "CYYZ"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "040"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "CYYZ (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "F4A"
+        }
+      ]
+    },
+    {
+      "id": 6547967285,
+      "label": "B9",
+      "text": "/CYYZ.TI2/040CYYZA1F4A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "CYYZ"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "040"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "CYYZ (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "F4A"
+        }
+      ]
+    },
+    {
+      "id": 6547967283,
+      "label": "B9",
+      "text": "/CYYZ.TI2/040CYYZA1F4A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "CYYZ"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "040"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "CYYZ (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "F4A"
+        }
+      ]
+    },
+    {
+      "id": 6547967281,
+      "label": "B9",
+      "text": "/CYYZ.TI2/040CYYZA1F4A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "CYYZ"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "040"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "CYYZ (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "F4A"
+        }
+      ]
+    },
+    {
+      "id": 6547967279,
+      "label": "B9",
+      "text": "/CYYZ.TI2/040CYYZA1F4A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "CYYZ"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "040"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "CYYZ (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "F4A"
+        }
+      ]
+    },
+    {
+      "id": 6547966210,
+      "label": "B9",
+      "text": "/PANC.TI2/046PANCA995F",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "PANC"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "046"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "PANC (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "9"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "95F"
+        }
+      ]
+    },
+    {
+      "id": 6547965954,
+      "label": "B9",
+      "text": "TI2/024DCA AA146",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": []
+    },
+    {
+      "id": 6547965744,
+      "label": "B9",
+      "text": "/KCLE.TI2/024KCLEC5273",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KCLE"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KCLE (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "5"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "273"
+        }
+      ]
+    },
+    {
+      "id": 6547965743,
+      "label": "B9",
+      "text": "/KCLE.TI2/024KCLEC5273",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KCLE"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KCLE (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "5"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "273"
+        }
+      ]
+    },
+    {
+      "id": 6547965742,
+      "label": "B9",
+      "text": "/KCLE.TI2/024KCLEC5273",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KCLE"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KCLE (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "5"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "273"
+        }
+      ]
+    },
+    {
+      "id": 6547965741,
+      "label": "B9",
+      "text": "/KCLE.TI2/024KCLEC5273",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KCLE"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KCLE (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "5"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "273"
+        }
+      ]
+    },
+    {
+      "id": 6547965202,
+      "label": "B9",
+      "text": "/KMCO.TI2/024KMCOA1391",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KMCO"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KMCO (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "391"
+        }
+      ]
+    },
+    {
+      "id": 6547963743,
+      "label": "B9",
+      "text": "/KMKE.TI2/024KMKEA55FB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KMKE"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KMKE (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "5"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "5FB"
+        }
+      ]
+    },
+    {
+      "id": 6547963499,
+      "label": "B9",
+      "text": "/PANC.TI2/024PANCAB33A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "PANC"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "PANC (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "B"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "33A"
+        }
+      ]
+    },
+    {
+      "id": 6547963493,
+      "label": "B9",
+      "text": "/PANC.TI2/024PANCAB33A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "PANC"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "PANC (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "B"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "33A"
+        }
+      ]
+    },
+    {
+      "id": 6547962940,
+      "label": "B9",
+      "text": "/KSEA.TI2/024KSEAA3BC3",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KSEA"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KSEA (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "3"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "BC3"
+        }
+      ]
+    },
+    {
+      "id": 6547962467,
+      "label": "B9",
+      "text": "TI2/024GYY AD65A",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": []
+    },
+    {
+      "id": 6547962250,
+      "label": "B9",
+      "text": "TI2/024GYY AD65A",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": []
+    },
+    {
+      "id": 6547962144,
+      "label": "B9",
+      "text": "/RJFF.TI2/040RJFFA1876",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "RJFF"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "040"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "RJFF (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "876"
+        }
+      ]
+    },
+    {
+      "id": 6547962143,
+      "label": "B9",
+      "text": "/RJFF.TI2/040RJFFA1876",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "RJFF"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "040"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "RJFF (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "876"
+        }
+      ]
+    },
+    {
+      "id": 6547961363,
+      "label": "B9",
+      "text": "/CYVR.TI2/024CYVRA1D56",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "CYVR"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "CYVR (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "1"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "D56"
+        }
+      ]
+    },
+    {
+      "id": 6547961110,
+      "label": "B9",
+      "text": "/KIAH.TI2/024KIAHA2E97",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KIAH"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KIAH (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "2"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "E97"
+        }
+      ]
+    },
+    {
+      "id": 6547961108,
+      "label": "B9",
+      "text": "/KIAH.TI2/024KIAHA2E97",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KIAH"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KIAH (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "2"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "E97"
+        }
+      ]
+    },
+    {
+      "id": 6547961107,
+      "label": "B9",
+      "text": "/KIAH.TI2/024KIAHA2E97",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KIAH"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KIAH (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "2"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "E97"
+        }
+      ]
+    },
+    {
+      "id": 6547961103,
+      "label": "B9",
+      "text": "/KIAH.TI2/024KIAHA2E97",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KIAH"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KIAH (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "2"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "E97"
+        }
+      ]
+    },
+    {
+      "id": 6547961101,
+      "label": "B9",
+      "text": "/KIAH.TI2/024KIAHA2E97",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KIAH"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KIAH (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "2"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "E97"
+        }
+      ]
+    },
+    {
+      "id": 6547961100,
+      "label": "B9",
+      "text": "/KIAH.TI2/024KIAHA2E97",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KIAH"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KIAH (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "A (Alpha)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "2"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "E97"
+        }
+      ]
+    },
+    {
+      "id": 6547959883,
+      "label": "B9",
+      "text": "/KLGA.TI2/024KLGACBAA8",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KLGA"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KLGA (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "B"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "AA8"
+        }
+      ]
+    },
+    {
+      "id": 6547959880,
+      "label": "B9",
+      "text": "/KLGA.TI2/024KLGACBAA8",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KLGA"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KLGA (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "B"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "AA8"
+        }
+      ]
+    },
+    {
+      "id": 6547959875,
+      "label": "B9",
+      "text": "/KLGA.TI2/024KLGACBAA8",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KLGA"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KLGA (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "B"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "AA8"
+        }
+      ]
+    },
+    {
+      "id": 6547959872,
+      "label": "B9",
+      "text": "/KLGA.TI2/024KLGACBAA8",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "ATIS Request — downlink to ground-station ATIS service"
+        },
+        {
+          "type": "ground_station",
+          "code": "GNDSTN",
+          "label": "Ground Station ICAO",
+          "value": "KLGA"
+        },
+        {
+          "type": "atis_subtype",
+          "code": "SUBTYPE",
+          "label": "Sub-type / Service",
+          "value": "TI2 (Terminal Information v2)"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Sequence / Parameter",
+          "value": "024"
+        },
+        {
+          "type": "payload_echo",
+          "code": "ECHO",
+          "label": "Payload Target ICAO",
+          "value": "KLGA (echoes target)"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "ATIS Info Letter",
+          "value": "C (Charlie)"
+        },
+        {
+          "type": "atis_subqualifier",
+          "code": "ATIS_SUBQ",
+          "label": "Sub-qualifier",
+          "value": "B"
+        },
+        {
+          "type": "checksum",
+          "code": "CHK",
+          "label": "Checksum",
+          "value": "AA8"
+        }
+      ]
+    },
+    {
+      "id": 6547959486,
+      "label": "B9",
+      "text": "TI2/024LGA A699A",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": []
+    },
+    {
+      "id": 6547959482,
+      "label": "B9",
+      "text": "TI2/024LGA A699A",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": []
+    },
+    {
+      "id": 6547959481,
+      "label": "B9",
+      "text": "TI2/024LGA A699A",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "ATIS Request (aircraft → ground-station ATIS service)",
+      "items": []
+    }
+  ]
+}

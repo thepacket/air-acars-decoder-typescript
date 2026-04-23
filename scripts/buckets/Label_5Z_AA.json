@@ -1,0 +1,936 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547263518,
+      "label": "5Z",
+      "text": "OS KDFW /ALT00002307",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KDFW"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "23:07:00"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "ALT (Altimeter / Arrival Data)"
+        }
+      ]
+    },
+    {
+      "id": 6547263517,
+      "label": "5Z",
+      "text": "OS KDFW /ALT00002307",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KDFW"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "23:07:00"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "ALT (Altimeter / Arrival Data)"
+        }
+      ]
+    },
+    {
+      "id": 6547263516,
+      "label": "5Z",
+      "text": "OS KDFW /ALT00002307",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KDFW"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "23:07:00"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "ALT (Altimeter / Arrival Data)"
+        }
+      ]
+    },
+    {
+      "id": 6547263515,
+      "label": "5Z",
+      "text": "OS KDFW /ALT00002307",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KDFW"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "23:07:00"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "ALT (Altimeter / Arrival Data)"
+        }
+      ]
+    },
+    {
+      "id": 6547263514,
+      "label": "5Z",
+      "text": "OS KDFW /ALT00002307",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KDFW"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "23:07:00"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "ALT (Altimeter / Arrival Data)"
+        }
+      ]
+    },
+    {
+      "id": 6547262540,
+      "label": "5Z",
+      "text": "OS KDFW /FTM\r\nPLS INFORM MOC THAT \r\nWE COULD NOT CONNET AP B\r\nDURING FLIGHT \r\nREPORT IS ON EML\r\nTKS DAVID",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KDFW"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "FTM (Free-Text Message)"
+        },
+        {
+          "type": "free_text",
+          "code": "FTEXT",
+          "label": "Free Text",
+          "value": "PLS INFORM MOC THAT\nWE COULD NOT CONNET AP B\nDURING FLIGHT\nREPORT IS ON EML\nTKS DAVID"
+        }
+      ]
+    },
+    {
+      "id": 6547262490,
+      "label": "5Z",
+      "text": "OS KCLT /ALT00002304",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCLT"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "23:04:00"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "ALT (Altimeter / Arrival Data)"
+        }
+      ]
+    },
+    {
+      "id": 6547262489,
+      "label": "5Z",
+      "text": "OS KCLT /ALT00002304",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCLT"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "23:04:00"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "ALT (Altimeter / Arrival Data)"
+        }
+      ]
+    },
+    {
+      "id": 6547262487,
+      "label": "5Z",
+      "text": "OS KCLT /ALT00002304",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCLT"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "23:04:00"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "ALT (Altimeter / Arrival Data)"
+        }
+      ]
+    },
+    {
+      "id": 6547262486,
+      "label": "5Z",
+      "text": "OS KCLT /ALT00002304",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCLT"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "23:04:00"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "ALT (Altimeter / Arrival Data)"
+        }
+      ]
+    },
+    {
+      "id": 6547968147,
+      "label": "5Z",
+      "text": "22\r\nDISP   \r\nCMP736 PTY.JFK\r\nB.NOCHES. POR FAVOR\r\nCONFIRMAR LA PUERTA DE\r\nARRIBO. GRACIAS",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547967826,
+      "label": "5Z",
+      "text": "/ET EXP TIME       / KIAH KDCA 22 014004/EON 0218 AUTO",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547967534,
+      "label": "5Z",
+      "text": "/ET EXP TIME       / KIAH KLAX 22 013959/EON 0420 AUTO",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547967531,
+      "label": "5Z",
+      "text": "/ET EXP TIME       / KIAH KLAX 22 013959/EON 0420 AUTO",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547967524,
+      "label": "5Z",
+      "text": "/ET EXP TIME       / KIAH KLAX 22 013959/EON 0420 AUTO",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547967523,
+      "label": "5Z",
+      "text": "/ET EXP TIME       / KIAH KLAX 22 013959/EON 0420 AUTO",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547967520,
+      "label": "5Z",
+      "text": "/ET EXP TIME       / KIAH KLAX 22 013959/EON 0420 AUTO",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547966687,
+      "label": "5Z",
+      "text": "/ET EXP TIME       / KIAH KMAF 22 013922/EON 0225 AUTO",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547966598,
+      "label": "5Z",
+      "text": "/C3 GATE REQ       / KIAH KMSP 22 013943 1872 ---- ---- ---- ----",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547966585,
+      "label": "5Z",
+      "text": "/C3 GATE REQ       / KIAH KMSP 22 013943 1872 ---- ---- ---- ----",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547966239,
+      "label": "5Z",
+      "text": "/R3 HOWGOZIT REQ   / KIAH KMSP 22 013935 1872 22 KIAH",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547965739,
+      "label": "5Z",
+      "text": "22\r\nDISP   \r\nCMP736 PTY.JFK\r\nB.NOCHES. POR FAVOR\r\nCONFIRMAR LA PUERTA DE\r\nARRIBO. GRACIAS",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547965736,
+      "label": "5Z",
+      "text": "22\r\nDISP   \r\nCMP736 PTY.JFK\r\nB.NOCHES. POR FAVOR\r\nCONFIRMAR LA PUERTA DE\r\nARRIBO. GRACIAS",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547965516,
+      "label": "5Z",
+      "text": "/ET EXP TIME       / KIAH KMAF 22 013922/EON 0225 AUTO",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547965494,
+      "label": "5Z",
+      "text": "/C3 GATE REQ       / KORD KDSM 22 013900 2265                    ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547965493,
+      "label": "5Z",
+      "text": "/C3 GATE REQ       / KORD KDSM 22 013900 2265                    ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547965489,
+      "label": "5Z",
+      "text": "/C3 GATE REQ       / KORD KDSM 22 013900 2265                    ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547965477,
+      "label": "5Z",
+      "text": "/R3 HOWGOZIT REQ   / KORD KSMF 22 013922 1828 22 KORD",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547965476,
+      "label": "5Z",
+      "text": "/R3 HOWGOZIT REQ   / KORD KSMF 22 013922 1828 22 KORD",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547965369,
+      "label": "5Z",
+      "text": "OS KPHX /IR KPHX0149",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KPHX"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "01:49:00"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "IR (In Range)"
+        }
+      ]
+    },
+    {
+      "id": 6547964157,
+      "label": "5Z",
+      "text": "/C3 GATE REQ       / KDEN KBNA 22 013900 1300 ---- ---- ---- ----",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547964131,
+      "label": "5Z",
+      "text": "/B6 LDG DATA REQ   / KSFO KBUR 22 013900 KBUR R15 /----",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547964129,
+      "label": "5Z",
+      "text": "/B6 LDG DATA REQ   / KSFO KBUR 22 013900 KBUR R15 /----",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547964128,
+      "label": "5Z",
+      "text": "/C3 GATE REQ       / KDEN KDRO 22 013900 1390 ---- ---- ---- ----",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547964106,
+      "label": "5Z",
+      "text": "/C3 GATE REQ       / KORD KDSM 22 013900 2265                    ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547964105,
+      "label": "5Z",
+      "text": "/C3 GATE REQ       / KORD KDSM 22 013900 2265                    ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547963120,
+      "label": "5Z",
+      "text": "/ET EXP TIME       / KORD KSAT 22 013840/EON 0330 AUTO",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547962807,
+      "label": "5Z",
+      "text": "/CG PAX CONX REQ   / KDFW KEWR 22 013834",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547962804,
+      "label": "5Z",
+      "text": "/CG PAX CONX REQ   / KDFW KEWR 22 013834",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547962803,
+      "label": "5Z",
+      "text": "/CG PAX CONX REQ   / KDFW KEWR 22 013834",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547962799,
+      "label": "5Z",
+      "text": "/CG PAX CONX REQ   / KDFW KEWR 22 013834",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547962401,
+      "label": "5Z",
+      "text": "OS KSFO /IR KSFO0149",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KSFO"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "01:49:00"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "IR (In Range)"
+        }
+      ]
+    },
+    {
+      "id": 6547962290,
+      "label": "5Z",
+      "text": "/C3 MSYIAH",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547962074,
+      "label": "5Z",
+      "text": "/IR TYS0100001/UM   /WC   /IB   /ETA 0212",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547962053,
+      "label": "5Z",
+      "text": "22KMIA REQUEST GATE ASSIGNMENT ETA0222",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547961816,
+      "label": "5Z",
+      "text": "/C3 GATE REQ       / KDEN KDFW 22 013801 2239                    ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547961815,
+      "label": "5Z",
+      "text": "/C3 GATE REQ       / KDEN KDFW 22 013801 2239                    ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547961728,
+      "label": "5Z",
+      "text": "M74AIB0282/RL RJAA-LEMD",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    },
+    {
+      "id": 6547961583,
+      "label": "5Z",
+      "text": "OS KEWR /ALT00000223",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": [
+        {
+          "type": "airline",
+          "code": "AIRLINE",
+          "label": "Airline",
+          "value": "American Airlines / US Airways"
+        },
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Airline Designated Downlink (AA Variant 1)"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KEWR"
+        },
+        {
+          "type": "time",
+          "code": "ETA",
+          "label": "Estimated Time of Arrival",
+          "value": "02:23:00"
+        },
+        {
+          "type": "command",
+          "code": "CMD",
+          "label": "Command",
+          "value": "OS (Operational Status (Out-Safe))"
+        },
+        {
+          "type": "subcommand",
+          "code": "SUBCMD",
+          "label": "Sub-command",
+          "value": "ALT (Altimeter / Arrival Data)"
+        }
+      ]
+    },
+    {
+      "id": 6547961418,
+      "label": "5Z",
+      "text": "/B6 LDG DATA REQ   / KSFO KBUR 22 013809 KBUR R08 /----",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Airline Designated Downlink (AA / US Airways Variant 1)",
+      "items": []
+    }
+  ]
+}

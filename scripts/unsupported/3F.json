@@ -1,0 +1,31 @@
+{
+  "count": 4,
+  "entries": [
+    {
+      "id": 6548593407,
+      "label": "3F",
+      "text": "FUEL UPLIFT SUM \r\nLX814/23 ZRH\r\n\r\nVOLUME: 3050\r\nUNIT: LT\r\nDENSITY: 0.799\r\nSUPPLIER: SHL\r\nTYPE: JETA1\r\n"
+    },
+    {
+      "id": 6548597303,
+      "label": "3F",
+      "text": "FUEL UPLIFT SUM \r\nLX562/23 ZRH\r\n\r\nVOLUME: 2973\r\nUNIT: LT\r\nDENSITY: 0.799\r\nSUPPLIER: SHL\r\nTYPE: JETA1\r\n"
+    },
+    {
+      "id": 6548609754,
+      "label": "3F",
+      "text": "FUEL UPLIFT SUM \r\nLX1360/23 ZRH\r\n\r\nVOLUME: 3698\r\nUNIT: LT\r\nDENSITY: 0.801\r\nSUPPLIER: SHL\r\nTYPE: JETA1\r\n"
+    },
+    {
+      "id": 6548836667,
+      "label": "3F",
+      "text": "FUEL UPLIFT SUM \r\nLX750/23 ZRH\r\n\r\nVOLUME: 1779\r\nUNIT: LT\r\nDENSITY: 0.801\r\nSUPPLIER: SWR\r\nTYPE: JETA1\r\n"
+    }
+  ],
+  "ids": {
+    "6548593407": 1,
+    "6548597303": 1,
+    "6548609754": 1,
+    "6548836667": 1
+  }
+}

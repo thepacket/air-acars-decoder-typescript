@@ -1,0 +1,1788 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547264913,
+      "label": "SA",
+      "text": "0EV222148V/",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:21:48"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:21:48"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V/"
+        }
+      ]
+    },
+    {
+      "id": 6547264625,
+      "label": "SA",
+      "text": "0EV222916VS",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:29:16"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:29:16"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "VS"
+        }
+      ]
+    },
+    {
+      "id": 6547264491,
+      "label": "SA",
+      "text": "0EV222913VS",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:29:13"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:29:13"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "VS"
+        }
+      ]
+    },
+    {
+      "id": 6547264182,
+      "label": "SA",
+      "text": "0E22229102",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0E2"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:29:10"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:29:10"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": 6547264181,
+      "label": "SA",
+      "text": "0E22229102",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0E2"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:29:10"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:29:10"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": 6547264178,
+      "label": "SA",
+      "text": "0E22229102",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0E2"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:29:10"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:29:10"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": 6547264176,
+      "label": "SA",
+      "text": "0E22229102",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0E2"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:29:10"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:29:10"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": 6547264175,
+      "label": "SA",
+      "text": "0E22229102",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0E2"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:29:10"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:29:10"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": 6547262912,
+      "label": "SA",
+      "text": "0EV222852V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:28:52"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:28:52"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547262264,
+      "label": "SA",
+      "text": "0E22228402",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0E2"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:28:40"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:28:40"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": 6547968283,
+      "label": "SA",
+      "text": "0EV014010V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:40:10"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:40:10"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547968207,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547968197,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547968120,
+      "label": "SA",
+      "text": "S91ACZ04270ES013959VS",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": []
+    },
+    {
+      "id": 6547967986,
+      "label": "SA",
+      "text": "0LS014005V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0LS"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:40:05"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:40:05"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547967984,
+      "label": "SA",
+      "text": "0LS014005V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0LS"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:40:05"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:40:05"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547967983,
+      "label": "SA",
+      "text": "0LS014005V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0LS"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:40:05"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:40:05"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547967850,
+      "label": "SA",
+      "text": "S04ASQ02240LV014001S/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": []
+    },
+    {
+      "id": 6547967708,
+      "label": "SA",
+      "text": "S17AOZ05110ES013957VS/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": []
+    },
+    {
+      "id": 6547967693,
+      "label": "SA",
+      "text": "0LS014001V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0LS"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:40:01"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:40:01"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547967503,
+      "label": "SA",
+      "text": "0EV013959VS",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:59"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:59"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "VS"
+        }
+      ]
+    },
+    {
+      "id": 6547967474,
+      "label": "SA",
+      "text": "S67AUL02660ES013954VS",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": []
+    },
+    {
+      "id": 6547967385,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547967384,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547967381,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547967380,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547967379,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547967378,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547967375,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547966747,
+      "label": "SA",
+      "text": "S78AJL05080ES013941VS/",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": []
+    },
+    {
+      "id": 6547966668,
+      "label": "SA",
+      "text": "S35AQR89390LV013932S",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": []
+    },
+    {
+      "id": 6547966662,
+      "label": "SA",
+      "text": "S13ATK63090L2013940S",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": []
+    },
+    {
+      "id": 6547966604,
+      "label": "SA",
+      "text": "0EV013942V/",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:42"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:42"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V/"
+        }
+      ]
+    },
+    {
+      "id": 6547966602,
+      "label": "SA",
+      "text": "0EV013942V/",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:42"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:42"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V/"
+        }
+      ]
+    },
+    {
+      "id": 6547966601,
+      "label": "SA",
+      "text": "0EV013942V/",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:42"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:42"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V/"
+        }
+      ]
+    },
+    {
+      "id": 6547966597,
+      "label": "SA",
+      "text": "0EV013942V/",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:42"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:42"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V/"
+        }
+      ]
+    },
+    {
+      "id": 6547966596,
+      "label": "SA",
+      "text": "0EV013942V/",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:42"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:42"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V/"
+        }
+      ]
+    },
+    {
+      "id": 6547966595,
+      "label": "SA",
+      "text": "0EV013942V/",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:42"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:42"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V/"
+        }
+      ]
+    },
+    {
+      "id": 6547966594,
+      "label": "SA",
+      "text": "0EV013942V/",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:42"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:42"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V/"
+        }
+      ]
+    },
+    {
+      "id": 6547966593,
+      "label": "SA",
+      "text": "0EV013942V/",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:42"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:42"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V/"
+        }
+      ]
+    },
+    {
+      "id": 6547966592,
+      "label": "SA",
+      "text": "0EV013942V/",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:42"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:42"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V/"
+        }
+      ]
+    },
+    {
+      "id": 6547966591,
+      "label": "SA",
+      "text": "0EV013942V/",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:42"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:42"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V/"
+        }
+      ]
+    },
+    {
+      "id": 6547966560,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547966556,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547966555,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547966554,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547966553,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547966552,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547966548,
+      "label": "SA",
+      "text": "0EV013917V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0EV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:17"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:17"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547966274,
+      "label": "SA",
+      "text": "0LH013936V",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Media Advisory (link/connectivity status)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Media Advisory (link/connectivity status)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Prefix Code",
+          "value": "0LH"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:36"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:39:36"
+        },
+        {
+          "type": "suffix",
+          "code": "SUFFIX",
+          "label": "Suffix Flag",
+          "value": "V"
+        }
+      ]
+    }
+  ]
+}

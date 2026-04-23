@@ -1,0 +1,25 @@
+{
+  "count": 3,
+  "entries": [
+    {
+      "id": 6548600997,
+      "label": "8B",
+      "text": "V08CA/OFFRP/ESSA/EKCH/23/0459/ETA0554/"
+    },
+    {
+      "id": 6548682238,
+      "label": "8B",
+      "text": "V08CA/OFFRP/ESSA/EGLL/23/0520/ETA0728/"
+    },
+    {
+      "id": 6548719986,
+      "label": "8B",
+      "text": "V08CA/OFFRP/ESSA/ENGM/23/0529/ETA0619/"
+    }
+  ],
+  "ids": {
+    "6548600997": 1,
+    "6548682238": 1,
+    "6548719986": 1
+  }
+}

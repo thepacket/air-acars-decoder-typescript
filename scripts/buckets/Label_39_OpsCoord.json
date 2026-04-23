@@ -1,0 +1,2456 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547261603,
+      "label": "39",
+      "text": "222239  DTW  MDW3\r\n2251 N                         \r\n01                  \r\n1 CHAIR",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "DTW"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "MDW"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "22:51"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "01"
+        }
+      ]
+    },
+    {
+      "id": 6547260842,
+      "label": "39",
+      "text": "222239 KAUS KBOS7\r\n2349                                   \r\n/TCI [  ]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KAUS"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KBOS"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "7"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "23:49"
+        }
+      ]
+    },
+    {
+      "id": 6547259482,
+      "label": "39",
+      "text": "222239  DTW  MDW3\r\n2251 N                         \r\n01                  \r\n1 CHAIR",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "DTW"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "MDW"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "22:51"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "01"
+        }
+      ]
+    },
+    {
+      "id": 6547259212,
+      "label": "39",
+      "text": "222239  DTW  MDW3\r\n2251 N                         \r\n01                  \r\n1 CHAIR",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "DTW"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "MDW"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "22:51"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "01"
+        }
+      ]
+    },
+    {
+      "id": 6547259209,
+      "label": "39",
+      "text": "222239  DTW  MDW3\r\n2251 N                         \r\n01                  \r\n1 CHAIR",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "DTW"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "MDW"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "22:51"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "01"
+        }
+      ]
+    },
+    {
+      "id": 6547259003,
+      "label": "39",
+      "text": "222239  DTW  MDW3\r\n2251 N                         \r\n01                  \r\n1 CHAIR",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "DTW"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "MDW"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "22:51"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "01"
+        }
+      ]
+    },
+    {
+      "id": 6547258771,
+      "label": "39",
+      "text": "222239  DTW  MDW3\r\n2251 N                         \r\n01                  \r\n1 CHAIR",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "DTW"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "MDW"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "22:51"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "01"
+        }
+      ]
+    },
+    {
+      "id": 6547258548,
+      "label": "39",
+      "text": "222239  DTW  MDW3\r\n2251 N                         \r\n01                  \r\n1 CHAIR",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "DTW"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "MDW"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "22:51"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "01"
+        }
+      ]
+    },
+    {
+      "id": 6547256090,
+      "label": "39",
+      "text": "222239 KDTW KLGA7\r\n2307                                   \r\n/TCI [  ]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KDTW"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "7"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "23:07"
+        }
+      ]
+    },
+    {
+      "id": 6547254935,
+      "label": "39",
+      "text": "222239 KSAT KBOS8\r\n/FN 0816\r\n2335                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KSAT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KBOS"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "233"
+        }
+      ]
+    },
+    {
+      "id": 6547966361,
+      "label": "39",
+      "text": "291, ,194,210,353,370,, , , , , , ,01:39,3000,120,20,300,120,9800,19500,19500180C",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Operational Coordination Message",
+      "items": []
+    },
+    {
+      "id": 6547965918,
+      "label": "39",
+      "text": "220139 KJFK KMIA7\r\n0236                                   \r\n/TCI [  ]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KJFK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KMIA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "7"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:36"
+        }
+      ]
+    },
+    {
+      "id": 6547965821,
+      "label": "39",
+      "text": "291, ,194,210,353,370,, , , , , , ,01:39,3000,120,20,300,120,9800,19500,19500180C",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Operational Coordination Message",
+      "items": []
+    },
+    {
+      "id": 6547958399,
+      "label": "39",
+      "text": "220139 KATL KBOS8\r\n/FN 0300\r\n0232                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KATL"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KBOS"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "023"
+        }
+      ]
+    },
+    {
+      "id": 6547957870,
+      "label": "39",
+      "text": "220139  JFK  RDU3\r\n0202 N                         \r\n02               23R\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "JFK"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RDU"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:02"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "02"
+        }
+      ]
+    },
+    {
+      "id": 6547956797,
+      "label": "39",
+      "text": "UA 01:31,UA 01:35,FV 01:29,AUTO 01:36,\r\n\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Operational Coordination Message",
+      "items": []
+    },
+    {
+      "id": 6547956287,
+      "label": "39",
+      "text": "UA 01:31,UA 01:35,FV 01:29,AUTO 01:36,\r\n\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Operational Coordination Message",
+      "items": []
+    },
+    {
+      "id": 6547955625,
+      "label": "39",
+      "text": "220139 KFLL KLGA8\r\n/FN 2321\r\n0251                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KFLL"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "025"
+        }
+      ]
+    },
+    {
+      "id": 6547955421,
+      "label": "39",
+      "text": "220139 KATL KDCA8\r\n/FN 0378\r\n0225                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KATL"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KDCA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "022"
+        }
+      ]
+    },
+    {
+      "id": 6547955416,
+      "label": "39",
+      "text": "220139 KATL KDCA8\r\n/FN 0378\r\n0225                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KATL"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KDCA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "022"
+        }
+      ]
+    },
+    {
+      "id": 6547953551,
+      "label": "39",
+      "text": "220139 KTPA KRDU8\r\n/FN 1275\r\n0227                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KTPA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KRDU"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "022"
+        }
+      ]
+    },
+    {
+      "id": 6547952344,
+      "label": "39",
+      "text": "UA 01:31,UA 01:35,FV 01:29,IN PROCESS,\r\n\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Operational Coordination Message",
+      "items": []
+    },
+    {
+      "id": 6547946839,
+      "label": "39",
+      "text": "220139 KMSP KCLT7\r\n0300                                   \r\n/TCI [  ]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KMSP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCLT"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "7"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "03:00"
+        }
+      ]
+    },
+    {
+      "id": 6547946838,
+      "label": "39",
+      "text": "220139 KMSP KCLT7\r\n0300                                   \r\n/TCI [  ]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KMSP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCLT"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "7"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "03:00"
+        }
+      ]
+    },
+    {
+      "id": 6547941360,
+      "label": "39",
+      "text": "220139 KDTW KAUS8\r\n/FN 2578\r\n0224                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KDTW"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KAUS"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "022"
+        }
+      ]
+    },
+    {
+      "id": 6547941359,
+      "label": "39",
+      "text": "220139 KDTW KAUS8\r\n/FN 2578\r\n0224                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KDTW"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KAUS"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "022"
+        }
+      ]
+    },
+    {
+      "id": 6547937480,
+      "label": "39",
+      "text": "220139 KTPA KJFK8\r\n/FN 2092\r\n0159                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KTPA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KJFK"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "015"
+        }
+      ]
+    },
+    {
+      "id": 6547937313,
+      "label": "39",
+      "text": "220139 KTPA KJFK8\r\n/FN 2092\r\n0159                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KTPA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KJFK"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "015"
+        }
+      ]
+    },
+    {
+      "id": 6547937311,
+      "label": "39",
+      "text": "220139 KTPA KJFK8\r\n/FN 2092\r\n0159                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KTPA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KJFK"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "015"
+        }
+      ]
+    },
+    {
+      "id": 6547936560,
+      "label": "39",
+      "text": "220139  JAX  LGA3\r\n0205 N                         \r\n01                 4\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "JAX"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LGA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:05"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "01"
+        }
+      ]
+    },
+    {
+      "id": 6547936556,
+      "label": "39",
+      "text": "220139  JAX  LGA3\r\n0205 N                         \r\n01                 4\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "JAX"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LGA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:05"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "01"
+        }
+      ]
+    },
+    {
+      "id": 6547935156,
+      "label": "39",
+      "text": "220139  ORF  LGA3\r\n0210 N                         \r\n                    \r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ORF"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LGA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:10"
+        }
+      ]
+    },
+    {
+      "id": 6547935151,
+      "label": "39",
+      "text": "220139  ORF  LGA3\r\n0210 N                         \r\n                    \r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ORF"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LGA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:10"
+        }
+      ]
+    },
+    {
+      "id": 6547935149,
+      "label": "39",
+      "text": "220139  ORF  LGA3\r\n0210 N                         \r\n                    \r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ORF"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LGA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:10"
+        }
+      ]
+    },
+    {
+      "id": 6547982592,
+      "label": "39",
+      "text": "220139 KBOS KMCO8\r\n/FN 1513\r\n0229                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KBOS"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KMCO"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "022"
+        }
+      ]
+    },
+    {
+      "id": 6547982577,
+      "label": "39",
+      "text": "220139 KDCA KATL8\r\n/FN 1140\r\n0210                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KDCA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KATL"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "021"
+        }
+      ]
+    },
+    {
+      "id": 6547978623,
+      "label": "39",
+      "text": "220139 KDTW KEWR7\r\n0242                                   \r\n/TCI [  ]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KDTW"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KEWR"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "7"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:42"
+        }
+      ]
+    },
+    {
+      "id": 6547978099,
+      "label": "39",
+      "text": "220139 KMSP KPHX8\r\n/FN 2297\r\n0239                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KMSP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KPHX"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "023"
+        }
+      ]
+    },
+    {
+      "id": 6547978075,
+      "label": "39",
+      "text": "220139 KJFK KTPA7\r\n0220                                   \r\n/TCI [  ]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KJFK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KTPA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "7"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:20"
+        }
+      ]
+    },
+    {
+      "id": 6547976702,
+      "label": "39",
+      "text": "220139 KMSP KPHX8\r\n/FN 2297\r\n0239                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KMSP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KPHX"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "023"
+        }
+      ]
+    },
+    {
+      "id": 6547975882,
+      "label": "39",
+      "text": "220139 KMSP KPHX8\r\n/FN 2297\r\n0239                                   \r\n/TCI     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KMSP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KPHX"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "8"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "023"
+        }
+      ]
+    },
+    {
+      "id": 6547975436,
+      "label": "39",
+      "text": "220139  BGR  LGA3\r\n0201                           \r\n                    \r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "BGR"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LGA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:01"
+        }
+      ]
+    },
+    {
+      "id": 6547975430,
+      "label": "39",
+      "text": "220139  BGR  LGA3\r\n0201                           \r\n                    \r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "BGR"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LGA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:01"
+        }
+      ]
+    },
+    {
+      "id": 6547973973,
+      "label": "39",
+      "text": "220139 KCLT KMSP7\r\n0238                                   \r\n/TCI [  ]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KCLT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KMSP"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "7"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:38"
+        }
+      ]
+    },
+    {
+      "id": 6547973746,
+      "label": "39",
+      "text": "220139 KBNA KLGA7\r\n0234                                   \r\n/TCI [  ]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KBNA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "7"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:34"
+        }
+      ]
+    },
+    {
+      "id": 6547973744,
+      "label": "39",
+      "text": "220139 KBNA KLGA7\r\n0234                                   \r\n/TCI [  ]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KBNA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLGA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "7"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:34"
+        }
+      ]
+    },
+    {
+      "id": 6547971340,
+      "label": "39",
+      "text": "220139  CLT  LGA3\r\n0300                           \r\n                   4\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "CLT"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "LGA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "03:00"
+        },
+        {
+          "type": "service_code",
+          "code": "SVCCODE",
+          "label": "Service Code",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "id": 6548001740,
+      "label": "39",
+      "text": "220139  XNA  DTW3\r\n0231 N                         \r\n                    \r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "XNA"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "DTW"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:31"
+        }
+      ]
+    },
+    {
+      "id": 6548001738,
+      "label": "39",
+      "text": "220139  XNA  DTW3\r\n0231 N                         \r\n                    \r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "XNA"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "DTW"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:31"
+        }
+      ]
+    },
+    {
+      "id": 6548001536,
+      "label": "39",
+      "text": "220139  XNA  DTW3\r\n0231 N                         \r\n                    \r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Operational Coordination Message",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Operational Coordination (Label 39)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:39:00"
+        },
+        {
+          "type": "iata",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "XNA"
+        },
+        {
+          "type": "iata",
+          "code": "DST",
+          "label": "Destination",
+          "value": "DTW"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "3"
+        },
+        {
+          "type": "estimated_time",
+          "code": "ETA",
+          "label": "Estimated Time (UTC, HHMM)",
+          "value": "02:31"
+        }
+      ]
+    }
+  ]
+}

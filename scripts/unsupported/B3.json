@@ -1,0 +1,97 @@
+{
+  "count": 15,
+  "entries": [
+    {
+      "id": 6548590569,
+      "label": "B3",
+      "text": "/CYYC.DC1/RCD 040\r\nWJA479-CYYC-GATE C53-CYXX\r\nATIS N\r\n-TYP/B737\r\n-RMK/E028"
+    },
+    {
+      "id": 6548590924,
+      "label": "B3",
+      "text": "/LSZH.DC1/RCD 040\r\nSWR883P-LSZH-GATE B35-EHAM\r\nATIS S\r\n-TYP/A20N\r\n-RMK/30C5"
+    },
+    {
+      "id": 6548591470,
+      "label": "B3",
+      "text": "/EFHK.DC1/RCD 000\r\nFIN85P-EFHK-GATE W35-GCLP\r\nATIS U\r\n-TYP/A35079DD"
+    },
+    {
+      "id": 6548603537,
+      "label": "B3",
+      "text": "/LSZH.DC1/RCD 040\r\nSWR2CL-LSZH-GATE A44-LIRF\r\nATIS S\r\n-TYP/A21N\r\n-RMK/C9F7"
+    },
+    {
+      "id": 6548607685,
+      "label": "B3",
+      "text": "/CYVR.DC1/RCD 024\r\nJZA26-CYVR-GATE 29-CYZF\r\nATIS J\r\n-TYP/CRJ7D6BD"
+    },
+    {
+      "id": 6548607684,
+      "label": "B3",
+      "text": "/CYVR.DC1/RCD 024\r\nJZA26-CYVR-GATE 29-CYZF\r\nATIS J\r\n-TYP/CRJ7D6BD"
+    },
+    {
+      "id": 6548610597,
+      "label": "B3",
+      "text": "/CYYC.DC1/RCD 040\r\nWJA189-CYYC-GATE 78-CYLW\r\nATIS N\r\n-TYP/B7375471"
+    },
+    {
+      "id": 6548681740,
+      "label": "B3",
+      "text": "/LEVC.DC1/RCD 024\r\nANE2377-LEVC-GATE 51-LEBL\r\nATIS R\r\n-TYP/CRJX597C"
+    },
+    {
+      "id": 6548683111,
+      "label": "B3",
+      "text": "/LSZH.DC1/RCD 024\r\nSWR9Q-LSZH-GATE B38-EDDL\r\nATIS T\r\n-TYP/BCS31D12"
+    },
+    {
+      "id": 6548683339,
+      "label": "B3",
+      "text": "/LSZH.DC1/RCD 024\r\nSWR9Q-LSZH-GATE B38-EDDL\r\nATIS T\r\n-TYP/BCS31D12"
+    },
+    {
+      "id": 6548698428,
+      "label": "B3",
+      "text": "/LSZH.DC1/RCD 024\r\nTHY5SY-LSZH-GATE E58-LTFM\r\nATIS U\r\n-TYP/A3217269"
+    },
+    {
+      "id": 6548698906,
+      "label": "B3",
+      "text": "/LSZH.DC1/RCD 024\r\nAUA148-LSZH-GATE D15-LOWW\r\nATIS U\r\n-TYP/A320\r\n-RMK/4637"
+    },
+    {
+      "id": 6548722867,
+      "label": "B3",
+      "text": "/LSZH.DC1/RCD 040\r\nCFG7NV-LSZH-GATE D17-EDDF\r\nATIS T\r\n-TYP/A320\r\n-RMK/C4D7"
+    },
+    {
+      "id": 6548727713,
+      "label": "B3",
+      "text": "/EGPH.DC1/RCD 040\r\nSHT9E-EGPH-GATE 6-EGLL\r\nATIS V\r\n-TYP/A20N\r\n-RMK/FC0F"
+    },
+    {
+      "id": 6548814560,
+      "label": "B3",
+      "text": "/LSZH.DC1/RCD 024\r\nSWR4GP-LSZH-GATE B41-LKPR\r\nATIS V\r\n-TYP/E19566B3"
+    }
+  ],
+  "ids": {
+    "6548590569": 1,
+    "6548590924": 1,
+    "6548591470": 1,
+    "6548603537": 1,
+    "6548607685": 1,
+    "6548607684": 1,
+    "6548610597": 1,
+    "6548681740": 1,
+    "6548683111": 1,
+    "6548683339": 1,
+    "6548698428": 1,
+    "6548698906": 1,
+    "6548722867": 1,
+    "6548727713": 1,
+    "6548814560": 1
+  }
+}

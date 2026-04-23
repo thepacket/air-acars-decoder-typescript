@@ -1,0 +1,973 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547231934,
+      "label": "24",
+      "text": "222224 KJFK KFLL6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KJFK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KFLL"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "22:24"
+        }
+      ]
+    },
+    {
+      "id": 6547267282,
+      "label": "24",
+      "text": "222224 KATL KHSV6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KATL"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KHSV"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "22:24"
+        }
+      ]
+    },
+    {
+      "id": 6547318205,
+      "label": "24",
+      "text": "222224 KJFK KAUS6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KJFK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KAUS"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "22:24"
+        }
+      ]
+    },
+    {
+      "id": 6547318203,
+      "label": "24",
+      "text": "222224 KJFK KAUS6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KJFK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KAUS"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "22:24"
+        }
+      ]
+    },
+    {
+      "id": 6547318202,
+      "label": "24",
+      "text": "222224 KJFK KAUS6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KJFK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KAUS"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "22:24"
+        }
+      ]
+    },
+    {
+      "id": 6547318199,
+      "label": "24",
+      "text": "222224 KJFK KAUS6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KJFK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KAUS"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "22:24"
+        }
+      ]
+    },
+    {
+      "id": 6547318198,
+      "label": "24",
+      "text": "222224 KJFK KAUS6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KJFK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KAUS"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "22:24"
+        }
+      ]
+    },
+    {
+      "id": 6547318196,
+      "label": "24",
+      "text": "222224 KJFK KAUS6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KJFK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KAUS"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "22:24"
+        }
+      ]
+    },
+    {
+      "id": 6547328729,
+      "label": "24",
+      "text": "222224 KMDW KATL7\r\n/FN 1728",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547328723,
+      "label": "24",
+      "text": "222224 KMDW KATL7\r\n/FN 1728",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547966678,
+      "label": "24",
+      "text": "220124 KMSP KDCA7\r\n/FN 2961",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547966677,
+      "label": "24",
+      "text": "220124 KMSP KDCA7\r\n/FN 2961",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547966676,
+      "label": "24",
+      "text": "220124 KMSP KDCA7\r\n/FN 2961",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547966675,
+      "label": "24",
+      "text": "220124 KMSP KDCA7\r\n/FN 2961",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547961483,
+      "label": "24",
+      "text": "220124 KSEA PANC6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KSEA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "PANC"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "01:24"
+        }
+      ]
+    },
+    {
+      "id": 6547961405,
+      "label": "24",
+      "text": "220124  RIC  LGA0\r\nRIC LGA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547961404,
+      "label": "24",
+      "text": "220124  RIC  LGA0\r\nRIC LGA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547961403,
+      "label": "24",
+      "text": "220124  RIC  LGA0\r\nRIC LGA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547961401,
+      "label": "24",
+      "text": "220124  RIC  LGA0\r\nRIC LGA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547961400,
+      "label": "24",
+      "text": "220124  RIC  LGA0\r\nRIC LGA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547961399,
+      "label": "24",
+      "text": "220124  RIC  LGA0\r\nRIC LGA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547961398,
+      "label": "24",
+      "text": "220124  RIC  LGA0\r\nRIC LGA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547954506,
+      "label": "24",
+      "text": "220124  JFK  DCA0\r\nJFK DCA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547954505,
+      "label": "24",
+      "text": "220124  JFK  DCA0\r\nJFK DCA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547950865,
+      "label": "24",
+      "text": "220124  JFK  RDU0\r\nJFK RDU",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547950503,
+      "label": "24",
+      "text": "220124 KDTW KSAT7\r\n/FN 1365",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547950501,
+      "label": "24",
+      "text": "220124 KDTW KSAT7\r\n/FN 1365",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547950184,
+      "label": "24",
+      "text": "220124  DTW  YUL0\r\nDTW YUL",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547949450,
+      "label": "24",
+      "text": "220124 KDTW KSAT7\r\n/FN 1365",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547949449,
+      "label": "24",
+      "text": "220124 KDTW KSAT7\r\n/FN 1365",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547949447,
+      "label": "24",
+      "text": "220124 KDTW KSAT7\r\n/FN 1365",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547946483,
+      "label": "24",
+      "text": "220124 KSJC KLAX7\r\n/FN 1438",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547946482,
+      "label": "24",
+      "text": "220124 KSJC KLAX7\r\n/FN 1438",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547946478,
+      "label": "24",
+      "text": "220124 KSJC KLAX7\r\n/FN 1438",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547946116,
+      "label": "24",
+      "text": "220124 KMSP KCLT6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KMSP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCLT"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "01:24"
+        }
+      ]
+    },
+    {
+      "id": 6547946110,
+      "label": "24",
+      "text": "220124 KMSP KCLT6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KMSP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCLT"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "01:24"
+        }
+      ]
+    },
+    {
+      "id": 6547946103,
+      "label": "24",
+      "text": "220124 KMSP KCLT6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KMSP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KCLT"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "01:24"
+        }
+      ]
+    },
+    {
+      "id": 6547945414,
+      "label": "24",
+      "text": "220124 KMSP KDFW7\r\n/FN 2967",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547940735,
+      "label": "24",
+      "text": "220124 KATL KBTV7\r\n/FN 1027",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547940301,
+      "label": "24",
+      "text": "Note\n\tACARS CREW LIST FOR: SK0984 23APR26\n\tHND 0205 CPH 1525 35A LEG  01 OF 01\n\tCAT DT  EMPNO  B NAME                 QUAL SEN  PREV     NEXT\n\tFCQ C   23785  C AGDAL NICHOLAS       A5   1143 C.983 /  /F\n\tFC  CL  23635  C BUELOW STEFAN        A5   1111 CL.983 / /F\n\tFP  L   99554  C CRONVAL PHILIP       A5   2348 L.983 /  /F\n\tAP  IR  21503  C HEMPEL CHARLOTTE     ALA2 0154 IR.983 / /F\n\tAS      28712  C ERIKSSON CHRISTEL    ALA2 0154 983 / -/ /F\n\tAS      20200  C VENTZEL GROENNING JO ALA2 0212 983 / -/ /F\n\tASF     21688  C LARSSON JOHAN MARIO  ALA2 0479 983 / -/ /F\n\tAHC     29295  C KROELL GITTE H.      ALA2 0047 983 / -/ /FS\n\tAS  L   21217  C PERNUM MARIE         ALA2 0221 L.983 /  /F\n\tAH      100982 C FROM FREDERIKKE      ALA2 0857 983 / -/ /F\n\tAH  R   101521 C PAULS AGNES          ALA2 9999 R.983 /  /F\n\tAH      54864  N HOMMA ASUKA          AL   9999 BL/      / /\n\t/983\n\tAH      102209 C LID MARTHE WOLSTAD   ALA2 9999 983 / -/ /F\n\tEND CREW LIST",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547940298,
+      "label": "24",
+      "text": "Note\n\tACARS CREW LIST FOR: SK0984 23APR26\n\tHND 0205 CPH 1525 35A LEG  01 OF 01\n\tCAT DT  EMPNO  B NAME                 QUAL SEN  PREV     NEXT\n\tFCQ C   23785  C AGDAL NICHOLAS       A5   1143 C.983 /  /F\n\tFC  CL  23635  C BUELOW STEFAN        A5   1111 CL.983 / /F\n\tFP  L   99554  C CRONVAL PHILIP       A5   2348 L.983 /  /F\n\tAP  IR  21503  C HEMPEL CHARLOTTE     ALA2 0154 IR.983 / /F\n\tAS      28712  C ERIKSSON CHRISTEL    ALA2 0154 983 / -/ /F\n\tAS      20200  C VENTZEL GROENNING JO ALA2 0212 983 / -/ /F\n\tASF     21688  C LARSSON JOHAN MARIO  ALA2 0479 983 / -/ /F\n\tAHC     29295  C KROELL GITTE H.      ALA2 0047 983 / -/ /FS\n\tAS  L   21217  C PERNUM MARIE         ALA2 0221 L.983 /  /F\n\tAH      100982 C FROM FREDERIKKE      ALA2 0857 983 / -/ /F\n\tAH  R   101521 C PAULS AGNES          ALA2 9999 R.983 /  /F\n\tAH      54864  N HOMMA ASUKA          AL   9999 BL/      / /\n\t/983\n\tAH      102209 C LID MARTHE WOLSTAD   ALA2 9999 983 / -/ /F\n\tEND CREW LIST",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547936953,
+      "label": "24",
+      "text": "220124 KMSP KGEG6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KMSP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KGEG"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "01:24"
+        }
+      ]
+    },
+    {
+      "id": 6547935360,
+      "label": "24",
+      "text": "220124  ORF  LGA0\r\nORF LGA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547935354,
+      "label": "24",
+      "text": "220124  ORF  LGA0\r\nORF LGA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547935348,
+      "label": "24",
+      "text": "220124  ORF  LGA0\r\nORF LGA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547935343,
+      "label": "24",
+      "text": "220124  ORF  LGA0\r\nORF LGA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547981364,
+      "label": "24",
+      "text": "220124 KATL KBUF7\r\n/FN 2334",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547980696,
+      "label": "24",
+      "text": "220124 KFLL KBOS6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Flight Movement Notification (Label 24)"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:24:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KFLL"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KBOS"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC, HHMM)",
+          "value": "01:24"
+        }
+      ]
+    },
+    {
+      "id": 6547979770,
+      "label": "24",
+      "text": "220124  MSP  JFK0\r\nMSP JFK",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    },
+    {
+      "id": 6547979766,
+      "label": "24",
+      "text": "220124  MSP  JFK0\r\nMSP JFK",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Flight Movement Notification (Label 24)",
+      "items": []
+    }
+  ]
+}

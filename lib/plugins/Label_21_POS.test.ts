@@ -25,39 +25,43 @@ describe('Label_21_POS', () => {
       'POSN 39.841W 75.790, 220,184218,17222,22051,  34,- 4,204748,KTPA';
     const decodeResult = plugin.decode(message);
     expect(decodeResult.decoded).toBe(true);
-    expect(decodeResult.decoder.decodeLevel).toBe('partial');
-    expect(decodeResult.formatted.items.length).toBe(6);
-    expect(decodeResult.formatted.items[0].type).toBe('aircraft_position');
-    expect(decodeResult.formatted.items[0].code).toBe('POS');
-    expect(decodeResult.formatted.items[0].label).toBe('Aircraft Position');
-    expect(decodeResult.formatted.items[0].value).toBe('39.840 N, 75.790 W');
-    expect(decodeResult.formatted.items[1].type).toBe('time');
-    expect(decodeResult.formatted.items[1].code).toBe('TIMESTAMP');
-    expect(decodeResult.formatted.items[1].label).toBe('Message Timestamp');
-    expect(decodeResult.formatted.items[1].value).toBe('18:42:18');
-    expect(decodeResult.formatted.items[2].type).toBe('altitude');
-    expect(decodeResult.formatted.items[2].code).toBe('ALT');
-    expect(decodeResult.formatted.items[2].label).toBe('Altitude');
-    expect(decodeResult.formatted.items[2].value).toBe('17222 feet');
-    expect(decodeResult.formatted.items[3].type).toBe(
-      'outside_air_temperature',
-    );
-    expect(decodeResult.formatted.items[3].code).toBe('OATEMP');
-    expect(decodeResult.formatted.items[3].label).toBe(
-      'Outside Air Temperature (C)',
-    );
-    expect(decodeResult.formatted.items[3].value).toBe('-4 degrees');
-    expect(decodeResult.formatted.items[4].type).toBe('time');
-    expect(decodeResult.formatted.items[4].code).toBe('ETA');
-    expect(decodeResult.formatted.items[4].label).toBe(
-      'Estimated Time of Arrival',
-    );
-    expect(decodeResult.formatted.items[4].value).toBe('20:47:48');
-    expect(decodeResult.formatted.items[5].type).toBe('icao');
-    expect(decodeResult.formatted.items[5].code).toBe('DST');
-    expect(decodeResult.formatted.items[5].label).toBe('Destination');
-    expect(decodeResult.formatted.items[5].value).toBe('KTPA');
-    expect(decodeResult.remaining.text).toBe(' 220,22051,  34');
+    expect(decodeResult.decoder.decodeLevel).toBe('full');
+    expect(decodeResult.formatted.items).toEqual([
+      {
+        type: 'aircraft_position',
+        code: 'POS',
+        label: 'Aircraft Position',
+        value: '39.841 N, 75.790 W',
+      },
+      { type: 'track', code: 'TRK', label: 'Ground Track', value: '220°' },
+      {
+        type: 'time',
+        code: 'TIMESTAMP',
+        label: 'Message Timestamp',
+        value: '18:42:18',
+      },
+      { type: 'altitude', code: 'ALT', label: 'Altitude', value: '17222 feet' },
+      {
+        type: 'ground_speed',
+        code: 'GS',
+        label: 'Ground Speed',
+        value: '220.51 kt',
+      },
+      { type: 'wind_speed', code: 'WIND', label: 'Wind Speed', value: '34 kt' },
+      {
+        type: 'outside_air_temperature',
+        code: 'OATEMP',
+        label: 'Outside Air Temperature (C)',
+        value: '-4 degrees',
+      },
+      {
+        type: 'time',
+        code: 'ETA',
+        label: 'Estimated Time of Arrival',
+        value: '20:47:48',
+      },
+      { type: 'icao', code: 'DST', label: 'Destination', value: 'KTPA' },
+    ]);
   });
 
   test('does not decode invalid', () => {

@@ -1,0 +1,297 @@
+[round 1 t=0s offset=0 excl=_d,Q0,H1,10,22,33,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=9 labels_missing=16
+[round 2 t=4s offset=100 excl=_d,Q0,H1,10,22,33,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=6 labels_missing=16
+[round 3 t=8s offset=200 excl=_d,Q0,H1,10,22,33,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=3 labels_missing=16
+[round 4 t=13s offset=300 excl=_d,Q0,H1,10,22,33,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=7 labels_missing=16
+[round 5 t=17s offset=400 excl=_d,Q0,H1,10,22,33,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=1 labels_missing=16
+[round 6 t=22s offset=500 excl=_d,Q0,H1,10,22,33,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=3 labels_missing=15
+[round 7 t=27s offset=600 excl=_d,Q0,H1,10,22,24,33,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=7 labels_missing=15
+[round 8 t=31s offset=700 excl=_d,Q0,H1,10,22,24,33,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=2 labels_missing=15
+[round 9 t=36s offset=800 excl=_d,Q0,H1,10,22,24,33,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=2 labels_missing=14
+[round 10 t=46s offset=900 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=1 labels_missing=14
+[round 11 t=56s offset=1000 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=1 labels_missing=14
+[round 12 t=65s offset=1100 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=2 labels_missing=14
+[round 13 t=74s offset=1200 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=1 labels_missing=14
+[round 14 t=84s offset=1300 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=10 labels_missing=14
+[round 15 t=94s offset=1400 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=4 labels_missing=14
+[round 16 t=104s offset=1500 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=0 labels_missing=14
+[round 17 t=113s offset=1600 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=1 labels_missing=14
+[round 18 t=123s offset=1700 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=4 labels_missing=14
+[round 19 t=132s offset=1800 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=3 labels_missing=14
+[round 20 t=142s offset=1900 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=3 labels_missing=14
+[round 21 t=151s offset=2000 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=1 labels_missing=14
+[round 22 t=160s offset=2100 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=4 labels_missing=14
+[round 23 t=170s offset=2200 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=5 labels_missing=14
+[round 24 t=180s offset=2300 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=7 labels_missing=14
+[round 25 t=189s offset=2400 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=2 labels_missing=14
+[round 26 t=199s offset=2500 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B9,BA,C1,SA] added=2 labels_missing=13
+[round 27 t=209s offset=2600 excl=_d,Q0,H1,10,22,24,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=9 labels_missing=12
+[round 28 t=219s offset=2700 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=12
+[round 29 t=229s offset=2800 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=12
+[round 30 t=239s offset=2900 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=12
+[round 31 t=249s offset=3000 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=12
+[round 32 t=259s offset=3100 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=12
+[round 33] API error HTTP=500
+[round 34 t=322s offset=3200 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=12
+[round 35 t=349s offset=3300 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=12
+[round 36] API error HTTP=500
+[round 37 t=413s offset=3400 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=12
+[round 38 t=437s offset=3500 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=12
+[round 39 t=459s offset=3600 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=12
+[round 40] API error HTTP=500
+[round 41] API error HTTP=500
+[round 42 t=545s offset=3700 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=12
+[round 43] API error HTTP=500
+[round 44] API error HTTP=500
+[round 45] API error HTTP=500
+[round 46 t=661s offset=3800 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=12
+[round 47] API error HTTP=500
+[round 48] API error HTTP=500
+[round 49] API error HTTP=500
+[round 50] API error HTTP=500
+[round 51] API error HTTP=500
+[round 52] API error HTTP=500
+[round 53 t=886s offset=3900 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=5 labels_missing=11
+[round 54 t=909s offset=4000 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=2 labels_missing=11
+[round 55 t=929s offset=4100 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=11
+[round 56 t=950s offset=4200 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=11
+[round 57] API error HTTP=500
+[round 58] API error HTTP=500
+[round 59 t=1041s offset=4300 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=4 labels_missing=11
+[round 60 t=1069s offset=4400 excl=_d,Q0,H1,10,22,24,25,33,36,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=4 labels_missing=10
+[round 61 t=1100s offset=4500 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=10
+[round 62 t=1123s offset=4600 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=10
+[round 63 t=1144s offset=4700 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=10
+[round 64] API error HTTP=500
+[round 65] API error HTTP=500
+[round 66] API error HTTP=500
+[round 67 t=1266s offset=4800 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=10
+[round 68 t=1291s offset=4900 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=5 labels_missing=10
+[round 69] API error HTTP=500
+[round 70 t=1355s offset=5000 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=10
+[round 71 t=1382s offset=5100 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=10
+[round 72 t=1401s offset=5200 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=6 labels_missing=10
+[round 73] API error HTTP=500
+[round 74 t=1456s offset=5300 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=10
+[round 75 t=1479s offset=5400 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=10
+[round 76 t=1499s offset=5500 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=10
+[round 77 t=1529s offset=5600 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=2 labels_missing=10
+[round 78] API error HTTP=500
+[round 79] API error HTTP=500
+[round 80 t=1614s offset=5700 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=3 labels_missing=10
+[round 81 t=1641s offset=5800 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=10
+[round 82 t=1663s offset=5900 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=10
+[round 83 t=1693s offset=6000 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=4 labels_missing=10
+[round 84 t=1720s offset=6100 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=3 labels_missing=10
+[round 85] API error HTTP=500
+[round 86 t=1782s offset=6200 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=6 labels_missing=10
+[round 87] API error HTTP=500
+[round 88 t=1896s offset=6300 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=2 labels_missing=10
+[round 89 t=1930s offset=6400 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=2 labels_missing=10
+[round 90 t=1951s offset=6500 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=10
+[round 91 t=1979s offset=6600 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=2 labels_missing=10
+[round 92] API error HTTP=500
+[round 93 t=2036s offset=6700 excl=_d,Q0,H1,10,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=5 labels_missing=9
+[round 94 t=2066s offset=6800 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 95 t=2097s offset=6900 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=2 labels_missing=9
+[round 96] API error HTTP=500
+[round 97 t=2150s offset=7000 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 98 t=2173s offset=7100 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=3 labels_missing=9
+[round 99] API error HTTP=500
+[round 100 t=2227s offset=7200 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=9
+[round 101 t=2247s offset=7300 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 102] API error HTTP=500
+[round 103 t=2301s offset=7400 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=9
+[round 104 t=2322s offset=7500 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=9
+[round 105 t=2348s offset=7600 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=9
+[round 106] API error HTTP=500
+[round 107] API error HTTP=500
+[round 108 t=2432s offset=7700 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=6 labels_missing=9
+[round 109] API error HTTP=500
+[round 110] API error HTTP=500
+[round 111] API error HTTP=500
+[round 112] API error HTTP=500
+[round 113] API error HTTP=500
+[round 114] API error HTTP=500
+[round 115] API error HTTP=500
+[round 116 t=2687s offset=7800 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=6 labels_missing=9
+[round 117 t=2717s offset=7900 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 118] API error HTTP=500
+[round 119] API error HTTP=500
+[round 120] API error HTTP=500
+[round 121 t=2846s offset=8000 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 122] API error HTTP=500
+[round 123 t=2902s offset=8100 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=7 labels_missing=9
+[round 124] API error HTTP=500
+[round 125 t=2962s offset=8200 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=4 labels_missing=9
+[round 126] API error HTTP=500
+[round 127] API error HTTP=500
+[round 128 t=3051s offset=8300 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=9
+[round 129 t=3077s offset=8400 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=9
+[round 130 t=3102s offset=8500 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 131 t=3127s offset=8600 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=3 labels_missing=9
+[round 132 t=3147s offset=8700 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=9
+[round 133 t=3173s offset=8800 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 134 t=3197s offset=8900 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=9
+[round 135 t=3218s offset=9000 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 136 t=3247s offset=9100 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=1 labels_missing=9
+[round 137 t=3272s offset=9200 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 138 t=3295s offset=9300 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 139 t=3318s offset=9400 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=3 labels_missing=9
+[round 140] API error HTTP=500
+[round 141] API error HTTP=500
+[round 142 t=3412s offset=9500 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 143] API error HTTP=500
+[round 144] API error HTTP=500
+[round 145 t=3496s offset=9600 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=2 labels_missing=9
+[round 146 t=3519s offset=9700 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 147 t=3540s offset=9800 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 148 t=3560s offset=9900 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=0 labels_missing=9
+[round 149] API error HTTP=500
+[round 150] API error HTTP=500
+[round 151] API error HTTP=500
+[round 152 t=3687s offset=10000 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=6 labels_missing=8
+[round 153] API error HTTP=500
+[round 154 t=3747s offset=10100 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,SA] added=7 labels_missing=7
+[round 155 t=3778s offset=10200 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=2 labels_missing=7
+[round 156] API error HTTP=500
+[round 157] API error HTTP=500
+[round 158] API error HTTP=500
+[round 159 t=3895s offset=10300 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=7
+[round 160] API error HTTP=500
+[round 161 t=3949s offset=10400 excl=_d,Q0,H1,10,17,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=6 labels_missing=6
+[round 162] API error HTTP=500
+[round 163] API error HTTP=500
+[round 164] API error HTTP=500
+[round 165 t=4070s offset=10500 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=6
+[round 166] API error HTTP=500
+[round 167] API error HTTP=500
+[round 168 t=4155s offset=10600 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=6
+[round 169] API error HTTP=500
+[round 170] API error HTTP=500
+[round 171] API error HTTP=500
+[round 172] API error HTTP=500
+[round 173 t=4305s offset=10700 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=2 labels_missing=6
+[round 174] API error HTTP=500
+[round 175 t=4360s offset=10800 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=1 labels_missing=6
+[round 176 t=4380s offset=10900 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=6
+[round 177 t=4404s offset=11000 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=6
+[round 178] API error HTTP=500
+[round 179] API error HTTP=500
+[round 180 t=4499s offset=11100 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=1 labels_missing=6
+[round 181 t=4519s offset=11200 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=6
+[round 182 t=4542s offset=11300 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=6
+[round 183 t=4573s offset=11400 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=1 labels_missing=6
+[round 184] API error HTTP=500
+[round 185 t=4627s offset=11500 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=3 labels_missing=6
+[round 186] API error HTTP=500
+[round 187 t=4683s offset=11600 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=2 labels_missing=6
+[round 188 t=4702s offset=11700 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=6
+[round 189] API error HTTP=500
+[round 190 t=4757s offset=11800 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=5 labels_missing=6
+[round 191] API error HTTP=500
+[round 192 t=4814s offset=11900 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=2 labels_missing=5
+[round 193 t=4841s offset=12000 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 194 t=4861s offset=12100 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 195] API error HTTP=500
+[round 196] API error HTTP=500
+[round 197 t=4946s offset=12200 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 198 t=4968s offset=12300 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 199] API error HTTP=500
+[round 200] API error HTTP=500
+[round 201 t=5052s offset=12400 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=2 labels_missing=5
+[round 202] API error HTTP=500
+[round 203] API error HTTP=500
+[round 204] API error HTTP=500
+[round 205 t=5176s offset=12500 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 206 t=5205s offset=12600 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=2 labels_missing=5
+[round 207] API error HTTP=000
+[round 208] API error HTTP=500
+[round 209 t=5964s offset=12700 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 210 t=5993s offset=12800 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 211 t=6019s offset=12900 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=1 labels_missing=5
+[round 212] API error HTTP=500
+[round 213] API error HTTP=500
+[round 214 t=6108s offset=13000 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 215 t=6130s offset=13100 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 216] API error HTTP=500
+[round 217] API error HTTP=500
+[round 218] API error HTTP=500
+[round 219] API error HTTP=500
+[round 220 t=6285s offset=13200 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=1 labels_missing=5
+[round 221] API error HTTP=500
+[round 222 t=6340s offset=13300 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 223] API error HTTP=500
+[round 224] API error HTTP=500
+[round 225] API error HTTP=500
+[round 226] API error HTTP=500
+[round 227] API error HTTP=500
+[round 228 t=6524s offset=13400 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=12 labels_missing=5
+[round 229 t=6680s offset=13500 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=4 labels_missing=5
+[round 230 t=6703s offset=13600 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 231 t=6733s offset=13700 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 232] API error HTTP=500
+[round 233] API error HTTP=500
+[round 234] API error HTTP=500
+[round 235] API error HTTP=500
+[round 236] API error HTTP=500
+[round 237 t=6925s offset=13800 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=1 labels_missing=5
+[round 238 t=6948s offset=13900 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 239 t=6970s offset=14000 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=2 labels_missing=5
+[round 240 t=7001s offset=14100 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=1 labels_missing=5
+[round 241 t=7024s offset=14200 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 242 t=7044s offset=14300 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 243 t=7065s offset=14400 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 244 t=7087s offset=14500 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 245] API error HTTP=500
+[round 246] API error HTTP=500
+[round 247] API error HTTP=500
+[round 248] API error HTTP=500
+[round 249 t=7236s offset=14600 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 250 t=7269s offset=14700 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=1 labels_missing=5
+[round 251] API error HTTP=500
+[round 252 t=7332s offset=14800 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=7 labels_missing=5
+[round 253 t=7359s offset=14900 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 254 t=7378s offset=15000 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 255 t=7398s offset=15100 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 256] API error HTTP=500
+[round 257 t=7452s offset=15200 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 258] API error HTTP=500
+[round 259] API error HTTP=500
+[round 260] API error HTTP=500
+[round 261] API error HTTP=500
+[round 262] API error HTTP=500
+[round 263] API error HTTP=500
+[round 264 t=7667s offset=15300 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 265 t=7689s offset=15400 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 266 t=7721s offset=15500 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 267 t=7746s offset=15600 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 268 t=7778s offset=15700 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=5
+[round 269 t=7811s offset=15800 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=3 labels_missing=5
+[round 270 t=7841s offset=15900 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=1 labels_missing=5
+[round 271] API error HTTP=500
+[round 272 t=7902s offset=16000 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=3 labels_missing=5
+[round 273] API error HTTP=500
+[round 274] API error HTTP=500
+[round 275 t=7995s offset=16100 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=5 labels_missing=4
+[round 276 t=8024s offset=16200 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,81,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=4
+[round 277 t=8055s offset=16300 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,81,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=4
+[round 278] API error HTTP=500
+[round 279] API error HTTP=500
+[round 280 t=8140s offset=16400 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,81,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=11 labels_missing=4
+[round 281 t=8170s offset=16500 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,81,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=4
+[round 282] API error HTTP=500
+[round 283] API error HTTP=500
+[round 284] API error HTTP=500
+[round 285] API error HTTP=500
+[round 286] API error HTTP=500
+[round 287 t=8353s offset=16600 excl=_d,Q0,H1,10,17,18,22,24,25,33,36,39,3L,41,52,5U,5Z,81,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=5 labels_missing=3
+[round 288] API error HTTP=500
+[round 289] API error HTTP=500
+[round 290 t=8444s offset=16700 excl=_d,Q0,H1,10,17,18,22,24,25,2F,33,36,39,3L,41,52,5U,5Z,81,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=3
+[round 291 t=8577s offset=16800 excl=_d,Q0,H1,10,17,18,22,24,25,2F,33,36,39,3L,41,52,5U,5Z,81,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=1 labels_missing=2
+[round 292 t=8598s offset=16900 excl=_d,Q0,H1,10,17,18,22,24,25,26,2F,33,36,39,3L,41,52,5U,5Z,81,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=2
+[round 293] API error HTTP=500
+[round 294] API error HTTP=500
+[round 295] API error HTTP=500
+[round 296 t=8725s offset=17000 excl=_d,Q0,H1,10,17,18,22,24,25,26,2F,33,36,39,3L,41,52,5U,5Z,81,A0,A6,A9,AA,B0,B9,BA,C1,H2,SA] added=0 labels_missing=2
+[round 297] API error HTTP=500

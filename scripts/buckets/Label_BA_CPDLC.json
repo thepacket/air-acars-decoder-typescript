@@ -1,0 +1,2347 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547264805,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N768JB641167530002C3",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N768JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "6411675300"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "02C3"
+        }
+      ]
+    },
+    {
+      "id": 6547264599,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N366MP6515675100BFA5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N366MP"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "6515675100"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "BFA5"
+        }
+      ]
+    },
+    {
+      "id": 6547264508,
+      "label": "BA",
+      "text": "/USADCXA.AT1.SE-DMO6209674F00C973",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "SE-DMO"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "6209674F00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "C973"
+        }
+      ]
+    },
+    {
+      "id": 6547264304,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N326DN628D674C00C306",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N326DN"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "628D674C00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "C306"
+        }
+      ]
+    },
+    {
+      "id": 6547264173,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N2047J61876742001AB6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N2047J"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "6187674200"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "1AB6"
+        }
+      ]
+    },
+    {
+      "id": 6547264165,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N2047J61876742001AB6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N2047J"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "6187674200"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "1AB6"
+        }
+      ]
+    },
+    {
+      "id": 6547263991,
+      "label": "BA",
+      "text": "/USADCXA.DR1.F-GSQAC5A3",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "DR1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "F-G"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "SQA"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "C5A3"
+        }
+      ]
+    },
+    {
+      "id": 6547263863,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N2047J61876742001AB6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N2047J"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "6187674200"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "1AB6"
+        }
+      ]
+    },
+    {
+      "id": 6547263860,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N2047J61876742001AB6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N2047J"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "6187674200"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "1AB6"
+        }
+      ]
+    },
+    {
+      "id": 6547263647,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N2047J61876742001AB6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N2047J"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "6187674200"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "1AB6"
+        }
+      ]
+    },
+    {
+      "id": 6547968285,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N657JB62881A09001A40",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N657JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "62881A0900"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "1A40"
+        }
+      ]
+    },
+    {
+      "id": 6547968281,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N657JB62881A09001A40",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N657JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "62881A0900"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "1A40"
+        }
+      ]
+    },
+    {
+      "id": 6547968280,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N657JB62881A09001A40",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N657JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "62881A0900"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "1A40"
+        }
+      ]
+    },
+    {
+      "id": 6547968276,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N657JB62881A09001A40",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N657JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "62881A0900"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "1A40"
+        }
+      ]
+    },
+    {
+      "id": 6547968275,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N657JB62881A09001A40",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N657JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "62881A0900"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "1A40"
+        }
+      ]
+    },
+    {
+      "id": 6547968270,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N657JB62881A09001A40",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N657JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "62881A0900"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "1A40"
+        }
+      ]
+    },
+    {
+      "id": 6547967048,
+      "label": "BA",
+      "text": "/USADCXA.AT1.TC-LJK618619F1008B41",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "TC-LJK"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "618619F100"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "8B41"
+        }
+      ]
+    },
+    {
+      "id": 6547967041,
+      "label": "BA",
+      "text": "/USADCXA.AT1.TC-LJK618619F1008B41",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "TC-LJK"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "618619F100"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "8B41"
+        }
+      ]
+    },
+    {
+      "id": 6547966666,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N958JB659619DE009EFA",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N958JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "659619DE00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "9EFA"
+        }
+      ]
+    },
+    {
+      "id": 6547966663,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N958JB659619DE009EFA",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N958JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "659619DE00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "9EFA"
+        }
+      ]
+    },
+    {
+      "id": 6547966658,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N958JB659619DE009EFA",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N958JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "659619DE00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "9EFA"
+        }
+      ]
+    },
+    {
+      "id": 6547966657,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N958JB659619DE009EFA",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N958JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "659619DE00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "9EFA"
+        }
+      ]
+    },
+    {
+      "id": 6547966656,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N26996618619ED00D250",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N26996"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "618619ED00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "D250"
+        }
+      ]
+    },
+    {
+      "id": 6547966651,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N958JB659619DE009EFA",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N958JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "659619DE00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "9EFA"
+        }
+      ]
+    },
+    {
+      "id": 6547966650,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N958JB659619DE009EFA",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N958JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "659619DE00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "9EFA"
+        }
+      ]
+    },
+    {
+      "id": 6547966488,
+      "label": "BA",
+      "text": "/USADCXA.AT1.EI-XLR661819E800E994",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "EI-XLR"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "661819E800"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "E994"
+        }
+      ]
+    },
+    {
+      "id": 6547966348,
+      "label": "BA",
+      "text": "L36ANH8422/FUKJJYA.AT1.JA772F628C19E10055CC",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": []
+    },
+    {
+      "id": 6547966284,
+      "label": "BA",
+      "text": "/YQME2YA.AT1.C-GTSD618419E5004A9A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "YQME2YA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "C-G"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "TSD618419E500"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "4A9A"
+        }
+      ]
+    },
+    {
+      "id": 6547965834,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N24542630A19DE006F64",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N24542"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "630A19DE00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "6F64"
+        }
+      ]
+    },
+    {
+      "id": 6547965772,
+      "label": "BA",
+      "text": "/USADCXA.CC1.N14523610419DD491069BF",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "CC1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N14523"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "610419DD4910"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "69BF"
+        }
+      ]
+    },
+    {
+      "id": 6547965769,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N351DN651419DD000F5A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N351DN"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "651419DD00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "0F5A"
+        }
+      ]
+    },
+    {
+      "id": 6547965767,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N351DN651419DD000F5A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N351DN"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "651419DD00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "0F5A"
+        }
+      ]
+    },
+    {
+      "id": 6547965380,
+      "label": "BA",
+      "text": "/ANCATYA.AT1.HL80062B067590C2A5C560CDB208D319B560EA96",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "ANCATYA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "HL8006"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "2B067590C2A5C560CDB208D319B560"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "EA96"
+        }
+      ]
+    },
+    {
+      "id": 6547965108,
+      "label": "BA",
+      "text": "L94ATR0029/MELCAYA.AT1.9V-OFN651219C600D8FD",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": []
+    },
+    {
+      "id": 6547965099,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N24542628A19D1022871",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N24542"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "628A19D102"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "2871"
+        }
+      ]
+    },
+    {
+      "id": 6547964623,
+      "label": "BA",
+      "text": "L84ANH0816/SGNGWXA.DR1.JA832A218665CF8E5B4A",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": []
+    },
+    {
+      "id": 6547964480,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N368DN649219C600F46E",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N368DN"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "649219C600"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "F46E"
+        }
+      ]
+    },
+    {
+      "id": 6547964384,
+      "label": "BA",
+      "text": "J96ADL0295/ANCATYA.AT1.N521DN620C19B500B67D",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": []
+    },
+    {
+      "id": 6547964340,
+      "label": "BA",
+      "text": "J30AOZ0221/ANCATYA.AT1.HL8362618819BB00ADD1",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": []
+    },
+    {
+      "id": 6547962909,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N640JB692419A300D425",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N640JB"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "692419A300"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "D425"
+        }
+      ]
+    },
+    {
+      "id": 6547962875,
+      "label": "BA",
+      "text": "J52AJX0771/RPHIAYA.AT1B-58501610419A00037EE",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": []
+    },
+    {
+      "id": 6547962745,
+      "label": "BA",
+      "text": "/YEGE2YA.AT1.F-GZNQ2286664A3BB97320D8991A8475C20B64CCA6C1CCC9367D06314585261417314B13716A6E52C14212545990E7848F4A4C2A6125C5A932093F0CA6F92C0A24F41E93B052120C79F4A4849F4E14FB0125D58F569048B4A7419C1214F8D566C5459B709127CE836024B8B420C48E6316AC454D9312CC2040177C765C30662A9C68964E420024A4AB35B306A121498506C045C48526141B02AB1A5892E7CC93584AE11AC28624D9F420D212B832B08C89263B073308190C4A13A2B1621400C82252AEC1CCC000ACFA6F",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "YEGE2YA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "F-G"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "ZNQ2286664A3BB97320D8991A8475C20B64CCA6C1CCC9367D06314585261417314B13716A6E52C14212545990E7848F4A4C2A6125C5A932093F0CA6F92C0A24F41E93B052120C79F4A4849F4E14FB0125D58F569048B4A7419C1214F8D566C5459B709127CE836024B8B420C48E6316AC454D9312CC2040177C765C30662A9C68964E420024A4AB35B306A121498506C045C48526141B02AB1A5892E7CC93584AE11AC28624D9F420D212B832B08C89263B073308190C4A13A2B1621400C82252AEC1CCC000AC"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "FA6F"
+        }
+      ]
+    },
+    {
+      "id": 6547962529,
+      "label": "BA",
+      "text": "/YEGE2YA.AT1.F-GZNQ2286664A3BB97320D8991A8475C20B64CCA6C1CCC9367D06314585261417314B13716A6E52C14212545990E7848F4A4C2A6125C5A932093F0CA6F92C0A24F41E93B052120C79F4A4849F4E14FB0125D58F569048B4A7419C1214F8D566C5459",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "YEGE2YA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "F-G"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "ZNQ2286664A3BB97320D8991A8475C20B64CCA6C1CCC9367D06314585261417314B13716A6E52C14212545990E7848F4A4C2A6125C5A932093F0CA6F92C0A24F41E93B052120C79F4A4849F4E14FB0125D58F569048B4A7419C1214F8D566C"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "5459"
+        }
+      ]
+    },
+    {
+      "id": 6547962230,
+      "label": "BA",
+      "text": "/USADCXA.AT1.4X-EDD6186199200FA07",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "4X-EDD"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "6186199200"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "FA07"
+        }
+      ]
+    },
+    {
+      "id": 6547962140,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N591DT669C199400540E",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N591DT"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "669C199400"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "540E"
+        }
+      ]
+    },
+    {
+      "id": 6547961980,
+      "label": "BA",
+      "text": "/USADCXA.AT1.4X-EDD6186199200FA07",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "4X-EDD"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "6186199200"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "FA07"
+        }
+      ]
+    },
+    {
+      "id": 6547961870,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N996JL64921990007B3B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N996JL"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "6492199000"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "7B3B"
+        }
+      ]
+    },
+    {
+      "id": 6547961667,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N741NK638E198A000D9A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N741NK"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "638E198A00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "0D9A"
+        }
+      ]
+    },
+    {
+      "id": 6547961494,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N741NK638E198A000D9A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N741NK"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "638E198A00"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "0D9A"
+        }
+      ]
+    },
+    {
+      "id": 6547961425,
+      "label": "BA",
+      "text": "/USADCXA.AT1.N110DX638E1988000F72",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC Downlink — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC Downlink"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Aircraft → Ground (downlink)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GND",
+          "label": "Ground Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "service_qualifier",
+          "code": "QUAL",
+          "label": "Service Qualifier",
+          "value": "AT1"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N110DX"
+        },
+        {
+          "type": "cpdlc_payload",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER hex)",
+          "value": "638E198800"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC",
+          "value": "0F72"
+        }
+      ]
+    }
+  ]
+}

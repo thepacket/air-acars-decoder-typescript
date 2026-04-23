@@ -1,0 +1,127 @@
+{
+  "count": 20,
+  "entries": [
+    {
+      "id": 6548609185,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0501\r\nREG VHVGR\r\nFLT JST737\r\nGWT 0\r\nZFW 577\r\nFOB    78\r\nCAP 142936\r\nFO  326029\r\nLOG 456460\r\nLDR 0\r\nDRT 0446"
+    },
+    {
+      "id": 6548609176,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0501\r\nREG VHVGR\r\nFLT JST737\r\nGWT 0\r\nZFW 577\r\nFOB    78\r\nCAP 142936\r\nFO  326029\r\nLOG 456460\r\nLDR 0\r\nDRT 0446"
+    },
+    {
+      "id": 6548615178,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0502\r\nREG VHVQG\r\nFLT JST519\r\nGWT 0\r\nZFW 601\r\nFOB    60\r\nCAP 120777\r\nFO  697056\r\nLOG 495813\r\nLDR 0\r\nDRT 0448"
+    },
+    {
+      "id": 6548615177,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0502\r\nREG VHVQG\r\nFLT JST519\r\nGWT 0\r\nZFW 601\r\nFOB    60\r\nCAP 120777\r\nFO  697056\r\nLOG 495813\r\nLDR 0\r\nDRT 0448"
+    },
+    {
+      "id": 6548615175,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0502\r\nREG VHVQG\r\nFLT JST519\r\nGWT 0\r\nZFW 601\r\nFOB    60\r\nCAP 120777\r\nFO  697056\r\nLOG 495813\r\nLDR 0\r\nDRT 0448"
+    },
+    {
+      "id": 6548615174,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0502\r\nREG VHVQG\r\nFLT JST519\r\nGWT 0\r\nZFW 601\r\nFOB    60\r\nCAP 120777\r\nFO  697056\r\nLOG 495813\r\nLDR 0\r\nDRT 0448"
+    },
+    {
+      "id": 6548617715,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0503\r\nREG VHVQZ\r\nFLT NWK2926\r\nGWT 0\r\nZFW 512\r\nFOB   127\r\nCAP 657272\r\nFO  689927\r\nLOG 047098\r\nLDR 0\r\nDRT 0438"
+    },
+    {
+      "id": 6548617714,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0503\r\nREG VHVQZ\r\nFLT NWK2926\r\nGWT 0\r\nZFW 512\r\nFOB   127\r\nCAP 657272\r\nFO  689927\r\nLOG 047098\r\nLDR 0\r\nDRT 0438"
+    },
+    {
+      "id": 6548682511,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0520\r\nREG VHXNJ\r\nFLT JST608\r\nGWT 0\r\nZFW 583\r\nFOB    59\r\nCAP 110325\r\nFO  326033\r\nLOG 491166\r\nLDR 0\r\nDRT 0510"
+    },
+    {
+      "id": 6548682503,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0520\r\nREG VHXNJ\r\nFLT JST608\r\nGWT 0\r\nZFW 583\r\nFOB    59\r\nCAP 110325\r\nFO  326033\r\nLOG 491166\r\nLDR 0\r\nDRT 0510"
+    },
+    {
+      "id": 6548682499,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0520\r\nREG VHXNJ\r\nFLT JST608\r\nGWT 0\r\nZFW 583\r\nFOB    59\r\nCAP 110325\r\nFO  326033\r\nLOG 491166\r\nLDR 0\r\nDRT 0510"
+    },
+    {
+      "id": 6548719464,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0529\r\nREG VHVQL\r\nFLT JST749\r\nGWT 0\r\nZFW 599\r\nFOB    84\r\nCAP 615557\r\nFO  657909\r\nLOG 513571\r\nLDR 0\r\nDRT 0508"
+    },
+    {
+      "id": 6548719463,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0529\r\nREG VHVQL\r\nFLT JST749\r\nGWT 0\r\nZFW 599\r\nFOB    84\r\nCAP 615557\r\nFO  657909\r\nLOG 513571\r\nLDR 0\r\nDRT 0508"
+    },
+    {
+      "id": 6548719462,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0529\r\nREG VHVQL\r\nFLT JST749\r\nGWT 0\r\nZFW 599\r\nFOB    84\r\nCAP 615557\r\nFO  657909\r\nLOG 513571\r\nLDR 0\r\nDRT 0508"
+    },
+    {
+      "id": 6548806202,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0549\r\nREG VHJQG\r\nFLT NWK1732\r\nGWT 0\r\nZFW 553\r\nFOB   130\r\nCAP 204623\r\nFO  441066\r\nLOG 050173\r\nLDR 0\r\nDRT 0522"
+    },
+    {
+      "id": 6548816335,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0551\r\nREG VHVQM\r\nFLT NWK2914\r\nGWT 0\r\nZFW 503\r\nFOB   117\r\nCAP 625162\r\nFO  689231\r\nLOG 052757\r\nLDR 0\r\nDRT 0530"
+    },
+    {
+      "id": 6548816964,
+      "label": "2L",
+      "text": "INR01,230552,,,,,,,CYKA,0632,"
+    },
+    {
+      "id": 6548816963,
+      "label": "2L",
+      "text": "INR01,230552,,,,,,,CYKA,0632,"
+    },
+    {
+      "id": 6548819193,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0551\r\nREG VHVGO\r\nFLT JST764\r\nGWT 0\r\nZFW 589\r\nFOB    74\r\nCAP 170548\r\nFO  326622\r\nLOG 505634\r\nLDR 0\r\nDRT 0525"
+    },
+    {
+      "id": 6548819192,
+      "label": "2L",
+      "text": "DAT 23APR26\r\nUTC 0551\r\nREG VHVGO\r\nFLT JST764\r\nGWT 0\r\nZFW 589\r\nFOB    74\r\nCAP 170548\r\nFO  326622\r\nLOG 505634\r\nLDR 0\r\nDRT 0525"
+    }
+  ],
+  "ids": {
+    "6548609185": 1,
+    "6548609176": 1,
+    "6548615178": 1,
+    "6548615177": 1,
+    "6548615175": 1,
+    "6548615174": 1,
+    "6548617715": 1,
+    "6548617714": 1,
+    "6548682511": 1,
+    "6548682503": 1,
+    "6548682499": 1,
+    "6548719464": 1,
+    "6548719463": 1,
+    "6548719462": 1,
+    "6548806202": 1,
+    "6548816335": 1,
+    "6548816964": 1,
+    "6548816963": 1,
+    "6548819193": 1,
+    "6548819192": 1
+  }
+}

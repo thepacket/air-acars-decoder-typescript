@@ -1,0 +1,1579 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547260120,
+      "label": "25",
+      "text": "42 ACARS FUEL SVC RCD\u0007\r\nFUEL DATA RECEIVED FROM EFSR\r\nFLT 0363/22APR SHIP 189 SFO-JFK\r\nEFSR DATE/TIME 22APR 2227Z\r\n \r\nFUEL BOARDED IN GALLONS -   07782\r\nTOTAL FUEL OUT IN POUNDS - 065200\r\nFUEL CAPS PRESENT    \r\nFUEL TYPE - JETA           \r\n     -----  FUEL  BY  TANK  -----\r\nTK/ID TK BEGN      FUEL ADD   TOTAL FUEL\r\n      FUEL WT      TO TANK     THIS TANK\r\nLM     006700       025900       032600\r\nRM     007800       024800       032600\r\nCA     000000       000000       000000\r\nFUELER - HANSEN/ALLEN                   \r\nFUELER RMKS - FUEL CAPS REQUIRED        \r\n                                      \r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "flight",
+          "code": "FLT",
+          "label": "Flight",
+          "value": "0363"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "42 ACARS FUEL SVC RCD\u0007\r\nFUEL DATA RECEIVED FROM EFSR\r\nFLT 0363/22APR SHIP 189 SFO-JFK\r\nEFSR DATE/TIME 22APR 2227Z\r\n \r\nFUEL BOARDED IN GALLONS -   07782\r\nTOTAL FUEL OUT IN POUNDS - 065200\r\nFUEL CAPS PRESENT    \r\nFUEL TYPE - JETA           \r\n     -----  FUEL  BY  TANK  -----\r\nTK/ID TK BEGN      FUEL ADD   TOTAL FUEL\r\n      FUEL WT      TO TANK     THIS TANK\r\nLM     006700       025900       032600\r\nRM     007800       024800       032600\r\nCA     000000       000000       000000\r\nFUELER - HANSEN/ALLEN                   \r\nFUELER RMKS - FUEL CAPS REQUIRED"
+        }
+      ]
+    },
+    {
+      "id": 6547259838,
+      "label": "25",
+      "text": " - JETA           \r\n     -----  FUEL  BY  TANK  -----\r\nTK/ID TK BEGN      FUEL ADD   TOTAL FUEL\r\n      FUEL WT      TO TANK     THIS TANK\r\nLM     006700       025900       032600\r\nRM     007800       024800       032600\r",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "- JETA           \r\n     -----  FUEL  BY  TANK  -----\r\nTK/ID TK BEGN      FUEL ADD   TOTAL FUEL\r\n      FUEL WT      TO TANK     THIS TANK\r\nLM     006700       025900       032600\r\nRM     007800       024800       032600"
+        }
+      ]
+    },
+    {
+      "id": 6547259537,
+      "label": "25",
+      "text": "42 ACARS FUEL SVC RCD\u0007\r\nFUEL DATA RECEIVED FROM EFSR\r\nFLT 0363/22APR SHIP 189 SFO-JFK\r\nEFSR DATE/TIME 22APR 2227Z\r\n \r\nFUEL BOARDED IN GALLONS -   07782\r\nTOTAL FUEL OUT IN POUNDS - 065200\r\nFUEL CAPS PRESENT    \r\nFUEL TYPE",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "flight",
+          "code": "FLT",
+          "label": "Flight",
+          "value": "0363"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "42 ACARS FUEL SVC RCD\u0007\r\nFUEL DATA RECEIVED FROM EFSR\r\nFLT 0363/22APR SHIP 189 SFO-JFK\r\nEFSR DATE/TIME 22APR 2227Z\r\n \r\nFUEL BOARDED IN GALLONS -   07782\r\nTOTAL FUEL OUT IN POUNDS - 065200\r\nFUEL CAPS PRESENT    \r\nFUEL TYPE"
+        }
+      ]
+    },
+    {
+      "id": 6547255602,
+      "label": "25",
+      "text": "                 \r\nF/A ROT COMPLETE     TERM               \r\n \r\nEND PART  1 OF  1",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "F/A ROT COMPLETE     TERM"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "F/A ROT COMPLETE     TERM               \r\n \r\nEND PART  1 OF  1"
+        }
+      ]
+    },
+    {
+      "id": 6547255485,
+      "label": "25",
+      "text": "                 \r\nF/A ROT COMPLETE     TERM               \r\n \r\nEND PART  1 OF  1",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "F/A ROT COMPLETE     TERM"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "F/A ROT COMPLETE     TERM               \r\n \r\nEND PART  1 OF  1"
+        }
+      ]
+    },
+    {
+      "id": 6547254465,
+      "label": "25",
+      "text": "                           \r\n 512489 JONATHAN K   LAYO               \r\n 532408 JOHN CHARL   LAYO               \r\n*CREW F*                                \r\nF/A ROT COMPLETE     TERM               \r\n*CREW F*               ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "512489 JONATHAN K   LAYO"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "512489 JONATHAN K   LAYO               \r\n 532408 JOHN CHARL   LAYO               \r\n*CREW F*                                \r\nF/A ROT COMPLETE     TERM               \r\n*CREW F*"
+        }
+      ]
+    },
+    {
+      "id": 6547254460,
+      "label": "25",
+      "text": "                           \r\n 512489 JONATHAN K   LAYO               \r\n 532408 JOHN CHARL   LAYO               \r\n*CREW F*                                \r\nF/A ROT COMPLETE     TERM               \r\n*CREW F*               ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "512489 JONATHAN K   LAYO"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "512489 JONATHAN K   LAYO               \r\n 532408 JOHN CHARL   LAYO               \r\n*CREW F*                                \r\nF/A ROT COMPLETE     TERM               \r\n*CREW F*"
+        }
+      ]
+    },
+    {
+      "id": 6547252830,
+      "label": "25",
+      "text": "48   MSPG6 \r\nCREW P/F        \r\nPART  1 OF  1 \r\nFLT 2262 - 22APR2225 CREW P/F        \r\nARR MSP GTE G6 \r\nFLT 9964 JFK 1100L\r\n                     NXT  DEPT  DEPT    \r\n NAME                FLT  TIME  FROM GTE\r\n*CREW P*                                \r\n 996087 MATTHEW E    LAYO               \r\n 143881 CHRISTOPHE   LAYO               \r\n*CREW F*                                \r\nF/A ROT COMPLETE     TERM               \r\n*CREW F*                                \r\nF/A ROT COMPLETE     TERM               \r\n*CREW F*                                \r\n 324417 MARY ANN E  DLAYO               \r\n 372402 CINDY       DLAYO               \r\n 178976 AUBREY JAM  DLAYO               \r\n*CREW F*                                \r\n 834678 KINSLEY R   DLAYO               \r\n \r\nEND PART  1 OF  1",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "48   MSPG6"
+        },
+        {
+          "type": "flight",
+          "code": "FLT",
+          "label": "Flight",
+          "value": "2262"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "48   MSPG6 \r\nCREW P/F        \r\nPART  1 OF  1 \r\nFLT 2262 - 22APR2225 CREW P/F        \r\nARR MSP GTE G6 \r\nFLT 9964 JFK 1100L\r\n                     NXT  DEPT  DEPT    \r\n NAME                FLT  TIME  FROM GTE\r\n*CREW P*                                \r\n 996087 MATTHEW E    LAYO               \r\n 143881 CHRISTOPHE   LAYO               \r\n*CREW F*                                \r\nF/A ROT COMPLETE     TERM               \r\n*CREW F*                                \r\nF/A ROT COMPLETE     TERM               \r\n*CREW F*                                \r\n 324417 MARY ANN E  DLAYO               \r\n 372402 CINDY       DLAYO               \r\n 178976 AUBREY JAM  DLAYO               \r\n*CREW F*                                \r\n 834678 KINSLEY R   DLAYO               \r\n \r\nEND PART  1 OF  1"
+        }
+      ]
+    },
+    {
+      "id": 6547252567,
+      "label": "25",
+      "text": "                 \r\nF/A ROT COMPLETE     TERM               \r\n*CREW F*                                \r\n 324417 MARY ANN E  DLAYO               \r\n 372402 CINDY       DLAYO               \r\n 178976 AUBREY JAM  DLAYO        ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "F/A ROT COMPLETE     TERM"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "F/A ROT COMPLETE     TERM               \r\n*CREW F*                                \r\n 324417 MARY ANN E  DLAYO               \r\n 372402 CINDY       DLAYO               \r\n 178976 AUBREY JAM  DLAYO"
+        }
+      ]
+    },
+    {
+      "id": 6547252417,
+      "label": "25",
+      "text": "                           \r\n 996087 MATTHEW E    LAYO               \r\n 143881 CHRISTOPHE   LAYO               \r\n*CREW F*                                \r\nF/A ROT COMPLETE     TERM               \r\n*CREW F*               ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "996087 MATTHEW E    LAYO"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "996087 MATTHEW E    LAYO               \r\n 143881 CHRISTOPHE   LAYO               \r\n*CREW F*                                \r\nF/A ROT COMPLETE     TERM               \r\n*CREW F*"
+        }
+      ]
+    },
+    {
+      "id": 6547968144,
+      "label": "25",
+      "text": "ETERING ON ONE THREE\r\nTHREE POINT FIVE SEVEN\r\nWHEN READY TO PUSHBACK\r\nOR TAXI. HAZD WX INFO\r\nFOR MSP AREA AVBL FM\r\nFSS. CTN, BIRDS NEAR\r\nMSP. READ BACK HS AND\r\nALT. ALL ACFT TAXI WITH\r\nTRANSPONDER AND ALTITUDE\r\nENCODING ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "ETERING ON ONE THREE"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "ETERING ON ONE THREE\r\nTHREE POINT FIVE SEVEN\r\nWHEN READY TO PUSHBACK\r\nOR TAXI. HAZD WX INFO\r\nFOR MSP AREA AVBL FM\r\nFSS. CTN, BIRDS NEAR\r\nMSP. READ BACK HS AND\r\nALT. ALL ACFT TAXI WITH\r\nTRANSPONDER AND ALTITUDE\r\nENCODING"
+        }
+      ]
+    },
+    {
+      "id": 6547967711,
+      "label": "25",
+      "text": "42 MSP DEP INFO N 0053Z.\r\n17016G25KT 10SM BKN250\r\n28/12 A2968 (TWO NINER\r\nSIX EIGHT) RMK AO2 PK\r\nWND 18028/2357 SLP046\r\nT02780117. DEPARTING RWY\r\n12L, RWY 12R, RWY 17.\r\nNOTICE TO AIRMEN. RWYS\r\n4, 22 CLSD. ALL ACFT CTC\r\nM",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "42 MSP DEP INFO N 0053Z.\r\n17016G25KT 10SM BKN250\r\n28/12 A2968 (TWO NINER\r\nSIX EIGHT) RMK AO2 PK\r\nWND 18028/2357 SLP046\r\nT02780117. DEPARTING RWY\r\n12L, RWY 12R, RWY 17.\r\nNOTICE TO AIRMEN. RWYS\r\n4, 22 CLSD. ALL ACFT CTC\r\nM"
+        }
+      ]
+    },
+    {
+      "id": 6547958463,
+      "label": "25",
+      "text": ":02KBOS02510138AUTO/MPTO",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": ":02KBOS02510138AUTO/MPTO"
+        }
+      ]
+    },
+    {
+      "id": 6547958177,
+      "label": "25",
+      "text": ":02KBOS02510138AUTO/MPTO",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": ":02KBOS02510138AUTO/MPTO"
+        }
+      ]
+    },
+    {
+      "id": 6547958176,
+      "label": "25",
+      "text": ":02KBOS02510138AUTO/MPTO",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": ":02KBOS02510138AUTO/MPTO"
+        }
+      ]
+    },
+    {
+      "id": 6547954510,
+      "label": "25",
+      "text": ":02CYYZ05030246AUTO/MPTO",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": ":02CYYZ05030246AUTO/MPTO"
+        }
+      ]
+    },
+    {
+      "id": 6547947974,
+      "label": "25",
+      "text": "48   CLTA34\r\nCREW P/F        \r\nPART  1 OF  1 \r\nFLT 2929 - 23APR0133 CREW P/F        \r\nARR CLT GTE A34\r\nFLT 2491 MSP 0600L\r\n                     NXT  DEPT  DEPT    \r\n NAME                FLT  TIME  FROM GTE\r\n*CREW P*                                \r\n 342227 ADAM MICHA   LAYO               \r\n 654168 MICHAEL J    LAYO               \r\n*CREW F*                                \r\n 368978 MARTINA      LAYO               \r\n 306150 HEIDI H      LAYO               \r\n 511832 ELIZABETH    LAYO               \r\n \r\nEND PART  1 OF  1\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "48   CLTA34"
+        },
+        {
+          "type": "flight",
+          "code": "FLT",
+          "label": "Flight",
+          "value": "2929"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "48   CLTA34\r\nCREW P/F        \r\nPART  1 OF  1 \r\nFLT 2929 - 23APR0133 CREW P/F        \r\nARR CLT GTE A34\r\nFLT 2491 MSP 0600L\r\n                     NXT  DEPT  DEPT    \r\n NAME                FLT  TIME  FROM GTE\r\n*CREW P*                                \r\n 342227 ADAM MICHA   LAYO               \r\n 654168 MICHAEL J    LAYO               \r\n*CREW F*                                \r\n 368978 MARTINA      LAYO               \r\n 306150 HEIDI H      LAYO               \r\n 511832 ELIZABETH    LAYO               \r\n \r\nEND PART  1 OF  1"
+        }
+      ]
+    },
+    {
+      "id": 6547947554,
+      "label": "25",
+      "text": "                           \r\n 342227 ADAM MICHA   LAYO               \r\n 654168 MICHAEL J    LAYO               \r\n*CREW F*                                \r\n 368978 MARTINA      LAYO               \r\n 306150 HEIDI H      LA",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "342227 ADAM MICHA   LAYO"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "342227 ADAM MICHA   LAYO               \r\n 654168 MICHAEL J    LAYO               \r\n*CREW F*                                \r\n 368978 MARTINA      LAYO               \r\n 306150 HEIDI H      LA"
+        }
+      ]
+    },
+    {
+      "id": 6547947168,
+      "label": "25",
+      "text": "48   CLTA34\r\nCREW P/F        \r\nPART  1 OF  1 \r\nFLT 2929 - 23APR0133 CREW P/F        \r\nARR CLT GTE A34\r\nFLT 2491 MSP 0600L\r\n                     NXT  DEPT  DEPT    \r\n NAME                FLT  TIME  FROM GTE\r\n*CREW P*     ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "48   CLTA34"
+        },
+        {
+          "type": "flight",
+          "code": "FLT",
+          "label": "Flight",
+          "value": "2929"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "48   CLTA34\r\nCREW P/F        \r\nPART  1 OF  1 \r\nFLT 2929 - 23APR0133 CREW P/F        \r\nARR CLT GTE A34\r\nFLT 2491 MSP 0600L\r\n                     NXT  DEPT  DEPT    \r\n NAME                FLT  TIME  FROM GTE\r\n*CREW P*"
+        }
+      ]
+    },
+    {
+      "id": 6547946402,
+      "label": "25",
+      "text": "43   CLTA34\r\nOPEN  \r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "43   CLTA34"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "43   CLTA34\r\nOPEN"
+        }
+      ]
+    },
+    {
+      "id": 6547938234,
+      "label": "25",
+      "text": "42 CLT ARR INFO J 0052Z.\r\n20004KT 10SM FEW080\r\n23/04 A3005 (THREE ZERO\r\nZERO FIVE) RMK AO2\r\nSLP186 T02280039.\r\nAPPROACH IN USE SIMUL\r\nAPCHS IN USE, EXPECT\r\nVISUAL APCH 18L, 18C,\r\n18R. NOTAMS... TWY N\r\nCLSD, TWY E CLSD BTN\r\nTWY, M AND TWY F4 . TWY\r\nDELTA SOUTH OF DELTA 3\r\nRESTRICTED TO GROUP 5\r\nAIRCRAFT. RUNWAY 36C,\r\n36L, AND 18R OUTER\r\nMARKER OUT OF SERVICE.\r\nRUNWAY 36C CATEGORY 3\r\nAPPROACHES ARE NOT\r\nAVAILABLE. LIGHTED CRANE\r\n100 FT AGL 1500 FT WEST\r\nRWY, 36C, LIGHTED CRANE\r\n150 FT AGL 5280 FT E\r\nRWY, 36R. AUTHORIZED\r\nDRONE ACTIVITY\r\nCLT010003, AT, AOB 002,\r\nLIGHTED QUAD COPTER.\r\nTRANSPONDERS REQUIRED TO\r\nBE ON WHILE OPERATING ON\r\nRWYS AND TWYS. BIRD\r\nACTIVITY VICINITY ARPT.\r\n...ADVS YOU HAVE INFO J.\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "42 CLT ARR INFO J 0052Z.\r\n20004KT 10SM FEW080\r\n23/04 A3005 (THREE ZERO\r\nZERO FIVE) RMK AO2\r\nSLP186 T02280039.\r\nAPPROACH IN USE SIMUL\r\nAPCHS IN USE, EXPECT\r\nVISUAL APCH 18L, 18C,\r\n18R. NOTAMS... TWY N\r\nCLSD, TWY E CLSD BTN\r\nTWY, M AND TWY F4 . TWY\r\nDELTA SOUTH OF DELTA 3\r\nRESTRICTED TO GROUP 5\r\nAIRCRAFT. RUNWAY 36C,\r\n36L, AND 18R OUTER\r\nMARKER OUT OF SERVICE.\r\nRUNWAY 36C CATEGORY 3\r\nAPPROACHES ARE NOT\r\nAVAILABLE. LIGHTED CRANE\r\n100 FT AGL 1500 FT WEST\r\nRWY, 36C, LIGHTED CRANE\r\n150 FT AGL 5280 FT E\r\nRWY, 36R. AUTHORIZED\r\nDRONE ACTIVITY\r\nCLT010003, AT, AOB 002,\r\nLIGHTED QUAD COPTER.\r\nTRANSPONDERS REQUIRED TO\r\nBE ON WHILE OPERATING ON\r\nRWYS AND TWYS. BIRD\r\nACTIVITY VICINITY ARPT.\r\n...ADVS YOU HAVE INFO J."
+        }
+      ]
+    },
+    {
+      "id": 6547937847,
+      "label": "25",
+      "text": "L 1500 FT WEST\r\nRWY, 36C, LIGHTED CRANE\r\n150 FT AGL 5280 FT E\r\nRWY, 36R. AUTHORIZED\r\nDRONE ACTIVITY\r\nCLT010003, AT, AOB 002,\r\nLIGHTED QUAD COPTER.\r\nTRANSPONDERS REQUIRED TO\r\nBE ON WHILE OPERATING ON\r\nRWYS AND TWYS. BIRD\r",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "L 1500 FT WEST"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "L 1500 FT WEST\r\nRWY, 36C, LIGHTED CRANE\r\n150 FT AGL 5280 FT E\r\nRWY, 36R. AUTHORIZED\r\nDRONE ACTIVITY\r\nCLT010003, AT, AOB 002,\r\nLIGHTED QUAD COPTER.\r\nTRANSPONDERS REQUIRED TO\r\nBE ON WHILE OPERATING ON\r\nRWYS AND TWYS. BIRD"
+        }
+      ]
+    },
+    {
+      "id": 6547937552,
+      "label": "25",
+      "text": "RLS 1 \r\nTOWT 499.8 TOCG 27.3\r\nFLAP/STAB 01/03.1 UP \r\nEND ACARS WDR\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "RLS 1"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "RLS 1 \r\nTOWT 499.8 TOCG 27.3\r\nFLAP/STAB 01/03.1 UP \r\nEND ACARS WDR"
+        }
+      ]
+    },
+    {
+      "id": 6547937527,
+      "label": "25",
+      "text": "N\r\nTWY, M AND TWY F4 . TWY\r\nDELTA SOUTH OF DELTA 3\r\nRESTRICTED TO GROUP 5\r\nAIRCRAFT. RUNWAY 36C,\r\n36L, AND 18R OUTER\r\nMARKER OUT OF SERVICE.\r\nRUNWAY 36C CATEGORY 3\r\nAPPROACHES ARE NOT\r\nAVAILABLE. LIGHTED CRANE\r\n100 FT AG",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Airline / Sub-type Prefix",
+          "value": "N"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "N\r\nTWY, M AND TWY F4 . TWY\r\nDELTA SOUTH OF DELTA 3\r\nRESTRICTED TO GROUP 5\r\nAIRCRAFT. RUNWAY 36C,\r\n36L, AND 18R OUTER\r\nMARKER OUT OF SERVICE.\r\nRUNWAY 36C CATEGORY 3\r\nAPPROACHES ARE NOT\r\nAVAILABLE. LIGHTED CRANE\r\n100 FT AG"
+        }
+      ]
+    },
+    {
+      "id": 6547937018,
+      "label": "25",
+      "text": "N\r\nTWY, M AND TWY F4 . TWY\r\nDELTA SOUTH OF DELTA 3\r\nRESTRICTED TO GROUP 5\r\nAIRCRAFT. RUNWAY 36C,\r\n36L, AND 18R OUTER\r\nMARKER OUT OF SERVICE.\r\nRUNWAY 36C CATEGORY 3\r\nAPPROACHES ARE NOT\r\nAVAILABLE. LIGHTED CRANE\r\n100 FT AG",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Airline / Sub-type Prefix",
+          "value": "N"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "N\r\nTWY, M AND TWY F4 . TWY\r\nDELTA SOUTH OF DELTA 3\r\nRESTRICTED TO GROUP 5\r\nAIRCRAFT. RUNWAY 36C,\r\n36L, AND 18R OUTER\r\nMARKER OUT OF SERVICE.\r\nRUNWAY 36C CATEGORY 3\r\nAPPROACHES ARE NOT\r\nAVAILABLE. LIGHTED CRANE\r\n100 FT AG"
+        }
+      ]
+    },
+    {
+      "id": 6547936548,
+      "label": "25",
+      "text": "42 CLT ARR INFO J 0052Z.\r\n20004KT 10SM FEW080\r\n23/04 A3005 (THREE ZERO\r\nZERO FIVE) RMK AO2\r\nSLP186 T02280039.\r\nAPPROACH IN USE SIMUL\r\nAPCHS IN USE, EXPECT\r\nVISUAL APCH 18L, 18C,\r\n18R. NOTAMS... TWY N\r\nCLSD, TWY E CLSD BT",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "42 CLT ARR INFO J 0052Z.\r\n20004KT 10SM FEW080\r\n23/04 A3005 (THREE ZERO\r\nZERO FIVE) RMK AO2\r\nSLP186 T02280039.\r\nAPPROACH IN USE SIMUL\r\nAPCHS IN USE, EXPECT\r\nVISUAL APCH 18L, 18C,\r\n18R. NOTAMS... TWY N\r\nCLSD, TWY E CLSD BT"
+        }
+      ]
+    },
+    {
+      "id": 6547936133,
+      "label": "25",
+      "text": "LINE,\r\n100FT AGL/ 809FT MSL\r\n(2024-ASO-5362-NRA). RWY 36R,\r\nTEMPORARY CRANES BEGINNING\r\n1091FT\r\nFROM DER, BEGINNING 394FT RIGHT OF\r\nCENTERLINE, 36FT AGL/\r\n786FT MSL\r\n(2023-ASO-1332 THRU 1335-NRA). ALL\r\nOTHER DATA REMAINS AS\r\nPUBLISHED.\r\n2603301452-2607301452EST\r\n\r\n      **APPROACH PROCEDURES**\r\n\r\nCLT A62470/26 23MAR261447-25JUN261447Z\r\n36C\r\nFDC 6/2470 CLT IAP CHARLOTTE/DOUGLAS\r\nINTL,\r\nCHARLOTTE, NC.\r\nILS RWY 36C (CAT II AND III), AMDT 17\r\n...\r\nS-ILS 36C CAT II NA EXCEPT FOR\r\nAIRCRAFT EQUIPPED WITH RADIO\r\nALTIMETER. I-DQG INNER MARKER OTS\r\n2603231447-2606251447EST\r\n\r\nCLT A60943/26 06JAN261728-18AUG261728Z\r\n36C\r\nFDC 6/0943 CLT IAP CHARLOTTE/DOUGLAS\r\nINTL,\r\nCHARLOTTE, NC.\r\nILS OR LOC RWY 36C, AMDT 17...\r\nILS RWY 36C (CAT II-III), AMDT 17...\r\nDISREGARD NOTE: DQG ILS LLZ RWY 36C\r\nUNUSABLE FOR ROLLOUT\r\nGUIDANCE.\r\n2601061728-2608181728EST\r\n\r\nCLT A6708/25 30JUN250821-25JUN262111Z\r\n36C\r\nCLT 06/708 CLT NAV ILS RWY 36C IM U/S\r\n2506300821-2606252111EST\r\n\r\nCLT A45047/24 13SEP241606-13SEP261604Z\r\n36C\r\nFDC 4/5047 CLT IAP CHARLOTTE/DOUGLAS\r\nINTL,\r\nCHARLOTTE, NC.\r\nILS OR LOC RWY 36C, AMDT 17...\r\n\r\n\r\n\r\nEND OF PAGE 05\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "LINE,\r\n100FT AGL/ 809FT MSL\r\n(2024-ASO-5362-NRA). RWY 36R,\r\nTEMPORARY CRANES BEGINNING\r\n1091FT\r\nFROM DER, BEGINNING 394FT RIGHT OF\r\nCENTERLINE, 36FT AGL/\r\n786FT MSL\r\n(2023-ASO-1332 THRU 1335-NRA). ALL\r\nOTHER DATA REMAINS AS\r\nPUBLISHED.\r\n2603301452-2607301452EST\r\n\r\n      **APPROACH PROCEDURES**\r\n\r\nCLT A62470/26 23MAR261447-25JUN261447Z\r\n36C\r\nFDC 6/2470 CLT IAP CHARLOTTE/DOUGLAS\r\nINTL,\r\nCHARLOTTE, NC.\r\nILS RWY 36C (CAT II AND III), AMDT 17\r\n...\r\nS-ILS 36C CAT II NA EXCEPT FOR\r\nAIRCRAFT EQUIPPED WITH RADIO\r\nALTIMETER. I-DQG INNER MARKER OTS\r\n2603231447-2606251447EST\r\n\r\nCLT A60943/26 06JAN261728-18AUG261728Z\r\n36C\r\nFDC 6/0943 CLT IAP CHARLOTTE/DOUGLAS\r\nINTL,\r\nCHARLOTTE, NC.\r\nILS OR LOC RWY 36C, AMDT 17...\r\nILS RWY 36C (CAT II-III), AMDT 17...\r\nDISREGARD NOTE: DQG ILS LLZ RWY 36C\r\nUNUSABLE FOR ROLLOUT\r\nGUIDANCE.\r\n2601061728-2608181728EST\r\n\r\nCLT A6708/25 30JUN250821-25JUN262111Z\r\n36C\r\nCLT 06/708 CLT NAV ILS RWY 36C IM U/S\r\n2506300821-2606252111EST\r\n\r\nCLT A45047/24 13SEP241606-13SEP261604Z\r\n36C\r\nFDC 4/5047 CLT IAP CHARLOTTE/DOUGLAS\r\nINTL,\r\nCHARLOTTE, NC.\r\nILS OR LOC RWY 36C, AMDT 17...\r\n\r\n\r\n\r\nEND OF PAGE 05"
+        }
+      ]
+    },
+    {
+      "id": 6547935727,
+      "label": "25",
+      "text": "111Z\r\n36C\r\nCLT 06/708 CLT NAV ILS RWY 36C IM U/S\r\n2506300821-2606252111EST\r\n\r\nCLT A45047/24 13SEP241606-13SEP261604Z\r\n36C\r\nFDC 4/5047 CLT IAP CHARLOTTE/DOUGLAS\r\nINTL,\r\nCHARLOTTE, NC.\r\nILS OR LOC RWY 36C, AMDT 17...\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Airline / Sub-type Prefix",
+          "value": "111Z"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "36C"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "111Z\r\n36C\r\nCLT 06/708 CLT NAV ILS RWY 36C IM U/S\r\n2506300821-2606252111EST\r\n\r\nCLT A45047/24 13SEP241606-13SEP261604Z\r\n36C\r\nFDC 4/5047 CLT IAP CHARLOTTE/DOUGLAS\r\nINTL,\r\nCHARLOTTE, NC.\r\nILS OR LOC RWY 36C, AMDT 17..."
+        }
+      ]
+    },
+    {
+      "id": 6547935443,
+      "label": "25",
+      "text": "G 24.8\r\nTOWT 499.8 TOCG 27.3\r\nFLAP/STAB 01/03.1 UP \r\n \r\nWX 18413KT  11C A30.05\r\n \r\n \r\n*16L*               11901FT 12HW 04XW   \r\n  T/F  CLIMB RATOW WIND V1 VR V2        \r\nD46/01 508.9 510.0 TW00 53 59 66     X20\r\nDTO/01 5",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "G 24.8\r\nTOWT 499.8 TOCG 27.3\r\nFLAP/STAB 01/03.1 UP \r\n \r\nWX 18413KT  11C A30.05\r\n \r\n \r\n*16L*               11901FT 12HW 04XW   \r\n  T/F  CLIMB RATOW WIND V1 VR V2        \r\nD46/01 508.9 510.0 TW00 53 59 66     X20\r\nDTO/01 5"
+        }
+      ]
+    },
+    {
+      "id": 6547935329,
+      "label": "25",
+      "text": ",\r\nCHARLOTTE, NC.\r\nILS OR LOC RWY 36C, AMDT 17...\r\nILS RWY 36C (CAT II-III), AMDT 17...\r\nDISREGARD NOTE: DQG ILS LLZ RWY 36C\r\nUNUSABLE FOR ROLLOUT\r\nGUIDANCE.\r\n2601061728-2608181728EST\r\n\r\nCLT A6708/25 30JUN250821-25JUN262",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": ",\r\nCHARLOTTE, NC.\r\nILS OR LOC RWY 36C, AMDT 17...\r\nILS RWY 36C (CAT II-III), AMDT 17...\r\nDISREGARD NOTE: DQG ILS LLZ RWY 36C\r\nUNUSABLE FOR ROLLOUT\r\nGUIDANCE.\r\n2601061728-2608181728EST\r\n\r\nCLT A6708/25 30JUN250821-25JUN262"
+        }
+      ]
+    },
+    {
+      "id": 6547934985,
+      "label": "25",
+      "text": "7\r\n...\r\nS-ILS 36C CAT II NA EXCEPT FOR\r\nAIRCRAFT EQUIPPED WITH RADIO\r\nALTIMETER. I-DQG INNER MARKER OTS\r\n2603231447-2606251447EST\r\n\r\nCLT A60943/26 06JAN261728-18AUG261728Z\r\n36C\r\nFDC 6/0943 CLT IAP CHARLOTTE/DOUGLAS\r\nINTL",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Airline / Sub-type Prefix",
+          "value": "7"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "7\r\n...\r\nS-ILS 36C CAT II NA EXCEPT FOR\r\nAIRCRAFT EQUIPPED WITH RADIO\r\nALTIMETER. I-DQG INNER MARKER OTS\r\n2603231447-2606251447EST\r\n\r\nCLT A60943/26 06JAN261728-18AUG261728Z\r\n36C\r\nFDC 6/0943 CLT IAP CHARLOTTE/DOUGLAS\r\nINTL"
+        }
+      ]
+    },
+    {
+      "id": 6547934506,
+      "label": "25",
+      "text": " AS\r\nPUBLISHED.\r\n2603301452-2607301452EST\r\n\r\n      **APPROACH PROCEDURES**\r\n\r\nCLT A62470/26 23MAR261447-25JUN261447Z\r\n36C\r\nFDC 6/2470 CLT IAP CHARLOTTE/DOUGLAS\r\nINTL,\r\nCHARLOTTE, NC.\r\nILS RWY 36C (CAT II AND III), AMDT 1",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "prefix",
+          "code": "PREFIX",
+          "label": "Airline / Sub-type Prefix",
+          "value": "AS"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "AS\r\nPUBLISHED.\r\n2603301452-2607301452EST\r\n\r\n      **APPROACH PROCEDURES**\r\n\r\nCLT A62470/26 23MAR261447-25JUN261447Z\r\n36C\r\nFDC 6/2470 CLT IAP CHARLOTTE/DOUGLAS\r\nINTL,\r\nCHARLOTTE, NC.\r\nILS RWY 36C (CAT II AND III), AMDT 1"
+        }
+      ]
+    },
+    {
+      "id": 6547934397,
+      "label": "25",
+      "text": "42 ACARS WDR UPDATE\u0007\r\nFLT 80/22APR SHIP 3423 SEA-CDG RLS 1 \r\nWDR DATE/TIME 23APR 0130Z\r\nSOB/277 \r\nCARGO 0/7.74/7.09/0.80/0.06  \r\n \r\nFUEL TOTAL 132.3 TAXI 0.9 \r\nTANK 6.5/55.6/0/55.5/6.6 TT 8.2 \r\nRMWT 500.8 ZFWT 368.5 ZFWC",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "42 ACARS WDR UPDATE\u0007\r\nFLT 80/22APR SHIP 3423 SEA-CDG RLS 1 \r\nWDR DATE/TIME 23APR 0130Z\r\nSOB/277 \r\nCARGO 0/7.74/7.09/0.80/0.06  \r\n \r\nFUEL TOTAL 132.3 TAXI 0.9 \r\nTANK 6.5/55.6/0/55.5/6.6 TT 8.2 \r\nRMWT 500.8 ZFWT 368.5 ZFWC"
+        }
+      ]
+    },
+    {
+      "id": 6547934136,
+      "label": "25",
+      "text": "LINE,\r\n100FT AGL/ 809FT MSL\r\n(2024-ASO-5362-NRA). RWY 36R,\r\nTEMPORARY CRANES BEGINNING\r\n1091FT\r\nFROM DER, BEGINNING 394FT RIGHT OF\r\nCENTERLINE, 36FT AGL/\r\n786FT MSL\r\n(2023-ASO-1332 THRU 1335-NRA). ALL\r\nOTHER DATA REMAINS",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "LINE,\r\n100FT AGL/ 809FT MSL\r\n(2024-ASO-5362-NRA). RWY 36R,\r\nTEMPORARY CRANES BEGINNING\r\n1091FT\r\nFROM DER, BEGINNING 394FT RIGHT OF\r\nCENTERLINE, 36FT AGL/\r\n786FT MSL\r\n(2023-ASO-1332 THRU 1335-NRA). ALL\r\nOTHER DATA REMAINS"
+        }
+      ]
+    },
+    {
+      "id": 6547980634,
+      "label": "25",
+      "text": "03,2487254753,NULL,NULL,CI5686",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "03,2487254753,NULL,NULL,CI5686"
+        }
+      ]
+    },
+    {
+      "id": 6547980629,
+      "label": "25",
+      "text": "03,2487254753,NULL,NULL,CI5686",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "03,2487254753,NULL,NULL,CI5686"
+        }
+      ]
+    },
+    {
+      "id": 6547978866,
+      "label": "25",
+      "text": "43   NCEB27\n\tOPEN  ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "43   NCEB27"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "43   NCEB27\n\tOPEN"
+        }
+      ]
+    },
+    {
+      "id": 6547978863,
+      "label": "25",
+      "text": "43   NCEB27\n\tOPEN  ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "43   NCEB27"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "43   NCEB27\n\tOPEN"
+        }
+      ]
+    },
+    {
+      "id": 6547978856,
+      "label": "25",
+      "text": "43   NCEB27\n\tOPEN  ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "43   NCEB27"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "43   NCEB27\n\tOPEN"
+        }
+      ]
+    },
+    {
+      "id": 6547975547,
+      "label": "25",
+      "text": "0221,  52",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "0221,  52"
+        }
+      ]
+    },
+    {
+      "id": 6547975506,
+      "label": "25",
+      "text": "0221,  52",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "0221,  52"
+        }
+      ]
+    },
+    {
+      "id": 6547975505,
+      "label": "25",
+      "text": "0221,  52",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "0221,  52"
+        }
+      ]
+    },
+    {
+      "id": 6547975504,
+      "label": "25",
+      "text": "0221,  52",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "0221,  52"
+        }
+      ]
+    },
+    {
+      "id": 6547975503,
+      "label": "25",
+      "text": "0221,  52",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "0221,  52"
+        }
+      ]
+    },
+    {
+      "id": 6547975180,
+      "label": "25",
+      "text": "0221,  52",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "0221,  52"
+        }
+      ]
+    },
+    {
+      "id": 6547969421,
+      "label": "25",
+      "text": "42 MCI ATIS INFO O 0053Z.\r\n17012KT 10SM OVC032\r\n19/14 A2987 (TWO NINER\r\nEIGHT SEVEN) RMK AO2\r\nSLP107 T01940144.\r\nARRIVALS EXPECT ILS RWY\r\n19L, ILS RWY 19R. NOTICE\r\nTO AIRMEN. TWY D BTN TWY\r\nJ AND TWY C 9 CLSD TO\r\nAIRCRAFT WITH WINGSPAN\r\nGREATER THAN 118 FEET.\r\nMIGRATORY WATERFOWL IN\r\nTHE KANSAS CITY AREA.\r\nRAMP CONTROL OPEN FREQ\r\nNORTH 128.975 SOUTH\r\n130.825. ...ADVS YOU\r\nHAVE INFO O.\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "42 MCI ATIS INFO O 0053Z.\r\n17012KT 10SM OVC032\r\n19/14 A2987 (TWO NINER\r\nEIGHT SEVEN) RMK AO2\r\nSLP107 T01940144.\r\nARRIVALS EXPECT ILS RWY\r\n19L, ILS RWY 19R. NOTICE\r\nTO AIRMEN. TWY D BTN TWY\r\nJ AND TWY C 9 CLSD TO\r\nAIRCRAFT WITH WINGSPAN\r\nGREATER THAN 118 FEET.\r\nMIGRATORY WATERFOWL IN\r\nTHE KANSAS CITY AREA.\r\nRAMP CONTROL OPEN FREQ\r\nNORTH 128.975 SOUTH\r\n130.825. ...ADVS YOU\r\nHAVE INFO O."
+        }
+      ]
+    },
+    {
+      "id": 6547969417,
+      "label": "25",
+      "text": "42 MCI ATIS INFO O 0053Z.\r\n17012KT 10SM OVC032\r\n19/14 A2987 (TWO NINER\r\nEIGHT SEVEN) RMK AO2\r\nSLP107 T01940144.\r\nARRIVALS EXPECT ILS RWY\r\n19L, ILS RWY 19R. NOTICE\r\nTO AIRMEN. TWY D BTN TWY\r\nJ AND TWY C 9 CLSD TO\r\nAIRCRAFT WITH WINGSPAN\r\nGREATER THAN 118 FEET.\r\nMIGRATORY WATERFOWL IN\r\nTHE KANSAS CITY AREA.\r\nRAMP CONTROL OPEN FREQ\r\nNORTH 128.975 SOUTH\r\n130.825. ...ADVS YOU\r\nHAVE INFO O.\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "42 MCI ATIS INFO O 0053Z.\r\n17012KT 10SM OVC032\r\n19/14 A2987 (TWO NINER\r\nEIGHT SEVEN) RMK AO2\r\nSLP107 T01940144.\r\nARRIVALS EXPECT ILS RWY\r\n19L, ILS RWY 19R. NOTICE\r\nTO AIRMEN. TWY D BTN TWY\r\nJ AND TWY C 9 CLSD TO\r\nAIRCRAFT WITH WINGSPAN\r\nGREATER THAN 118 FEET.\r\nMIGRATORY WATERFOWL IN\r\nTHE KANSAS CITY AREA.\r\nRAMP CONTROL OPEN FREQ\r\nNORTH 128.975 SOUTH\r\n130.825. ...ADVS YOU\r\nHAVE INFO O."
+        }
+      ]
+    },
+    {
+      "id": 6547969234,
+      "label": "25",
+      "text": "NZ122  223650\r\nLOADSHEET PRELIM 1140\r\nNZ122/23 23APR26\r\nMEL AKL ZKOKU 3/14\r\nZFW 223650  MAX 237682  L\r\nTOF  33770\r\nTOW 257420  MAX 351534\r\nTIF  24820\r\nLAW 232600  MAX 251290\r\nUNDLD  14032\r\nPAX/55/32/167 TTL 258\r\nPAX 254 PLUS 4\r\nMACTOW       28.0\r\nCENTRE                   0\r\nMAIN 1=2             34700\r\nRADIO   \r\nSI BW  168492\r\nBI  259.0\r\nPREPARED BY SARAH/SCOTT 64 9 2563403\r\nLICENCE 56743\r\nAMADEUS ACARS PRELIMINARY LOADSHEET.\r\n\r\nENDPRELIMLOADSHEET",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "title",
+          "code": "TITLE",
+          "label": "Title",
+          "value": "NZ122  223650"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "NZ122  223650\r\nLOADSHEET PRELIM 1140\r\nNZ122/23 23APR26\r\nMEL AKL ZKOKU 3/14\r\nZFW 223650  MAX 237682  L\r\nTOF  33770\r\nTOW 257420  MAX 351534\r\nTIF  24820\r\nLAW 232600  MAX 251290\r\nUNDLD  14032\r\nPAX/55/32/167 TTL 258\r\nPAX 254 PLUS 4\r\nMACTOW       28.0\r\nCENTRE                   0\r\nMAIN 1=2             34700\r\nRADIO   \r\nSI BW  168492\r\nBI  259.0\r\nPREPARED BY SARAH/SCOTT 64 9 2563403\r\nLICENCE 56743\r\nAMADEUS ACARS PRELIMINARY LOADSHEET.\r\n\r\nENDPRELIMLOADSHEET"
+        }
+      ]
+    },
+    {
+      "id": 6547969067,
+      "label": "25",
+      "text": "42 MCI ATIS INFO O 0053Z.\r\n17012KT 10SM OVC032\r\n19/14 A2987 (TWO NINER\r\nEIGHT SEVEN) RMK AO2\r\nSLP107 T01940144.\r\nARRIVALS EXPECT ILS RWY\r\n19L, ILS RWY 19R. NOTICE\r\nTO AIRMEN. TWY D BTN TWY\r\nJ AND TWY C 9 CLSD TO\r\nAIRCRAF",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "42 MCI ATIS INFO O 0053Z.\r\n17012KT 10SM OVC032\r\n19/14 A2987 (TWO NINER\r\nEIGHT SEVEN) RMK AO2\r\nSLP107 T01940144.\r\nARRIVALS EXPECT ILS RWY\r\n19L, ILS RWY 19R. NOTICE\r\nTO AIRMEN. TWY D BTN TWY\r\nJ AND TWY C 9 CLSD TO\r\nAIRCRAF"
+        }
+      ]
+    },
+    {
+      "id": 6547969062,
+      "label": "25",
+      "text": "42 MCI ATIS INFO O 0053Z.\r\n17012KT 10SM OVC032\r\n19/14 A2987 (TWO NINER\r\nEIGHT SEVEN) RMK AO2\r\nSLP107 T01940144.\r\nARRIVALS EXPECT ILS RWY\r\n19L, ILS RWY 19R. NOTICE\r\nTO AIRMEN. TWY D BTN TWY\r\nJ AND TWY C 9 CLSD TO\r\nAIRCRAF",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Free-text Uplink (ground-to-air)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Free-text Uplink (ground-to-air)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "body",
+          "code": "BODY",
+          "label": "Body",
+          "value": "42 MCI ATIS INFO O 0053Z.\r\n17012KT 10SM OVC032\r\n19/14 A2987 (TWO NINER\r\nEIGHT SEVEN) RMK AO2\r\nSLP107 T01940144.\r\nARRIVALS EXPECT ILS RWY\r\n19L, ILS RWY 19R. NOTICE\r\nTO AIRMEN. TWY D BTN TWY\r\nJ AND TWY C 9 CLSD TO\r\nAIRCRAF"
+        }
+      ]
+    }
+  ]
+}

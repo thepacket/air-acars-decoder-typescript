@@ -1,0 +1,982 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547264539,
+      "label": "33",
+      "text": "96,E,37.316,-80.431,29997,*****,KIAD,KTYS,23R,5L,9,0,0,,,,,42.3,0,0,0,,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Takeoff / Departure Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "In-Flight Performance Report (Label 33 — Variant B)"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype / Variant",
+          "value": "96"
+        },
+        {
+          "type": "phase",
+          "code": "PHASE",
+          "label": "Phase",
+          "value": "E"
+        },
+        {
+          "type": "aircraft_position",
+          "code": "POS",
+          "label": "Aircraft Position",
+          "value": "37.316 N, 80.431 W"
+        },
+        {
+          "type": "altitude",
+          "code": "ALT",
+          "label": "Altitude",
+          "value": "29997 feet"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KIAD"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KTYS"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Runway (arrival)",
+          "value": "23R"
+        }
+      ]
+    },
+    {
+      "id": 6547263840,
+      "label": "33",
+      "text": "33,I,AVP,CLT,18L,18R,,,,,0,0,,,0,0,0,,69.2,0D43",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Takeoff / Departure Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Takeoff / Departure Performance Report"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype / Sequence",
+          "value": "33"
+        },
+        {
+          "type": "phase",
+          "code": "PHASE",
+          "label": "Phase",
+          "value": "I"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "AVP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CLT"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "18L"
+        },
+        {
+          "type": "secondary_runway",
+          "code": "RWY2",
+          "label": "Secondary Runway / Intersection",
+          "value": "18R"
+        }
+      ]
+    },
+    {
+      "id": 6547263838,
+      "label": "33",
+      "text": "33,I,AVP,CLT,18L,18R,,,,,0,0,,,0,0,0,,69.2,0D43",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Takeoff / Departure Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Takeoff / Departure Performance Report"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype / Sequence",
+          "value": "33"
+        },
+        {
+          "type": "phase",
+          "code": "PHASE",
+          "label": "Phase",
+          "value": "I"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "AVP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CLT"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "18L"
+        },
+        {
+          "type": "secondary_runway",
+          "code": "RWY2",
+          "label": "Secondary Runway / Intersection",
+          "value": "18R"
+        }
+      ]
+    },
+    {
+      "id": 6547263837,
+      "label": "33",
+      "text": "33,I,AVP,CLT,18L,18R,,,,,0,0,,,0,0,0,,69.2,0D43",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Takeoff / Departure Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Takeoff / Departure Performance Report"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype / Sequence",
+          "value": "33"
+        },
+        {
+          "type": "phase",
+          "code": "PHASE",
+          "label": "Phase",
+          "value": "I"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "AVP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CLT"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "18L"
+        },
+        {
+          "type": "secondary_runway",
+          "code": "RWY2",
+          "label": "Secondary Runway / Intersection",
+          "value": "18R"
+        }
+      ]
+    },
+    {
+      "id": 6547263834,
+      "label": "33",
+      "text": "33,I,AVP,CLT,18L,18R,,,,,0,0,,,0,0,0,,69.2,0D43",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Takeoff / Departure Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Takeoff / Departure Performance Report"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype / Sequence",
+          "value": "33"
+        },
+        {
+          "type": "phase",
+          "code": "PHASE",
+          "label": "Phase",
+          "value": "I"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "AVP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CLT"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "18L"
+        },
+        {
+          "type": "secondary_runway",
+          "code": "RWY2",
+          "label": "Secondary Runway / Intersection",
+          "value": "18R"
+        }
+      ]
+    },
+    {
+      "id": 6547263833,
+      "label": "33",
+      "text": "33,I,AVP,CLT,18L,18R,,,,,0,0,,,0,0,0,,69.2,0D43",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Takeoff / Departure Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Takeoff / Departure Performance Report"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype / Sequence",
+          "value": "33"
+        },
+        {
+          "type": "phase",
+          "code": "PHASE",
+          "label": "Phase",
+          "value": "I"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "AVP"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CLT"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "18L"
+        },
+        {
+          "type": "secondary_runway",
+          "code": "RWY2",
+          "label": "Secondary Runway / Intersection",
+          "value": "18R"
+        }
+      ]
+    },
+    {
+      "id": 6547248709,
+      "label": "33",
+      "text": "33,I,BHM,DCA,19,15,,,,,0,0,5/5/5,,0,0,0,,62.1,A902",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Takeoff / Departure Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Takeoff / Departure Performance Report"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype / Sequence",
+          "value": "33"
+        },
+        {
+          "type": "phase",
+          "code": "PHASE",
+          "label": "Phase",
+          "value": "I"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "BHM"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "DCA"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "19"
+        },
+        {
+          "type": "secondary_runway",
+          "code": "RWY2",
+          "label": "Secondary Runway / Intersection",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "id": 6547246092,
+      "label": "33",
+      "text": "3,D,CYDF,CYYZ,24R,23,+18,2991,190,03,70170,,0,0,0,0,0,1,0,,,,,,,,,,,,,,,,12B7",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Takeoff / Departure Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Takeoff / Departure Performance Report"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype / Sequence",
+          "value": "3"
+        },
+        {
+          "type": "phase",
+          "code": "PHASE",
+          "label": "Phase",
+          "value": "D (Departure)"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "CYDF"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CYYZ"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "24R"
+        },
+        {
+          "type": "secondary_runway",
+          "code": "RWY2",
+          "label": "Secondary Runway / Intersection",
+          "value": "23"
+        },
+        {
+          "type": "temperature",
+          "code": "OAT",
+          "label": "Outside Air Temperature",
+          "value": "+18°C"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "290° @ 91 kt"
+        },
+        {
+          "type": "flaps",
+          "code": "FLAPS",
+          "label": "Flaps",
+          "value": "3"
+        },
+        {
+          "type": "takeoff_weight",
+          "code": "TOW",
+          "label": "Takeoff Weight",
+          "value": "70,170 lbs"
+        }
+      ]
+    },
+    {
+      "id": 6547246090,
+      "label": "33",
+      "text": "3,D,CYDF,CYYZ,24R,23,+18,2991,190,03,70170,,0,0,0,0,0,1,0,,,,,,,,,,,,,,,,12B7",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Takeoff / Departure Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Takeoff / Departure Performance Report"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype / Sequence",
+          "value": "3"
+        },
+        {
+          "type": "phase",
+          "code": "PHASE",
+          "label": "Phase",
+          "value": "D (Departure)"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "CYDF"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CYYZ"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "24R"
+        },
+        {
+          "type": "secondary_runway",
+          "code": "RWY2",
+          "label": "Secondary Runway / Intersection",
+          "value": "23"
+        },
+        {
+          "type": "temperature",
+          "code": "OAT",
+          "label": "Outside Air Temperature",
+          "value": "+18°C"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "290° @ 91 kt"
+        },
+        {
+          "type": "flaps",
+          "code": "FLAPS",
+          "label": "Flaps",
+          "value": "3"
+        },
+        {
+          "type": "takeoff_weight",
+          "code": "TOW",
+          "label": "Takeoff Weight",
+          "value": "70,170 lbs"
+        }
+      ]
+    },
+    {
+      "id": 6547235038,
+      "label": "33",
+      "text": "33,I,CHS,DCA,19,15,,,,,0,0,,,0,0,0,,61.4,E290",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Takeoff / Departure Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Takeoff / Departure Performance Report"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype / Sequence",
+          "value": "33"
+        },
+        {
+          "type": "phase",
+          "code": "PHASE",
+          "label": "Phase",
+          "value": "I"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "CHS"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "DCA"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "19"
+        },
+        {
+          "type": "secondary_runway",
+          "code": "RWY2",
+          "label": "Secondary Runway / Intersection",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "id": 6547967950,
+      "label": "33",
+      "text": "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547967684,
+      "label": "33",
+      "text": "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547967680,
+      "label": "33",
+      "text": "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547967678,
+      "label": "33",
+      "text": "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547967676,
+      "label": "33",
+      "text": "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547967675,
+      "label": "33",
+      "text": "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547966580,
+      "label": "33",
+      "text": "2026-04-23,01:39:37,KEWR,LLBG,0026,N41253W072585,461,FL188,0628,-21,306, 57,HFD    ,01:42,PUT    ,005,720,341,446,0062,0068,0055,025,230426",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547966576,
+      "label": "33",
+      "text": "2026-04-23,01:39:37,KEWR,LLBG,0026,N41253W072585,461,FL188,0628,-21,306, 57,HFD    ,01:42,PUT    ,005,720,341,446,0062,0068,0055,025,230426",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547966496,
+      "label": "33",
+      "text": "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547966295,
+      "label": "33",
+      "text": "2026-04-23,01:39:37,KEWR,LLBG,0026,N41253W072585,461,FL188,0628,-21,306, 57,HFD    ,01:42,PUT    ,005,720,341,446,0062,0068,0055,025,230426",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547966292,
+      "label": "33",
+      "text": "2026-04-23,01:39:37,KEWR,LLBG,0026,N41253W072585,461,FL188,0628,-21,306, 57,HFD    ,01:42,PUT    ,005,720,341,446,0062,0068,0055,025,230426",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547966269,
+      "label": "33",
+      "text": "/33 SYS CONF RPT   / KIAH KLAS 22 013935\r\nAC TYPE B737\r\nACARS 2.5\r\nMU HW CPN 822-1239-151\r\nMU SER NO 533D0H\r\nCORE CPCI 832-9548-016\r\nAOC CPCI  832-4023-16H\r\nVM CPCI   815-4546-013\r\n/TRIGGER STATUS\r\nINITIAL EON  030\r\nPERIODIC EON 090",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547966225,
+      "label": "33",
+      "text": "/33 SYS CONF RPT   / KIAH KLAS 22 013935\r\nAC TYPE B737\r\nACARS 2.5\r\nMU HW CPN 822-1239-151\r\nMU SER NO 533D0H\r\nCORE CPCI 832-9548-016\r\nAOC CPCI  832-4023-16H\r\nVM CPCI   815-4546-013\r\n/TRIGGER STATUS\r\nINITIAL EON ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547964535,
+      "label": "33",
+      "text": "LDR01,6,J,22,KSFO,KLAX,24R/,25L/,,,,,0,07,,07,,0,0,0,0,0,,,,,165.1,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547964044,
+      "label": "33",
+      "text": "LDR01,6,J,22,KPHL,KMCO,17L/,18R/,,,,,0,07,,07,,0,0,0,0,0,,,,,158.2,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547960349,
+      "label": "33",
+      "text": "P40TYOIHNH230137\n\tNOTAM MESSAGE\n\tAUTO UPLINK  01:37/23Z\n\t\n\tNO NEW NOTAM    BTN 2200Z - 0439Z\n\tERTE/ERTW/ERTA/GNRL/\n\t\n\tEND OF REPORT",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547960346,
+      "label": "33",
+      "text": "P40TYOIHNH230137\n\tNOTAM MESSAGE\n\tAUTO UPLINK  01:37/23Z\n\t\n\tNO NEW NOTAM    BTN 2200Z - 0439Z\n\tERTE/ERTW/ERTA/GNRL/\n\t\n\tEND OF REPORT",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547959608,
+      "label": "33",
+      "text": "P40TYOIHNH230137\n\tNOTAM MESSAGE\n\tAUTO UPLINK  01:37/23Z\n\t\n\tNO NEW NOTAM    BTN 2200Z - 0439Z\n\tRJFU/RJTT/RJAA/RJSS/ERTA/ERTE/ERTW/\n\t\n\tPART 1  CONTINUE",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547959598,
+      "label": "33",
+      "text": "P40TYOIHNH230137\n\tNOTAM MESSAGE\n\tAUTO UPLINK  01:37/23Z\n\t\n\tNO NEW NOTAM    BTN 2200Z - 0439Z\n\tRJFU/RJTT/RJAA/RJSS/ERTA/ERTE/ERTW/\n\t\n\tPART 1  CONTINUE",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547958307,
+      "label": "33",
+      "text": "FLT NO     LDW      TIME\r\n529       638.5    0137Z\r\nWIND      OAT C      QNH\r\n347/21      -4     29.65\r\n------------------------\r\n \r\n \r\n \r\n \r\n \r\nREMARKS\r\n-------- RWY 03 --------\r\nWET ICE\r\nTRY THRUST RVRSR CREDIT\r\n------",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547957686,
+      "label": "33",
+      "text": "262,B,22,KHIF,CYQX,03/,/,8,WET ICE,0,DRY,,,,,,1,0,0,0,0,0,638.5,23A3",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547957673,
+      "label": "33",
+      "text": "262,B,22,KHIF,CYQX,03/,/,8,WET ICE,0,DRY,,,,,,1,0,0,0,0,0,638.5,23A3",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547957672,
+      "label": "33",
+      "text": "262,B,22,KHIF,CYQX,03/,/,8,WET ICE,0,DRY,,,,,,1,0,0,0,0,0,638.5,23A3",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547957670,
+      "label": "33",
+      "text": "262,B,22,KHIF,CYQX,03/,/,8,WET ICE,0,DRY,,,,,,1,0,0,0,0,0,638.5,23A3",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547957093,
+      "label": "33",
+      "text": "/33 SYS CONF RPT   / KORD KONT 22 013653\r\nAC TYPE B737\r\nACARS 2.5\r\nMU HW CPN 822-1239-151\r\nMU SER NO 4K2F61\r\nCORE CPCI 832-9548-016\r\nAOC CPCI  832-4023-16H\r\nVM CPCI   815-4546-013\r\n/TRIGGER STATUS\r\nINITIAL EON ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547955841,
+      "label": "33",
+      "text": "P,R,2026-04-23 01:36:34,  21520430,22APR,4123,KORD,KDTW,5448,KDTW,66396,4500,22R,6,21L,6,,0,0,0,0,,,,,,0,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547955115,
+      "label": "33",
+      "text": "33,I,CLT,TYS,23R,5L,,,,,0,0,5,5,0,0,0,,72.0,7C48",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Takeoff / Departure Performance Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Takeoff / Departure Performance Report"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype / Sequence",
+          "value": "33"
+        },
+        {
+          "type": "phase",
+          "code": "PHASE",
+          "label": "Phase",
+          "value": "I"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "CLT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "TYS"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "23R"
+        },
+        {
+          "type": "secondary_runway",
+          "code": "RWY2",
+          "label": "Secondary Runway / Intersection",
+          "value": "5L"
+        }
+      ]
+    },
+    {
+      "id": 6547954956,
+      "label": "33",
+      "text": "P,H,23APR26 01:35:37,21521408,22APR,5582,KMKE,KORD,3596,KORD,38478,2911,7R,6,,6,,0,Y,0,0,,,,,,,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547954952,
+      "label": "33",
+      "text": "P,H,23APR26 01:35:37,21521408,22APR,5582,KMKE,KORD,3596,KORD,38478,2911,7R,6,,6,,0,Y,0,0,,,,,,,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547954910,
+      "label": "33",
+      "text": "4,G,22,JFK,JAX,08,14,,,,,0,0,0,0,70.4,0,6337",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547954552,
+      "label": "33",
+      "text": "P,H,23APR26 01:35:29,21521408,22APR,5582,KMKE,KORD,3596,KORD,38478,2911,7RR,6,,6,,0,Y,0,0,,,,,,,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547954548,
+      "label": "33",
+      "text": "P,H,23APR26 01:35:29,21521408,22APR,5582,KMKE,KORD,3596,KORD,38478,2911,7RR,6,,6,,0,Y,0,0,,,,,,,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547953598,
+      "label": "33",
+      "text": "/33 SYS CONF RPT   / KORD KPDX 22 013550\r\nAC TYPE B737\r\nACARS 2.5\r\nMU HW CPN 822-1239-151\r\nMU SER NO 47YLKM\r\nCORE CPCI 832-9548-016\r\nAOC CPCI  832-4023-16H\r\nVM CPCI   815-4546-013\r\n/TRIGGER STATUS\r\nINITIAL EON  030\r\nPERIODIC EON 090",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547953488,
+      "label": "33",
+      "text": "/33 SYS CONF RPT   / KORD KPDX 22 013550\r\nAC TYPE B737\r\nACARS 2.5\r\nMU HW CPN 822-1239-151\r\nMU SER NO 47YLKM\r\nCORE CPCI 832-9548-016\r\nAOC CPCI  832-4023-16H\r\nVM CPCI   815-4546-013\r\n/TRIGGER STATUS\r\nINITIAL EON ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547953342,
+      "label": "33",
+      "text": "P,R,2026-04-23 01:35:49,  21522081,22APR,6452,KLRD,KDFW,5104,KDFW,52726,3780,18R,6,17C,6,,0,0,0,0,,,,,,0,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547953340,
+      "label": "33",
+      "text": "P,R,2026-04-23 01:35:49,  21522081,22APR,6452,KLRD,KDFW,5104,KDFW,52726,3780,18R,6,17C,6,,0,0,0,0,,,,,,0,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547953339,
+      "label": "33",
+      "text": "P,R,2026-04-23 01:35:49,  21522081,22APR,6452,KLRD,KDFW,5104,KDFW,52726,3780,18R,6,17C,6,,0,0,0,0,,,,,,0,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547953336,
+      "label": "33",
+      "text": "P,R,2026-04-23 01:35:49,  21522081,22APR,6452,KLRD,KDFW,5104,KDFW,52726,3780,18R,6,17C,6,,0,0,0,0,,,,,,0,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547952509,
+      "label": "33",
+      "text": "4,G,22,JFK,JAX,08,14,,,,,0,0,0,0,70.4,0,6337",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    },
+    {
+      "id": 6547952328,
+      "label": "33",
+      "text": "4,G,22,JFK,JAX,08,14,,,,,0,0,0,0,70.4,0,6337",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Takeoff / Departure Performance Report",
+      "items": []
+    }
+  ]
+}

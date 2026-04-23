@@ -1,0 +1,3445 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547264924,
+      "label": "A0",
+      "text": "/BDOCAYA.AFN/FMHFIN62,.OH-LWC,461F4A,222914/FAK0,ENOB/FARADS,0/FARATC,0CC02",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "BDOCAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHFIN62"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "OH-LWC"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "461F4A"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "22:29:14Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · ENOB"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0CC02"
+        }
+      ]
+    },
+    {
+      "id": 6547263850,
+      "label": "A0",
+      "text": "/YQXD2YA.AFN/FMHTAP203,.CS-TUH,,222902/FAK0,CDQX/FARADS,0/FARATC,0,YQXD2YA2D27",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "YQXD2YA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHTAP203"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "CS-TUH"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "22:29:02Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · CDQX"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · YQXD2YA2D27"
+        }
+      ]
+    },
+    {
+      "id": 6547263319,
+      "label": "A0",
+      "text": "/REKCAYA.AFN/FMHFIN62,.OH-LWC,,222837/FCABDOCAYA,07ECA",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "REKCAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHFIN62"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "OH-LWC"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "22:28:37Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCABDOCAYA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "07ECA"
+        }
+      ]
+    },
+    {
+      "id": 6547263087,
+      "label": "A0",
+      "text": "/SMACAYA.AFN/FMHAVA026,.N793AV,AAC33E,222842/FAK0,LPPO/FARADS,0/FARATC,06269",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "SMACAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHAVA026"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N793AV"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "AAC33E"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "22:28:42Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · LPPO"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 06269"
+        }
+      ]
+    },
+    {
+      "id": 6547263045,
+      "label": "A0",
+      "text": "/NYCODYA.AFN/FMHAZA603,.EI-EJO,4CAA6D,222847/FAK4,KZWYBCBA",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "NYCODYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHAZA603"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "EI-EJO"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "4CAA6D"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "22:28:47Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FAK4"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "KZWYBCBA"
+        }
+      ]
+    },
+    {
+      "id": 6547262817,
+      "label": "A0",
+      "text": "/YQXE2YA.AFN/FMHTAP203,.CS-TUH,,222839/FCAYQXD2YA,01A22",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "YQXE2YA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHTAP203"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "CS-TUH"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "22:28:39Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCAYQXD2YA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "01A22"
+        }
+      ]
+    },
+    {
+      "id": 6547262730,
+      "label": "A0",
+      "text": "/OAKODYA.AFN/FMHCCA783,.B-7898,,222807/FCAPOMCAYA,04301",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "OAKODYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHCCA783"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "B-7898"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "22:28:07Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCAPOMCAYA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "04301"
+        }
+      ]
+    },
+    {
+      "id": 6547262725,
+      "label": "A0",
+      "text": "/OAKODYA.AFN/FMHCCA783,.B-7898,,222807/FCAPOMCAYA,04301",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "OAKODYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHCCA783"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "B-7898"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "22:28:07Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCAPOMCAYA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "04301"
+        }
+      ]
+    },
+    {
+      "id": 6547262246,
+      "label": "A0",
+      "text": "/GVSCAYA.AFN/FMHAEA058,.EC-OMC,,222836/FAK0,GVSC/FARADS,0/FARATC,0,GVSCAYA2BA6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "GVSCAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHAEA058"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "EC-OMC"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "22:28:36Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · GVSC"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · GVSCAYA2BA6"
+        }
+      ]
+    },
+    {
+      "id": 6547261840,
+      "label": "A0",
+      "text": "/USADCXA.AFN/FMHETH512,.ET-AOR,040048,222829/FAK1,KUSA/FARATC,1,USADCXA/FARADS,1,USADCXA5D16",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "USADCXA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHETH512"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "ET-AOR"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "040048"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "22:28:29Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK1 · KUSA"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARATC · 1 · USADCXA"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARADS · 1 · USADCXA5D16"
+        }
+      ]
+    },
+    {
+      "id": 6547967519,
+      "label": "A0",
+      "text": "/PIKCPYA.AFN/FMHUAL124,.N13013,,013957/FCASNNCPXA,06550",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "PIKCPYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL124"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N13013"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:39:57Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCASNNCPXA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "06550"
+        }
+      ]
+    },
+    {
+      "id": 6547966360,
+      "label": "A0",
+      "text": "/BZVCAYA.AFN/FMHOCN132W,.D-AIKE/FAK0,FCCC/FARADS,0/FARATC,052FB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "BZVCAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHOCN132W"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "D-AIKE"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · FCCC"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 052FB"
+        }
+      ]
+    },
+    {
+      "id": 6547966282,
+      "label": "A0",
+      "text": "/RPHIAYA.AFN/FMHANA816,.JA832A/FAK0,RPHI/FARADS,0/FARATC,078EE",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "RPHIAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHANA816"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "JA832A"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · RPHI"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 078EE"
+        }
+      ]
+    },
+    {
+      "id": 6547966278,
+      "label": "A0",
+      "text": "/RPHIAYA.AFN/FMHANA816,.JA832A/FAK0,RPHI/FARADS,0/FARATC,078EE",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "RPHIAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHANA816"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "JA832A"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · RPHI"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 078EE"
+        }
+      ]
+    },
+    {
+      "id": 6547965435,
+      "label": "A0",
+      "text": "/SMACAYA.AFN/FMHLER2920,.9H-HFI,4D2505,013910/FAK0,LPPO/FARADS,0/FARATC,0A955",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "SMACAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHLER"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "2920"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "9H-HFI"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "4D2505"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:39:10Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · LPPO"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0A955"
+        }
+      ]
+    },
+    {
+      "id": 6547965412,
+      "label": "A0",
+      "text": "/SMACAYA.AFN/FMHLER2920,.9H-HFI,4D2505,013910/FAK0,LPPO/FARADS,0/FARATC,0A955",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "SMACAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHLER"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "2920"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "9H-HFI"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "4D2505"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:39:10Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · LPPO"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0A955"
+        }
+      ]
+    },
+    {
+      "id": 6547965200,
+      "label": "A0",
+      "text": "/PIKCPYA.AFN/FMHTOM071,.G-TUIN,,013915/FAK0,EGGX/FARADS,0/FARATC,0,PIKCPYAC762",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "PIKCPYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHTOM071"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "G-TUIN"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:39:15Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · EGGX"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · PIKCPYAC762"
+        }
+      ]
+    },
+    {
+      "id": 6547964546,
+      "label": "A0",
+      "text": "/YQXD2YA.AFN/FMHTSC110,.C-GUBO,,013850/FAK0,CDQX/FARADS,0/FARATC,0,YQXD2YA4406",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "YQXD2YA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHTSC110"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "C-GUBO"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:38:50Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · CDQX"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · YQXD2YA4406"
+        }
+      ]
+    },
+    {
+      "id": 6547963414,
+      "label": "A0",
+      "text": "/SMACAYA.AFN/FMHTOM071,.G-TUIN,40787A,013843/FCAPIKCPYA,08FD2",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "SMACAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHTOM071"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "G-TUIN"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "40787A"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:38:43Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCAPIKCPYA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "08FD2"
+        }
+      ]
+    },
+    {
+      "id": 6547963412,
+      "label": "A0",
+      "text": "/FUKJJYA.AFN/FMHCCA992,.B-2035,7808CC,013842/FAK0,RJJJ/FARADS,0/FARATC,0,FUKJJYA22FF",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHCCA992"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "B-2035"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "7808CC"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:38:42Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · RJJJ"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · FUKJJYA22FF"
+        }
+      ]
+    },
+    {
+      "id": 6547963409,
+      "label": "A0",
+      "text": "/FUKJJYA.AFN/FMHCCA992,.B-2035,7808CC,013842/FAK0,RJJJ/FARADS,0/FARATC,0,FUKJJYA22FF",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHCCA992"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "B-2035"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "7808CC"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:38:42Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · RJJJ"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · FUKJJYA22FF"
+        }
+      ]
+    },
+    {
+      "id": 6547962606,
+      "label": "A0",
+      "text": "/NIMCAYA.AFN/FMHMAU14,.3B-NCE/FAK0,DRRR/FARADS,0/FARATC,0456E",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "NIMCAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHMAU14"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "3B-NCE"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · DRRR"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0456E"
+        }
+      ]
+    },
+    {
+      "id": 6547962372,
+      "label": "A0",
+      "text": "/BZVCAYA.AFN/FMHSWR282,.HB-JMH/FAK0,FCCC/FARADS,0/FARATC,01B75",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "BZVCAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHSWR282"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "HB-JMH"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · FCCC"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 01B75"
+        }
+      ]
+    },
+    {
+      "id": 6547962005,
+      "label": "A0",
+      "text": "/FUKJJYA.AFN/FMHACA3,.C-FIUL,C01734,013814/FAK0,RJJJ/FARADS,0/FARATC,0,FUKJJYA7D8D",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHACA3"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "C-FIUL"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "C01734"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:38:14Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · RJJJ"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · FUKJJYA7D8D"
+        }
+      ]
+    },
+    {
+      "id": 6547962003,
+      "label": "A0",
+      "text": "/FUKJJYA.AFN/FMHACA3,.C-FIUL,C01734,013814/FAK0,RJJJ/FARADS,0/FARATC,0,FUKJJYA7D8D",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHACA3"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "C-FIUL"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "C01734"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:38:14Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · RJJJ"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · FUKJJYA7D8D"
+        }
+      ]
+    },
+    {
+      "id": 6547961708,
+      "label": "A0",
+      "text": "/FUKJJYA.AFN/FMHUAL837,.N77019,AA6BA4,013800/FAK0,RJJJ/FARADS,0/FARATC,0,FUKJJYA3FCA",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL837"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N77019"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "AA6BA4"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:38:00Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · RJJJ"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · FUKJJYA3FCA"
+        }
+      ]
+    },
+    {
+      "id": 6547961705,
+      "label": "A0",
+      "text": "/ALGCAYA.AFN/FMHMAU14,.3B-NCE/FAK0,DAAA/FARADS,0/FARATC,0D243",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "ALGCAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHMAU14"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "3B-NCE"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · DAAA"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0D243"
+        }
+      ]
+    },
+    {
+      "id": 6547961697,
+      "label": "A0",
+      "text": "/FUKJJYA.AFN/FMHUAL837,.N77019,AA6BA4,013800/FAK0,RJJJ/FARADS,0/FARATC,0,FUKJJYA3FCA",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL837"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N77019"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "AA6BA4"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:38:00Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · RJJJ"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · FUKJJYA3FCA"
+        }
+      ]
+    },
+    {
+      "id": 6547961541,
+      "label": "A0",
+      "text": "/ANCATYA.AFN/FMHCCA992,.B-2035,,013808/FCAFUKJJYA,0C3FF",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "ANCATYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHCCA992"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "B-2035"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:38:08Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCAFUKJJYA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "0C3FF"
+        }
+      ]
+    },
+    {
+      "id": 6547961538,
+      "label": "A0",
+      "text": "/ANCATYA.AFN/FMHCCA992,.B-2035,,013808/FCAFUKJJYA,0C3FF",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "ANCATYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHCCA992"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "B-2035"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:38:08Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCAFUKJJYA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "0C3FF"
+        }
+      ]
+    },
+    {
+      "id": 6547961242,
+      "label": "A0",
+      "text": "/NDJCAYA.AFN/FMHSWR282,.HB-JMH/FCABZVCAYA,02AF3",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "NDJCAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHSWR282"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "HB-JMH"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCABZVCAYA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "02AF3"
+        }
+      ]
+    },
+    {
+      "id": 6547960141,
+      "label": "A0",
+      "text": "/NIMCAYA.AFN/FMHMAU14,.3B-NCE/FCAALGCAYA,0767F",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "NIMCAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHMAU14"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "3B-NCE"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCAALGCAYA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "0767F"
+        }
+      ]
+    },
+    {
+      "id": 6547959891,
+      "label": "A0",
+      "text": "/SGNGWXA.AFN/FMHEVA225,B-16738/FAK0,VVHM/FARADS,0/FARATC,0012E",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "SGNGWXA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHEVA225"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "B-16738"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · VVHM"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0012E"
+        }
+      ]
+    },
+    {
+      "id": 6547959886,
+      "label": "A0",
+      "text": "/ANCATYA.AFN/FMHUAL837,.N77019,,013742/FCAFUKJJYA,02A81",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "ANCATYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL837"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N77019"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:37:42Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCAFUKJJYA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "02A81"
+        }
+      ]
+    },
+    {
+      "id": 6547959885,
+      "label": "A0",
+      "text": "/SGNGWXA.AFN/FMHEVA225,B-16738/FAK0,VVHM/FARADS,0/FARATC,0012E",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "SGNGWXA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHEVA225"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "B-16738"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · VVHM"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0012E"
+        }
+      ]
+    },
+    {
+      "id": 6547959884,
+      "label": "A0",
+      "text": "/ANCATYA.AFN/FMHUAL837,.N77019,,013742/FCAFUKJJYA,02A81",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "ANCATYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL837"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N77019"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:37:42Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCAFUKJJYA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "02A81"
+        }
+      ]
+    },
+    {
+      "id": 6547957558,
+      "label": "A0",
+      "text": "/ACCFAYA.AFN/FMHUAL187,.N26970,,013700/FCADIISITA,1C28E",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "ACCFAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL187"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N26970"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:37:00Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCADIISITA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "1C28E"
+        }
+      ]
+    },
+    {
+      "id": 6547957557,
+      "label": "A0",
+      "text": "/ACCFAYA.AFN/FMHUAL187,.N26970,,013700/FCADIISITA,1C28E",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "ACCFAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL187"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N26970"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:37:00Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCADIISITA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "1C28E"
+        }
+      ]
+    },
+    {
+      "id": 6547957543,
+      "label": "A0",
+      "text": "/ACCFAYA.AFN/FMHUAL187,.N26970,,013700/FCADIISITA,1C28E",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "ACCFAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL187"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N26970"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:37:00Z"
+        },
+        {
+          "type": "capability",
+          "code": "CAPAB",
+          "label": "FANS Capability Code",
+          "value": "FCADIISITA"
+        },
+        {
+          "type": "ground_facility",
+          "code": "GNDFAC",
+          "label": "Ground Facility (full)",
+          "value": "1C28E"
+        }
+      ]
+    },
+    {
+      "id": 6547957296,
+      "label": "A0",
+      "text": "/YQME2YA.AFN/FMHJBU33,.N4058J,,013646/FAK0,CZQM/FARADS,0/FARATC,0,YQME2YACFEF",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "YQME2YA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHJBU33"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N4058J"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:36:46Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · CZQM"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · YQME2YACFEF"
+        }
+      ]
+    },
+    {
+      "id": 6547957250,
+      "label": "A0",
+      "text": "/NIMCAYA.AFN/FMHBAW59,.G-XWBJ/FAK0,DRRR/FARADS,0/FARATC,0FFD1",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "NIMCAYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHBAW59"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "G-XWBJ"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · DRRR"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0FFD1"
+        }
+      ]
+    },
+    {
+      "id": 6547955566,
+      "label": "A0",
+      "text": "/YQME2YA.AFN/FMHUAL70,.N37018,,013615/FAK4,CZQM/FARADS,4/FARATC,4,YQME2YA6E17",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "YQME2YA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL70"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N37018"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:36:15Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK4 · CZQM"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 4"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 4 · YQME2YA6E17"
+        }
+      ]
+    },
+    {
+      "id": 6547955564,
+      "label": "A0",
+      "text": "/YQME2YA.AFN/FMHUAL70,.N37018,,013615/FAK4,CZQM/FARADS,4/FARATC,4,YQME2YA6E17",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "YQME2YA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL70"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N37018"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:36:15Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK4 · CZQM"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 4"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 4 · YQME2YA6E17"
+        }
+      ]
+    },
+    {
+      "id": 6547955554,
+      "label": "A0",
+      "text": "/YQME2YA.AFN/FMHUAL70,.N37018,,013615/FAK4,CZQM/FARADS,4/FARATC,4,YQME2YA6E17",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "YQME2YA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL70"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N37018"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:36:15Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK4 · CZQM"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 4"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 4 · YQME2YA6E17"
+        }
+      ]
+    },
+    {
+      "id": 6547950736,
+      "label": "A0",
+      "text": "/FUKJJYA.AFN/FMHUAL143,.N38955,A47FDE,013459/FAK0,RJJJ/FARADS,0/FARATC,0,FUKJJYAE480",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL143"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N38955"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "A47FDE"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:34:59Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · RJJJ"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · FUKJJYAE480"
+        }
+      ]
+    },
+    {
+      "id": 6547950734,
+      "label": "A0",
+      "text": "/FUKJJYA.AFN/FMHUAL143,.N38955,A47FDE,013459/FAK0,RJJJ/FARADS,0/FARATC,0,FUKJJYAE480",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHUAL143"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N38955"
+        },
+        {
+          "type": "reason",
+          "code": "REASON",
+          "label": "Reason / Spare",
+          "value": "A47FDE"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:34:59Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · RJJJ"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · FUKJJYAE480"
+        }
+      ]
+    },
+    {
+      "id": 6547950072,
+      "label": "A0",
+      "text": "/YQXE2YA.AFN/FMHAAL720,.N797AN,,013435/FAK0,CZQX/FARADS,0/FARATC,0,YQXE2YA391B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "YQXE2YA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHAAL720"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N797AN"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:34:35Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · CZQX"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · YQXE2YA391B"
+        }
+      ]
+    },
+    {
+      "id": 6547950071,
+      "label": "A0",
+      "text": "/YQXE2YA.AFN/FMHAAL720,.N797AN,,013435/FAK0,CZQX/FARADS,0/FARATC,0,YQXE2YA391B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "YQXE2YA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHAAL720"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N797AN"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:34:35Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · CZQX"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · YQXE2YA391B"
+        }
+      ]
+    },
+    {
+      "id": 6547950069,
+      "label": "A0",
+      "text": "/YQXE2YA.AFN/FMHAAL720,.N797AN,,013435/FAK0,CZQX/FARADS,0/FARATC,0,YQXE2YA391B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "YQXE2YA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHAAL720"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N797AN"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:34:35Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · CZQX"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · YQXE2YA391B"
+        }
+      ]
+    },
+    {
+      "id": 6547950064,
+      "label": "A0",
+      "text": "/YQXE2YA.AFN/FMHAAL720,.N797AN,,013435/FAK0,CZQX/FARADS,0/FARATC,0,YQXE2YA391B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "AFN — ATS Facilities Notification (FANS 1/A data-link logon)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "AFN — ATS Facilities Notification (FANS 1/A logon)"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Downlink (aircraft → ground)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ACARS Address",
+          "value": "YQXE2YA"
+        },
+        {
+          "type": "application",
+          "code": "APPL",
+          "label": "Application",
+          "value": "AFN (ATS Facilities Notification)"
+        },
+        {
+          "type": "aircraft_address",
+          "code": "ACADDR",
+          "label": "Aircraft ACARS Address",
+          "value": "FMHAAL720"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N797AN"
+        },
+        {
+          "type": "timestamp",
+          "code": "TIME",
+          "label": "Message Time (UTC)",
+          "value": "01:34:35Z"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK1",
+          "label": "Block 1",
+          "value": "FAK0 · CZQX"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK2",
+          "label": "Block 2",
+          "value": "FARADS · 0"
+        },
+        {
+          "type": "capability_block",
+          "code": "BLK3",
+          "label": "Block 3",
+          "value": "FARATC · 0 · YQXE2YA391B"
+        }
+      ]
+    }
+  ]
+}

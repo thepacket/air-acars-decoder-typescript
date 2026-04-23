@@ -1,0 +1,307 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6548592191,
+      "label": "34",
+      "text": "207,D,1,22,VHHH,PANC,,8659"
+    },
+    {
+      "id": 6548596660,
+      "label": "34",
+      "text": "FREETEXT MESSAGE 0658LT\r\nLX1740 23APR ZRH A53\r\n01. HALLO ZUSAMMEN\r\n02. ETD 0715 AUFGRUND VON ANSCHLUESSEN\r\n03. YUL GELANDET UM 0636\r\n04. LOADSHEET KOMMT ASAP\r\n05. GRUESSE NATHALIE\r\n"
+    },
+    {
+      "id": 6548596756,
+      "label": "34",
+      "text": "P40HNDOXNH230457\n\tFINAL W/B DATA\n\t\n\tNH0027/23 RJTT-RJOO JA618A         STS A\n\t\n\tZFW 249600\n\t   (TWO FOUR NINE SIX ZERO ZERO)\n\tFOB  33500 TXW 283100 PAX 248 BCM  14300\n\t           TOW 282100 ( 37800)  H1  2300\n\tMAC  18.6                Z1  58 H2  4300\n\t(ONE EIGHT POINT SIX)    Z2  55 H3  5000\n\t (FL 11.6--AL 33.0)      Z3  69 H4  2100\n\t                         Z4  66 H5   600\n\tOBS 1   CA  0 STR 0\n\tOTH      0 IDX +   0\n\t            ZFWMAC 19.2/FL 12.3-AL 32.6\n\tZONE CHG(AFT T/O) FWD 20 AFT 20\n\tSTB\n\tMAX  3.4(THREE POINT FOUR)\n\tD1   3.9(THREE POINT NINE)\n\tD2   4.4(FOUR POINT FOUR)"
+    },
+    {
+      "id": 6548596746,
+      "label": "34",
+      "text": "P40HNDOXNH230457\n\tFINAL W/B DATA\n\t\n\tNH0027/23 RJTT-RJOO JA618A         STS A\n\t\n\tZFW 249600\n\t   (TWO FOUR NINE SIX ZERO ZERO)\n\tFOB  33500 TXW 283100 PAX 248 BCM  14300\n\t           TOW 282100 ( 37800)  H1  2300\n\tMAC  18.6                Z1  58 H2  4300\n\t(ONE EIGHT POINT SIX)    Z2  55 H3  5000\n\t (FL 11.6--AL 33.0)      Z3  69 H4  2100\n\t                         Z4  66 H5   600\n\tOBS 1   CA  0 STR 0\n\tOTH      0 IDX +   0\n\t            ZFWMAC 19.2/FL 12.3-AL 32.6\n\tZONE CHG(AFT T/O) FWD 20 AFT 20\n\tSTB\n\tMAX  3.4(THREE POINT FOUR)\n\tD1   3.9(THREE POINT NINE)\n\tD2   4.4(FOUR POINT FOUR)"
+    },
+    {
+      "id": 6548598421,
+      "label": "34",
+      "text": "W/BTYOWDJL230458\n\tLOG01 230458  OP-15511C\n\t0014168\n\t JL0512/23APR CTS/HND JA01XJ X12  2/9\n\t \n\t FOB  :  47.2   PAX  : 310/2   F7/A51\n\t \n\t AZFW : 369.8   ZFCG :  24.4\n\t \n\t ATXW : 416.8   TOCG :  25.4\n\t \n\t AZFW-THREE SIX NINE DCML EIGHT\n\t ATXW-FOUR ONE SIX DCML EIGHT\n\t TOCG-TWO FIVE DCML FOUR\n\t ----------------------------\n\t TXW  : 415.8\n\t TXF  :   0.9\n\t TOW  : 415.0   TOCG :  25.4\n\t TOF  :  46.2\n\t TRIP :  16.5\n\t LDW  : 398.5   LDCG :  25.0\n\t FZFW : 369.1   ALWC :   1.0\n\t ZFW  : 368.8   ZFCG :  24.4\n\t PLD  :  72.6   PAX  :  47.3\n\t OPW  : 296.3   CGO  :  25.3\n\t BW   : 291.1\n\t \n\t RMKS :PANTRY D2  WTR 100%\n\t       PAX WT 153LB  A12 B55 C149 D94\n\t F1/5.7 F2/5.8 R3/1.6 R4/11.8 R5/0.5\n\t "
+    },
+    {
+      "id": 6548598420,
+      "label": "34",
+      "text": "W/BTYOWDJL230458\n\tLOG01 230458  OP-15511C\n\t0014168\n\t JL0512/23APR CTS/HND JA01XJ X12  2/9\n\t \n\t FOB  :  47.2   PAX  : 310/2   F7/A51\n\t \n\t AZFW : 369.8   ZFCG :  24.4\n\t \n\t ATXW : 416.8   TOCG :  25.4\n\t \n\t AZFW-THREE SIX NINE DCML EIGHT\n\t ATXW-FOUR ONE SIX DCML EIGHT\n\t TOCG-TWO FIVE DCML FOUR\n\t ----------------------------\n\t TXW  : 415.8\n\t TXF  :   0.9\n\t TOW  : 415.0   TOCG :  25.4\n\t TOF  :  46.2\n\t TRIP :  16.5\n\t LDW  : 398.5   LDCG :  25.0\n\t FZFW : 369.1   ALWC :   1.0\n\t ZFW  : 368.8   ZFCG :  24.4\n\t PLD  :  72.6   PAX  :  47.3\n\t OPW  : 296.3   CGO  :  25.3\n\t BW   : 291.1\n\t \n\t RMKS :PANTRY D2  WTR 100%\n\t       PAX WT 153LB  A12 B55 C149 D94\n\t F1/5.7 F2/5.8 R3/1.6 R4/11.8 R5/0.5\n\t "
+    },
+    {
+      "id": 6548598669,
+      "label": "34",
+      "text": "BLOCKED SEATS FOR TRIM REASONS\r\nLX 814 / 23APR\r\nPROTECTED SEATS - 29ACDEF 30ACDEF\r\n"
+    },
+    {
+      "id": 6548598945,
+      "label": "34",
+      "text": "SPNTYOWDJL230458\n\tSPOT-NO ( RJTT )\n\t 10934LAPU OFF\n\tJL0095/23 0955Z"
+    },
+    {
+      "id": 6548598934,
+      "label": "34",
+      "text": "SPNTYOWDJL230458\n\tSPOT-NO ( RJTT )\n\t 10934LAPU OFF\n\tJL0095/23 0955Z"
+    },
+    {
+      "id": 6548599541,
+      "label": "34",
+      "text": "R"
+    },
+    {
+      "id": 6548603550,
+      "label": "34",
+      "text": "PRELIMINARY LOAD INFO 07:00\r\nZFW 42076 TOW 46868 LAW 44308\r\nPAX C/Y 3/33 MACTOW 24.9\r\nSI ZRH-POZ\r\nNOTOC: NO\r\nSALEABLE CONFIGURATION 21C/110Y\r\nBLOCK FUEL 4900\r\nPREPARED BY SUVITHA/SIVARAJAH\r\nEND\r\n"
+    },
+    {
+      "id": 6548603928,
+      "label": "34",
+      "text": "FRETYOWDJL230500\n\tFREE TEXT MSG\n\tSPOT TIGHT\n\tTO JL73\n\tSPT 109 NOW OCPD BY CZ386 ETD 1540L.\n\tFROM HNDOO"
+    },
+    {
+      "id": 6548603919,
+      "label": "34",
+      "text": "PRELIMINARY LOAD INFO 07:00\r\nZFW 51072 TOW 55540 LAW 54141\r\nPAX C/Y 14/59 MACTOW 30.9\r\nSI ZRH-GVA\r\nNOTOC: YES\r\nSALEABLE CONFIGURATION 48C/108Y\r\nBLOCK FUEL 4600\r\nPREPARED BY TIM/STEIN 41 76 6952348\r\nEND\r\n"
+    },
+    {
+      "id": 6548603930,
+      "label": "34",
+      "text": "FRETYOWDJL230500\n\tFREE TEXT MSG\n\tSPOT TIGHT\n\tTO JL73\n\tSPT 109 NOW OCPD BY CZ386 ETD 1540L.\n\tFROM HNDOO"
+    },
+    {
+      "id": 6548611580,
+      "label": "34",
+      "text": "R"
+    },
+    {
+      "id": 6548614134,
+      "label": "34",
+      "text": "EDNO 01\r\nLX 1952 FINAL PAX\r\nFCEY 0/8/0/174 INF 0 JS 0\r\nTTL 182\r\n"
+    },
+    {
+      "id": 6548615834,
+      "label": "34",
+      "text": "EDNO 01\r\nLX 316 FINAL PAX\r\nFCEY 0/17/0/127 INF 1 JS 0\r\nTTL 145\r\n"
+    },
+    {
+      "id": 6548617557,
+      "label": "34",
+      "text": "FRETYOWDJL230504\n\tFREE TEXT MSG\n\tTO JL47\n\tPLZ LET US KNOW YR LATEST ETA\n\tTHX FOR YR COOP. THX\n\tFROM HELKKW01"
+    },
+    {
+      "id": 6548617555,
+      "label": "34",
+      "text": "FRETYOWDJL230504\n\tFREE TEXT MSG\n\tTO JL47\n\tPLZ LET US KNOW YR LATEST ETA\n\tTHX FOR YR COOP. THX\n\tFROM HELKKW01"
+    },
+    {
+      "id": 6548670218,
+      "label": "34",
+      "text": "FREETEXT MESSAGE 0717LT\r\nLX1726 23APR ZRH A67\r\n01. GUETE MORGE CREW LX1726\r\n02. LS ASAP\r\n03. WIR ERWARTEN NOCH 11 PAX\r\n04. IN 2-3MIN BEKOMME ICH BESCHEIDE\r\n05. OB GEPAECK SUCHE ODER DAS\r\n06. TOBT SICH VERSCHIEBT\r\n07. LG EUER COORDI MEHDI\r\n"
+    },
+    {
+      "id": 6548670169,
+      "label": "34",
+      "text": "FREETEXT MESSAGE 0717LT\r\nLX1726 23APR ZRH A67\r\n01. GUETE MORGE CREW LX1726\r\n02. LS ASAP\r\n03. WIR ERWARTEN NOCH 11 PAX\r\n04. IN 2-3MIN BEKOMME ICH BESCHEIDE\r\n05. OB GEPAECK SUCHE ODER DAS\r\n06. TOBT SICH VERSCHIEBT\r\n07. LG "
+    },
+    {
+      "id": 6548682098,
+      "label": "34",
+      "text": "FRETYOWDJL230520\n\tFREE TEXT MSG\n\t//SPOT CHG INFO//\n\tTO JL71\n\tYR SPOT CHGD TO 141.\n\tFROM HNDOO"
+    },
+    {
+      "id": 6548682095,
+      "label": "34",
+      "text": "FRETYOWDJL230520\n\tFREE TEXT MSG\n\t//SPOT CHG INFO//\n\tTO JL71\n\tYR SPOT CHGD TO 141.\n\tFROM HNDOO"
+    },
+    {
+      "id": 6548683650,
+      "label": "34",
+      "text": "EDNO 01\r\nLX 814 FINAL PAX\r\nFCEY 0/10/0/56 INF 0 JS 0\r\nTTL 66\r\n"
+    },
+    {
+      "id": 6548684031,
+      "label": "34",
+      "text": "EDNO 01\r\nLX 430 FINAL PAX\r\nFCEY 0/3/0/100 INF 2 JS 0\r\nTTL 105\r\n"
+    },
+    {
+      "id": 6548684149,
+      "label": "34",
+      "text": "SPNTYOWDJL230521\n\tSPOT-NO ( RJCC )\n\t  1201RAPU ON\n\tJL0514/23 0610Z"
+    },
+    {
+      "id": 6548684144,
+      "label": "34",
+      "text": "SPNTYOWDJL230521\n\tSPOT-NO ( RJCC )\n\t  1201RAPU ON\n\tJL0514/23 0610Z"
+    },
+    {
+      "id": 6548694192,
+      "label": "34",
+      "text": "EDNO 01\r\nLX 2802 FINAL PAX\r\nFCEY 0/14/0/54 INF 0 JS 0\r\nTTL 68\r\n"
+    },
+    {
+      "id": 6548700136,
+      "label": "34",
+      "text": "EDNO 01\r\nLX 562 FINAL PAX\r\nFCEY 0/9/0/129 INF 3 JS 0\r\nTTL 141\r\n"
+    },
+    {
+      "id": 6548705338,
+      "label": "34",
+      "text": "EDNO 01\r\nLX 1726 FINAL PAX\r\nFCEY 0/20/0/176 INF 0 JS 0\r\nTTL 196\r\n"
+    },
+    {
+      "id": 6548706472,
+      "label": "34",
+      "text": "R"
+    },
+    {
+      "id": 6548706471,
+      "label": "34",
+      "text": "R"
+    },
+    {
+      "id": 6548706478,
+      "label": "34",
+      "text": "R"
+    },
+    {
+      "id": 6548706477,
+      "label": "34",
+      "text": "R"
+    },
+    {
+      "id": 6548707725,
+      "label": "34",
+      "text": "FRETYOWDJL230527\n\tPIREP DATA      \n\tSKY185  RJAH-RJBE B738 0523Z RJAH-OGITU \n\tFL010-150 OTB4 INC SB/ON CS/NG          \n\t                                        "
+    },
+    {
+      "id": 6548707723,
+      "label": "34",
+      "text": "FRETYOWDJL230527\n\tPIREP DATA      \n\tSKY185  RJAH-RJBE B738 0523Z RJAH-OGITU \n\tFL010-150 OTB4 INC SB/ON CS/NG          \n\t                                        "
+    },
+    {
+      "id": 6548709569,
+      "label": "34",
+      "text": "TWXTYOWDJL230527\n\tWX-TAF\n\tTAF LATEST AS OF 230527Z APR 2026\n\tRJCC 230505Z 2306/2412 34016KT 9999 FEW030 \n\tBECMG 2311/2313 35006KT\n\t BECMG 2400/2403 34018KT TEMPO 2403/2409 \n\t34025G35KT==\n\tRJTT 230505Z 2306/2412 01008KT 8000 -RA FEW030\n\t SCT040 BKN050 TEMPO\n\t 2308/2316 3000 RA BR FEW005 BKN008 BECMG \n\t2310/2312 36018KT BECMG\n\t 2403/2406 08012KT==\n\tRJBB 230505Z 2306/2412 04020KT 9000 -SHRA \n\tFEW008 BKN040 TEMPO\n\t 2306/2309 3000 SHRA BR FEW003 SCT005 BKN008 \n\tBECMG 2400/2403 02007KT \n\tBECMG 2409/2412 03018KT=="
+    },
+    {
+      "id": 6548709567,
+      "label": "34",
+      "text": "TWXTYOWDJL230527\n\tWX-TAF\n\tTAF LATEST AS OF 230527Z APR 2026\n\tRJCC 230505Z 2306/2412 34016KT 9999 FEW030 \n\tBECMG 2311/2313 35006KT\n\t BECMG 2400/2403 34018KT TEMPO 2403/2409 \n\t34025G35KT==\n\tRJTT 230505Z 2306/2412 01008KT 8000 -RA FEW030\n\t SCT040 BKN050 TEMPO\n\t 2308/2316 3000 RA BR FEW005 BKN008 BECMG \n\t2310/2312 36018KT BECMG\n\t 2403/2406 08012KT==\n\tRJBB 230505Z 2306/2412 04020KT 9000 -SHRA \n\tFEW008 BKN040 TEMPO\n\t 2306/2309 3000 SHRA BR FEW003 SCT005 BKN008 \n\tBECMG 2400/2403 02007KT \n\tBECMG 2409/2412 03018KT=="
+    },
+    {
+      "id": 6548719095,
+      "label": "34",
+      "text": "\n\tREMARKS\n\t0.WINDSHEAR FCST...NIL\n\t1.ECHO... 0520Z\n\tWK-MOD ECHO OBS ARND APO WZIN 50NM\n\tTOP23T, NO TS, MOVE NE\n\t2.MB/WS.. \n\t3.FNL....\n\t4.INST...\n\t5.MT.FUJI...260/BLW40KT FM19Z\n\t6.OTHER...\n\tFROM TYOUC"
+    },
+    {
+      "id": 6548719091,
+      "label": "34",
+      "text": "\n\tREMARKS\n\t0.WINDSHEAR FCST...NIL\n\t1.ECHO... 0520Z\n\tWK-MOD ECHO OBS ARND APO WZIN 50NM\n\tTOP23T, NO TS, MOVE NE\n\t2.MB/WS.. \n\t3.FNL....\n\t4.INST...\n\t5.MT.FUJI...260/BLW40KT FM19Z\n\t6.OTHER...\n\tFROM TYOUC"
+    },
+    {
+      "id": 6548719548,
+      "label": "34",
+      "text": "SPNTYOWDJL230529\n\tSPOT-NO ( RJTT )\n\t  1234LAPU OFF\n\tJL0327/23 0800Z"
+    },
+    {
+      "id": 6548719542,
+      "label": "34",
+      "text": "SPNTYOWDJL230529\n\tSPOT-NO ( RJTT )\n\t  1234LAPU OFF\n\tJL0327/23 0800Z"
+    },
+    {
+      "id": 6548721631,
+      "label": "34",
+      "text": "PRELIMINARY LOAD INFO 11:00\n\tZFW 174974 TOW 240624 LAW 183324\n\tPAX C/Y 30/303 MACTOW 30.6\n\tSI CMB-ZRH\n\tNOTOC: NO\n\tSALEABLE CONFIGURATION 30C/309Y\n\tPER/1/24P\n\tBLOCK FUEL 65900\n\tZFW / MAC ZFW\n\t174974 / 30.8PCTMAC\n\t\n\tPREPARED BY PATSHARAPARPA/AUGKARANULUK\n\t66 2 1342499\n\tEND"
+    },
+    {
+      "id": 6548721626,
+      "label": "34",
+      "text": "PRELIMINARY LOAD INFO 11:00\n\tZFW 174974 TOW 240624 LAW 183324\n\tPAX C/Y 30/303 MACTOW 30.6\n\tSI CMB-ZRH\n\tNOTOC: NO\n\tSALEABLE CONFIGURATION 30C/309Y\n\tPER/1/24P\n\tBLOCK FUEL 65900\n\tZFW / MAC ZFW\n\t174974 / 30.8PCTMAC\n\t\n\tPREPARED BY PATSHARAPARPA/AUGKARANULUK\n\t66 2 1342499\n\tEND"
+    },
+    {
+      "id": 6548724468,
+      "label": "34",
+      "text": "W/BTYOWDJL230530\n\tLOG01 230530  OP-15511C\n\t0013333\n\t JL0121/23APR HND/ITM JA847J E21  4/8\n\t \n\t FOB  :  31.1   PAX  : 267/5   F35/A38\n\t \n\t AZFW : 302.2   ZFCG :  20.4\n\t \n\t ATXW : 333.3   TOCG :  21.0\n\t \n\t AZFW-THREE ZERO TWO DCML TWO\n\t ATXW-THREE THREE THREE DCML THREE\n\t TOCG-TWO ONE DCML ZERO\n\t ----------------------------\n\t TXW  : 332.3\n\t TXF  :   1.1\n\t TOW  : 331.3   TOCG :  21.0\n\t                AFCG/99.9\n\t TOF  :  30.1\n\t TRIP :   9.2\n\t LDW  : 322.1   LDCG :  20.8\n\t FZFW : 302.7   ALWC :   1.0\n\t ZFW  : 301.2   ZFCG :  20.4\n\t PLD  :  50.9   PAX  :  40.3\n\t OPW  : 250.3   CGO  :  10.6\n\t BW   : 246.6\n\t \n\t RMKS :PANTRY D0  WTR 68% \n\t       PAX WT 153LB  A6 B58 C107 D96\n\t F1/4.2 F2/1.9 R3/1.5 R4/2.8 R5/0.4\n\t \n\t      MAX X-WIND        40KT\n\t "
+    },
+    {
+      "id": 6548724465,
+      "label": "34",
+      "text": "W/BTYOWDJL230530\n\tLOG01 230530  OP-15511C\n\t0013333\n\t JL0121/23APR HND/ITM JA847J E21  4/8\n\t \n\t FOB  :  31.1   PAX  : 267/5   F35/A38\n\t \n\t AZFW : 302.2   ZFCG :  20.4\n\t \n\t ATXW : 333.3   TOCG :  21.0\n\t \n\t AZFW-THREE ZERO TWO DCML TWO\n\t ATXW-THREE THREE THREE DCML THREE\n\t TOCG-TWO ONE DCML ZERO\n\t ----------------------------\n\t TXW  : 332.3\n\t TXF  :   1.1\n\t TOW  : 331.3   TOCG :  21.0\n\t                AFCG/99.9\n\t TOF  :  30.1\n\t TRIP :   9.2\n\t LDW  : 322.1   LDCG :  20.8\n\t FZFW : 302.7   ALWC :   1.0\n\t ZFW  : 301.2   ZFCG :  20.4\n\t PLD  :  50.9   PAX  :  40.3\n\t OPW  : 250.3   CGO  :  10.6\n\t BW   : 246.6\n\t \n\t RMKS :PANTRY D0  WTR 68% \n\t       PAX WT 153LB  A6 B58 C107 D96\n\t F1/4.2 F2/1.9 R3/1.5 R4/2.8 R5/0.4\n\t \n\t      MAX X-WIND        40KT\n\t "
+    },
+    {
+      "id": 6548811610,
+      "label": "34",
+      "text": "FRETYOWDJL230550\n\tPIREP DATA      \n\tJAL0073 PHNL-RJTT B789 0519Z            \n\tN33000000E150000000-N33000000E149000000 \n\tFL410-400 OTB2 CLR 269/78 M60 SB/OFF    \n\tCS/OK                                   \n\t                                        \n\tJAL0073 PHNL-RJTT B789 0545Z            \n\tN33000000E149000000-MORAY FL400-360     \n\tITB3 INC 259/75 M50 SB/OFF CS/NG RM/S/D \n\tFL380 SAME COND S/D FL360 TB1           \n\t                                        \n\tJAL0785 PHNL-RJAA B763 0543Z            \n\tN31000000E160000000-N32000000E153000000 \n\tFL390 OTB2 ITC 270/68 M58 SB/OFF CS/OK  \n\t                                        "
+    },
+    {
+      "id": 6548811608,
+      "label": "34",
+      "text": "FRETYOWDJL230550\n\tPIREP DATA      \n\tJAL0073 PHNL-RJTT B789 0519Z            \n\tN33000000E150000000-N33000000E149000000 \n\tFL410-400 OTB2 CLR 269/78 M60 SB/OFF    \n\tCS/OK                                   \n\t                                        \n\tJAL0073 PHNL-RJTT B789 0545Z            \n\tN33000000E149000000-MORAY FL400-360     \n\tITB3 INC 259/75 M50 SB/OFF CS/NG RM/S/D \n\tFL380 SAME COND S/D FL360 TB1           \n\t                                        \n\tJAL0785 PHNL-RJAA B763 0543Z            \n\tN31000000E160000000-N32000000E153000000 \n\tFL390 OTB2 ITC 270/68 M58 SB/OFF CS/OK  \n\t                                        "
+    },
+    {
+      "id": 6548812421,
+      "label": "34",
+      "text": "FRETYOWDJL230550\n\tLO LVL WIND DATA\n\tWIND INFO.      OBS 2026/04/23 05:42Z\n\t RJTT RWY 34R          HW DIR/SPD   XW\n\t            I    1000  -- ---/--     --\n\t           *I     500 +04 030/07    R06\n\t           *I     400 +04 030/06    R05\n\t           *I     300 +04 030/06    R05\n\t           *I         +04 030/06    R05\n\t           *I     200 +04 030/06    R05\n\t           *I         +04 030/06    R05\n\t           *I     100 +04 030/06    R05\n\t           *I         +03 030/05    R04\n\t           *I     GND +03 030/05    R04\n\t+-+-+-+-+-+-+-+-+\n\t   +40 +20  0  -20\n\t                     I-----REMARKS-----\n\tXW LEFT/RIGHT        I\n\t        *        200 I\n\t        *            I\n\t        *        100 I\n\t        *            I\n\t        *        GND I\n\t-+-+-+-+-+-+-+-      I\n\t  L20  0  R20        I"
+    },
+    {
+      "id": 6548812418,
+      "label": "34",
+      "text": "FRETYOWDJL230550\n\tLO LVL WIND DATA\n\tWIND INFO.      OBS 2026/04/23 05:42Z\n\t RJTT RWY 34R          HW DIR/SPD   XW\n\t            I    1000  -- ---/--     --\n\t           *I     500 +04 030/07    R06\n\t           *I     400 +04 030/06    R05\n\t           *I     300 +04 030/06    R05\n\t           *I         +04 030/06    R05\n\t           *I     200 +04 030/06    R05\n\t           *I         +04 030/06    R05\n\t           *I     100 +04 030/06    R05\n\t           *I         +03 030/05    R04\n\t           *I     GND +03 030/05    R04\n\t+-+-+-+-+-+-+-+-+\n\t   +40 +20  0  -20\n\t                     I-----REMARKS-----\n\tXW LEFT/RIGHT        I\n\t        *        200 I\n\t        *            I\n\t        *        100 I\n\t        *            I\n\t        *        GND I\n\t-+-+-+-+-+-+-+-      I\n\t  L20  0  R20        I"
+    }
+  ],
+  "ids": {
+    "6548592191": 1,
+    "6548596660": 1,
+    "6548596756": 1,
+    "6548596746": 1,
+    "6548598421": 1,
+    "6548598420": 1,
+    "6548598669": 1,
+    "6548598945": 1,
+    "6548598934": 1,
+    "6548599541": 1,
+    "6548603550": 1,
+    "6548603928": 1,
+    "6548603919": 1,
+    "6548603930": 1,
+    "6548611580": 1,
+    "6548614134": 1,
+    "6548615834": 1,
+    "6548617557": 1,
+    "6548617555": 1,
+    "6548670218": 1,
+    "6548670169": 1,
+    "6548682098": 1,
+    "6548682095": 1,
+    "6548683650": 1,
+    "6548684031": 1,
+    "6548684149": 1,
+    "6548684144": 1,
+    "6548694192": 1,
+    "6548700136": 1,
+    "6548705338": 1,
+    "6548706472": 1,
+    "6548706471": 1,
+    "6548706478": 1,
+    "6548706477": 1,
+    "6548707725": 1,
+    "6548707723": 1,
+    "6548709569": 1,
+    "6548709567": 1,
+    "6548719095": 1,
+    "6548719091": 1,
+    "6548719548": 1,
+    "6548719542": 1,
+    "6548721631": 1,
+    "6548721626": 1,
+    "6548724468": 1,
+    "6548724465": 1,
+    "6548811610": 1,
+    "6548811608": 1,
+    "6548812421": 1,
+    "6548812418": 1
+  }
+}

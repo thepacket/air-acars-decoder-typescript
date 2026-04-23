@@ -1,0 +1,505 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547248812,
+      "label": "5U",
+      "text": "OS PHTO/WXRITO \r\n,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Weather Information Request (WXRQ)"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "OS"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "PHTO"
+        },
+        {
+          "type": "wxr_request",
+          "code": "WXRREQ",
+          "label": "Weather Request",
+          "value": "WXR for ITO"
+        }
+      ]
+    },
+    {
+      "id": 6547307000,
+      "label": "5U",
+      "text": "OS PHOG/WXROGG \r\n,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Weather Information Request (WXRQ)"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "OS"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "PHOG"
+        },
+        {
+          "type": "wxr_request",
+          "code": "WXRREQ",
+          "label": "Weather Request",
+          "value": "WXR for OGG"
+        }
+      ]
+    },
+    {
+      "id": 6547329074,
+      "label": "5U",
+      "text": "  01 WXRQ   7025/22 PANC/PAOT .N627AS\r\n/TYP 1/STA PAOT/STA GAL /STA PAOM",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547329070,
+      "label": "5U",
+      "text": "  01 WXRQ   7025/22 PANC/PAOT .N627AS\r\n/TYP 1/STA PAOT/STA GAL /STA PAOM",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547326322,
+      "label": "5U",
+      "text": "OS ZSPD /WXARJAA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547326084,
+      "label": "5U",
+      "text": "OS ZSPD /WXARJAA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547324807,
+      "label": "5U",
+      "text": "  01 WXRQ   34RY/22 LCLK/EGNX .G-JZBD\r\n/TYP 1/STA EGNX/STA EDDF/STA EBBR",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547323304,
+      "label": "5U",
+      "text": "OS ZSPD /WXAPANC",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547318803,
+      "label": "5U",
+      "text": "  01 WXRQ   1811/22 SUMU/SCEL .CC-AZO\r\n/TYP 1/STA SCEL/STA SAEZ/STA SACO",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547315419,
+      "label": "5U",
+      "text": "TI/0/YSSY///",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547966375,
+      "label": "5U",
+      "text": "KPNS-SA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547966310,
+      "label": "5U",
+      "text": "22A   KMIAKFLLKMCO",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547962829,
+      "label": "5U",
+      "text": "M85ATK6589FS ZWWW,UAKK,UZTT,UBBB",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547962448,
+      "label": "5U",
+      "text": "  01 WXRQ   3312/23 SBBR/SBSL .PT-MXH\r\n/TYP 1/STA SBSL/STA SBBE/STA SBFZ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547961171,
+      "label": "5U",
+      "text": "  01 WXRQ   0073/22 VABB/OERK .VT-IMR\r\n/TYP 1/STA OERK/STA OEMA/STA     ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547959305,
+      "label": "5U",
+      "text": "TYP 1/KPAE//",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958333,
+      "label": "5U",
+      "text": "OS EGLL /WXACYQX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958327,
+      "label": "5U",
+      "text": "OS EGLL /WXACYQX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958326,
+      "label": "5U",
+      "text": "OS EGLL /WXACYQX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958325,
+      "label": "5U",
+      "text": "OS EGLL /WXACYQX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958324,
+      "label": "5U",
+      "text": "OS EGLL /WXACYQX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958322,
+      "label": "5U",
+      "text": "OS EGLL /WXACYQX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958316,
+      "label": "5U",
+      "text": "OS EGLL /WXACYQX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958315,
+      "label": "5U",
+      "text": "OS EGLL /WXACYQX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958314,
+      "label": "5U",
+      "text": "OS EGLL /WXACYQX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958313,
+      "label": "5U",
+      "text": "OS EGLL /WXACYQX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958312,
+      "label": "5U",
+      "text": "OS EGLL /WXACYQX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958311,
+      "label": "5U",
+      "text": "OS EGLL /WXACYQX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547958011,
+      "label": "5U",
+      "text": "SA KBOS,KPHL,KJFK,CYYT",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547956012,
+      "label": "5U",
+      "text": "OS EGLL /WXAKJFK",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547956011,
+      "label": "5U",
+      "text": "OS EGLL /WXAKJFK",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547955800,
+      "label": "5U",
+      "text": "OS EGLL /WXAKJFK",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547955799,
+      "label": "5U",
+      "text": "OS EGLL /WXAKJFK",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547955798,
+      "label": "5U",
+      "text": "OS EGLL /WXAKJFK",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547955797,
+      "label": "5U",
+      "text": "OS EGLL /WXAKJFK",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547955796,
+      "label": "5U",
+      "text": "OS EGLL /WXAKJFK",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547955795,
+      "label": "5U",
+      "text": "OS EGLL /WXAKJFK",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547950386,
+      "label": "5U",
+      "text": "KBHM-SA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547948785,
+      "label": "5U",
+      "text": "\r\nWX REQUEST\r\nQFA0437/23\r\nATIS  \r\nYMML ---- ----",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547948776,
+      "label": "5U",
+      "text": "M32ACX0110YPTN YPDN WAPP WAMM-SA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547948775,
+      "label": "5U",
+      "text": "\r\nWX REQUEST\r\nQFA0437/23\r\nATIS  \r\nYMML ---- ----",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547948086,
+      "label": "5U",
+      "text": "001WX23013416N4229.4W07100.74105170380\r\n024AQ,CYYR,BIKF,,,,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547946305,
+      "label": "5U",
+      "text": "  01 WXRQ   0435/22 KMCO/MMMX .N173AM\r\n/TYP 1/STA MMMX/STA MMQT/STA MMMD",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547945789,
+      "label": "5U",
+      "text": "\r\nWX REQUEST\r\nQFA0051/23\r\nTAFOR \r\nWSSS YBCS YPDN",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547945788,
+      "label": "5U",
+      "text": "\r\nWX REQUEST\r\nQFA0051/23\r\nTAFOR \r\nWSSS YBCS YPDN",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547940428,
+      "label": "5U",
+      "text": "SAWGSAZBSAVT-SA,1\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547934072,
+      "label": "5U",
+      "text": "  01 WXRQ   0379/22 KBWI/KSEA .N253AK\r\n/TYP 1/STA KMSP/STA KFSD/STA KRAP",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547979943,
+      "label": "5U",
+      "text": "M51ACZ0305  01 WXRQ   0305/22 ZGGG/NZAA .B-32AV\n\t/TYP 4/STA NZAA/STA NZCH/STA NZOH",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547972495,
+      "label": "5U",
+      "text": "  01 WXRQ   1510/22 WBKK/RCTP .9M-RAO\r\n/TYP 4/STA RCTP/STA RCKH/STA RJFF",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    },
+    {
+      "id": 6547995745,
+      "label": "5U",
+      "text": "M94AAA0027OS RJTT /WXAPANC",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Autonomous Weather Information Request (WXRQ)",
+      "items": []
+    }
+  ]
+}

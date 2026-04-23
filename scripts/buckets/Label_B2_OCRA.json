@@ -1,0 +1,41 @@
+{
+  "count": 4,
+  "entries": [
+    {
+      "id": 6548025855,
+      "label": "B2",
+      "text": "/PIKCLYA.OC1/CLA 0155 260423 EGGX\r\nCLRNCE 871\r\nUPS208 CLRD TO KEWR VIA\r\nTOBOR\r\nRANDOM ROUTE\r\n5230N020W 5230N030W\r\n52N040W 5030N050W BUDAR\r\nFM TOBOR/0307 MNTN F310\r\nM080\r\nATC/LEVEL CHANGE\r\nEND OF MESSAGEAC78",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Oceanic Clearance Acknowledgement (OCRA / CLA)",
+      "items": []
+    },
+    {
+      "id": 6548025852,
+      "label": "B2",
+      "text": "/PIKCLYA.OC1/CLA 0155 260423 EGGX\r\nCLRNCE 871\r\nUPS208 CLRD TO KEWR VIA\r\nTOBOR\r\nRANDOM ROUTE\r\n5230N020W 5230N030W\r\n52N040W 5030N050W BUDAR\r\nFM TOBOR/0307 MNTN F310\r\nM080\r\nATC/LEVEL CHANGE\r\nEND OF MESSAGEAC78",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Oceanic Clearance Acknowledgement (OCRA / CLA)",
+      "items": []
+    },
+    {
+      "id": 6548025851,
+      "label": "B2",
+      "text": "/PIKCLYA.OC1/CLA 0155 260423 EGGX\r\nCLRNCE 871\r\nUPS208 CLRD TO KEWR VIA\r\nTOBOR\r\nRANDOM ROUTE\r\n5230N020W 5230N030W\r\n52N040W 5030N050W BUDAR\r\nFM TOBOR/0307 MNTN F310\r\nM080\r\nATC/LEVEL CHANGE\r\nEND OF MESSAGEAC78",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Oceanic Clearance Acknowledgement (OCRA / CLA)",
+      "items": []
+    },
+    {
+      "id": 6548025849,
+      "label": "B2",
+      "text": "/PIKCLYA.OC1/CLA 0155 260423 EGGX\r\nCLRNCE 871\r\nUPS208 CLRD TO KEWR VIA\r\nTOBOR\r\nRANDOM ROUTE\r\n5230N020W 5230N030W\r\n52N040W 5030N050W BUDAR\r\nFM TOBOR/0307 MNTN F310\r\nM080\r\nATC/LEVEL CHANGE\r\nEND OF MESSAGEAC78",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Oceanic Clearance Acknowledgement (OCRA / CLA)",
+      "items": []
+    }
+  ]
+}

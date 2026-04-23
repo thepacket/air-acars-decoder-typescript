@@ -1,0 +1,4544 @@
+{
+  "count": 43,
+  "entries": [
+    {
+      "id": 6547252310,
+      "label": "A3",
+      "text": "/CTUDCYA.DC1/CLD 2226 260422 ZUUU PDC 842\n\tCSC9819 CLRD TO UAAA OFF 02L VIA BOKIR9W\n\tSQUAWK 1531 ADT 2200 NEXT FREQ 130.350 ATIS H\n\tINITIAL ALT 1800M\n\tFL 10400M\n\tAPP FREQUENCY 126.35ADAC",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "CTUDCYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSC9819"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:26:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZUUU"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "UAAA"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "22:26"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "842"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "CSC9819"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "02L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "BOKIR9W"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "1531"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "22:00"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "130.350 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "H"
+        }
+      ]
+    },
+    {
+      "id": 6547252303,
+      "label": "A3",
+      "text": "/CTUDCYA.DC1/CLD 2226 260422 ZUUU PDC 842\n\tCSC9819 CLRD TO UAAA OFF 02L VIA BOKIR9W\n\tSQUAWK 1531 ADT 2200 NEXT FREQ 130.350 ATIS H\n\tINITIAL ALT 1800M\n\tFL 10400M\n\tAPP FREQUENCY 126.35ADAC",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "CTUDCYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSC9819"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:26:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZUUU"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "UAAA"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "22:26"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "842"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "CSC9819"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "02L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "BOKIR9W"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "1531"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "22:00"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "130.350 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "H"
+        }
+      ]
+    },
+    {
+      "id": 6547232920,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 2221 260422 RJTT PDC 169\r\nSKY003 CLRD TO RJFF OFF 05 VIA GUSRO1\r\n DEPARTURE FPR MNTN F200 EXP F360\r\nSQUAWK 3304 NEXT FREQ 121.700 ATIS Q\r\nTSAT 22358C8C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "SKY003"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:21:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RJFF"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "22:21"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "169"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "SKY003"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "05"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "GUSRO1"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE FPR MNTN F200 EXP F360"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3304"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.700 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "Q"
+        }
+      ]
+    },
+    {
+      "id": 6547232191,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 2221 260422 RJTT PDC 169\r\nSKY003 CLRD TO RJFF OFF 05 VIA GUSRO1\r\n DEPARTURE FPR MNTN F200 EXP F360\r\nSQUAWK 3304 NEXT FREQ 121.700 ATIS Q\r\nTSAT 22358C8C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "SKY003"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:21:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RJFF"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "22:21"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "169"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "SKY003"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "05"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "GUSRO1"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE FPR MNTN F200 EXP F360"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3304"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.700 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "Q"
+        }
+      ]
+    },
+    {
+      "id": 6547313990,
+      "label": "A3",
+      "text": "/AUHCAYA.DC1/CLD 2241 260422 OMAA PDC 071\n\tETD72W CLRD TO EIDW OFF 31L 5000 FT VIA ORNEL1U\n\tSQUAWK 3407 ADT 2339 NEXT FREQ 125.100 \n\tTSAT 2318 DEP FREQ 128.100\n\tCTOT 2339 QNH 1004 \n\tON MISMATCH CTCT 125.100 \n\tCHECK ATIS6D11",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "AUHCAYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "ETD72W"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:41:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "OMAA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "EIDW"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "22:41"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "071"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "ETD72W"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "31L"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "5000 FT VIA ORNEL1U"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3407"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "23:39"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "125.100 MHz"
+        }
+      ]
+    },
+    {
+      "id": 6547297672,
+      "label": "A3",
+      "text": "/HKGCPYA.DC1/CLD 2237 260422 VHHH PDC 533\n\tUAE9859 CLRD TO OMDW OFF 25C VIA PECAN1D\n\tSQUAWK 5312 NEXT FREQ 122.150 ATIS P\n\tCLIMB VIA SID TO 5000FT. ACK PDC. CTC DELIVERY ON 122.15 WHEN READY TO START3210",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "HKGCPYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "UAE9859"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:37:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "VHHH"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "OMDW"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "22:37"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "533"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "UAE9859"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "25C"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "PECAN1D"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "5312"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "122.150 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "P"
+        }
+      ]
+    },
+    {
+      "id": 6547297666,
+      "label": "A3",
+      "text": "/HKGCPYA.DC1/CLD 2237 260422 VHHH PDC 533\n\tUAE9859 CLRD TO OMDW OFF 25C VIA PECAN1D\n\tSQUAWK 5312 NEXT FREQ 122.150 ATIS P\n\tCLIMB VIA SID TO 5000FT. ACK PDC. CTC DELIVERY ON 122.15 WHEN READY TO START3210",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "HKGCPYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "UAE9859"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:37:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "VHHH"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "OMDW"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "22:37"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "533"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "UAE9859"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "25C"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "PECAN1D"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "5312"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "122.150 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "P"
+        }
+      ]
+    },
+    {
+      "id": 6547296084,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 2237 260422 RJTT PDC 181\r\nSKY513 CLRD TO ROAH OFF 05 VIA LAXAS4\r\n DEPARTURE FPR MNTN F200 EXP F380\r\nSQUAWK 3342 NEXT FREQ 121.700 ATIS R\r\nTSAT 2245339D",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "SKY513"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:37:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ROAH"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "22:37"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "181"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "SKY513"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "05"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "LAXAS4"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE FPR MNTN F200 EXP F380"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3342"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.700 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "R"
+        }
+      ]
+    },
+    {
+      "id": 6547290903,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 2236 260422 RJTT PDC\r\n 180\r\nQFA26 CLRD TO YSSY OFF\r\n 05 VIA VAMOS4 DEPARTURE\r\n DRAKY TRANSITION FPR\r\n MNTN A090 EXP F260\r\nSQUAWK 6114 NEXT FREQ\r\n 121.625 ATIS R\r\nTSAT 2255A29A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "QFA26"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:36:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "YSSY"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "22:36"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "180"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "QFA26"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "05"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "VAMOS4"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE DRAKY TRANSITION FPR MNTN A090 EXP F260"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "6114"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.625 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "R"
+        }
+      ]
+    },
+    {
+      "id": 6547353119,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 2252 260422 RJTT PDC 191\r\nJAL47 CLRD TO EFHK OFF 34R VIA ROVER4B\r\n DEPARTURE INUBO TRANSITION FPR MNTN F250 EXP\r\n F310\r\nSQUAWK 3177 NEXT FREQ 121.625 ATIS R\r\nTSAT 22504661",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JAL47"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:52:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "EFHK"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "22:52"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "191"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "JAL47"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "34R"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "ROVER4B"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE INUBO TRANSITION FPR MNTN F250 EXP F310"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3177"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.625 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "R"
+        }
+      ]
+    },
+    {
+      "id": 6547960193,
+      "label": "A3",
+      "text": "/HDQGLXH.DC1/CLD 0137 260423 KMDW PDC 471\r\nEJA359 KMDW-KTEB\r\nATC CLEARANCE:\r\nCLR AS FILED.\r\nFILED FLIGHT PLAN:\r\nKMDW LEWKE GIJ EVOTE\r\nNELLS KEEHO JHW LVZ5\r\nKTEB\r\nSQUAWK: 6513\r\nREQUESTED ALT: 410\r\nAIRCRAFT EQUIP/TYPE:\r\nC680/L\r\nPROPOSED ETD: 0200Z\r\nEDCT: NOT IN EFFECT\r\nATC INSTRUCTIONS:\r\nCLEARED MDWAY8 DEPARTURE\r\nMAINTAIN 3000FT EXP 410\r\n10 MIN AFT DP,DPFRQ\r\n133.9 TERM TFC CTC\r\nGROUND CTL FOR PUSH DEP\r\nFREQ MAY CHANGE\r\nEND OF CLEARANCE26F6\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "HDQGLXH"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:37:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KMDW"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:37"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "471"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "EJA359 KMDW-KTEB ATC CLEARANCE: CLR AS FILED. FILED FLIGHT PLAN: KMDW LEWKE GIJ EVOTE NELLS KEEHO JHW LVZ5 KTEB"
+        }
+      ]
+    },
+    {
+      "id": 6547959717,
+      "label": "A3",
+      "text": "80/L\r\nPROPOSED ETD: 0200Z\r\nEDCT: NOT IN EFFECT\r\nATC INSTRUCTIONS:\r\nCLEARED MDWAY8 DEPARTURE\r\nMAINTAIN 3000FT EXP 410\r\n10 MIN AFT DP,DPFRQ\r\n133.9 TERM TFC CTC\r\nGROUND CTL FOR PUSH DEP\r\nFREQ MAY CHANGE\r\nEND OF CLEARANCE26F",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": []
+    },
+    {
+      "id": 6547954605,
+      "label": "A3",
+      "text": "/SHADCYA.DC1/CLD 0136 260423 ZSSS\n\tPDC 819\n\tCSN3596 CLRD TO ZGGG OFF 36L VIA NXD71D\n\tSQUAWK 5021 ADT 0136 NEXT FREQ 121.750 ATIS V\n\tINITIAL ALT 900M\n\tFL 7800M\n\tREPORT YOU ACK DCL WHEN RDY  55D5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "SHADCYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN3596"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:36:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZSSS"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZGGG"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:36"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "819"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "CSN3596"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "36L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "NXD71D"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "5021"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "01:36"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.750 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547954600,
+      "label": "A3",
+      "text": "/SHADCYA.DC1/CLD 0136 260423 ZSSS\n\tPDC 819\n\tCSN3596 CLRD TO ZGGG OFF 36L VIA NXD71D\n\tSQUAWK 5021 ADT 0136 NEXT FREQ 121.750 ATIS V\n\tINITIAL ALT 900M\n\tFL 7800M\n\tREPORT YOU ACK DCL WHEN RDY  55D5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "SHADCYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN3596"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:36:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZSSS"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZGGG"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:36"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "819"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "CSN3596"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "36L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "NXD71D"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "5021"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "01:36"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.750 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "V"
+        }
+      ]
+    },
+    {
+      "id": 6547947495,
+      "label": "A3",
+      "text": "/CTUACYA.DC1/CLD 0134 260423 PANC\n\t PDC 750\n\tUPS80 CLRD TO ZSPD\n\tTHIS IS LID (LANDING INFORMATION DELIVER) FOR UPS80, EXPECT DUM91A ARRIVAL ILS Z APP RWY 34R TO ZSPD. PARKING POSITION: 333. ON INITIAL CONTACT SHANGHAI APPROACH, PILOT ONLY NEED TO REPORT DETAILED STAR AND RWY RECEIVED BY LID.\n\t7507677",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "CTUACYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "UPS80"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:34:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "PANC"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZSPD"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:34"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "750"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "UPS80"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "THIS IS LID (LANDING INFORMATION DELIVER) FOR UPS80, EXPECT DUM91A ARRIVAL ILS Z"
+        }
+      ]
+    },
+    {
+      "id": 6547947490,
+      "label": "A3",
+      "text": "/CTUACYA.DC1/CLD 0134 260423 PANC\n\t PDC 750\n\tUPS80 CLRD TO ZSPD\n\tTHIS IS LID (LANDING INFORMATION DELIVER) FOR UPS80, EXPECT DUM91A ARRIVAL ILS Z APP RWY 34R TO ZSPD. PARKING POSITION: 333. ON INITIAL CONTACT SHANGHAI APPROACH, PILOT ONLY NEED TO REPORT DETAILED STAR AND RWY RECEIVED BY LID.\n\t7507677",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "CTUACYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "UPS80"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:34:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "PANC"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZSPD"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:34"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "750"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "UPS80"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "THIS IS LID (LANDING INFORMATION DELIVER) FOR UPS80, EXPECT DUM91A ARRIVAL ILS Z"
+        }
+      ]
+    },
+    {
+      "id": 6547938714,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 0131 260423 RJTT PDC\r\n 313\r\nCSN3086 CLRD TO ZGGG OFF\r\n 05 VIA NINOX4 DEPARTURE\r\n FPR MNTN F200 EXP F300\r\nSQUAWK 3241 ADT 0207\r\n NEXT FREQ 121.625 ATIS\r\n X\r\nTSAT 0145AB1D",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN3086"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:31:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZGGG"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:31"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "313"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "CSN3086"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "05"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "NINOX4"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE FPR MNTN F200 EXP F300"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3241"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "02:07"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.625 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "X"
+        }
+      ]
+    },
+    {
+      "id": 6547936738,
+      "label": "A3",
+      "text": "/PVGDCYA.DC1/CLD 0131 260423 ZSPD\n\tPDC 154\n\tDAL388 CLRD TO KDTW OFF 34L VIA LAM92D\n\tSQUAWK 0142 ADT 0131 NEXT FREQ 121.950 ATIS E\n\tINITIAL ALT 900M\n\tFL 7500M\n\tWHEN AIRBORNE CTC APP125.40 W/O INSTRUC0B69",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "PVGDCYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "DAL388"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:31:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZSPD"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KDTW"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:31"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "154"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "DAL388"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "34L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "LAM92D"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "0142"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "01:31"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.950 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "E"
+        }
+      ]
+    },
+    {
+      "id": 6547936737,
+      "label": "A3",
+      "text": "/PVGDCYA.DC1/CLD 0131 260423 ZSPD\n\tPDC 154\n\tDAL388 CLRD TO KDTW OFF 34L VIA LAM92D\n\tSQUAWK 0142 ADT 0131 NEXT FREQ 121.950 ATIS E\n\tINITIAL ALT 900M\n\tFL 7500M\n\tWHEN AIRBORNE CTC APP125.40 W/O INSTRUC0B69",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "PVGDCYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "DAL388"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:31:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZSPD"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KDTW"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:31"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "154"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "DAL388"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "34L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "LAM92D"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "0142"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "01:31"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.950 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "E"
+        }
+      ]
+    },
+    {
+      "id": 6547973206,
+      "label": "A3",
+      "text": "/HKGCPYA.DC1/CLD 0137 260423 VHHH PDC 630\n\tCPA536 CLRD TO RJGG OFF 25C VIA DALOL1D\n\tSQUAWK 3547 NEXT FREQ 122.150 ATIS T\n\tCLIMB VIA SID TO 5000FT. ACK PDC. CTC DELIVERY ON 122.15 WHEN READY TO STARTDD0B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "HKGCPYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CPA536"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:37:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "VHHH"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RJGG"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:37"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "630"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "CPA536"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "25C"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "DALOL1D"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3547"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "122.150 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "T"
+        }
+      ]
+    },
+    {
+      "id": 6547973198,
+      "label": "A3",
+      "text": "/HKGCPYA.DC1/CLD 0137 260423 VHHH PDC 630\n\tCPA536 CLRD TO RJGG OFF 25C VIA DALOL1D\n\tSQUAWK 3547 NEXT FREQ 122.150 ATIS T\n\tCLIMB VIA SID TO 5000FT. ACK PDC. CTC DELIVERY ON 122.15 WHEN READY TO STARTDD0B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "HKGCPYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CPA536"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:37:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "VHHH"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RJGG"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:37"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "630"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "CPA536"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "25C"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "DALOL1D"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3547"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "122.150 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "T"
+        }
+      ]
+    },
+    {
+      "id": 6547969013,
+      "label": "A3",
+      "text": "/HKGCPYA.DC1/CLD 0137 260423 VHHH PDC 630\n\tCPA536 CLRD TO RJGG OFF 25C VIA DALOL1D\n\tSQUAWK 3547 NEXT FREQ 122.150 ATIS T\n\tCLIMB VIA SID TO 5000FT. ACK PDC. CTC DELIVERY ON 122.15 WHEN READY TO STARTDD0B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "HKGCPYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CPA536"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:37:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "VHHH"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RJGG"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:37"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "630"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "CPA536"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "25C"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "DALOL1D"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3547"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "122.150 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "T"
+        }
+      ]
+    },
+    {
+      "id": 6547968999,
+      "label": "A3",
+      "text": "/HKGCPYA.DC1/CLD 0137 260423 VHHH PDC 630\n\tCPA536 CLRD TO RJGG OFF 25C VIA DALOL1D\n\tSQUAWK 3547 NEXT FREQ 122.150 ATIS T\n\tCLIMB VIA SID TO 5000FT. ACK PDC. CTC DELIVERY ON 122.15 WHEN READY TO STARTDD0B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "HKGCPYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CPA536"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:37:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "VHHH"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RJGG"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:37"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "630"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "CPA536"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "25C"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "DALOL1D"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3547"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "122.150 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "T"
+        }
+      ]
+    },
+    {
+      "id": 6548016851,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 0154 260423 RJAA PDC 812\n\tTHA641 CLRD TO VTBS OFF 34L VIA OLVAN2 DEPARTURE SAMUS TRANSITION FPR MNTN F240 EXP F360\n\tSQUAWK 6004 ADT 0210 NEXT FREQ 121.900 ATIS L\n\tTSAT 0154 NEXT FREQ FOR PUSHBACK52A2",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "THA641"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:54:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJAA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "VTBS"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:54"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "812"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "THA641"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "34L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "OLVAN2"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE SAMUS TRANSITION FPR MNTN F240 EXP F360"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "6004"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "02:10"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.900 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "L"
+        }
+      ]
+    },
+    {
+      "id": 6548016846,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 0154 260423 RJAA PDC 812\n\tTHA641 CLRD TO VTBS OFF 34L VIA OLVAN2 DEPARTURE SAMUS TRANSITION FPR MNTN F240 EXP F360\n\tSQUAWK 6004 ADT 0210 NEXT FREQ 121.900 ATIS L\n\tTSAT 0154 NEXT FREQ FOR PUSHBACK52A2",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "THA641"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:54:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJAA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "VTBS"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:54"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "812"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "THA641"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "34L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "OLVAN2"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE SAMUS TRANSITION FPR MNTN F240 EXP F360"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "6004"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "02:10"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.900 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "L"
+        }
+      ]
+    },
+    {
+      "id": 6548021339,
+      "label": "A3",
+      "text": "/BKKDCXA.DC1/CLD 0155 260423 VTBS PDC 057\n\tETD403 CLRD TO OMAA OFF 20L VIA PASTO1G L301 ALT060\n\tSQUAWK 0712\n\tSELECT ACCEPT TO ACK CLR & CTC GROUND FREQ FOR PUSH BACK & START UP\n\t8672",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "BKKDCXA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "ETD403"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:55:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "VTBS"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "OMAA"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:55"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "057"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "ETD403"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "20L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "PASTO1G"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "L301 ALT060"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "0712"
+        }
+      ]
+    },
+    {
+      "id": 6548021332,
+      "label": "A3",
+      "text": "/BKKDCXA.DC1/CLD 0155 260423 VTBS PDC 057\n\tETD403 CLRD TO OMAA OFF 20L VIA PASTO1G L301 ALT060\n\tSQUAWK 0712\n\tSELECT ACCEPT TO ACK CLR & CTC GROUND FREQ FOR PUSH BACK & START UP\n\t8672",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "BKKDCXA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "ETD403"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:55:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "VTBS"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "OMAA"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:55"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "057"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "ETD403"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "20L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "PASTO1G"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "L301 ALT060"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "0712"
+        }
+      ]
+    },
+    {
+      "id": 6548022586,
+      "label": "A3",
+      "text": "/BKKDCXA.DC1/CLD 0155 260423 VTBS PDC 058\n\tREU888 CLRD TO FMEE OFF 20L VIA VANKO1G Y8 PUT P627 ALT060\n\tSQUAWK 0717\n\tSELECT ACCEPT TO ACK CLR & CTC GROUND FREQ FOR PUSH BACK & START UP\n\tDC61",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "BKKDCXA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "REU888"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:55:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "VTBS"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "FMEE"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:55"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "058"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "REU888"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "20L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "VANKO1G"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "Y8 PUT P627 ALT060"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "0717"
+        }
+      ]
+    },
+    {
+      "id": 6548022578,
+      "label": "A3",
+      "text": "/BKKDCXA.DC1/CLD 0155 260423 VTBS PDC 058\n\tREU888 CLRD TO FMEE OFF 20L VIA VANKO1G Y8 PUT P627 ALT060\n\tSQUAWK 0717\n\tSELECT ACCEPT TO ACK CLR & CTC GROUND FREQ FOR PUSH BACK & START UP\n\tDC61",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "BKKDCXA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "REU888"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:55:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "VTBS"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "FMEE"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:55"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "058"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "REU888"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "20L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "VANKO1G"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "Y8 PUT P627 ALT060"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "0717"
+        }
+      ]
+    },
+    {
+      "id": 6548035007,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 0159 260423 RJBB PDC 321\n\tEVA177 CLRD TO RCTP OFF 06L\n\t VIA OMGOR1 DEPARTURE FPR MNTN\n\t A050 EXP F380\n\tSQUAWK 3710 ADT 0227 NEXT FREQ\n\t 121.600 ATIS O\n\tD23C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "EVA177"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:59:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJBB"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RCTP"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:59"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "321"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "EVA177"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "06L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "OMGOR1"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE FPR MNTN A050 EXP F380"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3710"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "02:27"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.600 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "O"
+        }
+      ]
+    },
+    {
+      "id": 6548035003,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 0159 260423 RJBB PDC 321\n\tEVA177 CLRD TO RCTP OFF 06L\n\t VIA OMGOR1 DEPARTURE FPR MNTN\n\t A050 EXP F380\n\tSQUAWK 3710 ADT 0227 NEXT FREQ\n\t 121.600 ATIS O\n\tD23C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "EVA177"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:59:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJBB"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RCTP"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "01:59"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "321"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "EVA177"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "06L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "OMGOR1"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE FPR MNTN A050 EXP F380"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3710"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "02:27"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.600 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "O"
+        }
+      ]
+    },
+    {
+      "id": 6548060239,
+      "label": "A3",
+      "text": "/MEDBAYA.DC1/CLD 0206 260423 OEMA PDC 055\n\tSVA9658 CLRD TO VIDP OFF 35 VIA MEDRO1K\n\tSQUAWK 5264 ATIS Q\n\tEOBT 0240\n\tFL080  5905",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "MEDBAYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "SVA9658"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:06:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "OEMA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "VIDP"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "02:06"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "055"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "SVA9658"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "35"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "MEDRO1K"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "5264"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "Q"
+        }
+      ]
+    },
+    {
+      "id": 6548081386,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 0213 260423 RJTT PDC 343\r\nSKY613 CLRD TO RORS OFF 05 VIA LAXAS4\r\n DEPARTURE FPR MNTN F200 EXP F360\r\nSQUAWK 2220 ADT 0252 NEXT FREQ 121.700\r\n ATIS Y\r\nTSAT 022847F2",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "SKY613"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:13:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJTT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RORS"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "02:13"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "343"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "SKY613"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "05"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "LAXAS4"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE FPR MNTN F200 EXP F360"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "2220"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "02:52"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.700 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "Y"
+        }
+      ]
+    },
+    {
+      "id": 6548120839,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 0225 260423 RJAA PDC 825\n\tALK455 CLRD TO VCBI OFF 34L VIA OLVAN2 DEPARTURE SAMUS TRANSITION FPR MNTN F240 EXP F340\n\tSQUAWK 3610 ADT 0320 NEXT FREQ 121.900 ATIS M\n\t NEXT FREQ FOR PUSHBACK1C18",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "ALK455"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:25:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJAA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "VCBI"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "02:25"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "825"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "ALK455"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "34L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "OLVAN2"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE SAMUS TRANSITION FPR MNTN F240 EXP F340"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3610"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "03:20"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.900 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "id": 6548120836,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 0225 260423 RJAA PDC 825\n\tALK455 CLRD TO VCBI OFF 34L VIA OLVAN2 DEPARTURE SAMUS TRANSITION FPR MNTN F240 EXP F340\n\tSQUAWK 3610 ADT 0320 NEXT FREQ 121.900 ATIS M\n\t NEXT FREQ FOR PUSHBACK1C18",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "ALK455"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:25:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJAA"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "VCBI"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "02:25"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "825"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "ALK455"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "34L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "OLVAN2"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE SAMUS TRANSITION FPR MNTN F240 EXP F340"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3610"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "03:20"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.900 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "id": 6548130762,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 0228 260423 RJBB PDC 326\n\tUAE9801 CLRD TO OMDW OFF 06L VIA RINKU1\n\t DEPARTURE SOUJA TRANSITION FPR MNTN A050 EXP\n\t F280\n\tSQUAWK 3160 ADT 0344 NEXT FREQ 121.900 ATIS P\n\t CALL DELIVERY WHEN READY FOR PUSHBACK ON NEXT\n\t FREQB4F1",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "UAE9801"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:28:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJBB"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "OMDW"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "02:28"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "326"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "UAE9801"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "06L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "RINKU1"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE SOUJA TRANSITION FPR MNTN A050 EXP F280"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3160"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "03:44"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.900 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "P"
+        }
+      ]
+    },
+    {
+      "id": 6548130757,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 0228 260423 RJBB PDC 326\n\tUAE9801 CLRD TO OMDW OFF 06L VIA RINKU1\n\t DEPARTURE SOUJA TRANSITION FPR MNTN A050 EXP\n\t F280\n\tSQUAWK 3160 ADT 0344 NEXT FREQ 121.900 ATIS P\n\t CALL DELIVERY WHEN READY FOR PUSHBACK ON NEXT\n\t FREQB4F1",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "UAE9801"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:28:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJBB"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "OMDW"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "02:28"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "326"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "UAE9801"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "06L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "RINKU1"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE SOUJA TRANSITION FPR MNTN A050 EXP F280"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3160"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "03:44"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.900 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "P"
+        }
+      ]
+    },
+    {
+      "id": 6548134990,
+      "label": "A3",
+      "text": "/XMNDCYA.DC1/CLD 0229 260423 ZSAM\r\nPDC 990\r\nCES5636 CLRD TO ZSSS OFF 23 VIA DOVPU7Y\r\nSQUAWK 0742 ADT 0229 NEXT FREQ 121.950 ATIS M\r\nINITIAL ALT 900M\r\nFL 8100M\r\nREADBACK UNNECESSARY.  AIRBORNE 121.35FDED",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "XMNDCYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CES5636"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:29:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZSAM"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZSSS"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "02:29"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "990"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "CES5636"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "23"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "DOVPU7Y"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "0742"
+        },
+        {
+          "type": "adt",
+          "code": "ADT",
+          "label": "ADT (UTC / flow token)",
+          "value": "02:29"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.950 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "id": 6548144788,
+      "label": "A3",
+      "text": "/HELCLXA.DC1/CLD 0232 260423 EFHK PDC\r\n643\r\nFIN4PV CLRD TO EFOU OFF\r\n04R VIA TEVRU5C\r\nSQUAWK 6012 NEXT FREQ\r\n121.800\r\nQNH 1011\r\nTSAT 0300\r\nCLIMB TO 4000 FT\r\n659E",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "HELCLXA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "FIN4PV"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:32:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "EFHK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "EFOU"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "02:32"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "643"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "FIN4PV"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "04R"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "TEVRU5C"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "6012"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.800 MHz"
+        }
+      ]
+    },
+    {
+      "id": 6548150008,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 0234 260423 RJOO PDC 048\n\tJAL114 CLRD TO RJTT OFF 32L\n\t VIA ASUKA4 DEPARTURE SHTLE\n\t TRANSITION SHTLE Y71 XAC MNTN\n\t F160 EXP F270\n\tSQUAWK 3431 NEXT FREQ 121.700\n\t ATIS F\n\t3DA7",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JAL114"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:34:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJOO"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RJTT"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "02:34"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "048"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "JAL114"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "32L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "ASUKA4"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE SHTLE TRANSITION SHTLE Y71 XAC MNTN F160 EXP F270"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3431"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.700 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "id": 6548150006,
+      "label": "A3",
+      "text": "/FUKDLYA.DC1/CLD 0234 260423 RJOO PDC 048\n\tJAL114 CLRD TO RJTT OFF 32L\n\t VIA ASUKA4 DEPARTURE SHTLE\n\t TRANSITION SHTLE Y71 XAC MNTN\n\t F160 EXP F270\n\tSQUAWK 3431 NEXT FREQ 121.700\n\t ATIS F\n\t3DA7",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "FUKDLYA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JAL114"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:34:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RJOO"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RJTT"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "02:34"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "048"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "JAL114"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "32L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "ASUKA4"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "DEPARTURE SHTLE TRANSITION SHTLE Y71 XAC MNTN F160 EXP F270"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "3431"
+        },
+        {
+          "type": "next_frequency",
+          "code": "NEXTFRQ",
+          "label": "Next Frequency",
+          "value": "121.700 MHz"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "id": 6548251665,
+      "label": "A3",
+      "text": "/ICNDLXA.DC1/CLD 0304 260423 RKSI PDC 098\n\tAIC313 CLRD TO VIDP OFF 33L VIA BOPTA2A  THEN AS FILED FL 260\n\tSQUAWK 4135 WHEN READY FOR PUSHBACK,CONTACT CLEARANCE DELIVERY 121.6 ATIS B \n\t\n\t1853",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "ICNDLXA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AIC313"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:04:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RKSI"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "VIDP"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "03:04"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "098"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "AIC313"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "33L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "BOPTA2A"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "THEN AS FILED FL 260"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "4135"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "B"
+        }
+      ]
+    },
+    {
+      "id": 6548251661,
+      "label": "A3",
+      "text": "/ICNDLXA.DC1/CLD 0304 260423 RKSI PDC 098\n\tAIC313 CLRD TO VIDP OFF 33L VIA BOPTA2A  THEN AS FILED FL 260\n\tSQUAWK 4135 WHEN READY FOR PUSHBACK,CONTACT CLEARANCE DELIVERY 121.6 ATIS B \n\t\n\t1853",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Pre-Departure Clearance (PDC)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Pre-Departure Clearance (PDC)"
+        },
+        {
+          "type": "facility",
+          "code": "FACILITY",
+          "label": "ATC Facility",
+          "value": "ICNDLXA"
+        },
+        {
+          "type": "subtype",
+          "code": "SUBTYPE",
+          "label": "Subtype",
+          "value": "DC1"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "AIC313"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "03:04:00"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "RKSI"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "VIDP"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Clearance Time (UTC)",
+          "value": "03:04"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23"
+        },
+        {
+          "type": "pdc_sequence",
+          "code": "PDCSEQ",
+          "label": "PDC Sequence",
+          "value": "098"
+        },
+        {
+          "type": "callsign",
+          "code": "CALLSIGN",
+          "label": "Callsign",
+          "value": "AIC313"
+        },
+        {
+          "type": "runway",
+          "code": "RWY",
+          "label": "Departure Runway",
+          "value": "33L"
+        },
+        {
+          "type": "sid",
+          "code": "SID",
+          "label": "SID",
+          "value": "BOPTA2A"
+        },
+        {
+          "type": "route",
+          "code": "ROUTE",
+          "label": "Route",
+          "value": "THEN AS FILED FL 260"
+        },
+        {
+          "type": "squawk",
+          "code": "SQK",
+          "label": "Squawk",
+          "value": "4135"
+        },
+        {
+          "type": "atis_code",
+          "code": "ATIS",
+          "label": "ATIS Code",
+          "value": "B"
+        }
+      ]
+    }
+  ]
+}

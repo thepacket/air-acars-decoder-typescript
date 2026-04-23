@@ -1,0 +1,3205 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547264857,
+      "label": "AA",
+      "text": "/USADCXA.AT1.N2846U2459D22821DAA3344B2F\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "USADCXA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N2846U"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "2459D22821DAA334 (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "4B2F"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547264726,
+      "label": "AA",
+      "text": "/NDJCAYA.AT1.PH-AOC2159CEE1008DF1",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "NDJCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "PH-AOC21"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "59CEE100 (4 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "8DF1"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547264709,
+      "label": "AA",
+      "text": "/USADCXA.AT1.N2846U2459D22821DAA3344B2F\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "USADCXA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N2846U"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "2459D22821DAA334 (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "4B2F"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547264688,
+      "label": "AA",
+      "text": "/OAKODYA.AT1.N1202021D9D2DD54245A9014B000BDAC",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "OAKODYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N12020"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "21D9D2DD54245A9014B000 (11 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "BDAC"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547264620,
+      "label": "AA",
+      "text": "/YEGE2YA.AT1.HL761924D9D29E2B1624D9F3AA4F9C1837200C35",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "YEGE2YA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "HL7619"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "24D9D29E2B1624D9F3AA4F9C183720 (15 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "0C35"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547264619,
+      "label": "AA",
+      "text": "/YQXD2YA.AT1.N780AN20D9BCAA526A48934D049A6820CE4106AD49F360D48B1104D8B4E9C18F150549E821CF9D1A4D29A821D089321A0873E754830EA20AF26A48411E0CE8916920893E6C5A7524C314C0",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "YQXD2YA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N780AN"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "20D9BCAA526A48934D049A6820CE4106AD49F360D48B1104…73E754830EA20AF26A48411E0CE8916920893E6C5A7524C3 (70 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "14C0"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547264613,
+      "label": "AA",
+      "text": "/YQXD2YA.AT1.N780AN20D9BCAA526A48934D049A6820CE4106AD49F360D48B1104D8B4E9C18F150549E821CF9D1A4D29A821D089321A0873E754830EA20AF26A48411E0CE8916920893E6C5A7524C314C0",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "YQXD2YA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N780AN"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "20D9BCAA526A48934D049A6820CE4106AD49F360D48B1104…73E754830EA20AF26A48411E0CE8916920893E6C5A7524C3 (70 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "14C0"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547264611,
+      "label": "AA",
+      "text": "/YQXD2YA.AT1.N780AN20D9BCAA526A48934D049A6820CE4106AD49F360D48B1104D8B4E9C18F150549E821CF9D1A4D29A821D089321A0873E754830EA20AF26A48411E0CE8916920893E6C5A7524C314C0",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "YQXD2YA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N780AN"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "20D9BCAA526A48934D049A6820CE4106AD49F360D48B1104…73E754830EA20AF26A48411E0CE8916920893E6C5A7524C3 (70 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "14C0"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547264602,
+      "label": "AA",
+      "text": "/YQXD2YA.AT1.N780AN20D9BCAA526A48934D049A6820CE4106AD49F360D48B1104D8B4E9C18F150549E821CF9D1A4D29A821D089321A0873E754830EA20AF26A48411E0CE8916920893E6C5A7524C314C0",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "YQXD2YA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N780AN"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "20D9BCAA526A48934D049A6820CE4106AD49F360D48B1104…73E754830EA20AF26A48411E0CE8916920893E6C5A7524C3 (70 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "14C0"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547264536,
+      "label": "AA",
+      "text": "/USADCXA.AT1.N2846U2459D22821DAA3344B2F\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "USADCXA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N2846U"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "2459D22821DAA334 (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "4B2F"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547967923,
+      "label": "AA",
+      "text": "/PIKCPYA.CR1.G-TUIN20067CA8E2C78F608F3B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "PIKCPYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "G-TUIN"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "CR1"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "20067CA8E2C78F60 (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "8F3B"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547967859,
+      "label": "AA",
+      "text": "/USADCXA.AT1.N657JB2206815D6F5E0D39126747A93E705556802621",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "USADCXA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N657JB"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "2206815D6F5E0D39126747A93E70555680 (17 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "2621"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547967549,
+      "label": "AA",
+      "text": "/BZVCAYA.CR1.G-VOWS20067E68E343870E5369",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "BZVCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "G-VOWS"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "CR1"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "20067E68E343870E (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "5369"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547967260,
+      "label": "AA",
+      "text": "/PIKCPYA.AT1.N1301321867CA822C9A7383968",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "PIKCPYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N13013"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "21867CA822C9A738 (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "3968"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966711,
+      "label": "AA",
+      "text": "/PIKCPYA.AT1.HB-JMA2186702240415F",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "PIKCPYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "HB-JMA21"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "86702240 (4 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "415F"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966685,
+      "label": "AA",
+      "text": "/OAKODYA.AT1.N210UAA18662C01A6A93B9F4284FA726A4541124D28B0EA499F39054A506346930D62091263C88B490509F4E9C985322A09339041A14294FB081A3041364CE3ACD",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "OAKODYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N210UA"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "A18662C01A6A93B9F4284FA726A4541124D28B0EA499F390…B490509F4E9C985322A09339041A14294FB081A3041364CE (60 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "3ACD"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966680,
+      "label": "AA",
+      "text": "/OAKODYA.AT1.N210UAA18662C01A6A93B9F4284FA726A4541124D28B0EA499F39054A506346930D62091263C88B490509F4E9C985322A09339041A14294FB081A3041364CE3ACD",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "OAKODYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N210UA"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "A18662C01A6A93B9F4284FA726A4541124D28B0EA499F390…B490509F4E9C985322A09339041A14294FB081A3041364CE (60 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "3ACD"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966627,
+      "label": "AA",
+      "text": "/RPHIAYA.AT1.JA829A21067A9D84832E7D4831A542449088FCD170",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RPHIAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "JA829A"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "21067A9D84832E7D4831A542449088FC (16 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "D170"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966622,
+      "label": "AA",
+      "text": "/RPHIAYA.AT1.JA829A21067A9D84832E7D4831A542449088FCD170",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RPHIAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "JA829A"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "21067A9D84832E7D4831A542449088FC (16 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "D170"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966516,
+      "label": "AA",
+      "text": "/RPHIAYA.CR1.JA832A200678E8E9509126614C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RPHIAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "JA832A"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "CR1"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "200678E8E9509126 (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "614C"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966515,
+      "label": "AA",
+      "text": "/RPHIAYA.CR1.JA832A200678E8E9509126614C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "RPHIAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "JA832A"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "CR1"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "200678E8E9509126 (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "614C"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966429,
+      "label": "AA",
+      "text": "/NIMCAYA.CR1.5Y-KZG21067868E252A54A9D76",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "NIMCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "5Y-KZG"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "CR1"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "21067868E252A54A (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "9D76"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966428,
+      "label": "AA",
+      "text": "/NIMCAYA.CR1.5Y-KZG21067868E252A54A9D76",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "NIMCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "5Y-KZG"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "CR1"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "21067868E252A54A (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "9D76"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966411,
+      "label": "AA",
+      "text": "/NIMCAYA.CR1.5Y-KZG21067868E252A54A9D76",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "NIMCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "5Y-KZG"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "CR1"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "21067868E252A54A (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "9D76"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966148,
+      "label": "AA",
+      "text": "/YQXD2YA.AT1.C-FRSE230676E84088AB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "YQXD2YA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "C-FRS"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "E230676E840 (5.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "88AB"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966138,
+      "label": "AA",
+      "text": "/YQXD2YA.AT1.C-FRSE230676E84088AB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "YQXD2YA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "C-FRS"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "E230676E840 (5.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "88AB"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547966120,
+      "label": "AA",
+      "text": "/YQXD2YA.AT1.C-FRSE230676E84088AB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "YQXD2YA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "C-FRS"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "E230676E840 (5.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "88AB"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965830,
+      "label": "AA",
+      "text": "/NKCCAYA.AT1.F-GZCK608219DB01148E",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "NKCCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "F-GZCK"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "608219DB01 (5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "148E"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965826,
+      "label": "AA",
+      "text": "/MELCAYA.AT1..B-KPF3F86776840A082\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MELCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": ".B-KP"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "F3F86776840 (5.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "A082"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965825,
+      "label": "AA",
+      "text": "/MELCAYA.AT1..B-KPF3F86776840A082\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MELCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": ".B-KP"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "F3F86776840 (5.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "A082"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965823,
+      "label": "AA",
+      "text": "/MELCAYA.AT1..B-KPF3F86776840A082\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MELCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": ".B-KP"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "F3F86776840 (5.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "A082"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965728,
+      "label": "AA",
+      "text": "/NANCDYA.AT1.B-2005250675E840DF19",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "NANCDYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "B-"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "2005250675E840 (7 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "DF19"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965725,
+      "label": "AA",
+      "text": "/NANCDYA.AT1.B-2005250675E840DF19",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "NANCDYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "B-"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "2005250675E840 (7 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "DF19"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965645,
+      "label": "AA",
+      "text": "/NIMCAYA.CR1.5Y-KZG20867528E252A54A2E77",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "NIMCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "5Y-KZG"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "CR1"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "20867528E252A54A (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "2E77"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965644,
+      "label": "AA",
+      "text": "/NIMCAYA.CR1.5Y-KZG20867528E252A54A2E77",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "NIMCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "5Y-KZG"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "CR1"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "20867528E252A54A (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "2E77"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965633,
+      "label": "AA",
+      "text": "/NIMCAYA.CR1.5Y-KZG20867528E252A54A2E77",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "NIMCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "5Y-KZG"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "CR1"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "20867528E252A54A (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "2E77"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965596,
+      "label": "AA",
+      "text": "/FUKJJYA.AT1.JA772F630819D51EC916438062C0",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "JA772F"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "630819D51EC9164380 (9 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "62C0"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965593,
+      "label": "AA",
+      "text": "/FUKJJYA.AT1.JA772F630819D51EC916438062C0",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "FUKJJYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "JA772F"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "630819D51EC9164380 (9 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "62C0"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965527,
+      "label": "AA",
+      "text": "/USADCXA.AT1.N958JB2586769D6B3A2D741667D2961410A0DFDF",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "USADCXA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N958JB"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "2586769D6B3A2D741667D2961410A0 (15 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "DFDF"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965520,
+      "label": "AA",
+      "text": "/ALGCAYA.AT1.HB-JMI628419D603FC97",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "ALGCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "HB-JMI62"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "8419D603 (4 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "FC97"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965470,
+      "label": "AA",
+      "text": "/USADCXA.AT1.N351DN2506765D6B3A2D741667D2961410A05CCA\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "USADCXA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "N351DN"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "2506765D6B3A2D741667D2961410A0 (15 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "5CCA"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965296,
+      "label": "AA",
+      "text": "/ALGCAYA.AT1.OO-SFP620619D014CA5054FD",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "ALGCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "OO-SFP62"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "0619D014CA50 (6 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "54FD"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965295,
+      "label": "AA",
+      "text": "/ALGCAYA.AT1.OO-SFP620619D014CA5054FD",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "ALGCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "OO-SFP62"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "0619D014CA50 (6 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "54FD"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965287,
+      "label": "AA",
+      "text": "/ALGCAYA.AT1.OO-SFP620619D014CA5054FD",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "ALGCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "OO-SFP62"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "0619D014CA50 (6 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "54FD"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547965183,
+      "label": "AA",
+      "text": "/BOMCAYA.AT1.SU-GET0050809EA5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "BOMCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "SU-GET00"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "5080 (2 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "9EA5"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547964474,
+      "label": "AA",
+      "text": "/LPAFAYA.AT1.EC-MOMA286701D631EB5386158485080B35A",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "LPAFAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "EC-MOMA2"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "86701D631EB5386158485080 (12 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "B35A"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547964399,
+      "label": "AA",
+      "text": "/MELCAYA.AT1.9V-SME641619C04A127D39F52780E32C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MELCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "9V-SM"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "E641619C04A127D39F52780 (11.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "E32C"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547964397,
+      "label": "AA",
+      "text": "/MELCAYA.AT1.9V-SME641619C04A127D39F52780E32C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MELCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "9V-SM"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "E641619C04A127D39F52780 (11.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "E32C"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547964395,
+      "label": "AA",
+      "text": "/MGQCAYA.AT1.A6-BLA208670A824418304AA43",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "MGQCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "A6-BL"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "A208670A824418304 (8.5 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "AA43"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    },
+    {
+      "id": 6547964273,
+      "label": "AA",
+      "text": "/NDJCAYA.AT1.D-ABPM220670282343870CE9A6",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "FANS-1/A CPDLC — Controller–Pilot Data Link Communications"
+        },
+        {
+          "type": "direction",
+          "code": "DIR",
+          "label": "Direction",
+          "value": "Uplink (ground → aircraft)"
+        },
+        {
+          "type": "form",
+          "code": "FORM",
+          "label": "Envelope Form",
+          "value": "Form 1 (qualifier.tail)"
+        },
+        {
+          "type": "ground_address",
+          "code": "GNDADDR",
+          "label": "Ground ATS Facility",
+          "value": "NDJCAYA"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "D-ABPM"
+        },
+        {
+          "type": "imi",
+          "code": "SVCQUAL",
+          "label": "Service Qualifier",
+          "value": "AT1 (FANS-1/A ATC Type 1 (CPDLC uplink))"
+        },
+        {
+          "type": "payload_hex",
+          "code": "PAYLOAD",
+          "label": "CPDLC Payload (ASN.1 PER, hex)",
+          "value": "220670282343870C (8 bytes)"
+        },
+        {
+          "type": "crc",
+          "code": "CRC",
+          "label": "CRC (16-bit, ARINC-622)",
+          "value": "E9A6"
+        },
+        {
+          "type": "payload_note",
+          "code": "NOTE",
+          "label": "Note",
+          "value": "Payload is ASN.1 PER binary — full message element decode requires a FANS-1/A ASN.1 decoder (e.g. libacars)."
+        }
+      ]
+    }
+  ]
+}

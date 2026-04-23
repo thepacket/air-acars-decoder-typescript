@@ -1,0 +1,175 @@
+{
+  "count": 28,
+  "entries": [
+    {
+      "id": 6548596584,
+      "label": "2A",
+      "text": "0458"
+    },
+    {
+      "id": 6548603314,
+      "label": "2A",
+      "text": "001A LOADSHEET PRELIM 0800\r\nAY1361/23 23APR26\r\nHEL MAN OH-LZL 2/5\r\nZFW 66673  MAX  73800  L\r\nTOF  9908\r\nTOW 76581  MAX  93500\r\nTIF  6723\r\nLAW 69858  MAX  77800\r\nUNDLD   7127\r\nPAX/10/148 TTL 159\r\nDOI          45.0\r\nLIZFW "
+    },
+    {
+      "id": 6548603453,
+      "label": "2A",
+      "text": "001A LOADSHEET PRELIM 0800\r\nAY1361/23 23APR26\r\nHEL MAN OH-LZL 2/5\r\nZFW 66673  MAX  73800  L\r\nTOF  9908\r\nTOW 76581  MAX  93500\r\nTIF  6723\r\nLAW 69858  MAX  77800\r\nUNDLD   7127\r\nPAX/10/148 TTL 159\r\nDOI          45.0\r\nLIZFW        54.5\r\nMACZFW       26.6\r\nMACTOW       24.4\r\nLITOW        48.1\r\nSTAB:ALL FLAPS    1.1 UP\r\nSI DOW 50355\r\nPANTRY CODE  U  \r\nLOAD IN CPTS 0/0 1/1170 2/165 3/503 4/\r\n849 5/0 \r\nPAX WEIGHTS USED M95 F78 C35 I0\r\nBAG WEIGHTS USED MAN F14.3 B16.9\r\nPREPARED BY BOZENA/NEZDARILOVA PRGLCAY \r\n420 2 21101245\r\nNOTOC: NO\r\n\r\n\r\n**** ZFW 66673  MAX  73800  L****\r\n**** MACZFW       26.6****\r\n\r\n"
+    },
+    {
+      "id": 6548603409,
+      "label": "2A",
+      "text": "       54.5\r\nMACZFW       26.6\r\nMACTOW       24.4\r\nLITOW        48.1\r\nSTAB:ALL FLAPS    1.1 UP\r\nSI DOW 50355\r\nPANTRY CODE  U  \r\nLOAD IN CPTS 0/0 1/1170 2/165 3/503 4/\r\n849 5/0 \r\nPAX WEIGHTS USED M95 F78 C35 I0\r\nBAG WEIGH"
+    },
+    {
+      "id": 6548604178,
+      "label": "2A",
+      "text": "002A LOADSHEET FINAL 0800 EDNO1\r\nAY805/23      23APR26\r\nHEL ARN OH-LXD   2/4\r\nZFW 59106  MAX 62500   L\r\nTOF 4232\r\nTOW 63338  MAX 75500 \r\nTIF 1869\r\nLAW 61469  MAX 66000 \r\nUNDLD 3394\r\nPAX/7/157 TTL 164\r\nDOI      51.8\r\nLIZF"
+    },
+    {
+      "id": 6548604223,
+      "label": "2A",
+      "text": "W    65.0\r\nLITOW    65.5\r\nMACZFW   31.1\r\nMACTOW   30.8\r\nSTAB:ALL FLAPS         -0.5 DOWN\r\nA55 B51 C58 \r\nSEATROW TRIM\r\nSI DOW 43540\r\nPANTRY CODE  X  \r\nLOAD IN CPTS 0/0 1/955 3/0 4/0 5/0 \r\nPAX WEIGHTS USED M95 F78 C35 I0\r\n"
+    },
+    {
+      "id": 6548604357,
+      "label": "2A",
+      "text": "BAG WEIGHTS USED ARN B15.2 F13\r\nBAG WEIGHTS USED BGO B15.8 F16.2\r\nPREPARED BY DAVID/KUCHAR PRGLCAY 420 2 \r\n21101247\r\nNOTOC: NO\r\nMINOR CHANGES FROM PRELIM 0745\r\n\r\n\r\n**** ZFW 59106  MAX 62500   L****\r\n**** MACZFW   31.1***"
+    },
+    {
+      "id": 6548604442,
+      "label": "2A",
+      "text": "/AY0805/LSA01/230426/EFHK/ESSA/ESKN/2JK0\r\nAK/002/"
+    },
+    {
+      "id": 6548604394,
+      "label": "2A",
+      "text": "002A LOADSHEET FINAL 0800 EDNO1\r\nAY805/23      23APR26\r\nHEL ARN OH-LXD   2/4\r\nZFW 59106  MAX 62500   L\r\nTOF 4232\r\nTOW 63338  MAX 75500 \r\nTIF 1869\r\nLAW 61469  MAX 66000 \r\nUNDLD 3394\r\nPAX/7/157 TTL 164\r\nDOI      51.8\r\nLIZFW    65.0\r\nLITOW    65.5\r\nMACZFW   31.1\r\nMACTOW   30.8\r\nSTAB:ALL FLAPS         -0.5 DOWN\r\nA55 B51 C58 \r\nSEATROW TRIM\r\nSI DOW 43540\r\nPANTRY CODE  X  \r\nLOAD IN CPTS 0/0 1/955 3/0 4/0 5/0 \r\nPAX WEIGHTS USED M95 F78 C35 I0\r\nBAG WEIGHTS USED ARN B15.2 F13\r\nBAG WEIGHTS USED BGO B15.8 F16.2\r\nPREPARED BY DAVID/KUCHAR PRGLCAY 420 2 \r\n21101247\r\nNOTOC: NO\r\nMINOR CHANGES FROM PRELIM 0745\r\n\r\n\r\n**** ZFW 59106  MAX 62500   L****\r\n**** MACZFW   31.1****"
+    },
+    {
+      "id": 6548605926,
+      "label": "2A",
+      "text": "/AY0805/LSA01/230426/EFHK/ESSA/ESKN/2JK0\r\nAC/-/46830/"
+    },
+    {
+      "id": 6548607452,
+      "label": "2A",
+      "text": "LIZFW    44.7\r\nLITOW    52.2\r\nMACZFW   28.4\r\nMACTOW   30.6\r\nA30 B119 C105 \r\nSEATROW TRIM\r\nSI DOW 137943\r\nPANTRY CODE  V  \r\nLOAD IN CPTS 0/0 1/3205 2/5310 3/3495 4\r\n/7855 5/47 \r\nPAX WEIGHTS USED M95 F78 C35 I0\r\nBAG WEIGHT"
+    },
+    {
+      "id": 6548607415,
+      "label": "2A",
+      "text": "002A LOADSHEET FINAL 0801 EDNO1\r\nAY1721/23     23APR26\r\nHEL LPA OH-LWP   2/9\r\nZFW 179232 MAX 195700  L\r\nTOF 39835\r\nTOW 219067 MAX 280000\r\nTIF 31812\r\nLAW 187255 MAX 207000\r\nUNDLD 16468\r\nPAX/30/224 TTL 256\r\nDOI      33.1\r\n"
+    },
+    {
+      "id": 6548607506,
+      "label": "2A",
+      "text": "002A LOADSHEET FINAL 0801 EDNO1\r\nAY1721/23     23APR26\r\nHEL LPA OH-LWP   2/9\r\nZFW 179232 MAX 195700  L\r\nTOF 39835\r\nTOW 219067 MAX 280000\r\nTIF 31812\r\nLAW 187255 MAX 207000\r\nUNDLD 16468\r\nPAX/30/224 TTL 256\r\nDOI      33.1\r\nLIZFW    44.7\r\nLITOW    52.2\r\nMACZFW   28.4\r\nMACTOW   30.6\r\nA30 B119 C105 \r\nSEATROW TRIM\r\nSI DOW 137943\r\nPANTRY CODE  V  \r\nLOAD IN CPTS 0/0 1/3205 2/5310 3/3495 4\r\n/7855 5/47 \r\nPAX WEIGHTS USED M95 F78 C35 I0\r\nBAG WEIGHTS USED LPA T15 F16.1 B13.9\r\nPREPARED BY BOZENA/NEZDARILOVA PRGLCAY \r\n420 2 21101245\r\nNOTOC: YES\r\nMINOR CHANGES FROM PRELIM 0740\r\n\r\n\r\n**** ZFW 179232 MAX 195700  L****\r\n**** MACZFW   28.4****"
+    },
+    {
+      "id": 6548608163,
+      "label": "2A",
+      "text": "/AY1721/LSA01/230426/EFHK/GCLP/GCTS/2JKO\r\nAK/002"
+    },
+    {
+      "id": 6548608876,
+      "label": "2A",
+      "text": "/AY1721/LSA01/230426/EFHK/GCLP/GCTS/2JKO\r\nAC/-/24178/"
+    },
+    {
+      "id": 6548684006,
+      "label": "2A",
+      "text": "002A LOADSHEET FINAL 0821 EDNO1\r\nAY1301/23     23APR26\r\nHEL AMS OH-LWR   2/8\r\nZFW 174818 MAX 195700  L\r\nTOF 16135\r\nTOW 190953 MAX 280000\r\nTIF 10228\r\nLAW 180725 MAX 207000\r\nUNDLD 20882\r\nPAX/21/288 TTL 314\r\nDOI      30.5\r\n"
+    },
+    {
+      "id": 6548684177,
+      "label": "2A",
+      "text": "002A LOADSHEET FINAL 0821 EDNO1\r\nAY1301/23     23APR26\r\nHEL AMS OH-LWR   2/8\r\nZFW 174818 MAX 195700  L\r\nTOF 16135\r\nTOW 190953 MAX 280000\r\nTIF 10228\r\nLAW 180725 MAX 207000\r\nUNDLD 20882\r\nPAX/21/288 TTL 314\r\nDOI      30.5\r\nLIZFW    61.3\r\nLITOW    62.1\r\nMACZFW   33.6\r\nMACTOW   33.5\r\nA21 B153 C135 \r\nSEATROW TRIM\r\nSI DOW 136958\r\nPANTRY CODE  K  \r\nLOAD IN CPTS 0/0 1/603 2/2055 3/5880 4/\r\n2998 5/227 \r\nPAX WEIGHTS USED M95 F78 C35 I0\r\nBAG WEIGHTS USED AMS T21 F15 B14.1\r\nPREPARED BY DAVID/KUCHAR PRGLCAY 420 2 \r\n21101247\r\nNOTOC: NO\r\nNO CHANGES FROM PRELIM 0815\r\n\r\n\r\n**** ZFW 174818 MAX 195700  L****\r\n**** MACZFW   33.6****"
+    },
+    {
+      "id": 6548684111,
+      "label": "2A",
+      "text": "LIZFW    61.3\r\nLITOW    62.1\r\nMACZFW   33.6\r\nMACTOW   33.5\r\nA21 B153 C135 \r\nSEATROW TRIM\r\nSI DOW 136958\r\nPANTRY CODE  K  \r\nLOAD IN CPTS 0/0 1/603 2/2055 3/5880 4/\r\n2998 5/227 \r\nPAX WEIGHTS USED M95 F78 C35 I0\r\nBAG WEIGHT"
+    },
+    {
+      "id": 6548701531,
+      "label": "2A",
+      "text": "IZFW        42.9\r\nMACZFW       27.4\r\nMACTOW       27.9\r\nLITOW        43.7\r\nSI DOW 137698\r\nPANTRY CODE  K  \r\nLOAD IN CPTS 0/0 1/165 2/0 3/0 4/1355 5\r\n/56 \r\nPAX WEIGHTS USED M95 F78 C35 I0\r\nBAG WEIGHTS USED MUC B14 T18.7 F"
+    },
+    {
+      "id": 6548701467,
+      "label": "2A",
+      "text": "001A LOADSHEET PRELIM 0825\r\nAY1401/23 23APR26\r\nHEL MUC OH-LWO 3/9\r\nZFW 153413  MAX 195700  L\r\nTOF  15335\r\nTOW 168748  MAX 280000\r\nTIF   9974\r\nLAW 158774  MAX 207000\r\nUNDLD  42287\r\nPAX/16/147 TTL 164\r\nDOI          29.5\r\nL"
+    },
+    {
+      "id": 6548701591,
+      "label": "2A",
+      "text": "001A LOADSHEET PRELIM 0825\r\nAY1401/23 23APR26\r\nHEL MUC OH-LWO 3/9\r\nZFW 153413  MAX 195700  L\r\nTOF  15335\r\nTOW 168748  MAX 280000\r\nTIF   9974\r\nLAW 158774  MAX 207000\r\nUNDLD  42287\r\nPAX/16/147 TTL 164\r\nDOI          29.5\r\nLIZFW        42.9\r\nMACZFW       27.4\r\nMACTOW       27.9\r\nLITOW        43.7\r\nSI DOW 137698\r\nPANTRY CODE  K  \r\nLOAD IN CPTS 0/0 1/165 2/0 3/0 4/1355 5\r\n/56 \r\nPAX WEIGHTS USED M95 F78 C35 I0\r\nBAG WEIGHTS USED MUC B14 T18.7 F15.7\r\nPREPARED BY BOZENA/NEZDARILOVA PRGLCAY \r\n420 2 21101245\r\nNOTOC: YES\r\n\r\n\r\n**** ZFW 153413  MAX 195700  L****\r\n**** MACZFW       27.4****\r\n\r\n"
+    },
+    {
+      "id": 6548705316,
+      "label": "2A",
+      "text": "0526"
+    },
+    {
+      "id": 6548710742,
+      "label": "2A",
+      "text": "DA EGNX/DS LEMG/OFF 0526/FN TOM1YX/CLI ------\r\n23APR26/UTC 052638/DL1 ,/DL2 ,\r\nOUT 0514/ETA 0807/FOB 10539/FOF 10539"
+    },
+    {
+      "id": 6548812586,
+      "label": "2A",
+      "text": "0551"
+    },
+    {
+      "id": 6548813407,
+      "label": "2A",
+      "text": "002A\r\nLOADSHEET FINAL\r\nLOADSHEET FINAL 0851 EDNO1\r\nAY1393/23     23APR26\r\nHEL DUS OH-LKG   2/2\r\n************************\r\nZFW 35937  MAX 40800   L\r\n************************\r\nTOF 5901\r\nTOW 41838  MAX 47790 \r\nTIF 3932\r\nLAW"
+    },
+    {
+      "id": 6548813634,
+      "label": "2A",
+      "text": " 37906  MAX 43000 \r\nUNDLD 4863\r\nPAX/3/79 TTL 83\r\nDOI      60.5\r\nLIZFW    67.0\r\nLITOW    59.1\r\nLILAW    64.2\r\nMACTOW   19.4\r\nSTAB:FLAP 2             1.2 UP\r\nA22 B36 C24 \r\nSEATROW TRIM\r\nSI DOW 28520\r\nPANTRY CODE  T  \r\nLOAD"
+    },
+    {
+      "id": 6548813747,
+      "label": "2A",
+      "text": "002A\r\nLOADSHEET FINAL\r\nLOADSHEET FINAL 0851 EDNO1\r\nAY1393/23     23APR26\r\nHEL DUS OH-LKG   2/2\r\n************************\r\nZFW 35937  MAX 40800   L\r\n************************\r\nTOF 5901\r\nTOW 41838  MAX 47790 \r\nTIF 3932\r\nLAW 37906  MAX 43000 \r\nUNDLD 4863\r\nPAX/3/79 TTL 83\r\nDOI      60.5\r\nLIZFW    67.0\r\nLITOW    59.1\r\nLILAW    64.2\r\nMACTOW   19.4\r\nSTAB:FLAP 2             1.2 UP\r\nA22 B36 C24 \r\nSEATROW TRIM\r\nSI DOW 28520\r\nPANTRY CODE  T  \r\nLOAD IN CPTS 0/0 1/230 2/349 3/0 4/0 \r\nPAX WEIGHTS USED M88 F70 C35 I0\r\nBAG WEIGHTS USED DUS F20.3 B11.7\r\nPREPARED BY BOZENA/NEZDARILOVA PRGLCAY \r\n420 2 21101245\r\nNOTOC: NO\r\nMINOR CHANGES FROM PRELIM 0845"
+    },
+    {
+      "id": 6548831494,
+      "label": "2A",
+      "text": "APR01,ETD143,OMAA,LSZH,22APR26,0604,LSZH14,39,"
+    }
+  ],
+  "ids": {
+    "6548596584": 1,
+    "6548603314": 1,
+    "6548603453": 1,
+    "6548603409": 1,
+    "6548604178": 1,
+    "6548604223": 1,
+    "6548604357": 1,
+    "6548604442": 1,
+    "6548604394": 1,
+    "6548605926": 1,
+    "6548607452": 1,
+    "6548607415": 1,
+    "6548607506": 1,
+    "6548608163": 1,
+    "6548608876": 1,
+    "6548684006": 1,
+    "6548684177": 1,
+    "6548684111": 1,
+    "6548701531": 1,
+    "6548701467": 1,
+    "6548701591": 1,
+    "6548705316": 1,
+    "6548710742": 1,
+    "6548812586": 1,
+    "6548813407": 1,
+    "6548813634": 1,
+    "6548813747": 1,
+    "6548831494": 1
+  }
+}

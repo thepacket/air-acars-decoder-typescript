@@ -126,26 +126,24 @@ describe('Label 5Z', () => {
     const decodeResult = plugin.decode(message);
 
     expect(decodeResult.decoded).toBe(true);
-    expect(decodeResult.decoder.decodeLevel).toBe('partial');
+    expect(decodeResult.decoder.decodeLevel).toBe('full');
     expect(decodeResult.raw.airline).toBe('United Airlines');
     expect(decodeResult.raw.message_timestamp).toBe(44759);
     expect(decodeResult.raw.day).toBe(20);
     expect(decodeResult.raw.departure_icao).toBe('KEWR');
     expect(decodeResult.raw.arrival_icao).toBe('KBNA');
     expect(decodeResult.raw.eta_time).toBe(48960);
-    expect(decodeResult.formatted.items.length).toBe(6);
+    expect(decodeResult.formatted.items.length).toBe(9);
     expect(decodeResult.formatted.items[2].label).toBe('Origin');
     expect(decodeResult.formatted.items[2].value).toBe('KEWR');
     expect(decodeResult.formatted.items[3].label).toBe('Destination');
     expect(decodeResult.formatted.items[3].value).toBe('KBNA');
-    expect(decodeResult.formatted.items[4].label).toBe('Message Timestamp');
-    expect(decodeResult.formatted.items[4].value).toBe('12:25:59');
-    expect(decodeResult.formatted.items[5].label).toBe(
+    expect(decodeResult.formatted.items[5].label).toBe('Message Timestamp');
+    expect(decodeResult.formatted.items[5].value).toBe('12:25:59');
+    expect(decodeResult.formatted.items[7].label).toBe(
       'Estimated Time of Arrival',
     );
-    expect(decodeResult.formatted.items[5].value).toBe('13:36:00');
-
-    expect(decodeResult.remaining.text).toBe('AUTO');
+    expect(decodeResult.formatted.items[7].value).toBe('13:36:00');
   });
 
   test('/C3 variant1', () => {

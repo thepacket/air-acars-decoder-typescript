@@ -1,0 +1,1387 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547265298,
+      "label": "C1",
+      "text": ".SYDAXQF 222229\r\nAGM\r\nAN VH-VYB/FI QF0415/MA 158I\r\n-  ATIS\r\nATIS YMML N   222222\r\n   APCH: EXP GLS OR ILS APCH\r\n   RWY: 27 FOR ARR, RWY 34 FOR\r\nDEPARTURES VIA MNG NONIX, AND DOSEL\r\n FROM APRONS 5 THROUGH 10, RWY 27 FOR\r\nALL OTHER DEPARTURES. \r\n   WND: 350/10, MAX XW 12, RWY 27\r\n   WX: CAVOK\r\n+ TMP: 17\r\n   QNH: 1028\r\n\r\n\r\n-----END OF MESSAGE-----\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547263053,
+      "label": "C1",
+      "text": ".PERFFQK 222228\r\nAGM\r\nAN CFBJZ/FI QK8111\r\n-  AERODATA PERFORMANCE UPLINK\r\n-----------\r\nTAKEOFF DATA FLIGHT :8111   REL  1\r\nAPR 22 2026 22:28:52Z\r\nWIND      270/11\r\nTEMP      P17\r\nQNH       29.89\r\nGTOW      82408\r\n \r\nREMA",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "CFBJZ"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "FI"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "QK8111"
+        }
+      ]
+    },
+    {
+      "id": 6547262631,
+      "label": "C1",
+      "text": ".ATISAXS 222227\r\nAGM\r\nAN VH-VQL/FI JQ0000\r\n-  \r\nYSSY ENR ATIS S\r\n2226Z\r\nATIS YSSY S   222226\r\n  APCH: EXP INDEPENDENT VISUAL APCH.\r\n        DO NOT PASS THRU ASSIGNED RWY CL\r\n  RWY: 16L AND R FOR ARRS AND DEPS\r\n+ OPR INFO",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "VH-VQL"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "FI"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "JQ0000"
+        }
+      ]
+    },
+    {
+      "id": 6547262005,
+      "label": "C1",
+      "text": ".ATISAXS 222227\r\nAGM\r\nAN VH-VQL/FI JQ0000\r\n-  \r\nYSSY ENR ATIS S\r\n2226Z\r\nATIS YSSY S   222226\r\n  APCH: EXP INDEPENDENT VISUAL APCH.\r\n        DO NOT PASS THRU ASSIGNED RWY CL\r\n  RWY: 16L AND R FOR ARRS AND DEPS\r\n+ OPR INFO",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "VH-VQL"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "FI"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "JQ0000"
+        }
+      ]
+    },
+    {
+      "id": 6547261363,
+      "label": "C1",
+      "text": ".ATISAXS 222227\r\nAGM\r\nAN VH-VQL/FI JQ0000\r\n-  \r\nYSSY ENR ATIS S\r\n2226Z\r\nATIS YSSY S   222226\r\n  APCH: EXP INDEPENDENT VISUAL APCH.\r\n        DO NOT PASS THRU ASSIGNED RWY CL\r\n  RWY: 16L AND R FOR ARRS AND DEPS\r\n+ OPR INFO",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "VH-VQL"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "FI"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "JQ0000"
+        }
+      ]
+    },
+    {
+      "id": 6547260748,
+      "label": "C1",
+      "text": ".ATISAXS 222227\r\nAGM\r\nAN VH-VQL/FI JQ0000\r\n-  \r\nYSSY ENR ATIS S\r\n2226Z\r\nATIS YSSY S   222226\r\n  APCH: EXP INDEPENDENT VISUAL APCH.\r\n        DO NOT PASS THRU ASSIGNED RWY CL\r\n  RWY: 16L AND R FOR ARRS AND DEPS\r\n+ OPR INFO",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "VH-VQL"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "FI"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "JQ0000"
+        }
+      ]
+    },
+    {
+      "id": 6547260552,
+      "label": "C1",
+      "text": ".HDQQAOO 222228\r\nAGM\r\nAN N286SY/MA 910I\r\n-  BLOCK START REPORT--\r\n\r\nCA 060650 CAMPILLO    \r\n 117    - B 0:01 CR 0:01\r\nFO 104097 ENGWALL     \r\n 117    - B 0:01 CR 0:01\r\n\r\nN286SY\r\n22APR DL 4062 PDX-SEA\r\n\r\nAD: 66 CH:  0    IN:  0\r\nCRW: 5 AC:  1 SOULS: 71\r\nCARGO:  1298 ZFW: 0\r\n            GTOW:     0\r\n\r\nSCH DEP 22:35\r\n    OUT 22:27\r\nD0 PERF -0:08\r\n\r\n* END OF REPORT -- 2228Z\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N286SY"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "MA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "910I"
+        }
+      ]
+    },
+    {
+      "id": 6547260426,
+      "label": "C1",
+      "text": ".HDQQAOO 222228\r\nAGM\r\nAN N286SY/MA 910I\r\n-  BLOCK START REPORT--\r\n\r\nCA 060650 CAMPILLO    \r\n 117    - B 0:01 CR 0:01\r\nFO 104097 ENGWALL     \r\n 117    - B 0:01 CR 0:01\r\n\r\nN286SY\r\n22APR DL 4062 PDX-SEA\r\n\r\nAD: 66 CH:  0    ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N286SY"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "MA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "910I"
+        }
+      ]
+    },
+    {
+      "id": 6547260400,
+      "label": "C1",
+      "text": ".SYDAXQF 222228\r\nAGM\r\nAN VH-VXG/FI QF0416/MA 404I\r\n-  ATIS\r\nATIS YSSY S   222226\r\nAPCH: EXP INDEPENDENT VISUAL APCH.\r\n      DO NOT PASS THRU ASSIGNED RWY CL\r\nRWY: 16L AND R FOR ARRS AND DEPS\r\nOPR INFO: INDEPENDENT PARL APPROACHES\r\nAND DEPARTURES IN\r\n          PROGRESS.\r\n          FM TIME 2 2 4 0 DOMESTIC JET\r\nDEPARTURES VIA WOL EXP\r\n          RWY 16L\r\nWIND: 140/10, RUNWAY 16R THRESHOLD WIND\r\n350/5 TW 5KTS\r\nVIS: GT 10KM\r\nCLD: FEW045\r\nTMP: 20\r\nQNH: 1029\r\nSIGWX: REPORTED WIND AT 1000 FT 150/12\r\n\r\n\r\n-----END OF MESSAGE-----\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547260106,
+      "label": "C1",
+      "text": ".ATISAXS 222227\r\nAGM\r\nAN VH-VQL/FI JQ0000\r\n-  \r\nYSSY ENR ATIS S\r\n2226Z\r\nATIS YSSY S   222226\r\n  APCH: EXP INDEPENDENT VISUAL APCH.\r\n        DO NOT PASS THRU ASSIGNED RWY CL\r\n  RWY: 16L AND R FOR ARRS AND DEPS\r\n+ OPR INFO",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "VH-VQL"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "FI"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "JQ0000"
+        }
+      ]
+    },
+    {
+      "id": 6547968286,
+      "label": "C1",
+      "text": ".MELOJJQ 230139 \r\nAGM\r\nAN VH-VGD/MA 028A\r\n-  /\r\nPDC 230138\r\nJST410 A320 YSSY 0220\r\nCLEARED TO YBCG VIA\r\n16LKEVIN7 DEP OLSEM:TRAN\r\nROUTE:DCT OLSEM Y193 BANDA Y43 BERNI DCT\r\nCLIMB VIA SID TO: 5000\r\nDEP FREQ: 123.000\r\nSQUAWK 1552\r\n..\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "VH-VGD"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "MA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "028A"
+        }
+      ]
+    },
+    {
+      "id": 6547968226,
+      "label": "C1",
+      "text": ".NDCULUA 230139\r\nAGM\r\nAN N492UA\r\n-  /LANDING DATA\r\n ** PART 01 OF 01 **\r\n************************\r\nLANDING DATA BUR RW 15\r\n5976 FT\r\nA320-232 V2527-A5\r\n         *FULL*\r\nTEMP 19C       ALT 30.03\r\nWIND 188/7 MAG\r\n     6KT HW 4KT XW\r\n************************\r\n135.4 - PLANNED LDG WT\r\n142.2 - STRUCTURAL\r\n153.0 - LM (4000 - 3/4)\r\nPERF (GO-AROUND)\r\n                 NO ICE  ICE ACCUM\r\nBLEED/PACKS  ON   179.2     N/A\r\nENGINE ICE   ON     N/A     N/A\r\nENG.WING ICE ON     N/A     N/A\r\n                 NO ICE  ICE ACCUM\r\nBLEED/PACKS  OFF  181.9     N/A\r\nENGINE ICE   ON     N/A     N/A\r\nENG.WING ICE ON     N/A     N/A\r\n************************\r\nREQUIRED LDG DISTANCE\r\n..................................................\r\n. **ATTENTION** WHEN ENCLOSED IN ASTERISKS, THE  .\r\n.               REQUIRED LANDING DISTANCE        .\r\n.               EXCEEDS AVAILABLE RUNWAY LENGTH. .\r\n..................................................\r\nAUTOBRAKE:\r\n      DRY    GOOD  MEDIUM  POOR AUTOLAND\r\n1    *7414* *7414* *7505* *9371*  +760\r\n2     5324   5335  *6054* *8999*  +710\r\nMAX NODATA NODATA NODATA NODATA NODATA\r\nOFF   4010   4874   5969  *8969*  +710\r\nBUR RW 15 (5976FT)\r\n************************\r\nRWY DRY\r\n************************\r\n9790 BROADBAND ANTENNA INSTALLED - A320\r\n************************\r\n** END OF PART 01 **",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547968039,
+      "label": "C1",
+      "text": ".MELOJJQ 230139 \r\nAGM\r\nAN VH-VGD/MA 028A\r\n-  /\r\nPDC 230138\r\nJST410 A320 YSSY 0220\r\nCLEARED TO YBCG VIA\r\n16LKEVIN7 DEP OLSEM:TRAN\r\nROUTE:DCT OLSEM Y193 BANDA Y43 BERNI DCT\r\nCLIMB VIA SID TO: 5000\r\nDEP FREQ: 123.000\r\nSQUAW",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "VH-VGD"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "MA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "028A"
+        }
+      ]
+    },
+    {
+      "id": 6547967785,
+      "label": "C1",
+      "text": "........................................\r\nAUTOBRAKE:\r\n      DRY    GOOD  MEDIUM  POOR AUTOLAND\r\n1    *7414* *7414* *7505* *9371*  +760\r\n2     5324   5335  *6054* *8999*  +710\r\nMAX NODATA NODATA NODATA NODATA NODATA\r\nOFF ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        }
+      ]
+    },
+    {
+      "id": 6547967704,
+      "label": "C1",
+      "text": ".DPCXRFX 230139\r\nAGM\r\nAN N150FE\r\n- //\r\nTAKEOFF\r\n.\r\nKPHL 09L-FULL-NOSHP\r\nRWY CND: DRY\r\n.\r\nN150FE  B767-300F/CF6-80C2B6F\r\nREL01 MAN01\r\n.\r\nRESTRICTIONS\r\nPERFORMANCE RELATED\r\nMEL: 0 CDL: 1\r\nC:52-36-01 (1)\r\nTHR RED 1036 MSL/GRAD 790 FT/NM\r\nEO ACCEL: 1000FT AFE 1036FT MSL\r\nDEP PROC: NADP 2\r\n.\r\nWX 230054Z\r\nWIND: 102/ 5 KT\r\n.     ( 5H/ 1X) KT\r\nMAX X-WIND: 30 KT\r\nOAT: 15 C\r\nQNH: 29.96 IN HG\r\n.\r\n.\r\n.       MTOGW: 311.9 (CLIMB)\r\n. STOP MARGIN: 2088\r\n. --------------------------                       -------ADDL DATA--------\r\n.       FLAPS: 5                                                    SFC: G\r\n.      THRUST: 49 C D-TO 2                         RWY LENGTH: 9500 FT\r\n.          CG: 17.9                                ELEV/PRESS: 36/-1 FT\r\n.        TRIM: 5.3                                 FLAPS UP: 223\r\n.          V1: 146                                 FLAPS  1: 203\r\n.          VR: 147                                 FLAPS  5: 183\r\n.          V2: 151\r\n.        VREF: 143\r\n.        TOGW: 307.8\r\n.          N1: 95.3\r\n. --------------------------\r\n.\r\n.         |      TAKEOFF REF   1/2 |              |      TAKEOFF REF   2/2 |\r\n.         | FLAPS                V1|              |                        |\r\n.       1L| 5                   146|1R          1L|                        |1R\r\n.         | THRUST               VR|              |                ACCEL HT|\r\n.       2L|49 C D-TO 2          147|2R          2L|                  1000FT|2R\r\n.         | CG  TRIM             V2|              | WIND                   |\r\n.       3L|18   5.3             151|3R          3L|105 / 5KT               |3R\r\n.         | RWY/POS    GR WT   TOGW|              | RWY WIND   STD LIM TOGW|\r\n.       4L|09L/----    308.7  307.8|4R          4L| 5KTH  1KTR        311.9|4R\r\n.         |                        |              | SLOPE           REF OAT|\r\n.       5L|                        |5R          5L|U0.0                15 C|5R\r\n.\r\n.\r\n.\r\n.",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547967644,
+      "label": "C1",
+      "text": ".DPCXRFX 230139\r\nAGM\r\nAN N150FE\r\n- //\r\nTAKEOFF\r\n.\r\nKPHL 09L-FULL-NOSHP\r\nRWY CND: DRY\r\n.\r\nN150FE  B767-300F/CF6-80C2B6F\r\nREL01 MAN01\r\n.\r\nRESTRICTIONS\r\nPERFORMANCE RELATED\r\nMEL: 0 CDL: 1\r\nC:52-36-01 (1)\r\nTHR RED 1036 MSL/GRAD 790 FT/NM\r\nEO ACCEL: 1000FT AFE 1036FT MSL\r\nDEP PROC: NADP 2\r\n.\r\nWX 230054Z\r\nWIND: 102/ 5 KT\r\n.     ( 5H/ 1X) KT\r\nMAX X-WIND: 30 KT\r\nOAT: 15 C\r\nQNH: 29.96 IN HG\r\n.\r\n.\r\n.       MTOGW: 311.9 (CLIMB)\r\n. STOP MARGIN: 2088\r\n. --------------------------                       -------ADDL DATA--------\r\n.       FLAPS: 5                                                    SFC: G\r\n.      THRUST: 49 C D-TO 2                         RWY LENGTH: 9500 FT\r\n.          CG: 17.9                                ELEV/PRESS: 36/-1 FT\r\n.        TRIM: 5.3                                 FLAPS UP: 223\r\n.          V1: 146                                 FLAPS  1: 203\r\n.          VR: 147                                 FLAPS  5: 183\r\n.          V2: 151\r\n.        VREF: 143\r\n.        TOGW: 307.8\r\n.      ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547967341,
+      "label": "C1",
+      "text": "\r\n..................................................\r\n. **ATTENTION** WHEN ENCLOSED IN ASTERISKS, THE  .\r\n.               REQUIRED LANDING DISTANCE        .\r\n.               EXCEEDS AVAILABLE RUNWAY LENGTH. .\r\n..........",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        }
+      ]
+    },
+    {
+      "id": 6547967183,
+      "label": "C1",
+      "text": ".GTWCXXA 230139\n\tAGM\n\tAN B-LQA\n\t-  SA 23/01:37\n\tFMEE 230130Z AUTO 12009KT 9999 ///TCU\n\t  24/21 Q1014 TEMPO\n\t  14015G30KT 4000 SHRA FEW010 SCT020CB\n\tSA 23/01:32\n\tFMMI 230130Z 18006KT 140V200 9999 FEW017\n\t  15/15 Q1021 NOSIG\n\tSA 23/00:56\n\tFQBR 230100Z 15008KT 9999 FEW020 27/24\n\t  Q1015\n\tSA 23/01:12\n\tFQMA 230100Z 22014KT 9000 -DZ FEW010\n\t  BKN020 18/17 Q1023 NOSIG",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547967031,
+      "label": "C1",
+      "text": ".ATSXCXA 230139\n\tAGM\n\tAN .B-5933/FI CA0859/MA 066A\n\t-  FROM AOC\n\tSATU20 LTAA 230120\n\tMETAR LTFM 230120Z 06009KT 9999 SCT018 SCT027 BKN120 09/04 Q1014 \n\tNOSIG RMK RWY17L 06009KT RWY34L 06007KT RWY16R 06009KT RWY36 \n\t07007KT RWY18 08008KT=\n\t\n\tFTTU31 LTAA 222300\n\tTAF LTFM 222240Z 2300/2406 05010KT 9999 FEW010 SCT025 BKN120 BECMG \n\t2314/2317 16008KT CAVOK BECMG 2319/2322 22012KT BECMG 2402/2405 \n\t34008KT=\n\tSATU20 LTAA 230120\n\tMETAR LTAC 230120Z 01003KT 9999 SCT030 BKN080 05/03 Q1010 NOSIG RMK \n\tRWY21C 01003KT RWY03L 36003KT RWY21R 01003KT RWY03R 35004KT RWY21L \n\t02004KT=\n\t\n\tFTTU31 LTAA 222300\n\tTAF LTAC 222240Z 2300/2324 VRB02KT 9999 SCT040 BKN100 BECMG \n\t2302/2305 -SHRA BKN025 BKN080 BECMG 2316/2318 SCT040",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547966967,
+      "label": "C1",
+      "text": "N/A\r\nENG.WING ICE ON     N/A     N/A\r\n                 NO ICE  ICE ACCUM\r\nBLEED/PACKS  OFF  181.9     N/A\r\nENGINE ICE   ON     N/A     N/A\r\nENG.WING ICE ON     N/A     N/A\r\n************************\r\nREQUIRED LDG DISTANCE",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        }
+      ]
+    },
+    {
+      "id": 6547966563,
+      "label": "C1",
+      "text": "W 4KT XW\r\n************************\r\n135.4 - PLANNED LDG WT\r\n142.2 - STRUCTURAL\r\n153.0 - LM (4000 - 3/4)\r\nPERF (GO-AROUND)\r\n                 NO ICE  ICE ACCUM\r\nBLEED/PACKS  ON   179.2     N/A\r\nENGINE ICE   ON     N/A     ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        }
+      ]
+    },
+    {
+      "id": 6547966184,
+      "label": "C1",
+      "text": ".NDCULUA 230139\r\nAGM\r\nAN N492UA\r\n-  /LANDING DATA\r\n ** PART 01 OF 01 **\r\n************************\r\nLANDING DATA BUR RW 15\r\n5976 FT\r\nA320-232 V2527-A5\r\n         *FULL*\r\nTEMP 19C       ALT 30.03\r\nWIND 188/7 MAG\r\n     6KT H",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547965681,
+      "label": "C1",
+      "text": ".HDQQAOO 230139\r\nAGM\r\nAN N309SY/MA 489I\r\n-  END OF FLIGHT***\r\nEND OF FLIGHT REPORT--\r\n\r\nCA 060650 CAMPILLO    \r\n 117 1:53 B 2:18 CR 2:20\r\nFO 104097 ENGWALL     \r\n 117 1:53 B 2:18 CR 2:20\r\n\r\nN309SY\r\n22APR DL 3913 SEA-PDX\r\n\r\nAD: 45 CH:  1    IN:  1\r\nCRW: 4  AC: 0 SOULS: 51\r\nCARGO:  1362 ZFW: 61961\r\n            GTOW: 67961\r\n\r\n OUT: 0038    OFF: 0106\r\n  IN: 0138     ON: 0135\r\nDOOR: 0139\r\n\r\n117:  0:47    CR:  1:01\r\nBLK:  1:00   FLT:  0:29\r\n\r\n SCH D0     BLK      A0\r\n  -0:10   -0:04   -0:14\r\n\r\n-- NEXT FLIGHT EST DEP\r\nAC N309SY\r\n D13 3913 PDX-SEA 221932\r\nCA 060650 CAMPILLO      \r\n D13 3913 PDX-SEA 221932\r\nFO 104097 ENGWALL       \r\n D13 3913 PDX-SEA 221932\r\nFF 072153 SHULER        \r\n D13 3913 PDX-SEA 221932\r\nFA 100635 KIDBY         \r\n D13 3913 PDX-SEA 221932\r\n\r\n* END OF REPORT -- 0139Z\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N309SY"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "MA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "489I"
+        }
+      ]
+    },
+    {
+      "id": 6547965574,
+      "label": "C1",
+      "text": "\n SCH D0     BLK      A0\r\n  -0:10   -0:04   -0:14\r\n\r\n-- NEXT FLIGHT EST DEP\r\nAC N309SY\r\n D13 3913 PDX-SEA 221932\r\nCA 060650 CAMPILLO      \r\n D13 3913 PDX-SEA 221932\r\nFO 104097 ENGWALL       \r\n D13 3913 PDX-SEA 221932\r\nFF",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        }
+      ]
+    },
+    {
+      "id": 6547965452,
+      "label": "C1",
+      "text": "\n\r\nAD: 45 CH:  1    IN:  1\r\nCRW: 4  AC: 0 SOULS: 51\r\nCARGO:  1362 ZFW: 61961\r\n            GTOW: 67961\r\n\r\n OUT: 0038    OFF: 0106\r\n  IN: 0138     ON: 0135\r\nDOOR: 0139\r\n\r\n117:  0:47    CR:  1:01\r\nBLK:  1:00   FLT:  0:29\r\n\r",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        }
+      ]
+    },
+    {
+      "id": 6547965312,
+      "label": "C1",
+      "text": ".HDQQAOO 230139\r\nAGM\r\nAN N309SY/MA 489I\r\n-  END OF FLIGHT***\r\nEND OF FLIGHT REPORT--\r\n\r\nCA 060650 CAMPILLO    \r\n 117 1:53 B 2:18 CR 2:20\r\nFO 104097 ENGWALL     \r\n 117 1:53 B 2:18 CR 2:20\r\n\r\nN309SY\r\n22APR DL 3913 SEA-PDX\r",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N309SY"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "MA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "489I"
+        }
+      ]
+    },
+    {
+      "id": 6547965257,
+      "label": "C1",
+      "text": ".MADMQEB 230135\n\tAGM\n\tAN EC-NTX/MA 321I\n\t-  QUMADMXEB~1OCC// AVA97 //\n\t\n\tDEP WX UPDATE\n\t\n\tSKBO\n\tMETAR :  230100Z 31004KT 280V340 9999 FEW050 13/12 Q1026 NOSIG=\n\t   TAF :  222255Z 2300/2324 VRB03KT 9999 SCT040\n\tTEMPO 2309/2312 8000 VCFG SCT020\n\tBECMG 2315/2316 31012KT 9999 SCT040\n\tTEMPO 2317/2320 8000 SHRA SCT020TCU BKN050\n\tTX18/2219Z TN11/2310Z=\n\t\n\tSCEL\n\tMETAR :  230100Z 16008KT CAVOK 15/06 Q1020 NOSIG=\n\t   TAF :  222200Z 2300/2324 19012KT CAVOK TX23/2319Z TN08/2310Z\n\t      BECMG 2301/2303 15004KT\n\t      TEMPO 2308/2312 VRB02KT 7000 NSC\n\t      BECMG 2316/2318 19010KT=\n\t\n\tSCIE\n\tMETAR :  230100Z 22008KT CAVOK 13/08 Q1024=\n\t   TAF :  222200Z 2300/2324 24012KT CAVOK TX19/2318Z TN07/2310Z\n\t      BECMG 2302/2304 18005KT\n\t      TEMPO 2308/2312 9999 SCT020\n\t      BECMG 2316/2318 23010KT=\n\t\n\tSCFA\n\tMETAR :  230100Z 21010KT 9999 OVC014 17/14 Q1017 NOSIG=\n\tTAF COR SCFA 222330Z 2300/2324 21010KT 9999 SCT005 BKN015 TN16/2310Z\n\tTX20/2318Z\n\tTEMPO 2300/2310 5000 -DZ BKN005\n\tBECMG 2304/2306 21004KT\n\tBECMG 2311/2313 FEW005 BKN015\n\tBECMG 2314/2316 21014KT FEW015\n\tBECMG 2322/2324 BKN012=\n\t\n\tSEGU\n\tMETAR :  230100Z 23009KT 9999 FEW023 30/23 Q1009 NOSIG RMK A2982=\n\t   TAF :  222300Z 2300/2324 24004KT 9999 BKN023\n\t      BECMG 2311/2313 33004KT SCT023\n\t      BECMG 2318/2320 24004KT BKN023 TX33/2320Z TN26/2310Z=\n\t\n\tSPJC\n\tMETAR :  230100Z 18006KT 9999 FEW008 21/18 Q1014 NOSIG RMK PP000=\n\t   TAF :  222305Z 2300/2324 18004KT 9999 SCT012\n\t         TX24/2319Z TN20/2311Z\n\t          BECMG 2301/2303 BKN007\n\t         TEMPO 2311/2314 3000 BR OVC004\n\t         BECMG 2316/2318 24012KT CAVOK=\n\t\n\tSPQT\n\tMETAR :  230100Z 12002KT CAVOK 26/24 Q1009 NOSIG RMK PP000=\n\t   TAF :  222300Z 2300/2324 03004KT CAVOK\n\t    TX32/2320Z TN24/2311Z\n\t    TEMPO 2308/2312 BKN002 BKN080\n\t    BECMG 2314/2317 BKN020=\n\t\n\tSLDS OCC",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547965252,
+      "label": "C1",
+      "text": ".MADMQEB 230135\n\tAGM\n\tAN EC-NTX/MA 321I\n\t-  QUMADMXEB~1OCC// AVA97 //\n\t\n\tDEP WX UPDATE\n\t\n\tSKBO\n\tMETAR :  230100Z 31004KT 280V340 9999 FEW050 13/12 Q1026 NOSIG=\n\t   TAF :  222255Z 2300/2324 VRB03KT 9999 SCT040\n\tTEMPO 2309/2312 8000 VCFG SCT020\n\tBECMG 2315/2316 31012KT 9999 SCT040\n\tTEMPO 2317/2320 8000 SHRA SCT020TCU BKN050\n\tTX18/2219Z TN11/2310Z=\n\t\n\tSCEL\n\tMETAR :  230100Z 16008KT CAVOK 15/06 Q1020 NOSIG=\n\t   TAF :  222200Z 2300/2324 19012KT CAVOK TX23/2319Z TN08/2310Z\n\t      BECMG 2301/2303 15004KT\n\t      TEMPO 2308/2312 VRB02KT 7000 NSC\n\t      BECMG 2316/2318 19010KT=\n\t\n\tSCIE\n\tMETAR :  230100Z 22008KT CAVOK 13/08 Q1024=\n\t   TAF :  222200Z 2300/2324 24012KT CAVOK TX19/2318Z TN07/2310Z\n\t      BECMG 2302/2304 18005KT\n\t      TEMPO 2308/2312 9999 SCT020\n\t      BECMG 2316/2318 23010KT=\n\t\n\tSCFA\n\tMETAR :  230100Z 21010KT 9999 OVC014 17/14 Q1017 NOSIG=\n\tTAF COR SCFA 222330Z 2300/2324 21010KT 9999 SCT005 BKN015 TN16/2310Z\n\tTX20/2318Z\n\tTEMPO 2300/2310 5000 -DZ BKN005\n\tBECMG 2304/2306 21004KT\n\tBECMG 2311/2313 FEW005 BKN015\n\tBECMG 2314/2316 21014KT FEW015\n\tBECMG 2322/2324 BKN012=\n\t\n\tSEGU\n\tMETAR :  230100Z 23009KT 9999 FEW023 30/23 Q1009 NOSIG RMK A2982=\n\t   TAF :  222300Z 2300/2324 24004KT 9999 BKN023\n\t      BECMG 2311/2313 33004KT SCT023\n\t      BECMG 2318/2320 24004KT BKN023 TX33/2320Z TN26/2310Z=\n\t\n\tSPJC\n\tMETAR :  230100Z 18006KT 9999 FEW008 21/18 Q1014 NOSIG RMK PP000=\n\t   TAF :  222305Z 2300/2324 18004KT 9999 SCT012\n\t         TX24/2319Z TN20/2311Z\n\t          BECMG 2301/2303 BKN007\n\t         TEMPO 2311/2314 3000 BR OVC004\n\t         BECMG 2316/2318 24012KT CAVOK=\n\t\n\tSPQT\n\tMETAR :  230100Z 12002KT CAVOK 26/24 Q1009 NOSIG RMK PP000=\n\t   TAF :  222300Z 2300/2324 03004KT CAVOK\n\t    TX32/2320Z TN24/2311Z\n\t    TEMPO 2308/2312 BKN002 BKN080\n\t    BECMG 2314/2317 BKN020=\n\t\n\tSLDS OCC",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547965251,
+      "label": "C1",
+      "text": ".MADMQEB 230135\n\tAGM\n\tAN EC-NTX/MA 321I\n\t-  QUMADMXEB~1OCC// AVA97 //\n\t\n\tDEP WX UPDATE\n\t\n\tSKBO\n\tMETAR :  230100Z 31004KT 280V340 9999 FEW050 13/12 Q1026 NOSIG=\n\t   TAF :  222255Z 2300/2324 VRB03KT 9999 SCT040\n\tTEMPO 2309/2312 8000 VCFG SCT020\n\tBECMG 2315/2316 31012KT 9999 SCT040\n\tTEMPO 2317/2320 8000 SHRA SCT020TCU BKN050\n\tTX18/2219Z TN11/2310Z=\n\t\n\tSCEL\n\tMETAR :  230100Z 16008KT CAVOK 15/06 Q1020 NOSIG=\n\t   TAF :  222200Z 2300/2324 19012KT CAVOK TX23/2319Z TN08/2310Z\n\t      BECMG 2301/2303 15004KT\n\t      TEMPO 2308/2312 VRB02KT 7000 NSC\n\t      BECMG 2316/2318 19010KT=\n\t\n\tSCIE\n\tMETAR :  230100Z 22008KT CAVOK 13/08 Q1024=\n\t   TAF :  222200Z 2300/2324 24012KT CAVOK TX19/2318Z TN07/2310Z\n\t      BECMG 2302/2304 18005KT\n\t      TEMPO 2308/2312 9999 SCT020\n\t      BECMG 2316/2318 23010KT=\n\t\n\tSCFA\n\tMETAR :  230100Z 21010KT 9999 OVC014 17/14 Q1017 NOSIG=\n\tTAF COR SCFA 222330Z 2300/2324 21010KT 9999 SCT005 BKN015 TN16/2310Z\n\tTX20/2318Z\n\tTEMPO 2300/2310 5000 -DZ BKN005\n\tBECMG 2304/2306 21004KT\n\tBECMG 2311/2313 FEW005 BKN015\n\tBECMG 2314/2316 21014KT FEW015\n\tBECMG 2322/2324 BKN012=\n\t\n\tSEGU\n\tMETAR :  230100Z 23009KT 9999 FEW023 30/23 Q1009 NOSIG RMK A2982=\n\t   TAF :  222300Z 2300/2324 24004KT 9999 BKN023\n\t      BECMG 2311/2313 33004KT SCT023\n\t      BECMG 2318/2320 24004KT BKN023 TX33/2320Z TN26/2310Z=\n\t\n\tSPJC\n\tMETAR :  230100Z 18006KT 9999 FEW008 21/18 Q1014 NOSIG RMK PP000=\n\t   TAF :  222305Z 2300/2324 18004KT 9999 SCT012\n\t         TX24/2319Z TN20/2311Z\n\t          BECMG 2301/2303 BKN007\n\t         TEMPO 2311/2314 3000 BR OVC004\n\t         BECMG 2316/2318 24012KT CAVOK=\n\t\n\tSPQT\n\tMETAR :  230100Z 12002KT CAVOK 26/24 Q1009 NOSIG RMK PP000=\n\t   TAF :  222300Z 2300/2324 03004KT CAVOK\n\t    TX32/2320Z TN24/2311Z\n\t    TEMPO 2308/2312 BKN002 BKN080\n\t    BECMG 2314/2317 BKN020=\n\t\n\tSLDS OCC",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547965244,
+      "label": "C1",
+      "text": ".MADMQEB 230135\n\tAGM\n\tAN EC-NTX/MA 321I\n\t-  QUMADMXEB~1OCC// AVA97 //\n\t\n\tDEP WX UPDATE\n\t\n\tSKBO\n\tMETAR :  230100Z 31004KT 280V340 9999 FEW050 13/12 Q1026 NOSIG=\n\t   TAF :  222255Z 2300/2324 VRB03KT 9999 SCT040\n\tTEMPO 2309/2312 8000 VCFG SCT020\n\tBECMG 2315/2316 31012KT 9999 SCT040\n\tTEMPO 2317/2320 8000 SHRA SCT020TCU BKN050\n\tTX18/2219Z TN11/2310Z=\n\t\n\tSCEL\n\tMETAR :  230100Z 16008KT CAVOK 15/06 Q1020 NOSIG=\n\t   TAF :  222200Z 2300/2324 19012KT CAVOK TX23/2319Z TN08/2310Z\n\t      BECMG 2301/2303 15004KT\n\t      TEMPO 2308/2312 VRB02KT 7000 NSC\n\t      BECMG 2316/2318 19010KT=\n\t\n\tSCIE\n\tMETAR :  230100Z 22008KT CAVOK 13/08 Q1024=\n\t   TAF :  222200Z 2300/2324 24012KT CAVOK TX19/2318Z TN07/2310Z\n\t      BECMG 2302/2304 18005KT\n\t      TEMPO 2308/2312 9999 SCT020\n\t      BECMG 2316/2318 23010KT=\n\t\n\tSCFA\n\tMETAR :  230100Z 21010KT 9999 OVC014 17/14 Q1017 NOSIG=\n\tTAF COR SCFA 222330Z 2300/2324 21010KT 9999 SCT005 BKN015 TN16/2310Z\n\tTX20/2318Z\n\tTEMPO 2300/2310 5000 -DZ BKN005\n\tBECMG 2304/2306 21004KT\n\tBECMG 2311/2313 FEW005 BKN015\n\tBECMG 2314/2316 21014KT FEW015\n\tBECMG 2322/2324 BKN012=\n\t\n\tSEGU\n\tMETAR :  230100Z 23009KT 9999 FEW023 30/23 Q1009 NOSIG RMK A2982=\n\t   TAF :  222300Z 2300/2324 24004KT 9999 BKN023\n\t      BECMG 2311/2313 33004KT SCT023\n\t      BECMG 2318/2320 24004KT BKN023 TX33/2320Z TN26/2310Z=\n\t\n\tSPJC\n\tMETAR :  230100Z 18006KT 9999 FEW008 21/18 Q1014 NOSIG RMK PP000=\n\t   TAF :  222305Z 2300/2324 18004KT 9999 SCT012\n\t         TX24/2319Z TN20/2311Z\n\t          BECMG 2301/2303 BKN007\n\t         TEMPO 2311/2314 3000 BR OVC004\n\t         BECMG 2316/2318 24012KT CAVOK=\n\t\n\tSPQT\n\tMETAR :  230100Z 12002KT CAVOK 26/24 Q1009 NOSIG RMK PP000=\n\t   TAF :  222300Z 2300/2324 03004KT CAVOK\n\t    TX32/2320Z TN24/2311Z\n\t    TEMPO 2308/2312 BKN002 BKN080\n\t    BECMG 2314/2317 BKN020=\n\t\n\tSLDS OCC",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547964256,
+      "label": "C1",
+      "text": ".MELOJJQ 230138 \r\nAGM\r\nAN VH-VGT/MA 025A\r\n-  /\r\n\r\n\r\n\r\nU L A    EDNO 02\r\n \r\nFROM/TO  FLIGHT  A/C REG  DATE     TIME\r\nHLZ CHC  JQ273   VH-VGT   23Apr26  0136z\r\n \r\nTTL ULDs 3\r\nTTL Bags 85\r\nTTL Cargo 0\r\n \r\nPOS 5 Bulk B 0\r\n           C 0\r\n \r\nPOS 42     N\r\nPOS 41 AKH B 11\r\nPOS 32 AKH B 35\r\nPOS 31     N\r\n \r\nPOS 13     N\r\nPOS 12     N\r\nPOS 11 AKH B 39",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "VH-VGT"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "MA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "025A"
+        }
+      ]
+    },
+    {
+      "id": 6547964071,
+      "label": "C1",
+      "text": ".MELOJJQ 230138 \r\nAGM\r\nAN VH-VGT/MA 025A\r\n-  /\r\n\r\n\r\n\r\nU L A    EDNO 02\r\n \r\nFROM/TO  FLIGHT  A/C REG  DATE     TIME\r\nHLZ CHC  JQ273   VH-VGT   23Apr26  0136z\r\n \r\nTTL ULDs 3\r\nTTL Bags 85\r\nTTL Cargo 0\r\n \r\nPOS 5 Bulk B 0\r\n  ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "VH-VGT"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "MA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "025A"
+        }
+      ]
+    },
+    {
+      "id": 6547963596,
+      "label": "C1",
+      "text": "  36.65\n\tSTAB:ALL                5.9 UP\n\tA41 B119 C118 \n\tSEATROW TRIM\n\tKUL FRE11228 POS 1265 BAG 5246 TRA    0\n\tSI DOW 127809\n\tDOI 92.0\n\tPANTRY CODE  A  \n\tNOTOC: YES\n\tB51/E//41//FAK\n\tLOAD IN CPTS 0/0 1/2204 2/7254 3/5211 4\n\t/3720 5/1311 \n\tPREPARED BY MOHAMAD KHAIRUL IDRIS //M \n\tKHAIRUL 0 19 3159297\n\tLICENCE K8-53 E-29FEB28\n\tLOADING SUPV : EUM MYUNG SUB\n\tID : 9304165\n\tAIRCRAFT TYPE : A330-323               \n\tPIC NAME: MOHAMMAD HASYIDAN BIN MOH \n\tSALLEH\n\tSIGN & LIC NO.: ......................",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "notoc",
+          "code": "NOTOC",
+          "label": "NOTOC (Dangerous Goods)",
+          "value": "YES B51/E//41//FAK LOAD IN CPTS 0/0 1/2204 2/7254 3/5211 4 /3720 5/1311"
+        },
+        {
+          "type": "preparer",
+          "code": "PREP",
+          "label": "Prepared By",
+          "value": "MOHAMAD KHAIRUL IDRIS //M KHAIRUL 0 19 3159297 LICENCE K8-53 E-29FEB28 LOADING SUPV : EUM MYUNG SUB ID : 9304165 AIRCRAFT TYPE : A330-323 PIC NAME: MOHAMMAD HASYIDAN BIN MOH SALLEH SIGN & LIC NO.: ......................"
+        }
+      ]
+    },
+    {
+      "id": 6547963595,
+      "label": "C1",
+      "text": "  36.65\n\tSTAB:ALL                5.9 UP\n\tA41 B119 C118 \n\tSEATROW TRIM\n\tKUL FRE11228 POS 1265 BAG 5246 TRA    0\n\tSI DOW 127809\n\tDOI 92.0\n\tPANTRY CODE  A  \n\tNOTOC: YES\n\tB51/E//41//FAK\n\tLOAD IN CPTS 0/0 1/2204 2/7254 3/5211 4\n\t/3720 5/1311 \n\tPREPARED BY MOHAMAD KHAIRUL IDRIS //M \n\tKHAIRUL 0 19 3159297\n\tLICENCE K8-53 E-29FEB28\n\tLOADING SUPV : EUM MYUNG SUB\n\tID : 9304165\n\tAIRCRAFT TYPE : A330-323               \n\tPIC NAME: MOHAMMAD HASYIDAN BIN MOH \n\tSALLEH\n\tSIGN & LIC NO.: ......................",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "notoc",
+          "code": "NOTOC",
+          "label": "NOTOC (Dangerous Goods)",
+          "value": "YES B51/E//41//FAK LOAD IN CPTS 0/0 1/2204 2/7254 3/5211 4 /3720 5/1311"
+        },
+        {
+          "type": "preparer",
+          "code": "PREP",
+          "label": "Prepared By",
+          "value": "MOHAMAD KHAIRUL IDRIS //M KHAIRUL 0 19 3159297 LICENCE K8-53 E-29FEB28 LOADING SUPV : EUM MYUNG SUB ID : 9304165 AIRCRAFT TYPE : A330-323 PIC NAME: MOHAMMAD HASYIDAN BIN MOH SALLEH SIGN & LIC NO.: ......................"
+        }
+      ]
+    },
+    {
+      "id": 6547963580,
+      "label": "C1",
+      "text": "N/A\r\nENG.WING ICE ON     N/A     N/A\r\n                 NO ICE  ICE ACCUM\r\nBLEED/PACKS  OFF  181.9     N/A\r\nENGINE ICE   ON     N/A     N/A\r\nENG.WING ICE ON     N/A     N/A\r\n************************\r\nREQUIRED LDG DISTANCE",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        }
+      ]
+    },
+    {
+      "id": 6547963575,
+      "label": "C1",
+      "text": " MESSAGE-----\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        }
+      ]
+    },
+    {
+      "id": 6547963312,
+      "label": "C1",
+      "text": ".GTWCXXA 230138\n\tAGM\n\tAN B-LRB\n\t-  SA 23/01:37\n\tYPLM 230130Z AUTO 16014KT 9999 // NCD\n\t  24/15 Q1016\n\tSA 23/01:37\n\tYGEL 230130Z AUTO 27013KT 9999 // OVC058\n\t  23/10 Q1016\n\tSA 23/01:37\n\tYPPD 230130Z AUTO 02004KT 9999 // NCD\n\t  30/23 Q1013\n\tSA 23/01:37\n\tWADD 230130Z 10010KT 9999 FEW018 29/25\n\t  Q1010 NOSIG",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547963307,
+      "label": "C1",
+      "text": ".GTWCXXA 230138\n\tAGM\n\tAN B-LRB\n\t-  SA 23/01:37\n\tYPLM 230130Z AUTO 16014KT 9999 // NCD\n\t  24/15 Q1016\n\tSA 23/01:37\n\tYGEL 230130Z AUTO 27013KT 9999 // OVC058\n\t  23/10 Q1016\n\tSA 23/01:37\n\tYPPD 230130Z AUTO 02004KT 9999 // NCD\n\t  30/23 Q1013\n\tSA 23/01:37\n\tWADD 230130Z 10010KT 9999 FEW018 29/25\n\t  Q1010 NOSIG",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547963250,
+      "label": "C1",
+      "text": "W 7KT XW\r\n************************\r\n135.4 - PLANNED LDG WT\r\n142.2 - STRUCTURAL\r\n143.0 - LM (4000 - 3/4)\r\nPERF (GO-AROUND)\r\n                 NO ICE  ICE ACCUM\r\nBLEED/PACKS  ON   179.2     N/A\r\nENGINE ICE   ON     N/A     ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        }
+      ]
+    },
+    {
+      "id": 6547962838,
+      "label": "C1",
+      "text": ".NDCULUA 230138\r\nAGM\r\nAN N492UA\r\n-  /LANDING DATA\r\n ** PART 01 OF 01 **\r\n************************\r\nLANDING DATA BUR RW 08\r\n5802 FT\r\nA320-232 V2527-A5\r\n         *FULL*\r\nTEMP 19C       ALT 30.03\r\nWIND 188/7 MAG\r\n     2KT T",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547962340,
+      "label": "C1",
+      "text": ".PERFFQK 230138\r\nAGM\r\nAN CGGNZ/FI QK8161\r\n-  FLIGHT :8161   REL  1\r\nAPR 23 2026 01:38:19Z\r\nWIND      140/07\r\nTEMP      P15\r\nQNH       29.98\r\nGTOW      62000\r\n \r\nREMARKS\r\nPTOW CALC\r\n\r\n\r\n-----------\r\nYVR 08R/L4                10804 FT\r\nRT H140                    FLAP  5\r\nFRA       1013            V1   127\r\nRTOP - BLDS ON            VR   132\r\nTRQ  82.3  AT/P44         V2   132\r\nMTOW 62439/A              VFRI 142\r\n                          VCL  154\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "CGGNZ"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "FI"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "QK8161"
+        }
+      ]
+    },
+    {
+      "id": 6547962312,
+      "label": "C1",
+      "text": "    10804 FT\r\nRT H140                    FLAP  5\r\nFRA       1013            V1   127\r\nRTOP - BLDS ON            VR   132\r\nTRQ  82.3  AT/P44         V2   132\r\nMTOW 62439/A              VFRI 142\r\n                          ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        }
+      ]
+    },
+    {
+      "id": 6547962295,
+      "label": "C1",
+      "text": ".HDQQAOO 230138\r\nAGM\r\nAN N944SW/MA 869I\r\n-  BLOCK START REPORT--\r\n\r\nCA 084775 TRICOMO     \r\n 117 0:42 B 0:51 CR 0:51\r\nFO 088408 TENNANT     \r\n 117 0:42 B 0:51 CR 0:51\r\n\r\nN944SW\r\n22APR UA 5627 SFO-MRY\r\n\r\nAD: 47 CH:  0    IN:  0\r\nCRW: 3 AC:  0 SOULS: 50\r\nCARGO:  1418 ZFW: 42998\r\n            GTOW: 46898\r\n\r\nMST DEP 01:40\r\n    OUT 01:38\r\nD0 PERF -0:02\r\n\r\n* END OF REPORT -- 0138Z\r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N944SW"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "MA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "869I"
+        }
+      ]
+    },
+    {
+      "id": 6547962257,
+      "label": "C1",
+      "text": ".PERFFQK 230138\r\nAGM\r\nAN CGGNZ/FI QK8161\r\n-  FLIGHT :8161   REL  1\r\nAPR 23 2026 01:38:19Z\r\nWIND      140/07\r\nTEMP      P15\r\nQNH       29.98\r\nGTOW      62000\r\n \r\nREMARKS\r\nPTOW CALC\r\n\r\n\r\n-----------\r\nYVR 08R/L4            ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "CGGNZ"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "FI"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "QK8161"
+        }
+      ]
+    },
+    {
+      "id": 6547961961,
+      "label": "C1",
+      "text": ".HDQQAOO 230138\r\nAGM\r\nAN N944SW/MA 869I\r\n-  BLOCK START REPORT--\r\n\r\nCA 084775 TRICOMO     \r\n 117 0:42 B 0:51 CR 0:51\r\nFO 088408 TENNANT     \r\n 117 0:42 B 0:51 CR 0:51\r\n\r\nN944SW\r\n22APR UA 5627 SFO-MRY\r\n\r\nAD: 47 CH:  0    ",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N944SW"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "MA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "869I"
+        }
+      ]
+    },
+    {
+      "id": 6547961219,
+      "label": "C1",
+      "text": ".DDLIRXA 230137\n\tAGM\n\tAN HL7209/MA 455A\n\t-  WSI FPG INTERSECTION\n\tTYPE: TURB CAT\n\tID: 27597\n\tINTERSECTION TIME: 01:35:30Z\n\tVALID: 00:04:00Z-03:00:00Z\n\tSEVERITY: OCNL MOD\n\tENTRY/EXIT: 3638N13333E / 4009N13950E\n\tALT: FL300-FL380\n\tMVT:\n\tDISC: VERTICAL WIND SHEAR",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547961213,
+      "label": "C1",
+      "text": ".DDLIRXA 230137\n\tAGM\n\tAN HL7209/MA 455A\n\t-  WSI FPG INTERSECTION\n\tTYPE: TURB CAT\n\tID: 27597\n\tINTERSECTION TIME: 01:35:30Z\n\tVALID: 00:04:00Z-03:00:00Z\n\tSEVERITY: OCNL MOD\n\tENTRY/EXIT: 3638N13333E / 4009N13950E\n\tALT: FL300-FL380\n\tMVT:\n\tDISC: VERTICAL WIND SHEAR",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        }
+      ]
+    },
+    {
+      "id": 6547959881,
+      "label": "C1",
+      "text": ".HDQQAOO 230135\r\nAGM\r\nAN N944SW/MA 868I\r\n-  ** AUTO GENERATED TAKEOFF PERFORMANCE **\r\nFLT 5627   RLS 1   0135Z\r\nWIND 257/13  17C   30.15\r\n------------------------\r\n   GTOW 46898    CG 11.1\r\n    ZFW 42998    CG 12.7\r\nTO FUEL  3900\r\n\r\nA 5 /0  B 8 /0  C 8 /0 \r\nD 8 /0  E 8 /0  F 10/0 \r\n           AFT 1418\r\n \r\n \r\n \r\n \r\nREMARKS\r\nNONE\r\n \r\n \r\n \r\n \r\n \r\nKSFO 28L            FLEX\r\nMTOW 47153    GTOW 46898\r\nBL OPEN A/I OFF   VT 177\r\nFX41C RLN N1 85.1 V2 137\r\nTRIM 7.8          VR 133\r\nFLAPS 20          V1 128\r\n \r\nKSFO 28L            NORM\r\nMTOW 47981    GTOW 46898\r\nBL OPEN A/I OFF   VT 177\r\nNORM RLN N1 90.6  V2 137\r\nTRIM 7.8          VR 131\r\nFLAPS 20          V1 126\r\n \r\nKSFO 28L           11381\r\nSPECIAL  ACCEL(AFE) 1087\r\nREACHING D1.8 SFO OR\r\nD0.7 ISFO (D0.7 WEST OF\r\nISFO) RT H305\r\n \r\n \r\nKSFO 28R            FLEX\r\nMTOW 47153    GTOW 46898\r\nBL OPEN A/I OFF   VT 177\r\nFX41C RLN N1 85.1 V2 137\r\nTRIM 7.8          VR 133\r\nFLAPS 20          V1 128\r\n \r\nKSFO 28R            NORM\r\nMTOW 47981    GTOW 46898\r\nBL OPEN A/I OFF   VT 177\r\nNORM RLN N1 90.6  V2 137\r\nTRIM 7.8          VR 131\r\nFLAPS 20          V1 126\r\n \r\nKSFO 28R           11870\r\nSPECIAL  ACCEL(AFE) 1087\r\nREACHING D2.3 SFO OR\r\nD1.1 IGWQ (D1.1 WEST OF\r\nIGWQ) RT H305\r\n \r\n \r\n\r\n\r\n",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "N944SW"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "MA"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "868I"
+        }
+      ]
+    },
+    {
+      "id": 6547959728,
+      "label": "C1",
+      "text": " N/A\r\nENG.WING ICE ON     N/A     N/A\r\n                 NO ICE  ICE ACCUM\r\nBLEED/PACKS  OFF  165.5     N/A\r\nENGINE ICE   ON     N/A     N/A\r\nENG.WING ICE ON     N/A     N/A\r\n************************\r\nREQUIRED LDG DISTANC",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        }
+      ]
+    },
+    {
+      "id": 6547959667,
+      "label": "C1",
+      "text": ".ATISAXS 230137\r\nAGM\r\nAN VH-VFV/FI JQ0000\r\n-  \r\nYBSU ENR ATIS E\r\n0120Z\r\nATIS YBSU E   230120\r\n  RWY: 13\r\n+ WIND: 180/18 XW18\r\n  VIS: GT 10KM\r\n+ CLD: SCT030\r\n+ TMP: 25\r\n+ QNH: 1022\r\nEND OF ATIS E",
+      "decoded": true,
+      "decodeLevel": "partial",
+      "description": "Loadsheet / Load Info (ground-to-air uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Loadsheet / Load Info — ground-to-air uplink"
+        },
+        {
+          "type": "marker",
+          "code": "AGM",
+          "label": "Marker",
+          "value": "AGM (Air-Ground Message)"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Aircraft Registration",
+          "value": "VH-VFV"
+        },
+        {
+          "type": "address_qualifier",
+          "code": "ADDRQ",
+          "label": "Address Qualifier",
+          "value": "FI"
+        },
+        {
+          "type": "sequence",
+          "code": "SEQ",
+          "label": "Message Sequence",
+          "value": "JQ0000"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3037 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547264597,
+      "label": "A9",
+      "text": "/YHMATYA.TI2/CYHM ARR ATIS Y\r\n2200Z 32010KT 280V040\r\n15SM FEW030 FEW040\r\nFEW070 SCT250 21/03\r\nA2991 APCH RNAV Z RWY\r\n30. LDG AND DEP RWY 30.\r\nBIRD ACT INVOF ARPT.\r\nINFORM CYHM ATC INFO YCAF3",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "CYHM"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "Y (Yankee)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "2200Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "320° @ 10 kt"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "15 SM"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Few 3,000 ft, Few 4,000 ft, Few 7,000 ft, Scattered 25,000 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+21°C / +3°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "29.91 inHg"
+        },
+        {
+          "type": "approach",
+          "code": "APCH",
+          "label": "Approach",
+          "value": "RNAV Z RWY 30"
+        },
+        {
+          "type": "runways",
+          "code": "RWY",
+          "label": "Runways in Use",
+          "value": "30"
+        },
+        {
+          "type": "hazard",
+          "code": "HAZARD",
+          "label": "Wildlife Hazard",
+          "value": "BIRD ACT INVOF ARPT"
+        },
+        {
+          "type": "atis_acknowledge",
+          "code": "ATIS_ACK",
+          "label": "Acknowledge on Contact",
+          "value": "Inform CYHM ATC — Info Y (ref CAF3)"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "32010KT 280V040\r\n15SM FEW030 FEW040\r\nFEW070 SCT250 21/03\r\nA2991 APCH RNAV Z RWY\r\n30. LDG AND DEP RWY 30.\r\nBIRD ACT INVOF ARPT.\r\nINFORM CYHM ATC INFO YCAF3"
+        }
+      ]
+    },
+    {
+      "id": 6547263897,
+      "label": "A9",
+      "text": "/ATSLAXA.TI2/KMIA ARR ATIS I\n\t2153Z MIA ARR INFO I 2153Z.\n\t09016G21KT 10SM FEW045 SCT060\n\tSCT250 24/14 A3009 (THREE ZERO\n\tZERO NINER) RMK AO2 SLP188\n\tT02440139. APCHS BEING\n\tCONDUCTED TO PARL CONVERGING\n\tAND INTERSECTING RWYS.\n\tARRIVALS EXPECT ILS RWY 8R,\n\tRWY 9, RWY 12 . RNAV OR GPS\n\tAPCH RWY 8L. LDA RWY 12 TO\n\tHOLD SHORT OF RWY 9 IS 8100FT.\n\tLDA RWY 9 TO HOLD SHORT OF RWY\n\t12 IS 9750FT. IF UNA TO HOLD\n\tSHORT NTFY APCH ON INITIAL CTC\n\tOR ASAP. RWY 8L, RWY 8R FREQ\n\t118.3 RWY 9, RWY 12 FREQ\n\t123.9. NOTICE TO AIR MEN. TWY\n\tN CLSD BTN TWY, Z AND TWY M2,\n\tTWY P CLSD BTN TWY, Z AND TWY\n\tQ2. DHP, VKZ VOR OTS. BIRDS\n\tINVOF MIA. ALL ACFT READ BACK\n\tALL HOLD SHRT INSTRUCTIONS AND\n\tASSIGNED ALT. ...ADVS YOU HAVE\n\tINFO I.362F",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "KMIA"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "I (India)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "2153Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "090° @ 16 kt (gust 21 kt)"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "10 SM"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Few 4,500 ft, Scattered 6,000 ft, Scattered 25,000 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+24°C / +14°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "30.09 inHg"
+        },
+        {
+          "type": "taxiway_closures",
+          "code": "TWYCLSD",
+          "label": "Taxiway Closures",
+          "value": "TWY N (TWY Z AND TWY M2); TWY P (TWY Z AND TWY Q2. DHP VKZ VOR OTS. BIRDS INVOF MIA. ALL ACFT READ BACK ALL)"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "MIA ARR INFO I 2153Z.\n\t09016G21KT 10SM FEW045 SCT060\n\tSCT250 24/14 A3009 (THREE ZERO\n\tZERO NINER) RMK AO2 SLP188\n\tT02440139. APCHS BEING\n\tCONDUCTED TO PARL CONVERGING\n\tAND INTERSECTING RWYS.\n\tARRIVALS EXPECT ILS RWY 8R,\n\tRWY 9, RWY 12 . RNAV OR GPS\n\tAPCH RWY 8L. LDA RWY 12 TO\n\tHOLD SHORT OF RWY 9 IS 8100FT.\n\tLDA RWY 9 TO HOLD SHORT OF RWY\n\t12 IS 9750FT. IF UNA TO HOLD\n\tSHORT NTFY APCH ON INITIAL CTC\n\tOR ASAP. RWY 8L, RWY 8R FREQ\n\t118.3 RWY 9, RWY 12 FREQ\n\t123.9. NOTICE TO AIR MEN. TWY\n\tN CLSD BTN TWY, Z AND TWY M2,\n\tTWY P CLSD BTN TWY, Z AND TWY\n\tQ2. DHP, VKZ VOR OTS. BIRDS\n\tINVOF MIA. ALL ACFT READ BACK\n\tALL HOLD SHRT INSTRUCTIONS AND\n\tASSIGNED ALT. ...ADVS YOU HAVE\n\tINFO I.362F"
+        }
+      ]
+    },
+    {
+      "id": 6547263083,
+      "label": "A9",
+      "text": "/HKGATYA.TI2/VHHH DEP ATIS P\n\t2207Z\n\tDEPARTURES, RWY 25C.\n\tRWY 25L IS CLSD FOR\n\tMAINT.\n\tRWY 25R NON\n\tOPERATIONAL.\n\tWIND 220/07KT VIS 10KM\n\tCLD FEW 1500FT SCT\n\t3000FT T27 DP23 QNH\n\t1007HPA=\n\tACKNOWLEDGE INFO P ON\n\tFIRST CTC WITH DELIVERY\n\t.B446",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "VHHH"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Departure"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "P (Papa)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "2207Z"
+        },
+        {
+          "type": "acknowledge_atis_letter",
+          "code": "ACK_ATIS",
+          "label": "Acknowledge ATIS Info",
+          "value": "P (Papa)"
+        },
+        {
+          "type": "acknowledge_contact",
+          "code": "ACK_CTC",
+          "label": "Acknowledge On First Contact With",
+          "value": "DELIVERY"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "DEPARTURES, RWY 25C.\n\tRWY 25L IS CLSD FOR\n\tMAINT.\n\tRWY 25R NON\n\tOPERATIONAL.\n\tWIND 220/07KT VIS 10KM\n\tCLD FEW 1500FT SCT\n\t3000FT T27 DP23 QNH\n\t1007HPA=\n\tACKNOWLEDGE INFO P ON\n\tFIRST CTC WITH DELIVERY\n\t.B446"
+        }
+      ]
+    },
+    {
+      "id": 6547263076,
+      "label": "A9",
+      "text": "/HKGATYA.TI2/VHHH DEP ATIS P\n\t2207Z\n\tDEPARTURES, RWY 25C.\n\tRWY 25L IS CLSD FOR\n\tMAINT.\n\tRWY 25R NON\n\tOPERATIONAL.\n\tWIND 220/07KT VIS 10KM\n\tCLD FEW 1500FT SCT\n\t3000FT T27 DP23 QNH\n\t1007HPA=\n\tACKNOWLEDGE INFO P ON\n\tFIRST CTC WITH DELIVERY\n\t.B446",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "VHHH"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Departure"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "P (Papa)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "2207Z"
+        },
+        {
+          "type": "acknowledge_atis_letter",
+          "code": "ACK_ATIS",
+          "label": "Acknowledge ATIS Info",
+          "value": "P (Papa)"
+        },
+        {
+          "type": "acknowledge_contact",
+          "code": "ACK_CTC",
+          "label": "Acknowledge On First Contact With",
+          "value": "DELIVERY"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "DEPARTURES, RWY 25C.\n\tRWY 25L IS CLSD FOR\n\tMAINT.\n\tRWY 25R NON\n\tOPERATIONAL.\n\tWIND 220/07KT VIS 10KM\n\tCLD FEW 1500FT SCT\n\t3000FT T27 DP23 QNH\n\t1007HPA=\n\tACKNOWLEDGE INFO P ON\n\tFIRST CTC WITH DELIVERY\n\t.B446"
+        }
+      ]
+    },
+    {
+      "id": 6547262979,
+      "label": "A9",
+      "text": "/HKGATYA.TI2/VHHH ARR ATIS G\n\t2206Z\n\tARRIVALS, RWY 25C.\n\tEXP ILS  APCH, RWY 25C.\n\tRWY 25L IS CLSD FOR\n\tMAINT.\n\tRWY 25R NON\n\tOPERATIONAL.\n\tEXP RWY 25R AFTER\n\t2300Z.\n\tWIND 200/06KT VIS 10KM\n\tCLD FEW 1500FT SCT\n\t3000FT T27 DP23 QNH\n\t1007HPA= ACKNOWLEDGE\n\tINFO G ON FIRST CTC\n\tWITH APP.EFAB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "VHHH"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "G (Golf)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "2206Z"
+        },
+        {
+          "type": "acknowledge_atis_letter",
+          "code": "ACK_ATIS",
+          "label": "Acknowledge ATIS Info",
+          "value": "G (Golf)"
+        },
+        {
+          "type": "acknowledge_contact",
+          "code": "ACK_CTC",
+          "label": "Acknowledge On First Contact With",
+          "value": "APP"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "ARRIVALS, RWY 25C.\n\tEXP ILS  APCH, RWY 25C.\n\tRWY 25L IS CLSD FOR\n\tMAINT.\n\tRWY 25R NON\n\tOPERATIONAL.\n\tEXP RWY 25R AFTER\n\t2300Z.\n\tWIND 200/06KT VIS 10KM\n\tCLD FEW 1500FT SCT\n\t3000FT T27 DP23 QNH\n\t1007HPA= ACKNOWLEDGE\n\tINFO G ON FIRST CTC\n\tWITH APP.EFAB"
+        }
+      ]
+    },
+    {
+      "id": 6547262973,
+      "label": "A9",
+      "text": "/HKGATYA.TI2/VHHH ARR ATIS G\n\t2206Z\n\tARRIVALS, RWY 25C.\n\tEXP ILS  APCH, RWY 25C.\n\tRWY 25L IS CLSD FOR\n\tMAINT.\n\tRWY 25R NON\n\tOPERATIONAL.\n\tEXP RWY 25R AFTER\n\t2300Z.\n\tWIND 200/06KT VIS 10KM\n\tCLD FEW 1500FT SCT\n\t3000FT T27 DP23 QNH\n\t1007HPA= ACKNOWLEDGE\n\tINFO G ON FIRST CTC\n\tWITH APP.EFAB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "VHHH"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "G (Golf)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "2206Z"
+        },
+        {
+          "type": "acknowledge_atis_letter",
+          "code": "ACK_ATIS",
+          "label": "Acknowledge ATIS Info",
+          "value": "G (Golf)"
+        },
+        {
+          "type": "acknowledge_contact",
+          "code": "ACK_CTC",
+          "label": "Acknowledge On First Contact With",
+          "value": "APP"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "ARRIVALS, RWY 25C.\n\tEXP ILS  APCH, RWY 25C.\n\tRWY 25L IS CLSD FOR\n\tMAINT.\n\tRWY 25R NON\n\tOPERATIONAL.\n\tEXP RWY 25R AFTER\n\t2300Z.\n\tWIND 200/06KT VIS 10KM\n\tCLD FEW 1500FT SCT\n\t3000FT T27 DP23 QNH\n\t1007HPA= ACKNOWLEDGE\n\tINFO G ON FIRST CTC\n\tWITH APP.EFAB"
+        }
+      ]
+    },
+    {
+      "id": 6547262920,
+      "label": "A9",
+      "text": "/YHMATYA.TI2/CYHM ARR ATIS Y\r\n2200Z 32010KT 280V040\r\n15SM FEW030 FEW040\r\nFEW070 SCT250 21/03\r\nA2991 APCH RNAV Z RWY\r\n30. LDG AND DEP RWY 30.\r\nBIRD ACT INVOF ARPT.\r\nINFORM CYHM ATC INFO YCAF3",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "CYHM"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "Y (Yankee)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "2200Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "320° @ 10 kt"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "15 SM"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Few 3,000 ft, Few 4,000 ft, Few 7,000 ft, Scattered 25,000 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+21°C / +3°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "29.91 inHg"
+        },
+        {
+          "type": "approach",
+          "code": "APCH",
+          "label": "Approach",
+          "value": "RNAV Z RWY 30"
+        },
+        {
+          "type": "runways",
+          "code": "RWY",
+          "label": "Runways in Use",
+          "value": "30"
+        },
+        {
+          "type": "hazard",
+          "code": "HAZARD",
+          "label": "Wildlife Hazard",
+          "value": "BIRD ACT INVOF ARPT"
+        },
+        {
+          "type": "atis_acknowledge",
+          "code": "ATIS_ACK",
+          "label": "Acknowledge on Contact",
+          "value": "Inform CYHM ATC — Info Y (ref CAF3)"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "32010KT 280V040\r\n15SM FEW030 FEW040\r\nFEW070 SCT250 21/03\r\nA2991 APCH RNAV Z RWY\r\n30. LDG AND DEP RWY 30.\r\nBIRD ACT INVOF ARPT.\r\nINFORM CYHM ATC INFO YCAF3"
+        }
+      ]
+    },
+    {
+      "id": 6547261872,
+      "label": "A9",
+      "text": " D .\r\nTWY, G BTN RWY, 35 AND\r\nTWY J . TWY K1 CLSD, TWY\r\nK6 CLSD TWY S4 CLSD .\r\nRWY 9 RIGHT HOLD PAD\r\nCLSD. TOWER FREQ 118.5\r\nFOR ALL RUNWAYS. ALL RWY\r\nCONDITION CODES 5 5 5 AT\r\n1600Z. ...ADVS YOU HAVE\r\nINFO Z.643B\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "taxiway_closures",
+          "code": "TWYCLSD",
+          "label": "Taxiway Closures",
+          "value": "TWY G (RWY 35 AND TWY J); TWY K1; TWY K6; TWY S4"
+        },
+        {
+          "type": "runway_closures",
+          "code": "RWYCLSD",
+          "label": "Runway Closures",
+          "value": "RWY 9 RIGHT hold pad"
+        },
+        {
+          "type": "tower_frequency",
+          "code": "TWRFRQ",
+          "label": "Tower Frequency",
+          "value": "118.5 MHz (all runways. all rwy condition codes 5 5 5 at 1600z. ...advs you have info z.643b)"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "D .\r\nTWY, G BTN RWY, 35 AND\r\nTWY J . TWY K1 CLSD, TWY\r\nK6 CLSD TWY S4 CLSD .\r\nRWY 9 RIGHT HOLD PAD\r\nCLSD. TOWER FREQ 118.5\r\nFOR ALL RUNWAYS. ALL RWY\r\nCONDITION CODES 5 5 5 AT\r\n1600Z. ...ADVS YOU HAVE\r\nINFO Z.643B"
+        }
+      ]
+    },
+    {
+      "id": 6547260471,
+      "label": "A9",
+      "text": "/ATSBRXA.TI2/KSFO ARR ATIS M\n\t2156Z SFO ATIS INFO M 2156Z. 03003KT 10SM FEW025\n\tSCT030 BKN038 17/11 A3017 (THREE ZERO ONE\n\tSEVEN). SIMUL CLSLY SPCD DPNDNT ILS RY 28R AND\n\tILS RY 28L APP IN USE. DEPG RWYS 28L, 28R.\n\tDEPG ACFT SHOULD BE PREPARED FOR A SHORT\n\tNOTICE RY CHANGE. RY 1L, 1R CLSD. TWY A1, A2,\n\tF1, J, L2, CLSD. TWY A CLSD BTN B AND, L, TWY\n\tB CLSD BTN TWY F AND, TWY G, TWY H CLSD BTN TY\n\tB AND, RY 1R, TWY L CLSD BTN RWY19L AND E AND,\n\tBETWEEN A1 AND M, TWY M1 BETWEEN B AND RWY1L.\n\tTWY A CLSD BTN GATES D8 AND D7. GATES D7 AND\n\tD6 WILL PUSH ON TWY A TAIL NORTH. SFO VOR OTS.\n\tMULTIPLE CRANES VCY OF SFO CHECK NOTAMS. NO\n\tHOLDING PADS AVAILABLE IF NOT FULLY READY ON\n\tTAXI ADVISE GROUND. ...ADVS YOU HAVE INFO M.12A1",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "KSFO"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "M (Mike)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "2156Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "030° @ 3 kt"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "10 SM"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Few 2,500 ft, Scattered 3,000 ft, Broken 3,800 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+17°C / +11°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "30.17 inHg"
+        },
+        {
+          "type": "taxiway_closures",
+          "code": "TWYCLSD",
+          "label": "Taxiway Closures",
+          "value": "TWY A (B AND L); TWY B (TWY F AND TWY G); TWY H (TY B AND RY 1R); TWY L (RWY19L AND E AND BETWEEN A1 AND M TWY M1 BETWEEN B AND RWY1L.); TWY A (GATES D8 AND D7. GATES D7 AND D6 WILL PUSH ON TWY A TAIL NORTH. SFO VOR OTS. MULTIPLE CRANES VCY OF SFO CHECK NOTAMS. NO HOLDING PADS AVAILABLE IF NOT FULLY READY ON TAXI ADVISE GROUND. ...ADVS YOU HAVE INFO M.12A1)"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "SFO ATIS INFO M 2156Z. 03003KT 10SM FEW025\n\tSCT030 BKN038 17/11 A3017 (THREE ZERO ONE\n\tSEVEN). SIMUL CLSLY SPCD DPNDNT ILS RY 28R AND\n\tILS RY 28L APP IN USE. DEPG RWYS 28L, 28R.\n\tDEPG ACFT SHOULD BE PREPARED FOR A SHORT\n\tNOTICE RY CHANGE. RY 1L, 1R CLSD. TWY A1, A2,\n\tF1, J, L2, CLSD. TWY A CLSD BTN B AND, L, TWY\n\tB CLSD BTN TWY F AND, TWY G, TWY H CLSD BTN TY\n\tB AND, RY 1R, TWY L CLSD BTN RWY19L AND E AND,\n\tBETWEEN A1 AND M, TWY M1 BETWEEN B AND RWY1L.\n\tTWY A CLSD BTN GATES D8 AND D7. GATES D7 AND\n\tD6 WILL PUSH ON TWY A TAIL NORTH. SFO VOR OTS.\n\tMULTIPLE CRANES VCY OF SFO CHECK NOTAMS. NO\n\tHOLDING PADS AVAILABLE IF NOT FULLY READY ON\n\tTAXI ADVISE GROUND. ...ADVS YOU HAVE INFO M.12A1"
+        }
+      ]
+    },
+    {
+      "id": 6547260465,
+      "label": "A9",
+      "text": "/ATSBRXA.TI2/KSFO ARR ATIS M\n\t2156Z SFO ATIS INFO M 2156Z. 03003KT 10SM FEW025\n\tSCT030 BKN038 17/11 A3017 (THREE ZERO ONE\n\tSEVEN). SIMUL CLSLY SPCD DPNDNT ILS RY 28R AND\n\tILS RY 28L APP IN USE. DEPG RWYS 28L, 28R.\n\tDEPG ACFT SHOULD BE PREPARED FOR A SHORT\n\tNOTICE RY CHANGE. RY 1L, 1R CLSD. TWY A1, A2,\n\tF1, J, L2, CLSD. TWY A CLSD BTN B AND, L, TWY\n\tB CLSD BTN TWY F AND, TWY G, TWY H CLSD BTN TY\n\tB AND, RY 1R, TWY L CLSD BTN RWY19L AND E AND,\n\tBETWEEN A1 AND M, TWY M1 BETWEEN B AND RWY1L.\n\tTWY A CLSD BTN GATES D8 AND D7. GATES D7 AND\n\tD6 WILL PUSH ON TWY A TAIL NORTH. SFO VOR OTS.\n\tMULTIPLE CRANES VCY OF SFO CHECK NOTAMS. NO\n\tHOLDING PADS AVAILABLE IF NOT FULLY READY ON\n\tTAXI ADVISE GROUND. ...ADVS YOU HAVE INFO M.12A1",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "KSFO"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "M (Mike)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "2156Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "030° @ 3 kt"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "10 SM"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Few 2,500 ft, Scattered 3,000 ft, Broken 3,800 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+17°C / +11°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "30.17 inHg"
+        },
+        {
+          "type": "taxiway_closures",
+          "code": "TWYCLSD",
+          "label": "Taxiway Closures",
+          "value": "TWY A (B AND L); TWY B (TWY F AND TWY G); TWY H (TY B AND RY 1R); TWY L (RWY19L AND E AND BETWEEN A1 AND M TWY M1 BETWEEN B AND RWY1L.); TWY A (GATES D8 AND D7. GATES D7 AND D6 WILL PUSH ON TWY A TAIL NORTH. SFO VOR OTS. MULTIPLE CRANES VCY OF SFO CHECK NOTAMS. NO HOLDING PADS AVAILABLE IF NOT FULLY READY ON TAXI ADVISE GROUND. ...ADVS YOU HAVE INFO M.12A1)"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "SFO ATIS INFO M 2156Z. 03003KT 10SM FEW025\n\tSCT030 BKN038 17/11 A3017 (THREE ZERO ONE\n\tSEVEN). SIMUL CLSLY SPCD DPNDNT ILS RY 28R AND\n\tILS RY 28L APP IN USE. DEPG RWYS 28L, 28R.\n\tDEPG ACFT SHOULD BE PREPARED FOR A SHORT\n\tNOTICE RY CHANGE. RY 1L, 1R CLSD. TWY A1, A2,\n\tF1, J, L2, CLSD. TWY A CLSD BTN B AND, L, TWY\n\tB CLSD BTN TWY F AND, TWY G, TWY H CLSD BTN TY\n\tB AND, RY 1R, TWY L CLSD BTN RWY19L AND E AND,\n\tBETWEEN A1 AND M, TWY M1 BETWEEN B AND RWY1L.\n\tTWY A CLSD BTN GATES D8 AND D7. GATES D7 AND\n\tD6 WILL PUSH ON TWY A TAIL NORTH. SFO VOR OTS.\n\tMULTIPLE CRANES VCY OF SFO CHECK NOTAMS. NO\n\tHOLDING PADS AVAILABLE IF NOT FULLY READY ON\n\tTAXI ADVISE GROUND. ...ADVS YOU HAVE INFO M.12A1"
+        }
+      ]
+    },
+    {
+      "id": 6547966772,
+      "label": "A9",
+      "text": "/SINCAYA.TI2/WSSS ARR ATIS W  0130Z \n\tMETREPORT 0130Z\n\t ILS APCHRWY 02L\n\tSIMUL INDEPENDENT ILS\n\tAND VISUAL APPROACHES\n\tARE BEING CONDUCTED ON\n\tRWY 02.\n\tRWY 02C/20C RAPID EXIT\n\tTAXIWAY INDICATOR\n\tLIGHTS OFF\n\tWIND 130/ 04KT VRB\n\tBTN010 AND150\n\tVIS 10KM\n\tCLD FEW 1600FT\n\tT30 DP25\n\tQNH 1009HPA\n\tNOSIG\n\tACK ATIS W\n\t81E5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "WSSS"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "W (Whiskey)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "METREPORT 0130Z\n\t ILS APCHRWY 02L\n\tSIMUL INDEPENDENT ILS\n\tAND VISUAL APPROACHES\n\tARE BEING CONDUCTED ON\n\tRWY 02.\n\tRWY 02C/20C RAPID EXIT\n\tTAXIWAY INDICATOR\n\tLIGHTS OFF\n\tWIND 130/ 04KT VRB\n\tBTN010 AND150\n\tVIS 10KM\n\tCLD FEW 1600FT\n\tT30 DP25\n\tQNH 1009HPA\n\tNOSIG\n\tACK ATIS W\n\t81E5"
+        }
+      ]
+    },
+    {
+      "id": 6547966766,
+      "label": "A9",
+      "text": "/SINCAYA.TI2/WSSS ARR ATIS W  0130Z \n\tMETREPORT 0130Z\n\t ILS APCHRWY 02L\n\tSIMUL INDEPENDENT ILS\n\tAND VISUAL APPROACHES\n\tARE BEING CONDUCTED ON\n\tRWY 02.\n\tRWY 02C/20C RAPID EXIT\n\tTAXIWAY INDICATOR\n\tLIGHTS OFF\n\tWIND 130/ 04KT VRB\n\tBTN010 AND150\n\tVIS 10KM\n\tCLD FEW 1600FT\n\tT30 DP25\n\tQNH 1009HPA\n\tNOSIG\n\tACK ATIS W\n\t81E5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "WSSS"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "W (Whiskey)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "METREPORT 0130Z\n\t ILS APCHRWY 02L\n\tSIMUL INDEPENDENT ILS\n\tAND VISUAL APPROACHES\n\tARE BEING CONDUCTED ON\n\tRWY 02.\n\tRWY 02C/20C RAPID EXIT\n\tTAXIWAY INDICATOR\n\tLIGHTS OFF\n\tWIND 130/ 04KT VRB\n\tBTN010 AND150\n\tVIS 10KM\n\tCLD FEW 1600FT\n\tT30 DP25\n\tQNH 1009HPA\n\tNOSIG\n\tACK ATIS W\n\t81E5"
+        }
+      ]
+    },
+    {
+      "id": 6547966307,
+      "label": "A9",
+      "text": "/FUKDLYA.TI2/RJTT ARR ATIS X\n\t0139Z M0130\n\t\n\t(APCH)ILS Z RWY34L/ILS Z RWY34R\n\tLDG RWY 34L/34R\n\tDEP RWY 05/34R\n\tDEP FREQ 126.0 FM RWY05.\n\t         120.8 FM RWY34R,\n\tSIMUL PARL ILS APCHS TO RWY34L/R \n\tARE INPR,\n\t\n\tM\n\t230130Z 35005KT 30KM -RA FEW030CU \n\tSCT050SC OVC100AS 18/10\n\tQ1011/A2987=\n\t\n\tQ/TWO NINE EIGHT SEVEN\n\tSTP\n\t\n\tF470",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RJTT"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "X (X-ray)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0139Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "350° @ 5 kt"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+18°C / +10°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "29.87 inHg"
+        },
+        {
+          "type": "runways",
+          "code": "RWY",
+          "label": "Runways in Use",
+          "value": "34L/34R"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "M0130\n\t\n\t(APCH)ILS Z RWY34L/ILS Z RWY34R\n\tLDG RWY 34L/34R\n\tDEP RWY 05/34R\n\tDEP FREQ 126.0 FM RWY05.\n\t         120.8 FM RWY34R,\n\tSIMUL PARL ILS APCHS TO RWY34L/R \n\tARE INPR,\n\t\n\tM\n\t230130Z 35005KT 30KM -RA FEW030CU \n\tSCT050SC OVC100AS 18/10\n\tQ1011/A2987=\n\t\n\tQ/TWO NINE EIGHT SEVEN\n\tSTP\n\t\n\tF470"
+        }
+      ]
+    },
+    {
+      "id": 6547966300,
+      "label": "A9",
+      "text": "/FUKDLYA.TI2/RJTT ARR ATIS X\n\t0139Z M0130\n\t\n\t(APCH)ILS Z RWY34L/ILS Z RWY34R\n\tLDG RWY 34L/34R\n\tDEP RWY 05/34R\n\tDEP FREQ 126.0 FM RWY05.\n\t         120.8 FM RWY34R,\n\tSIMUL PARL ILS APCHS TO RWY34L/R \n\tARE INPR,\n\t\n\tM\n\t230130Z 35005KT 30KM -RA FEW030CU \n\tSCT050SC OVC100AS 18/10\n\tQ1011/A2987=\n\t\n\tQ/TWO NINE EIGHT SEVEN\n\tSTP\n\t\n\tF470",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RJTT"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "X (X-ray)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0139Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "350° @ 5 kt"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+18°C / +10°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "29.87 inHg"
+        },
+        {
+          "type": "runways",
+          "code": "RWY",
+          "label": "Runways in Use",
+          "value": "34L/34R"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "M0130\n\t\n\t(APCH)ILS Z RWY34L/ILS Z RWY34R\n\tLDG RWY 34L/34R\n\tDEP RWY 05/34R\n\tDEP FREQ 126.0 FM RWY05.\n\t         120.8 FM RWY34R,\n\tSIMUL PARL ILS APCHS TO RWY34L/R \n\tARE INPR,\n\t\n\tM\n\t230130Z 35005KT 30KM -RA FEW030CU \n\tSCT050SC OVC100AS 18/10\n\tQ1011/A2987=\n\t\n\tQ/TWO NINE EIGHT SEVEN\n\tSTP\n\t\n\tF470"
+        }
+      ]
+    },
+    {
+      "id": 6547965920,
+      "label": "A9",
+      "text": "/ATSCXXA.TI2/YBBN DEP ATIS X\r\n0119Z ATIS YBBN X   230119\r\n   APCH: EXP INST APCH\r\n   RWY: 19L AND R\r\n   OPR INFO: INDEPENDENT PARALLEL\r\nDEPARTURES IN PROGRESS\r\n+ WND: 140/14, MAX XW 16.\r\n   VIS: GREATER THAN 10 KM \r\n   CLD: FEW040\r\n+ TMP: 25\r\n   QNH: 1022B84F\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "YBBN"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Departure"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "X (X-ray)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0119Z"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Few 4,000 ft"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "ATIS YBBN X   230119\r\n   APCH: EXP INST APCH\r\n   RWY: 19L AND R\r\n   OPR INFO: INDEPENDENT PARALLEL\r\nDEPARTURES IN PROGRESS\r\n+ WND: 140/14, MAX XW 16.\r\n   VIS: GREATER THAN 10 KM \r\n   CLD: FEW040\r\n+ TMP: 25\r\n   QNH: 1022B84F"
+        }
+      ]
+    },
+    {
+      "id": 6547965757,
+      "label": "A9",
+      "text": "/ICNDLXA.TI2/RKSI ARR ATIS T\n\t0130Z\n\tEXP SIMUL PARALLEL ILS APCH RWY 33R AND ILS APCH RWY 34L\n\tEXP LDG RWY INFO FROM SEOUL APP\n\tWIND 050/6KT\n\tCAVOK\n\tT 17\n\tDP 4\n\tQNH 1012\n\tCAUTION BIRD ACTIVITY\n\tEXP REBIT 1Y OLMEN 1Y GUKDO 2E KARBU 2E ARRIVAL\n\tVACATE RWY33R VIA TWY ECHO NOT AVAILABLE UNLESS AUTHORIZED BY ATC PRIOR TO LANDING\n\tGPS SIGNAL UNRELIABLE DUE TO GPS INTERFERENCE IN SEOUL APCH AREA\n\tA4AB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RKSI"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "T (Tango)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "1012 m"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP SIMUL PARALLEL ILS APCH RWY 33R AND ILS APCH RWY 34L\n\tEXP LDG RWY INFO FROM SEOUL APP\n\tWIND 050/6KT\n\tCAVOK\n\tT 17\n\tDP 4\n\tQNH 1012\n\tCAUTION BIRD ACTIVITY\n\tEXP REBIT 1Y OLMEN 1Y GUKDO 2E KARBU 2E ARRIVAL\n\tVACATE RWY33R VIA TWY ECHO NOT AVAILABLE UNLESS AUTHORIZED BY ATC PRIOR TO LANDING\n\tGPS SIGNAL UNRELIABLE DUE TO GPS INTERFERENCE IN SEOUL APCH AREA\n\tA4AB"
+        }
+      ]
+    },
+    {
+      "id": 6547965753,
+      "label": "A9",
+      "text": "/ICNDLXA.TI2/RKSI ARR ATIS T\n\t0130Z\n\tEXP SIMUL PARALLEL ILS APCH RWY 33R AND ILS APCH RWY 34L\n\tEXP LDG RWY INFO FROM SEOUL APP\n\tWIND 050/6KT\n\tCAVOK\n\tT 17\n\tDP 4\n\tQNH 1012\n\tCAUTION BIRD ACTIVITY\n\tEXP REBIT 1Y OLMEN 1Y GUKDO 2E KARBU 2E ARRIVAL\n\tVACATE RWY33R VIA TWY ECHO NOT AVAILABLE UNLESS AUTHORIZED BY ATC PRIOR TO LANDING\n\tGPS SIGNAL UNRELIABLE DUE TO GPS INTERFERENCE IN SEOUL APCH AREA\n\tA4AB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RKSI"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "T (Tango)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "1012 m"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP SIMUL PARALLEL ILS APCH RWY 33R AND ILS APCH RWY 34L\n\tEXP LDG RWY INFO FROM SEOUL APP\n\tWIND 050/6KT\n\tCAVOK\n\tT 17\n\tDP 4\n\tQNH 1012\n\tCAUTION BIRD ACTIVITY\n\tEXP REBIT 1Y OLMEN 1Y GUKDO 2E KARBU 2E ARRIVAL\n\tVACATE RWY33R VIA TWY ECHO NOT AVAILABLE UNLESS AUTHORIZED BY ATC PRIOR TO LANDING\n\tGPS SIGNAL UNRELIABLE DUE TO GPS INTERFERENCE IN SEOUL APCH AREA\n\tA4AB"
+        }
+      ]
+    },
+    {
+      "id": 6547965482,
+      "label": "A9",
+      "text": "/ATSCXXA.TI2/YBBN DEP ATIS X\r\n0119Z ATIS YBBN X   230119\r\n   APCH: EXP INST APCH\r\n   RWY: 19L AND R\r\n   OPR INFO: INDEPENDENT PARALLEL\r\nDEPARTURES IN PROGRESS\r\n+ WND: 140/14, MAX XW 16.\r\n   VIS: GREATER THAN 10 KM \r\n   C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "YBBN"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Departure"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "X (X-ray)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0119Z"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "ATIS YBBN X   230119\r\n   APCH: EXP INST APCH\r\n   RWY: 19L AND R\r\n   OPR INFO: INDEPENDENT PARALLEL\r\nDEPARTURES IN PROGRESS\r\n+ WND: 140/14, MAX XW 16.\r\n   VIS: GREATER THAN 10 KM \r\n   C"
+        }
+      ]
+    },
+    {
+      "id": 6547963562,
+      "label": "A9",
+      "text": "/TPECAYA.TI2/RCTP ARR ATIS H\r\n0130Z \r\nEXP ILS APCH\r\nRWY23R AND RWY23L\r\nARR/DEP.\r\nWIND 240/23KT \r\nVIS  10 KM OR MORE \r\nCLD\r\n FEW  2000FT \r\nT 30 DP 21 QNH 1006HPA \r\nWS ALL RWY \r\nNOSIG\r\nLOW LVL WS ADVISORY IN\r\nEFFECT. CTN B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RCTP"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "H (Hotel)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP ILS APCH\r\nRWY23R AND RWY23L\r\nARR/DEP.\r\nWIND 240/23KT \r\nVIS  10 KM OR MORE \r\nCLD\r\n FEW  2000FT \r\nT 30 DP 21 QNH 1006HPA \r\nWS ALL RWY \r\nNOSIG\r\nLOW LVL WS ADVISORY IN\r\nEFFECT. CTN B"
+        }
+      ]
+    },
+    {
+      "id": 6547963104,
+      "label": "A9",
+      "text": "/SELATYA.TI2/RKSS ARR ATIS P\n\t0100Z EXP ILS RWY32R APP\n\tDEP RWY32L\n\tSEOUL APP FREQ WILL BE 119.1\n\tSEOUL DEP FREQ WILL BE 125.15\n\tRWY32R TOUCHDOWN WND 070 AT 4 KTS\n\tCAV-OK\n\tTP 18 C\n\tDP 04\n\tQNH 1012 HPA 2988 INCHES\n\tTREND WEATHER\n\tNOSIG\n\tGPS SIGNALS ARE UNRELIABLE OR LOST INTERMITTENTLY IN INCHEON F I R\n\tADVISE ON INITIAL CONTACT YOU HAVE INFO PA8AC",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RKSS"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "P (Papa)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0100Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "1012 m"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP ILS RWY32R APP\n\tDEP RWY32L\n\tSEOUL APP FREQ WILL BE 119.1\n\tSEOUL DEP FREQ WILL BE 125.15\n\tRWY32R TOUCHDOWN WND 070 AT 4 KTS\n\tCAV-OK\n\tTP 18 C\n\tDP 04\n\tQNH 1012 HPA 2988 INCHES\n\tTREND WEATHER\n\tNOSIG\n\tGPS SIGNALS ARE UNRELIABLE OR LOST INTERMITTENTLY IN INCHEON F I R\n\tADVISE ON INITIAL CONTACT YOU HAVE INFO PA8AC"
+        }
+      ]
+    },
+    {
+      "id": 6547963099,
+      "label": "A9",
+      "text": "/SELATYA.TI2/RKSS ARR ATIS P\n\t0100Z EXP ILS RWY32R APP\n\tDEP RWY32L\n\tSEOUL APP FREQ WILL BE 119.1\n\tSEOUL DEP FREQ WILL BE 125.15\n\tRWY32R TOUCHDOWN WND 070 AT 4 KTS\n\tCAV-OK\n\tTP 18 C\n\tDP 04\n\tQNH 1012 HPA 2988 INCHES\n\tTREND WEATHER\n\tNOSIG\n\tGPS SIGNALS ARE UNRELIABLE OR LOST INTERMITTENTLY IN INCHEON F I R\n\tADVISE ON INITIAL CONTACT YOU HAVE INFO PA8AC",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RKSS"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "P (Papa)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0100Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "1012 m"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP ILS RWY32R APP\n\tDEP RWY32L\n\tSEOUL APP FREQ WILL BE 119.1\n\tSEOUL DEP FREQ WILL BE 125.15\n\tRWY32R TOUCHDOWN WND 070 AT 4 KTS\n\tCAV-OK\n\tTP 18 C\n\tDP 04\n\tQNH 1012 HPA 2988 INCHES\n\tTREND WEATHER\n\tNOSIG\n\tGPS SIGNALS ARE UNRELIABLE OR LOST INTERMITTENTLY IN INCHEON F I R\n\tADVISE ON INITIAL CONTACT YOU HAVE INFO PA8AC"
+        }
+      ]
+    },
+    {
+      "id": 6547962795,
+      "label": "A9",
+      "text": "/FUKDLYA.TI2/RJBB ARR ATIS O\n\t0138Z M0130\n\t\n\t(APCH)ILS Z RWY06R\n\tLDG RWY 06R\n\tDEP RWY 06L\n\tDEP FREQ 119.2.\n\t\n\tM\n\t230130Z 05015KT 4500M RA BR FEW008ST \n\tBKN045SC 15/14 Q1008/A2977=\n\t\n\tQ/TWO NINE SEVEN SEVEN\n\tSTP\n\t\n\tEED5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RJBB"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "O (Oscar)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0138Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "050° @ 15 kt"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+15°C / +14°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "29.77 inHg"
+        },
+        {
+          "type": "runways",
+          "code": "RWY",
+          "label": "Runways in Use",
+          "value": "06R"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "M0130\n\t\n\t(APCH)ILS Z RWY06R\n\tLDG RWY 06R\n\tDEP RWY 06L\n\tDEP FREQ 119.2.\n\t\n\tM\n\t230130Z 05015KT 4500M RA BR FEW008ST \n\tBKN045SC 15/14 Q1008/A2977=\n\t\n\tQ/TWO NINE SEVEN SEVEN\n\tSTP\n\t\n\tEED5"
+        }
+      ]
+    },
+    {
+      "id": 6547962792,
+      "label": "A9",
+      "text": "/FUKDLYA.TI2/RJBB ARR ATIS O\n\t0138Z M0130\n\t\n\t(APCH)ILS Z RWY06R\n\tLDG RWY 06R\n\tDEP RWY 06L\n\tDEP FREQ 119.2.\n\t\n\tM\n\t230130Z 05015KT 4500M RA BR FEW008ST \n\tBKN045SC 15/14 Q1008/A2977=\n\t\n\tQ/TWO NINE SEVEN SEVEN\n\tSTP\n\t\n\tEED5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RJBB"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "O (Oscar)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0138Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "050° @ 15 kt"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+15°C / +14°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "29.77 inHg"
+        },
+        {
+          "type": "runways",
+          "code": "RWY",
+          "label": "Runways in Use",
+          "value": "06R"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "M0130\n\t\n\t(APCH)ILS Z RWY06R\n\tLDG RWY 06R\n\tDEP RWY 06L\n\tDEP FREQ 119.2.\n\t\n\tM\n\t230130Z 05015KT 4500M RA BR FEW008ST \n\tBKN045SC 15/14 Q1008/A2977=\n\t\n\tQ/TWO NINE SEVEN SEVEN\n\tSTP\n\t\n\tEED5"
+        }
+      ]
+    },
+    {
+      "id": 6547962706,
+      "label": "A9",
+      "text": "/FUKDLYA.TI2/RJFF ARR ATIS K\r\n0138Z M0130\r\n\r\n(APCH)RNP RWY16L\r\nLDG RWY 16L\r\nDEP RWY 16L/16R\r\nDEP FREQ 127.9\r\nADZ FUKUOKA APP IF UNA\r\n RNP \r\nAPCH\r\nINFORM YR LDG RWY TO\r\n FUKUOKA \r\nTWR ON INITIAL CTC.\r\n\r\nM\r\n230130Z 06006KT",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RJFF"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "K (Kilo)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0138Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "060° @ 6 kt"
+        },
+        {
+          "type": "runways",
+          "code": "RWY",
+          "label": "Runways in Use",
+          "value": "16L"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "M0130\r\n\r\n(APCH)RNP RWY16L\r\nLDG RWY 16L\r\nDEP RWY 16L/16R\r\nDEP FREQ 127.9\r\nADZ FUKUOKA APP IF UNA\r\n RNP \r\nAPCH\r\nINFORM YR LDG RWY TO\r\n FUKUOKA \r\nTWR ON INITIAL CTC.\r\n\r\nM\r\n230130Z 06006KT"
+        }
+      ]
+    },
+    {
+      "id": 6547962323,
+      "label": "A9",
+      "text": "/FUKDLYA.TI2/RJFF ARR ATIS K\r\n0138Z M0130\r\n\r\n(APCH)RNP RWY16L\r\nLDG RWY 16L\r\nDEP RWY 16L/16R\r\nDEP FREQ 127.9\r\nADZ FUKUOKA APP IF UNA RNP \r\nAPCH\r\nINFORM YR LDG RWY TO FUKUOKA \r\nTWR ON INITIAL CTC.\r\n\r\nM\r\n230130Z 06006KT 010",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RJFF"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "K (Kilo)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0138Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "060° @ 6 kt"
+        },
+        {
+          "type": "runways",
+          "code": "RWY",
+          "label": "Runways in Use",
+          "value": "16L"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "M0130\r\n\r\n(APCH)RNP RWY16L\r\nLDG RWY 16L\r\nDEP RWY 16L/16R\r\nDEP FREQ 127.9\r\nADZ FUKUOKA APP IF UNA RNP \r\nAPCH\r\nINFORM YR LDG RWY TO FUKUOKA \r\nTWR ON INITIAL CTC.\r\n\r\nM\r\n230130Z 06006KT 010"
+        }
+      ]
+    },
+    {
+      "id": 6547962000,
+      "label": "A9",
+      "text": "/SNNATXA.TI2/EINN ARR ATIS U\n\t0030Z \n\tEXPECT I L S CATEGORY 1\n\tLDG RWY06\n\tTKOF RWY06\n\tTRL FL060\n\t\n\t09006KT\n\tCAVOK\n\t\n\t11/05\n\tQNH Q1023\n\t\n\tTREND NOSIG\n\t\n\tADVISE AT FIRST CONTACT YOU HAVE ATIS INFO UE4CB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "EINN"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "U (Uniform)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0030Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "090° @ 6 kt"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+11°C / +5°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "1023 hPa"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXPECT I L S CATEGORY 1\n\tLDG RWY06\n\tTKOF RWY06\n\tTRL FL060\n\t\n\t09006KT\n\tCAVOK\n\t\n\t11/05\n\tQNH Q1023\n\t\n\tTREND NOSIG\n\t\n\tADVISE AT FIRST CONTACT YOU HAVE ATIS INFO UE4CB"
+        }
+      ]
+    },
+    {
+      "id": 6547961669,
+      "label": "A9",
+      "text": "/BJSATYA.TI2/ZSPD ARR ATIS F\n\t0130Z EXP ILS APCH\n\tINDEPENDENT PARL INSTR APCH \n\tLDG RWY 35L & 34R\n\tWIND RWY 35L TDZ 020/6MPS MID 020/5MPS\n\tEND 020/5MPS\n\tRWY 34R TDZ 030/7MPS MID 000/0MPS END\n\t020/6MPS\n\tVIS RWY 35L TDZ 10000M MID 10000M END\n\t10000M\n\tVIS RWY 34R TDZ 10000M MID 10000M END\n\t10000M\n\tCLD BKN 780M\n\tT 13 /DP 11\n\tQNH 1012 HPA\n\tCAUTION THE BIRDS NEAR THE RUNWAY\n\tRWY 35R/35L/34R/34L RWYCC 5/5/5 ISSUED\n\tAT 0105 WET/WET/WET DPT NR/NR/NR COV\n\t100PCT/100PCT/100PCT.\n\tADZ YOU HAVE INFO F.51E4",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "ZSPD"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "F (Foxtrot)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "1012 m"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+5°C / +5°C"
+        },
+        {
+          "type": "approach",
+          "code": "APCH",
+          "label": "Approach",
+          "value": "INDEPENDENT PARL INSTR APCH \n\tLDG RWY 35L"
+        },
+        {
+          "type": "runways",
+          "code": "RWY",
+          "label": "Runways in Use",
+          "value": "35L"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP ILS APCH\n\tINDEPENDENT PARL INSTR APCH \n\tLDG RWY 35L & 34R\n\tWIND RWY 35L TDZ 020/6MPS MID 020/5MPS\n\tEND 020/5MPS\n\tRWY 34R TDZ 030/7MPS MID 000/0MPS END\n\t020/6MPS\n\tVIS RWY 35L TDZ 10000M MID 10000M END\n\t10000M\n\tVIS RWY 34R TDZ 10000M MID 10000M END\n\t10000M\n\tCLD BKN 780M\n\tT 13 /DP 11\n\tQNH 1012 HPA\n\tCAUTION THE BIRDS NEAR THE RUNWAY\n\tRWY 35R/35L/34R/34L RWYCC 5/5/5 ISSUED\n\tAT 0105 WET/WET/WET DPT NR/NR/NR COV\n\t100PCT/100PCT/100PCT.\n\tADZ YOU HAVE INFO F.51E4"
+        }
+      ]
+    },
+    {
+      "id": 6547961665,
+      "label": "A9",
+      "text": "/BJSATYA.TI2/ZSPD ARR ATIS F\n\t0130Z EXP ILS APCH\n\tINDEPENDENT PARL INSTR APCH \n\tLDG RWY 35L & 34R\n\tWIND RWY 35L TDZ 020/6MPS MID 020/5MPS\n\tEND 020/5MPS\n\tRWY 34R TDZ 030/7MPS MID 000/0MPS END\n\t020/6MPS\n\tVIS RWY 35L TDZ 10000M MID 10000M END\n\t10000M\n\tVIS RWY 34R TDZ 10000M MID 10000M END\n\t10000M\n\tCLD BKN 780M\n\tT 13 /DP 11\n\tQNH 1012 HPA\n\tCAUTION THE BIRDS NEAR THE RUNWAY\n\tRWY 35R/35L/34R/34L RWYCC 5/5/5 ISSUED\n\tAT 0105 WET/WET/WET DPT NR/NR/NR COV\n\t100PCT/100PCT/100PCT.\n\tADZ YOU HAVE INFO F.51E4",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "ZSPD"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "F (Foxtrot)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "1012 m"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+5°C / +5°C"
+        },
+        {
+          "type": "approach",
+          "code": "APCH",
+          "label": "Approach",
+          "value": "INDEPENDENT PARL INSTR APCH \n\tLDG RWY 35L"
+        },
+        {
+          "type": "runways",
+          "code": "RWY",
+          "label": "Runways in Use",
+          "value": "35L"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP ILS APCH\n\tINDEPENDENT PARL INSTR APCH \n\tLDG RWY 35L & 34R\n\tWIND RWY 35L TDZ 020/6MPS MID 020/5MPS\n\tEND 020/5MPS\n\tRWY 34R TDZ 030/7MPS MID 000/0MPS END\n\t020/6MPS\n\tVIS RWY 35L TDZ 10000M MID 10000M END\n\t10000M\n\tVIS RWY 34R TDZ 10000M MID 10000M END\n\t10000M\n\tCLD BKN 780M\n\tT 13 /DP 11\n\tQNH 1012 HPA\n\tCAUTION THE BIRDS NEAR THE RUNWAY\n\tRWY 35R/35L/34R/34L RWYCC 5/5/5 ISSUED\n\tAT 0105 WET/WET/WET DPT NR/NR/NR COV\n\t100PCT/100PCT/100PCT.\n\tADZ YOU HAVE INFO F.51E4"
+        }
+      ]
+    },
+    {
+      "id": 6547961229,
+      "label": "A9",
+      "text": "/ATSCXXA.TI2/VDTI ARR ATIS D\n\t0130Z VDTI ATIS INFO D\n\t0130Z EXPECT ILS\n\t RUNWAY-IN-USE 23\n\t17007KT 9999 FEW017  29/23 Q1009\n\tTRANSITION LEVEL FLIGHT LEVEL 130\n\tFOR DEPARTURE INFORMS TO TOWER\n\tFOR ARRIVAL INFORMS TO APPROACH\n\tON INITIAL CONTACT11A3",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "VDTI"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "D (Delta)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "170° @ 7 kt"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "9999 m"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Few 1,700 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+29°C / +23°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "1009 hPa"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "VDTI ATIS INFO D\n\t0130Z EXPECT ILS\n\t RUNWAY-IN-USE 23\n\t17007KT 9999 FEW017  29/23 Q1009\n\tTRANSITION LEVEL FLIGHT LEVEL 130\n\tFOR DEPARTURE INFORMS TO TOWER\n\tFOR ARRIVAL INFORMS TO APPROACH\n\tON INITIAL CONTACT11A3"
+        }
+      ]
+    },
+    {
+      "id": 6547961222,
+      "label": "A9",
+      "text": "/ATSCXXA.TI2/VDTI ARR ATIS D\n\t0130Z VDTI ATIS INFO D\n\t0130Z EXPECT ILS\n\t RUNWAY-IN-USE 23\n\t17007KT 9999 FEW017  29/23 Q1009\n\tTRANSITION LEVEL FLIGHT LEVEL 130\n\tFOR DEPARTURE INFORMS TO TOWER\n\tFOR ARRIVAL INFORMS TO APPROACH\n\tON INITIAL CONTACT11A3",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "VDTI"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "D (Delta)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "170° @ 7 kt"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "9999 m"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Few 1,700 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+29°C / +23°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "1009 hPa"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "VDTI ATIS INFO D\n\t0130Z EXPECT ILS\n\t RUNWAY-IN-USE 23\n\t17007KT 9999 FEW017  29/23 Q1009\n\tTRANSITION LEVEL FLIGHT LEVEL 130\n\tFOR DEPARTURE INFORMS TO TOWER\n\tFOR ARRIVAL INFORMS TO APPROACH\n\tON INITIAL CONTACT11A3"
+        }
+      ]
+    },
+    {
+      "id": 6547959961,
+      "label": "A9",
+      "text": "/DATSCXS.TI2/PANC ARR ATIS T\n\t0053Z -  PANC ATIS INFO T 0053Z. VRB05KT 10SM\n\tOVC055 05/02 A3003 (THREE ZERO ZERO THREE).\n\t7R, VISUAL APPROACHES IN USE. LANDING RWY 7R,\n\t7L, DEPARTING RWY 33. NOTICE TO AIRMEN. TWY Q\n\tCLSD. TWY E CLSD BTWN TWY, L AND TWY M . LLWS\n\tADZYS IN EFFECT. CAUTION FOR BIRD ACTIVITY IN\n\tTHE ARPT AREA. HAZD WX INFO FOR ANC AREA AVBL\n\tFM FSS. CONTACT TOWER 118.3 FOR TAXI. RWY 25L\n\t5 5 5 2239, RWY 25R 5 5 5 2240, RWY15 5 5 5\n\t2239. ...ADVS YOU HAVE INFO T.3849",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "PANC"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "T (Tango)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0053Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "variable @ 5 kt"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "10 SM"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Overcast 5,500 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+5°C / +2°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "30.03 inHg"
+        },
+        {
+          "type": "taxiway_closures",
+          "code": "TWYCLSD",
+          "label": "Taxiway Closures",
+          "value": "TWY Q; TWY E"
+        },
+        {
+          "type": "hazardous_wx",
+          "code": "HAZDWX",
+          "label": "Hazardous Weather Area",
+          "value": "ANC area"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "-  PANC ATIS INFO T 0053Z. VRB05KT 10SM\n\tOVC055 05/02 A3003 (THREE ZERO ZERO THREE).\n\t7R, VISUAL APPROACHES IN USE. LANDING RWY 7R,\n\t7L, DEPARTING RWY 33. NOTICE TO AIRMEN. TWY Q\n\tCLSD. TWY E CLSD BTWN TWY, L AND TWY M . LLWS\n\tADZYS IN EFFECT. CAUTION FOR BIRD ACTIVITY IN\n\tTHE ARPT AREA. HAZD WX INFO FOR ANC AREA AVBL\n\tFM FSS. CONTACT TOWER 118.3 FOR TAXI. RWY 25L\n\t5 5 5 2239, RWY 25R 5 5 5 2240, RWY15 5 5 5\n\t2239. ...ADVS YOU HAVE INFO T.3849"
+        }
+      ]
+    },
+    {
+      "id": 6547959957,
+      "label": "A9",
+      "text": "/DATSCXS.TI2/PANC ARR ATIS T\n\t0053Z -  PANC ATIS INFO T 0053Z. VRB05KT 10SM\n\tOVC055 05/02 A3003 (THREE ZERO ZERO THREE).\n\t7R, VISUAL APPROACHES IN USE. LANDING RWY 7R,\n\t7L, DEPARTING RWY 33. NOTICE TO AIRMEN. TWY Q\n\tCLSD. TWY E CLSD BTWN TWY, L AND TWY M . LLWS\n\tADZYS IN EFFECT. CAUTION FOR BIRD ACTIVITY IN\n\tTHE ARPT AREA. HAZD WX INFO FOR ANC AREA AVBL\n\tFM FSS. CONTACT TOWER 118.3 FOR TAXI. RWY 25L\n\t5 5 5 2239, RWY 25R 5 5 5 2240, RWY15 5 5 5\n\t2239. ...ADVS YOU HAVE INFO T.3849",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "PANC"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "T (Tango)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0053Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "variable @ 5 kt"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "10 SM"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Overcast 5,500 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+5°C / +2°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "30.03 inHg"
+        },
+        {
+          "type": "taxiway_closures",
+          "code": "TWYCLSD",
+          "label": "Taxiway Closures",
+          "value": "TWY Q; TWY E"
+        },
+        {
+          "type": "hazardous_wx",
+          "code": "HAZDWX",
+          "label": "Hazardous Weather Area",
+          "value": "ANC area"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "-  PANC ATIS INFO T 0053Z. VRB05KT 10SM\n\tOVC055 05/02 A3003 (THREE ZERO ZERO THREE).\n\t7R, VISUAL APPROACHES IN USE. LANDING RWY 7R,\n\t7L, DEPARTING RWY 33. NOTICE TO AIRMEN. TWY Q\n\tCLSD. TWY E CLSD BTWN TWY, L AND TWY M . LLWS\n\tADZYS IN EFFECT. CAUTION FOR BIRD ACTIVITY IN\n\tTHE ARPT AREA. HAZD WX INFO FOR ANC AREA AVBL\n\tFM FSS. CONTACT TOWER 118.3 FOR TAXI. RWY 25L\n\t5 5 5 2239, RWY 25R 5 5 5 2240, RWY15 5 5 5\n\t2239. ...ADVS YOU HAVE INFO T.3849"
+        }
+      ]
+    },
+    {
+      "id": 6547957916,
+      "label": "A9",
+      "text": "/HKGATYA.TI2/VHHH DEP ATIS T\n\t0106Z\n\tDEPARTURES, RWY 25C/L.\n\tINDEPENDENT PARALLEL\n\tDEPARTURE IN PROGRESS.\n\tWIND RWY 25C 220/09KT\n\tRWY 25L 220/10KT VIS\n\tRWY 25C 10KM RWY 25L\n\t10KM CLD FEW 1200FT SCT\n\t3000FT T28 DP22 QNH\n\t1008HPA TREND TEMPO VIS\n\t4000M MOD SHRA=\n\tACKNOWLEDGE INFO T ON\n\tFIRST CTC WITH DELIVERY\n\t.377B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "VHHH"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Departure"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "T (Tango)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0106Z"
+        },
+        {
+          "type": "acknowledge_atis_letter",
+          "code": "ACK_ATIS",
+          "label": "Acknowledge ATIS Info",
+          "value": "T (Tango)"
+        },
+        {
+          "type": "acknowledge_contact",
+          "code": "ACK_CTC",
+          "label": "Acknowledge On First Contact With",
+          "value": "DELIVERY"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "DEPARTURES, RWY 25C/L.\n\tINDEPENDENT PARALLEL\n\tDEPARTURE IN PROGRESS.\n\tWIND RWY 25C 220/09KT\n\tRWY 25L 220/10KT VIS\n\tRWY 25C 10KM RWY 25L\n\t10KM CLD FEW 1200FT SCT\n\t3000FT T28 DP22 QNH\n\t1008HPA TREND TEMPO VIS\n\t4000M MOD SHRA=\n\tACKNOWLEDGE INFO T ON\n\tFIRST CTC WITH DELIVERY\n\t.377B"
+        }
+      ]
+    },
+    {
+      "id": 6547957915,
+      "label": "A9",
+      "text": "/HKGATYA.TI2/VHHH DEP ATIS T\n\t0106Z\n\tDEPARTURES, RWY 25C/L.\n\tINDEPENDENT PARALLEL\n\tDEPARTURE IN PROGRESS.\n\tWIND RWY 25C 220/09KT\n\tRWY 25L 220/10KT VIS\n\tRWY 25C 10KM RWY 25L\n\t10KM CLD FEW 1200FT SCT\n\t3000FT T28 DP22 QNH\n\t1008HPA TREND TEMPO VIS\n\t4000M MOD SHRA=\n\tACKNOWLEDGE INFO T ON\n\tFIRST CTC WITH DELIVERY\n\t.377B",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "VHHH"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Departure"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "T (Tango)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0106Z"
+        },
+        {
+          "type": "acknowledge_atis_letter",
+          "code": "ACK_ATIS",
+          "label": "Acknowledge ATIS Info",
+          "value": "T (Tango)"
+        },
+        {
+          "type": "acknowledge_contact",
+          "code": "ACK_CTC",
+          "label": "Acknowledge On First Contact With",
+          "value": "DELIVERY"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "DEPARTURES, RWY 25C/L.\n\tINDEPENDENT PARALLEL\n\tDEPARTURE IN PROGRESS.\n\tWIND RWY 25C 220/09KT\n\tRWY 25L 220/10KT VIS\n\tRWY 25C 10KM RWY 25L\n\t10KM CLD FEW 1200FT SCT\n\t3000FT T28 DP22 QNH\n\t1008HPA TREND TEMPO VIS\n\t4000M MOD SHRA=\n\tACKNOWLEDGE INFO T ON\n\tFIRST CTC WITH DELIVERY\n\t.377B"
+        }
+      ]
+    },
+    {
+      "id": 6547957514,
+      "label": "A9",
+      "text": "/JNBATYA.TI2/FAOR ATIS D 0101Z. EXP ZONE IMC ARR RWY03R DEP RWY03R CLEARANCE DELIVERY ON 121 DECIMAL 9 TRL FL090 WIND 070/8KTS VRB BTN 040 AND 100 VIS ABV 10KM CLD NOT AVBL T13 DP12 QNH 1027HPA NOSIG\n\tCONFIRM ATIS D\n\t99C5",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "FAOR"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Combined"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "D (Delta)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0101Z"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": ". EXP ZONE IMC ARR RWY03R DEP RWY03R CLEARANCE DELIVERY ON 121 DECIMAL 9 TRL FL090 WIND 070/8KTS VRB BTN 040 AND 100 VIS ABV 10KM CLD NOT AVBL T13 DP12 QNH 1027HPA NOSIG\n\tCONFIRM ATIS D\n\t99C5"
+        }
+      ]
+    },
+    {
+      "id": 6547957179,
+      "label": "A9",
+      "text": "/DATSCXS.TI2/KDCA DEP ATIS R\r\n0052Z -  KDCA ATIS INFO\r\nR 0052Z. 23005KT 10SM\r\nFEW075 FEW090 21/11\r\nA2993 (TWO NINER NINER\r\nTHREE) RMK AO2 SLP134\r\nT02060106. ARRIVALS\r\nEXPECT RIVER VISUAL RWY\r\n19 RNP 19 APCH AVBL ON\r\nREQUEST. LNDG AND DEPG\r\nRWYS 19, 15. MULTIPLE\r\nAPPROACHES IN EFFECT.\r\nSOUTH ADVISORY. NOTICE\r\nTO AIRMEN. RWY 22 CLSD.\r\nTWYS Z CLSD. NUMEROUS\r\nCRANES IN VICINITY OF\r\nAIRPORT. BIRD ACTIVITY.\r\nREAD BACK ALL ALTITUDES,\r\nHELICOPTER FREQUENCY\r\n121.275. READBACK\r\nALTITUDE. DEPARTURES\r\nTURN ON TRANSPONDERS \r\nBEFORE TAXI. READBACK\r\nALL RWY ASSIGNMENTS AND\r\nHOLD SHORT INSTRUCTIONS.\r\nDO NOT ENTER PROHIBITED\r\nAIRSPACE N OF ARPT.\r\n...ADVS YOU HAVE INFO R.E848",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "KDCA"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Departure"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "R (Romeo)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0052Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "230° @ 5 kt"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "10 SM"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Few 7,500 ft, Few 9,000 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+21°C / +11°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "29.93 inHg"
+        },
+        {
+          "type": "hazard",
+          "code": "HAZARD",
+          "label": "Wildlife Hazard",
+          "value": "BIRD ACTIVITY"
+        },
+        {
+          "type": "runway_closures",
+          "code": "RWYCLSD",
+          "label": "Runway Closures",
+          "value": "RWY 22"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "-  KDCA ATIS INFO\r\nR 0052Z. 23005KT 10SM\r\nFEW075 FEW090 21/11\r\nA2993 (TWO NINER NINER\r\nTHREE) RMK AO2 SLP134\r\nT02060106. ARRIVALS\r\nEXPECT RIVER VISUAL RWY\r\n19 RNP 19 APCH AVBL ON\r\nREQUEST. LNDG AND DEPG\r\nRWYS 19, 15. MULTIPLE\r\nAPPROACHES IN EFFECT.\r\nSOUTH ADVISORY. NOTICE\r\nTO AIRMEN. RWY 22 CLSD.\r\nTWYS Z CLSD. NUMEROUS\r\nCRANES IN VICINITY OF\r\nAIRPORT. BIRD ACTIVITY.\r\nREAD BACK ALL ALTITUDES,\r\nHELICOPTER FREQUENCY\r\n121.275. READBACK\r\nALTITUDE. DEPARTURES\r\nTURN ON TRANSPONDERS \r\nBEFORE TAXI. READBACK\r\nALL RWY ASSIGNMENTS AND\r\nHOLD SHORT INSTRUCTIONS.\r\nDO NOT ENTER PROHIBITED\r\nAIRSPACE N OF ARPT.\r\n...ADVS YOU HAVE INFO R.E848"
+        }
+      ]
+    },
+    {
+      "id": 6547956959,
+      "label": "A9",
+      "text": "ER FREQUENCY\r\n121.275. READBACK\r\nALTITUDE. DEPARTURES\r\nTURN ON TRANSPONDERS \r\nBEFORE TAXI. READBACK\r\nALL RWY ASSIGNMENTS AND\r\nHOLD SHORT INSTRUCTIONS.\r\nDO NOT ENTER PROHIBITED\r\nAIRSPACE N OF ARPT.\r\n...ADVS YOU HAVE INFO ",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "ER FREQUENCY\r\n121.275. READBACK\r\nALTITUDE. DEPARTURES\r\nTURN ON TRANSPONDERS \r\nBEFORE TAXI. READBACK\r\nALL RWY ASSIGNMENTS AND\r\nHOLD SHORT INSTRUCTIONS.\r\nDO NOT ENTER PROHIBITED\r\nAIRSPACE N OF ARPT.\r\n...ADVS YOU HAVE INFO"
+        }
+      ]
+    },
+    {
+      "id": 6547956710,
+      "label": "A9",
+      "text": "EST. LNDG AND DEPG\r\nRWYS 19, 15. MULTIPLE\r\nAPPROACHES IN EFFECT.\r\nSOUTH ADVISORY. NOTICE\r\nTO AIRMEN. RWY 22 CLSD.\r\nTWYS Z CLSD. NUMEROUS\r\nCRANES IN VICINITY OF\r\nAIRPORT. BIRD ACTIVITY.\r\nREAD BACK ALL ALTITUDES,\r\nHELICOPT",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "hazard",
+          "code": "HAZARD",
+          "label": "Wildlife Hazard",
+          "value": "BIRD ACTIVITY"
+        },
+        {
+          "type": "runway_closures",
+          "code": "RWYCLSD",
+          "label": "Runway Closures",
+          "value": "RWY 22"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EST. LNDG AND DEPG\r\nRWYS 19, 15. MULTIPLE\r\nAPPROACHES IN EFFECT.\r\nSOUTH ADVISORY. NOTICE\r\nTO AIRMEN. RWY 22 CLSD.\r\nTWYS Z CLSD. NUMEROUS\r\nCRANES IN VICINITY OF\r\nAIRPORT. BIRD ACTIVITY.\r\nREAD BACK ALL ALTITUDES,\r\nHELICOPT"
+        }
+      ]
+    },
+    {
+      "id": 6547956445,
+      "label": "A9",
+      "text": "/DATSCXS.TI2/KDCA DEP ATIS R\r\n0052Z -  KDCA ATIS INFO\r\nR 0052Z. 23005KT 10SM\r\nFEW075 FEW090 21/11\r\nA2993 (TWO NINER NINER\r\nTHREE) RMK AO2 SLP134\r\nT02060106. ARRIVALS\r\nEXPECT RIVER VISUAL RWY\r\n19 RNP 19 APCH AVBL ON\r\nREQU",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "KDCA"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Departure"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "R (Romeo)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0052Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "230° @ 5 kt"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "10 SM"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Few 7,500 ft, Few 9,000 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+21°C / +11°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "29.93 inHg"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "-  KDCA ATIS INFO\r\nR 0052Z. 23005KT 10SM\r\nFEW075 FEW090 21/11\r\nA2993 (TWO NINER NINER\r\nTHREE) RMK AO2 SLP134\r\nT02060106. ARRIVALS\r\nEXPECT RIVER VISUAL RWY\r\n19 RNP 19 APCH AVBL ON\r\nREQU"
+        }
+      ]
+    },
+    {
+      "id": 6547956211,
+      "label": "A9",
+      "text": "PECT SID EGOBA2E OSPOT2E\n\tRWY 34R EXPECT SID BOPTA2Y NOPIK2Y\n\tDEPARTURE FREQ 121.4 FOR RWY 34R AND 125.15 FOR RWY 33L\n\tGPS SIGNAL UNRELIABLE DUE TO GPS INTERFERENCE IN SEOUL APCH AREA\n\t3140",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "PECT SID EGOBA2E OSPOT2E\n\tRWY 34R EXPECT SID BOPTA2Y NOPIK2Y\n\tDEPARTURE FREQ 121.4 FOR RWY 34R AND 125.15 FOR RWY 33L\n\tGPS SIGNAL UNRELIABLE DUE TO GPS INTERFERENCE IN SEOUL APCH AREA\n\t3140"
+        }
+      ]
+    },
+    {
+      "id": 6547956206,
+      "label": "A9",
+      "text": "PECT SID EGOBA2E OSPOT2E\n\tRWY 34R EXPECT SID BOPTA2Y NOPIK2Y\n\tDEPARTURE FREQ 121.4 FOR RWY 34R AND 125.15 FOR RWY 33L\n\tGPS SIGNAL UNRELIABLE DUE TO GPS INTERFERENCE IN SEOUL APCH AREA\n\t3140",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "PECT SID EGOBA2E OSPOT2E\n\tRWY 34R EXPECT SID BOPTA2Y NOPIK2Y\n\tDEPARTURE FREQ 121.4 FOR RWY 34R AND 125.15 FOR RWY 33L\n\tGPS SIGNAL UNRELIABLE DUE TO GPS INTERFERENCE IN SEOUL APCH AREA\n\t3140"
+        }
+      ]
+    },
+    {
+      "id": 6547955783,
+      "label": "A9",
+      "text": "/DATSCXS.TI2/KEWR DEP ATIS K\r\n0051Z -  KEWR ATIS INFO K 0051Z. 10004KT 10SM FEW030 BKN110 11/06 A2998 (TWO NINER NINER EIGHT). ILS RWY 22L APCH IN USE. DEPARTING RY 22R FROM INT W 10,150 FEET TODA. USE CAUTION FOR BIRDS AND CRANES IN THE VICINITY OF EWR. READBACK ALL RUNWAY HOLD SHORT INSTRUCTIONS AND ASSIGNED ALT. ...ADVS YOU HAVE INFO K.5A4C",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "KEWR"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Departure"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "K (Kilo)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0051Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "100° @ 4 kt"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "10 SM"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Few 3,000 ft, Broken 11,000 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+11°C / +6°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "29.98 inHg"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "-  KEWR ATIS INFO K 0051Z. 10004KT 10SM FEW030 BKN110 11/06 A2998 (TWO NINER NINER EIGHT). ILS RWY 22L APCH IN USE. DEPARTING RY 22R FROM INT W 10,150 FEET TODA. USE CAUTION FOR BIRDS AND CRANES IN THE VICINITY OF EWR. READBACK ALL RUNWAY HOLD SHORT INSTRUCTIONS AND ASSIGNED ALT. ...ADVS YOU HAVE INFO K.5A4C"
+        }
+      ]
+    },
+    {
+      "id": 6547955112,
+      "label": "A9",
+      "text": "/BJSATYA.TI2/ZBAA ARR ATIS V\n\t0130Z EXP ILS APCH\n\tDEPENDENT PARL INSTR APCH \n\tLDG RWY 36L & 36R & 01\n\tWIND VRB DEG 1 MPS\n\tVIS 8000\n\tNSC\n\tT 17 /DP 08\n\tQNH 1013 HPA\n\tVISUAL APPROACH IS IN PROGRESS.\n\tADZ YOU HAVE INFO V.50C0",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "ZBAA"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "V (Victor)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "8000 m"
+        },
+        {
+          "type": "approach",
+          "code": "APCH",
+          "label": "Approach",
+          "value": "DEPENDENT PARL INSTR APCH \n\tLDG RWY 36L"
+        },
+        {
+          "type": "runways",
+          "code": "RWY",
+          "label": "Runways in Use",
+          "value": "36L"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP ILS APCH\n\tDEPENDENT PARL INSTR APCH \n\tLDG RWY 36L & 36R & 01\n\tWIND VRB DEG 1 MPS\n\tVIS 8000\n\tNSC\n\tT 17 /DP 08\n\tQNH 1013 HPA\n\tVISUAL APPROACH IS IN PROGRESS.\n\tADZ YOU HAVE INFO V.50C0"
+        }
+      ]
+    },
+    {
+      "id": 6547955109,
+      "label": "A9",
+      "text": "/BJSATYA.TI2/ZBAA ARR ATIS V\n\t0130Z EXP ILS APCH\n\tDEPENDENT PARL INSTR APCH \n\tLDG RWY 36L & 36R & 01\n\tWIND VRB DEG 1 MPS\n\tVIS 8000\n\tNSC\n\tT 17 /DP 08\n\tQNH 1013 HPA\n\tVISUAL APPROACH IS IN PROGRESS.\n\tADZ YOU HAVE INFO V.50C0",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "ZBAA"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "V (Victor)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "8000 m"
+        },
+        {
+          "type": "approach",
+          "code": "APCH",
+          "label": "Approach",
+          "value": "DEPENDENT PARL INSTR APCH \n\tLDG RWY 36L"
+        },
+        {
+          "type": "runways",
+          "code": "RWY",
+          "label": "Runways in Use",
+          "value": "36L"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP ILS APCH\n\tDEPENDENT PARL INSTR APCH \n\tLDG RWY 36L & 36R & 01\n\tWIND VRB DEG 1 MPS\n\tVIS 8000\n\tNSC\n\tT 17 /DP 08\n\tQNH 1013 HPA\n\tVISUAL APPROACH IS IN PROGRESS.\n\tADZ YOU HAVE INFO V.50C0"
+        }
+      ]
+    },
+    {
+      "id": 6547954604,
+      "label": "A9",
+      "text": "/ICNDLXA.TI2/RKSI ARR ATIS T\n\t0130Z\n\tEXP SIMUL PARALLEL ILS APCH RWY 33R AND ILS APCH RWY 34L\n\tEXP LDG RWY INFO FROM SEOUL APP\n\tWIND 050/6KT\n\tCAVOK\n\tT 17\n\tDP 4\n\tQNH 1012\n\tCAUTION BIRD ACTIVITY\n\tEXP REBIT 1Y OLMEN 1Y GUKDO 2E KARBU 2E ARRIVAL\n\tVACATE RWY33R VIA TWY ECHO NOT AVAILABLE UNLESS AUTHORIZED BY ATC PRIOR TO LANDING\n\tGPS SIGNAL UNRELIABLE DUE TO GPS INTERFERENCE IN SEOUL APCH AREA\n\tA4AB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RKSI"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "T (Tango)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "1012 m"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP SIMUL PARALLEL ILS APCH RWY 33R AND ILS APCH RWY 34L\n\tEXP LDG RWY INFO FROM SEOUL APP\n\tWIND 050/6KT\n\tCAVOK\n\tT 17\n\tDP 4\n\tQNH 1012\n\tCAUTION BIRD ACTIVITY\n\tEXP REBIT 1Y OLMEN 1Y GUKDO 2E KARBU 2E ARRIVAL\n\tVACATE RWY33R VIA TWY ECHO NOT AVAILABLE UNLESS AUTHORIZED BY ATC PRIOR TO LANDING\n\tGPS SIGNAL UNRELIABLE DUE TO GPS INTERFERENCE IN SEOUL APCH AREA\n\tA4AB"
+        }
+      ]
+    },
+    {
+      "id": 6547954596,
+      "label": "A9",
+      "text": "/ICNDLXA.TI2/RKSI ARR ATIS T\n\t0130Z\n\tEXP SIMUL PARALLEL ILS APCH RWY 33R AND ILS APCH RWY 34L\n\tEXP LDG RWY INFO FROM SEOUL APP\n\tWIND 050/6KT\n\tCAVOK\n\tT 17\n\tDP 4\n\tQNH 1012\n\tCAUTION BIRD ACTIVITY\n\tEXP REBIT 1Y OLMEN 1Y GUKDO 2E KARBU 2E ARRIVAL\n\tVACATE RWY33R VIA TWY ECHO NOT AVAILABLE UNLESS AUTHORIZED BY ATC PRIOR TO LANDING\n\tGPS SIGNAL UNRELIABLE DUE TO GPS INTERFERENCE IN SEOUL APCH AREA\n\tA4AB",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "RKSI"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "T (Tango)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "1012 m"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP SIMUL PARALLEL ILS APCH RWY 33R AND ILS APCH RWY 34L\n\tEXP LDG RWY INFO FROM SEOUL APP\n\tWIND 050/6KT\n\tCAVOK\n\tT 17\n\tDP 4\n\tQNH 1012\n\tCAUTION BIRD ACTIVITY\n\tEXP REBIT 1Y OLMEN 1Y GUKDO 2E KARBU 2E ARRIVAL\n\tVACATE RWY33R VIA TWY ECHO NOT AVAILABLE UNLESS AUTHORIZED BY ATC PRIOR TO LANDING\n\tGPS SIGNAL UNRELIABLE DUE TO GPS INTERFERENCE IN SEOUL APCH AREA\n\tA4AB"
+        }
+      ]
+    },
+    {
+      "id": 6547954509,
+      "label": "A9",
+      "text": "/BJSATYA.TI2/ZGSZ ARR ATIS H\n\t0130Z EXP ILS APCH 15\n\tEXP ILS OR VIS APCH 16R\n\tWIND 190/6MPS\n\tVIS 9999M\n\tCLD SCT 780M /BKN 1200M\n\tT 27 /DP 25\n\tQNH 1008 HPA\n\tINDEPENDENT PARALLEL DEPARTURES\n\tDEPENDENT PARALLEL APPROACHES\n\tEXPECT RNP ILS DME Z APPROACH\n\tMISSED APPROACH ALTITUDE SETTING\n\t1200METERS\n\tWHEN AIRBORNE CONTACT ZHUHAI APPROACH\n\tADZ YOU HAVE INFO H.0C68",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "ZGSZ"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "H (Hotel)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "9999 m"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP ILS APCH 15\n\tEXP ILS OR VIS APCH 16R\n\tWIND 190/6MPS\n\tVIS 9999M\n\tCLD SCT 780M /BKN 1200M\n\tT 27 /DP 25\n\tQNH 1008 HPA\n\tINDEPENDENT PARALLEL DEPARTURES\n\tDEPENDENT PARALLEL APPROACHES\n\tEXPECT RNP ILS DME Z APPROACH\n\tMISSED APPROACH ALTITUDE SETTING\n\t1200METERS\n\tWHEN AIRBORNE CONTACT ZHUHAI APPROACH\n\tADZ YOU HAVE INFO H.0C68"
+        }
+      ]
+    },
+    {
+      "id": 6547954507,
+      "label": "A9",
+      "text": "/BJSATYA.TI2/ZGSZ ARR ATIS H\n\t0130Z EXP ILS APCH 15\n\tEXP ILS OR VIS APCH 16R\n\tWIND 190/6MPS\n\tVIS 9999M\n\tCLD SCT 780M /BKN 1200M\n\tT 27 /DP 25\n\tQNH 1008 HPA\n\tINDEPENDENT PARALLEL DEPARTURES\n\tDEPENDENT PARALLEL APPROACHES\n\tEXPECT RNP ILS DME Z APPROACH\n\tMISSED APPROACH ALTITUDE SETTING\n\t1200METERS\n\tWHEN AIRBORNE CONTACT ZHUHAI APPROACH\n\tADZ YOU HAVE INFO H.0C68",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "ZGSZ"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "H (Hotel)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0130Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "9999 m"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EXP ILS APCH 15\n\tEXP ILS OR VIS APCH 16R\n\tWIND 190/6MPS\n\tVIS 9999M\n\tCLD SCT 780M /BKN 1200M\n\tT 27 /DP 25\n\tQNH 1008 HPA\n\tINDEPENDENT PARALLEL DEPARTURES\n\tDEPENDENT PARALLEL APPROACHES\n\tEXPECT RNP ILS DME Z APPROACH\n\tMISSED APPROACH ALTITUDE SETTING\n\t1200METERS\n\tWHEN AIRBORNE CONTACT ZHUHAI APPROACH\n\tADZ YOU HAVE INFO H.0C68"
+        }
+      ]
+    },
+    {
+      "id": 6547953827,
+      "label": "A9",
+      "text": "/RIOCDYA.TI2/SBGR ARR ATIS B\n\t0107Z ATIS B\n\tEXP ILS W CAT I RWY 10L/ LDG 10L DEP 10L IN USE\n\tTWY BB CLSD DUE TO WORKS\n\tRWY 10R CLSD DUE TO WORKS\n\tWIND 170 04 KT \n\tVIS 10 KM OR MORE\n\tOVC 1400 FT \n\tT 20 / DP 17\n\tQNH 1021 HPA\n\tCLR DELIVERY 1 2 1 DECIMAL 0\n\tTOWER FREQ 1 3 5 DECIMAL 2 \n\tEND OF ATIS B\n\t\n\t6D69",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "SBGR"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Arrival"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "B (Bravo)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0107Z"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "1400 m"
+        },
+        {
+          "type": "runway_closures",
+          "code": "RWYCLSD",
+          "label": "Runway Closures",
+          "value": "RWY 10R"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "ATIS B\n\tEXP ILS W CAT I RWY 10L/ LDG 10L DEP 10L IN USE\n\tTWY BB CLSD DUE TO WORKS\n\tRWY 10R CLSD DUE TO WORKS\n\tWIND 170 04 KT \n\tVIS 10 KM OR MORE\n\tOVC 1400 FT \n\tT 20 / DP 17\n\tQNH 1021 HPA\n\tCLR DELIVERY 1 2 1 DECIMAL 0\n\tTOWER FREQ 1 3 5 DECIMAL 2 \n\tEND OF ATIS B\n\t\n\t6D69"
+        }
+      ]
+    },
+    {
+      "id": 6547953720,
+      "label": "A9",
+      "text": "/ATSG7XA.TI2/KEWR DEP ATIS K\r\n0051Z EWR ATIS INFO K 0051Z.\r\n10004KT 10SM FEW030\r\nBKN110 11/06 A2998 (TWO\r\nNINER NINER EIGHT). ILS\r\nRWY 22L APCH IN USE.\r\nDEPARTING RY 22R FROM\r\nINT W 10,150 FEET TODA.\r\nUSE CAUTION FOR BIRDS\r\nAND CRANES IN THE\r\nVICINITY OF EWR.\r\nREADBACK ALL RUNWAY HOLD\r\nSHORT INSTRUCTIONS AND\r\nASSIGNED ALT. ...ADVS\r\nYOU HAVE INFO K.737E\r\n",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Deliver ATIS Information (D-ATIS uplink)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "D-ATIS (Deliver ATIS Information) — ground-to-air uplink"
+        },
+        {
+          "type": "icao",
+          "code": "ATIS_ARPT",
+          "label": "Airport",
+          "value": "KEWR"
+        },
+        {
+          "type": "atis_type",
+          "code": "ATIS_TYPE",
+          "label": "ATIS Type",
+          "value": "Departure"
+        },
+        {
+          "type": "atis_letter",
+          "code": "ATIS_LETTER",
+          "label": "Info ID",
+          "value": "K (Kilo)"
+        },
+        {
+          "type": "time",
+          "code": "ATIS_TIME",
+          "label": "Valid Time",
+          "value": "0051Z"
+        },
+        {
+          "type": "wind",
+          "code": "WIND",
+          "label": "Wind",
+          "value": "100° @ 4 kt"
+        },
+        {
+          "type": "visibility",
+          "code": "VIS",
+          "label": "Visibility",
+          "value": "10 SM"
+        },
+        {
+          "type": "sky",
+          "code": "SKY",
+          "label": "Sky",
+          "value": "Few 3,000 ft, Broken 11,000 ft"
+        },
+        {
+          "type": "temp_dew",
+          "code": "TMP/DEW",
+          "label": "Temp / Dew",
+          "value": "+11°C / +6°C"
+        },
+        {
+          "type": "altimeter",
+          "code": "ALTIM",
+          "label": "Altimeter",
+          "value": "29.98 inHg"
+        },
+        {
+          "type": "atis_text",
+          "code": "ATIS_BODY",
+          "label": "ATIS Text",
+          "value": "EWR ATIS INFO K 0051Z.\r\n10004KT 10SM FEW030\r\nBKN110 11/06 A2998 (TWO\r\nNINER NINER EIGHT). ILS\r\nRWY 22L APCH IN USE.\r\nDEPARTING RY 22R FROM\r\nINT W 10,150 FEET TODA.\r\nUSE CAUTION FOR BIRDS\r\nAND CRANES IN THE\r\nVICINITY OF EWR.\r\nREADBACK ALL RUNWAY HOLD\r\nSHORT INSTRUCTIONS AND\r\nASSIGNED ALT. ...ADVS\r\nYOU HAVE INFO K.737E"
+        }
+      ]
+    }
+  ]
+}

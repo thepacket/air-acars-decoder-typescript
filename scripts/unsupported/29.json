@@ -1,0 +1,97 @@
+{
+  "count": 15,
+  "entries": [
+    {
+      "id": 6548594347,
+      "label": "29",
+      "text": "INIT MSG \r\nWRONG INIT. FOR ASSISTANCE CALL SLOTDESK\r\r\n"
+    },
+    {
+      "id": 6548595482,
+      "label": "29",
+      "text": "INIT MSG \r\nSWR8CH/LX814\r\nSTD 0535\r\nCDM AIRPORT\r\nTOBT 0535\r\n\r\nNO CTOT\r\n\r\n\r\nACK FPL RTE N0422F380 DEGES Z1 BODAN/N0422F380 Z1 ETAGO DCT HAREM DCT\r\nLOHRE/N0402F340 DCT MASEK/N0359F240 Z99 ELNAT P605 WERRA WERRA1X\r\nACK FPL R"
+    },
+    {
+      "id": 6548595593,
+      "label": "29",
+      "text": "INIT MSG \r\nSWR8CH/LX814\r\nSTD 0535\r\nCDM AIRPORT\r\nTOBT 0535\r\n\r\nNO CTOT\r\n\r\n\r\nACK FPL RTE N0422F380 DEGES Z1 BODAN/N0422F380 Z1 ETAGO DCT HAREM DCT\r\nLOHRE/N0402F340 DCT MASEK/N0359F240 Z99 ELNAT P605 WERRA WERRA1X\r\nACK FPL REG HBJCR\r\n\r\r\n"
+    },
+    {
+      "id": 6548598784,
+      "label": "29",
+      "text": "INIT MSG \r\nSWR42B/LX562\r\nSTD 0525\r\nCDM AIRPORT\r\n\r\nCTOT 0558\r\nRESTR ATC CAPACITY ARRIVAL 83 LFMNA23E\r\nTTO OTOKE -TO 0644 -FL 176\r\n\r\nACK FPL RTE N0395F310 VEBIT T50 ROTOS Z669 ULMES DCT VADAR DCT\r\nGEVEA DCT KOGAS DCT MEDAM"
+    },
+    {
+      "id": 6548598813,
+      "label": "29",
+      "text": "INIT MSG \r\nSWR42B/LX562\r\nSTD 0525\r\nCDM AIRPORT\r\n\r\nCTOT 0558\r\nRESTR ATC CAPACITY ARRIVAL 83 LFMNA23E\r\nTTO OTOKE -TO 0644 -FL 176\r\n\r\nACK FPL RTE N0395F310 VEBIT T50 ROTOS Z669 ULMES DCT VADAR DCT\r\nGEVEA DCT KOGAS DCT MEDAM/N0387F290 DCT VEVAR VEVAR8R\r\nACK FPL REG HBJLR\r\n\r\r\n"
+    },
+    {
+      "id": 6548599319,
+      "label": "29",
+      "text": "SWR756C / LX 786   \r\n\r\nCTOT 0555\r\n\r\nRESTR ATC EQUIPMENT EBBRA23M\r\nBATTY -TO 0636 -FL 195\r\n\r\n"
+    },
+    {
+      "id": 6548604956,
+      "label": "29",
+      "text": "1912"
+    },
+    {
+      "id": 6548612600,
+      "label": "29",
+      "text": "LX 316 ETD 0510 IR63\r\n"
+    },
+    {
+      "id": 6548693119,
+      "label": "29",
+      "text": "LX 632 ETD 0530 IR85\r\n"
+    },
+    {
+      "id": 6548701101,
+      "label": "29",
+      "text": "LX 1726 ETD 0530 IR91\r\n"
+    },
+    {
+      "id": 6548706201,
+      "label": "29",
+      "text": "SWR42B / LX 562   \r\n\r\nCTOT 0556\r\n\r\nRESTR ATC CAPACITY LFMNA23E\r\n\r\n"
+    },
+    {
+      "id": 6548717875,
+      "label": "29",
+      "text": "LX 562 ETD 0530 IR08\r\n"
+    },
+    {
+      "id": 6548817547,
+      "label": "29",
+      "text": "INIT MSG \r\nSWR1DL/LX1612\r\nSTD 0655\r\nCDM AIRPORT\r\n\r\nNO CTOT\r\n\r\n\r\nACK FPL RTE N0476F240 VEBIT T53 GERSA/N0477F230 DCT SOSON DCT DEGAD DCT BASGO\r\nZ424 AKASU/N0456F190 Z424 RIXUV RIXUV3E\r\nACK FPL REG HBJDI\r\n\r\r\n"
+    },
+    {
+      "id": 6548838105,
+      "label": "29",
+      "text": "INIT MSG \r\nSWR5CV/LX750\r\nSTD 0630\r\nCDM AIRPORT\r\n\r\nCTOT 0645\r\nRESTR ATC CAPACITY ENROUTE 81 ELTMA23M\r\nTTO BREDI -TO 0720 -FL 60\r\n\r\nACK FPL RTE N0360F280 VEBIT T10 TORPA DCT EDOPI/N0341F240 DCT GIVOR GIVOR2B\r\nACK FPL REG H"
+    },
+    {
+      "id": 6548838235,
+      "label": "29",
+      "text": "INIT MSG \r\nSWR5CV/LX750\r\nSTD 0630\r\nCDM AIRPORT\r\n\r\nCTOT 0645\r\nRESTR ATC CAPACITY ENROUTE 81 ELTMA23M\r\nTTO BREDI -TO 0720 -FL 60\r\n\r\nACK FPL RTE N0360F280 VEBIT T10 TORPA DCT EDOPI/N0341F240 DCT GIVOR GIVOR2B\r\nACK FPL REG HBJCO\r\n\r\r\n"
+    }
+  ],
+  "ids": {
+    "6548594347": 1,
+    "6548595482": 1,
+    "6548595593": 1,
+    "6548598784": 1,
+    "6548598813": 1,
+    "6548599319": 1,
+    "6548604956": 1,
+    "6548612600": 1,
+    "6548693119": 1,
+    "6548701101": 1,
+    "6548706201": 1,
+    "6548717875": 1,
+    "6548817547": 1,
+    "6548838105": 1,
+    "6548838235": 1
+  }
+}

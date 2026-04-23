@@ -1,0 +1,1917 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547236341,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0811/22.VHVWX.SYD\r\nAA2222     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0811"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVWX"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:22:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "22:22"
+        }
+      ]
+    },
+    {
+      "id": 6547236329,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0811/22.VHVWX.SYD\r\nAA2222     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0811"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVWX"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:22:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "22:22"
+        }
+      ]
+    },
+    {
+      "id": 6547232012,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0510/22.VHVGN.SYD\r\nAA2212/2220\r\nSI FB  26",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0510"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVGN"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:12:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "22:12"
+        },
+        {
+          "type": "actual_on_blocks",
+          "code": "AAB",
+          "label": "Actual On Blocks (UTC)",
+          "value": "22:20"
+        },
+        {
+          "type": "supplementary",
+          "code": "SI",
+          "label": "Supplementary Info",
+          "value": "FB (Fuel on Board): 26"
+        }
+      ]
+    },
+    {
+      "id": 6547232010,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0510/22.VHVGN.SYD\r\nAA2212/2220\r\nSI FB  26",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0510"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVGN"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:12:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "22:12"
+        },
+        {
+          "type": "actual_on_blocks",
+          "code": "AAB",
+          "label": "Actual On Blocks (UTC)",
+          "value": "22:20"
+        },
+        {
+          "type": "supplementary",
+          "code": "SI",
+          "label": "Supplementary Info",
+          "value": "FB (Fuel on Board): 26"
+        }
+      ]
+    },
+    {
+      "id": 6547288454,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0561/22.VHVQC.MEL\r\nAA2235     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0561"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVQC"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "MEL"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:35:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "MEL"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "22:35"
+        }
+      ]
+    },
+    {
+      "id": 6547316423,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0561/22.VHVQC.MEL\r\nAA2235/2241\r\nSI FB  31",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0561"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVQC"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "MEL"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:35:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "MEL"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "22:35"
+        },
+        {
+          "type": "actual_on_blocks",
+          "code": "AAB",
+          "label": "Actual On Blocks (UTC)",
+          "value": "22:41"
+        },
+        {
+          "type": "supplementary",
+          "code": "SI",
+          "label": "Supplementary Info",
+          "value": "FB (Fuel on Board): 31"
+        }
+      ]
+    },
+    {
+      "id": 6547327621,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0771/22.VHX3D.MEL\r\nAA2245     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0771"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHX3D"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "MEL"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:45:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "MEL"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "22:45"
+        }
+      ]
+    },
+    {
+      "id": 6547319492,
+      "label": "81",
+      "text": "THANKS\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547318381,
+      "label": "81",
+      "text": "DISPCOPY/JROD",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547318380,
+      "label": "81",
+      "text": "DISPCOPY/JROD",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547962991,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0606/23.VHXNJ.SYD\r\nAA0132/0137\r\nSI FB  24",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0606"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHXNJ"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:32:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "01:32"
+        },
+        {
+          "type": "actual_on_blocks",
+          "code": "AAB",
+          "label": "Actual On Blocks (UTC)",
+          "value": "01:37"
+        },
+        {
+          "type": "supplementary",
+          "code": "SI",
+          "label": "Supplementary Info",
+          "value": "FB (Fuel on Board): 24"
+        }
+      ]
+    },
+    {
+      "id": 6547962989,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0606/23.VHXNJ.SYD\r\nAA0132/0137\r\nSI FB  24",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0606"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHXNJ"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:32:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "01:32"
+        },
+        {
+          "type": "actual_on_blocks",
+          "code": "AAB",
+          "label": "Actual On Blocks (UTC)",
+          "value": "01:37"
+        },
+        {
+          "type": "supplementary",
+          "code": "SI",
+          "label": "Supplementary Info",
+          "value": "FB (Fuel on Board): 24"
+        }
+      ]
+    },
+    {
+      "id": 6547962411,
+      "label": "81",
+      "text": "25,CMB529,KHIF,CYQX,22,BREAKING ACTION AT,GANDER 1/1/1,,,,,,,,,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547962410,
+      "label": "81",
+      "text": "25,CMB529,KHIF,CYQX,22,BREAKING ACTION AT,GANDER 1/1/1,,,,,,,,,,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547958030,
+      "label": "81",
+      "text": "DISPWE WILL NEED EMT AT GATEGIVING OXYGEN NOW",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547954962,
+      "label": "81",
+      "text": "030/090 IAO LGT/LGTP.\r\n270/290 INC LGT.\r\n310 MYOGI INC ALMOST SMT\r\nH.\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547951016,
+      "label": "81",
+      "text": "DISP35YO FEMALE 22DFAITED IN AISLEAWAKE NOWTAKES CANER MEDSSTARTING STAT MD PATCHWAITING ON MORE INFO NOW",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547943758,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0606/23.VHXNJ.SYD\r\nAA0132     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0606"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHXNJ"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:32:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "01:32"
+        }
+      ]
+    },
+    {
+      "id": 6547943755,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0606/23.VHXNJ.SYD\r\nAA0132     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0606"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHXNJ"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:32:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "01:32"
+        }
+      ]
+    },
+    {
+      "id": 6547937753,
+      "label": "81",
+      "text": "\r\nMVA\r\nQFA0516/22.VHEBJ.YBBN\r\nAA0131     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "QFA0516"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHEBJ"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "YBBN"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:31:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "QFA"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "22"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "YBBN"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "01:31"
+        }
+      ]
+    },
+    {
+      "id": 6547937013,
+      "label": "81",
+      "text": "DISPRSV 2 HOUR CALLOUT1 HOUR BRIEF",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547937012,
+      "label": "81",
+      "text": "DISPRSV 2 HOUR CALLOUT1 HOUR BRIEF",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547937011,
+      "label": "81",
+      "text": "DISPRSV 2 HOUR CALLOUT1 HOUR BRIEF",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547937008,
+      "label": "81",
+      "text": "DISPRSV 2 HOUR CALLOUT1 HOUR BRIEF",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547937006,
+      "label": "81",
+      "text": "DISPRSV 2 HOUR CALLOUT1 HOUR BRIEF",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547936656,
+      "label": "81",
+      "text": "BLW 120 IAO LGT 270/290\r\nCLR LGT 390 NON STD PANS\r\nY40N CLR SMTH\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547982684,
+      "label": "81",
+      "text": "KMCI,KMCO,THANKS\r\nI THINK WE HAVE 30MINS O\r\nR SUMMIN\r\n\r\n\r\n\r\n\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547976990,
+      "label": "81",
+      "text": "DISPNOT YET",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547973776,
+      "label": "81",
+      "text": "MSG RCVD,KEEP MONITOR",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547972718,
+      "label": "81",
+      "text": "DISPTHINGS RAN SO MUCHSMOOTHER WHEN BARRYWAS HEREBRING BARRY BACK",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6547970201,
+      "label": "81",
+      "text": "DISPTNEYRE KEEPING US FL320",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6548002646,
+      "label": "81",
+      "text": "TO HND\r\nCLB SAME\r\n360 INC I-\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6548022606,
+      "label": "81",
+      "text": "/DISPATCH/YES/MERHABA\r\nROTAMIZ\r\nETILO 5920N 5830N\r\n5740N 5550N MELDI\r\nSEKLINDE DEGISTI\r\nPLANIMIZI GUNCELLEYEBILR\r\nMISINIZ\r\nTESEKKURLER\r\n\r\n\r\n\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6548040266,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST1607/23.VHVQQ.PER\r\nAA0201     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST1607"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVQQ"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "PER"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:01:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "PER"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "02:01"
+        }
+      ]
+    },
+    {
+      "id": 6548060882,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST1607/23.VHVQQ.PER\r\nAA0201/0204\r\nSI FB  36",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST1607"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVQQ"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "PER"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:01:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "PER"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "02:01"
+        },
+        {
+          "type": "actual_on_blocks",
+          "code": "AAB",
+          "label": "Actual On Blocks (UTC)",
+          "value": "02:04"
+        },
+        {
+          "type": "supplementary",
+          "code": "SI",
+          "label": "Supplementary Info",
+          "value": "FB (Fuel on Board): 36"
+        }
+      ]
+    },
+    {
+      "id": 6548060811,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST2931/23.VHUVT.PER\r\nAA0158/0204\r\nSI FB  32",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST2931"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHUVT"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "PER"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:58:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "PER"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "01:58"
+        },
+        {
+          "type": "actual_on_blocks",
+          "code": "AAB",
+          "label": "Actual On Blocks (UTC)",
+          "value": "02:04"
+        },
+        {
+          "type": "supplementary",
+          "code": "SI",
+          "label": "Supplementary Info",
+          "value": "FB (Fuel on Board): 32"
+        }
+      ]
+    },
+    {
+      "id": 6548069179,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0407/23.VHVFI.SYD\r\nAA0209     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0407"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVFI"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:09:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "02:09"
+        }
+      ]
+    },
+    {
+      "id": 6548069177,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0407/23.VHVFI.SYD\r\nAA0209     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0407"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVFI"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:09:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "02:09"
+        }
+      ]
+    },
+    {
+      "id": 6548103639,
+      "label": "81",
+      "text": "FREE\r\nEST RDP 0337ZFOB NOW 26.7TFL 400EFOB 20.5T AT RDPFL 390 AFT RDPETA D\r\nEST 0612ZREQ RD INFO",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6548123145,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0654/23.VHA5E.CBR\r\nAA0218/0224\r\nSI FB  36",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0654"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHA5E"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "CBR"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:18:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "CBR"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "02:18"
+        },
+        {
+          "type": "actual_on_blocks",
+          "code": "AAB",
+          "label": "Actual On Blocks (UTC)",
+          "value": "02:24"
+        },
+        {
+          "type": "supplementary",
+          "code": "SI",
+          "label": "Supplementary Info",
+          "value": "FB (Fuel on Board): 36"
+        }
+      ]
+    },
+    {
+      "id": 6548129222,
+      "label": "81",
+      "text": "FREE\r\nREVD RD INFO AND ACPT ITFLY TO DEST LPPT",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6548145194,
+      "label": "81",
+      "text": "MSF46M23023300KLM100  CYYZEHAM\r\nPWR OUTLET\r\nDANK VOOR DE INFO.\r\nWE GAAN HET PROBEREN.\r\nGRTZ JERRY/MARNIX\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6548199730,
+      "label": "81",
+      "text": "GRACIAS\r\nSALUDOS\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6548217919,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0734/23.VHVGH.MEL\r\nAA0247/0252\r\nSI FB  29",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0734"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVGH"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "MEL"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:47:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "MEL"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "02:47"
+        },
+        {
+          "type": "actual_on_blocks",
+          "code": "AAB",
+          "label": "Actual On Blocks (UTC)",
+          "value": "02:52"
+        },
+        {
+          "type": "supplementary",
+          "code": "SI",
+          "label": "Supplementary Info",
+          "value": "FB (Fuel on Board): 29"
+        }
+      ]
+    },
+    {
+      "id": 6548226304,
+      "label": "81",
+      "text": "THANK.YOU\r\n",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6548234758,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0534/23.VHVGN.SYD\r\nAA0259     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0534"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVGN"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:59:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "02:59"
+        }
+      ]
+    },
+    {
+      "id": 6548234756,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0534/23.VHVGN.SYD\r\nAA0259     ",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0534"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVGN"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:59:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "02:59"
+        }
+      ]
+    },
+    {
+      "id": 6548255009,
+      "label": "81",
+      "text": "DISPYOU WILL NEVER BELIEVEIT BUT WE TOOKOFF",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6548254998,
+      "label": "81",
+      "text": "DISPYOU WILL NEVER BELIEVEIT BUT WE TOOKOFF",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": []
+    },
+    {
+      "id": 6548254848,
+      "label": "81",
+      "text": "\r\nMVA\r\nJST0951/23.VHVWU.SYD\r\nAA0254/0302\r\nSI FB  38",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "Aircraft-Initiated Movement Message (MVA)",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "Aircraft-Initiated Movement Message (MVA)"
+        },
+        {
+          "type": "mva_type",
+          "code": "MVATYPE",
+          "label": "MVA/MVT Indicator",
+          "value": "MVA"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "JST0951"
+        },
+        {
+          "type": "tail",
+          "code": "TAIL",
+          "label": "Tail",
+          "value": "VHVWU"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "SYD"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:54:00"
+        },
+        {
+          "type": "carrier",
+          "code": "CARRIER",
+          "label": "Carrier Code",
+          "value": "JST"
+        },
+        {
+          "type": "day",
+          "code": "DAY",
+          "label": "Day of Month",
+          "value": "23"
+        },
+        {
+          "type": "airport",
+          "code": "APT",
+          "label": "Airport of Movement",
+          "value": "SYD"
+        },
+        {
+          "type": "actual_touchdown",
+          "code": "AAT",
+          "label": "Actual Touchdown (UTC)",
+          "value": "02:54"
+        },
+        {
+          "type": "actual_on_blocks",
+          "code": "AAB",
+          "label": "Actual On Blocks (UTC)",
+          "value": "03:02"
+        },
+        {
+          "type": "supplementary",
+          "code": "SI",
+          "label": "Supplementary Info",
+          "value": "FB (Fuel on Board): 38"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1533 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": 6547246186,
+      "label": "18",
+      "text": "POX,CZ0321,22APR26,222444,ZGGG,YMML,S36.278,E144.651,236,149,0.587,-160,-172.7,022,-028,2249,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CZ0321"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:24:44"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZGGG"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "YMML"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22 (22APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:24:44"
+        }
+      ]
+    },
+    {
+      "id": 6547276264,
+      "label": "18",
+      "text": "POX,CSN5217   ,22APR26,223158,PANC,KLAX,N061.17,E-150.03,003, 492,283,-107.4,-113.2,001,  5.0,030458, 30240,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN5217"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:31:58"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "PANC"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLAX"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22 (22APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:31:58"
+        }
+      ]
+    },
+    {
+      "id": 6547314459,
+      "label": "18",
+      "text": "POX,CSN438    ,22APR26,224224,KORD,ZSPD,N042.24,E0-87.89,072, 981,432, -19.4, -26.2,009, 10.8,122024, 32640,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN438"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:42:24"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KORD"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZSPD"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22 (22APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:42:24"
+        }
+      ]
+    },
+    {
+      "id": 6547314455,
+      "label": "18",
+      "text": "POX,CSN438    ,22APR26,224224,KORD,ZSPD,N042.24,E0-87.89,072, 981,432, -19.4, -26.2,009, 10.8,122024, 32640,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN438"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:42:24"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "KORD"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZSPD"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22 (22APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:42:24"
+        }
+      ]
+    },
+    {
+      "id": 6547329694,
+      "label": "18",
+      "text": "N40 00.3 W085 04.6,25996,224617,0065",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547325524,
+      "label": "18",
+      "text": "POX,CSN5217   ,22APR26,224458,PANC,KLAX,N060.35,E-148.60,271, 455,772, 114.6,-117.1,027,-42.2,030558, 30360,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN5217"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:44:58"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "PANC"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLAX"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22 (22APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:44:58"
+        }
+      ]
+    },
+    {
+      "id": 6547325523,
+      "label": "18",
+      "text": "POX,CSN5217   ,22APR26,224458,PANC,KLAX,N060.35,E-148.60,271, 455,772, 114.6,-117.1,027,-42.2,030558, 30360,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN5217"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:44:58"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "PANC"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLAX"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22 (22APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:44:58"
+        }
+      ]
+    },
+    {
+      "id": 6547325475,
+      "label": "18",
+      "text": "224513,C-GKXQ/PD0763,N2114.53 W08647.56,108847,12764, 68,043001",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547324406,
+      "label": "18",
+      "text": "POX,CSN5217   ,22APR26,224458,PANC,KLAX,N060.35,E-148.60,271, 455,772, 114.6,-117.1,027,-42.2,030558, 30360,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN5217"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:44:58"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "PANC"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLAX"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22 (22APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:44:58"
+        }
+      ]
+    },
+    {
+      "id": 6547324404,
+      "label": "18",
+      "text": "POX,CSN5217   ,22APR26,224458,PANC,KLAX,N060.35,E-148.60,271, 455,772, 114.6,-117.1,027,-42.2,030558, 30360,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN5217"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "22:44:58"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "PANC"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLAX"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-22 (22APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "22:44:58"
+        }
+      ]
+    },
+    {
+      "id": 6547965776,
+      "label": "18",
+      "text": "013929,C-GKYV/PD0277,N5002.35 W09430.23,119820,12813,379,266073",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547963449,
+      "label": "18",
+      "text": "POX,CSN3093,23APR26,013844,ZHHH,RCKH,N 24461241,E120975012,30000,14440,732,------,25961,  54,- 30,0204,----,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN3093"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:38:44"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZHHH"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RCKH"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:38:44"
+        }
+      ]
+    },
+    {
+      "id": 6547963442,
+      "label": "18",
+      "text": "POX,CSN3093,23APR26,013844,ZHHH,RCKH,N 24461241,E120975012,30000,14440,732,------,25961,  54,- 30,0204,----,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN3093"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:38:44"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZHHH"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RCKH"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:38:44"
+        }
+      ]
+    },
+    {
+      "id": 6547963433,
+      "label": "18",
+      "text": "POX,CSN3093,23APR26,013844,ZHHH,RCKH,N 24461241,E120975012,30000,14440,732,------,25961,  54,- 30,0204,----,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN3093"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:38:44"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZHHH"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RCKH"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:38:44"
+        }
+      ]
+    },
+    {
+      "id": 6547957606,
+      "label": "18",
+      "text": "013705,C-GZQW/PD0308,N4915.30 W10051.94,120659,12697,370,208060",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547954513,
+      "label": "18",
+      "text": "(2BBLH\n\t/2306 5000 TSRA BKN015 FEW018CB)04)06PIREP: UNAVAILABLE FOR NFNA))05NOTAM: FOR NOTAMS SEND TEXT MESSAGE WITH ADDRESS NOTAM KXXX WHERE KXXX IS AIRPORT IDENT)(Z",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547954512,
+      "label": "18",
+      "text": "(2BBLH\n\t/2306 5000 TSRA BKN015 FEW018CB)04)06PIREP: UNAVAILABLE FOR NFNA))05NOTAM: FOR NOTAMS SEND TEXT MESSAGE WITH ADDRESS NOTAM KXXX WHERE KXXX IS AIRPORT IDENT)(Z",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547954062,
+      "label": "18",
+      "text": "(2ABLH\n\t6423APR26)\n\t01NFFN)\n\t02METAR: NFFN 230100Z 18007KT 9999 -SHRA SCT028TCU SCT048 OVC110)0225/23 Q1014 TEMPO FM0200 3000 TSRA FEW018CB)02)04TAF: NFFN 222322Z 2300/2324 32010KT 9999 -SHRA SCT025 SCT045)04BKN100)04PROB40 TEMPO 2302/2308 3000 TSRA BKN016 FEW018CB)04BECMG 2304/2306 12006KT)04BECMG 2322/2324 30010KT)04)06PIREP: UNAVAILABLE FOR NFFN))05NOTAM: FOR NOTAMS SEND TEXT MESSAGE WITH ADDRESS NOTAM KXXX WHERE KXXX IS AIRPORT IDENT)\n\t01NFNA)\n\t02METAR: NFNA 230100Z 14007KT 9999 BKN020 BKN045 28/24 Q1013)02)04TAF: NFNA 222318Z 2300/2324 10010KT 9999 -SHRA SCT018 BKN045)04BKN100)04PROB40 TEMPO 2302(Z",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547954060,
+      "label": "18",
+      "text": "(2ABLH\n\t6423APR26)\n\t01NFFN)\n\t02METAR: NFFN 230100Z 18007KT 9999 -SHRA SCT028TCU SCT048 OVC110)0225/23 Q1014 TEMPO FM0200 3000 TSRA FEW018CB)02)04TAF: NFFN 222322Z 2300/2324 32010KT 9999 -SHRA SCT025 SCT045)04BKN100)04PROB40 TEMPO 2302/2308 3000 TSRA BKN016 FEW018CB)04BECMG 2304/2306 12006KT)04BECMG 2322/2324 30010KT)04)06PIREP: UNAVAILABLE FOR NFFN))05NOTAM: FOR NOTAMS SEND TEXT MESSAGE WITH ADDRESS NOTAM KXXX WHERE KXXX IS AIRPORT IDENT)\n\t01NFNA)\n\t02METAR: NFNA 230100Z 14007KT 9999 BKN020 BKN045 28/24 Q1013)02)04TAF: NFNA 222318Z 2300/2324 10010KT 9999 -SHRA SCT018 BKN045)04BKN100)04PROB40 TEMPO 2302(Z",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547947055,
+      "label": "18",
+      "text": "(2/KJA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547947054,
+      "label": "18",
+      "text": "(2/KJA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547947052,
+      "label": "18",
+      "text": "(2/KJA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547947051,
+      "label": "18",
+      "text": "(2/KJA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547947047,
+      "label": "18",
+      "text": "(2/KJA",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547944804,
+      "label": "18",
+      "text": "M50ACZ0305POX,CZ0305,23APR26,013310,ZGGG,NZAA,S29.089,E161.048,370,234,0.838,0121,-078.6,078,-053,0320,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547943075,
+      "label": "18",
+      "text": "POX,CSG2518   ,23APR26,013250,EGPK,ZGGG,N060.73,E0014.05,370, 694,832,  62.7,  -8.1,057,-59.0,111350, 33840,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSG2518"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:32:50"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "EGPK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZGGG"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:32:50"
+        }
+      ]
+    },
+    {
+      "id": 6547943066,
+      "label": "18",
+      "text": "POX,CSG2518   ,23APR26,013250,EGPK,ZGGG,N060.73,E0014.05,370, 694,832,  62.7,  -8.1,057,-59.0,111350, 33840,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSG2518"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:32:50"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "EGPK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZGGG"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:32:50"
+        }
+      ]
+    },
+    {
+      "id": 6547941333,
+      "label": "18",
+      "text": "QUCANXMCZ~PTIX60000",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547940142,
+      "label": "18",
+      "text": "QUCANXMCZ~PDOX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547977347,
+      "label": "18",
+      "text": "M80ACZ0346POX,CZ0346,16APR26,014228,EHAM,ZBAD,N56.090,E085.140,390,245,0.840,0112,-071.8,045,-057,0507,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6547976039,
+      "label": "18",
+      "text": "M79ACZ0346POX,CZ0346,16APR26,014129,EHAM,ZBAD,N56.163,E084.909,390,246,0.844,0112,-075.2,045,-057,0507,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6548000910,
+      "label": "18",
+      "text": "POX,CSN623,23APR26,014930,ZYCC,RJAA,N 38271243,E140601353,32003,1464\r\n0,760, 15074,25503, 107,- 42,0236,----,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN623"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:49:30"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZYCC"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RJAA"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:49:30"
+        }
+      ]
+    },
+    {
+      "id": 6548008255,
+      "label": "18",
+      "text": "POX,CSN3093,23APR26,015145,ZHHH,RCKH,N 23260199,E120199787,10000,13920,575,------,27441,  26,   2,0204,----,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN3093"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:51:45"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZHHH"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RCKH"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:51:45"
+        }
+      ]
+    },
+    {
+      "id": 6548021178,
+      "label": "18",
+      "text": "POX,CSN327    ,23APR26,015540,ZGGG,KLAX,N037.56,E-122.05,350, 183,828, 134.0, -83.8,090,-54.6,024340, 29480,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN327"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "01:55:40"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZGGG"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLAX"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "01:55:40"
+        }
+      ]
+    },
+    {
+      "id": 6548025604,
+      "label": "18",
+      "text": "M37ATG0659N 29.327,E124.667,43003, 24.2,432",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6548036052,
+      "label": "18",
+      "text": "M98ACZ0346POX,CZ0346,16APR26,015840,EHAM,ZBAD,N54.825,E088.710,390,232,0.838,0118,-057.9,053,-056,0507,",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6548047609,
+      "label": "18",
+      "text": "QUCANXMCZ~PDOX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6548047603,
+      "label": "18",
+      "text": "QUCANXMCZ~PDOX",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6548047527,
+      "label": "18",
+      "text": "M36ATG0671N 41.766,E140.908,28118,038.4,390.3",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6548060857,
+      "label": "18",
+      "text": "POX,CSN6753,23APR26,020706,ZJSY,ZSPD,N 24123850,E117650214,33140,194\r\n80,761,  5346,26173,  61,- 38,0321,----,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN6753"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:07:06"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZJSY"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZSPD"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "02:07:06"
+        }
+      ]
+    },
+    {
+      "id": 6548072548,
+      "label": "18",
+      "text": "POX,CSN3727,23APR26,021037,ZGGG,ZSYW,N 24060493,E117453617,29100,13600,536,-10137,31773, 198,- 28,0309,----,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN3727"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:10:37"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZGGG"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZSYW"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "02:10:37"
+        }
+      ]
+    },
+    {
+      "id": 6548076668,
+      "label": "18",
+      "text": "POX,CSN3087,23APR26,021148,ZGSZ,RCTP,N 23037332,E119358285,27000,34160,745,  5737,25750,  35,- 23,0245,----,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN3087"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:11:48"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZGSZ"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RCTP"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "02:11:48"
+        }
+      ]
+    },
+    {
+      "id": 6548080238,
+      "label": "18",
+      "text": "POX,CSN5217   ,23APR26,021258,PANC,KLAX,N037.58,E-122.54,309, 174,814, 147.4, -80.7,086,-44.6,030858, 28280,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN5217"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:12:58"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "PANC"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "KLAX"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "02:12:58"
+        }
+      ]
+    },
+    {
+      "id": 6548088607,
+      "label": "18",
+      "text": "POX,CSN623,23APR26,021536,ZYCC,RJAA,N 35812671,E140903373,10065,1308\r\n0,353,-15008,24165,  15,-  5,0247,----,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSN623"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:15:36"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "ZYCC"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "RJAA"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "02:15:36"
+        }
+      ]
+    },
+    {
+      "id": 6548094608,
+      "label": "18",
+      "text": "N39 45.5 W077 23.4,21067,021722,0095",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6548094607,
+      "label": "18",
+      "text": "N39 45.5 W077 23.4,21067,021722,0095",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6548094604,
+      "label": "18",
+      "text": "N39 45.5 W077 23.4,21067,021722,0095",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6548096202,
+      "label": "18",
+      "text": "15",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6548096200,
+      "label": "18",
+      "text": "15",
+      "decoded": false,
+      "decodeLevel": "none",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": []
+    },
+    {
+      "id": 6548103288,
+      "label": "18",
+      "text": "POX,CSG2518   ,23APR26,022450,EGPK,ZGGG,N061.73,E0026.43,369, 647,823,  64.3,  -4.6,102,-51.8,111750, 34280,",
+      "decoded": true,
+      "decodeLevel": "full",
+      "description": "POX Positional / In-Flight Progress Report",
+      "items": [
+        {
+          "type": "message_type",
+          "code": "MSGTYP",
+          "label": "Message Type",
+          "value": "POX Positional / In-Flight Progress Report"
+        },
+        {
+          "type": "preamble",
+          "code": "PRE",
+          "label": "Preamble",
+          "value": "POX"
+        },
+        {
+          "type": "flight_number",
+          "code": "FLIGHT",
+          "label": "Flight Number",
+          "value": "CSG2518"
+        },
+        {
+          "type": "time",
+          "code": "TIMESTAMP",
+          "label": "Message Timestamp",
+          "value": "02:24:50"
+        },
+        {
+          "type": "icao",
+          "code": "ORG",
+          "label": "Origin",
+          "value": "EGPK"
+        },
+        {
+          "type": "icao",
+          "code": "DST",
+          "label": "Destination",
+          "value": "ZGGG"
+        },
+        {
+          "type": "date",
+          "code": "DATE",
+          "label": "Date",
+          "value": "2026-04-23 (23APR26)"
+        },
+        {
+          "type": "time",
+          "code": "TIME",
+          "label": "Time (UTC)",
+          "value": "02:24:50"
+        }
+      ]
+    }
+  ]
+}
