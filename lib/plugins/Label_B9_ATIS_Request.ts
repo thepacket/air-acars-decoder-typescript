@@ -58,6 +58,95 @@ export class Label_B9_ATIS_Request extends DecoderPlugin {
     const m = text.match(regex);
 
     if (!m?.groups) {
+      // Relaxed full format: /ADDR.SUBTYPE/SEQ AIRPORT ...
+      // Handles variable-length ground station addresses (e.g. ATSOOXA) and 3-char IATA
+      // airport codes (e.g. CLT) padded with a space. Trailing fields are wild-guess/
+      // interpreted only so we stop after the airport code.
+      const relaxed = text.match(
+        /^\/(?<gs>[A-Z0-9]{3,8})\.(?<subtype>[A-Z0-9]+)\/(?<seq>\d{3})(?<airport>[A-Z]{3,4})\b/,
+      );
+      if (relaxed?.groups) {
+        const { gs, subtype, seq, airport } = relaxed.groups;
+        decodeResult.raw.ground_station_icao = gs;
+        decodeResult.raw.atis_subtype = subtype;
+        decodeResult.raw.sequence = seq;
+        decodeResult.raw.arrival_icao = airport;
+        decodeResult.formatted.items = [
+          {
+            type: 'message_type',
+            code: 'MSGTYP',
+            label: 'Message Type',
+            value: 'ATIS Request — downlink to ground-station ATIS service',
+          },
+          {
+            type: 'ground_station',
+            code: 'GNDSTN',
+            label: 'Ground Station / Network Address',
+            value: gs,
+          },
+          {
+            type: 'atis_subtype',
+            code: 'SUBTYPE',
+            label: 'Sub-type / Service',
+            value: subtype === 'TI2' ? 'TI2 (Terminal Information v2)' : subtype,
+          },
+          {
+            type: 'sequence',
+            code: 'SEQ',
+            label: 'Sequence / Parameter',
+            value: seq,
+          },
+          {
+            type: 'airport',
+            code: 'AIRPORT',
+            label: 'Requested Airport',
+            value: airport,
+          },
+        ];
+        decodeResult.remaining.text = text.substring(relaxed[0].length).trim();
+        this.setDecodeLevel(decodeResult, true, 'partial');
+        return decodeResult;
+      }
+
+      // Stripped-preamble format: ground network removed the leading /KXXX. portion.
+      // Body is SUBTYPE/SEQ(3d) AIRPORT(3-4) ... e.g. "TI2/024IAH AF3C5"
+      const stripped = text.match(/^(?<subtype>[A-Z][A-Z0-9]*)\/(?<seq>\d{3})(?<airport>[A-Z]{3,4})\b/);
+      if (stripped?.groups) {
+        const { subtype, seq, airport } = stripped.groups;
+        decodeResult.raw.atis_subtype = subtype;
+        decodeResult.raw.sequence = seq;
+        decodeResult.raw.arrival_icao = airport;
+        decodeResult.formatted.items = [
+          {
+            type: 'message_type',
+            code: 'MSGTYP',
+            label: 'Message Type',
+            value: 'ATIS Request — downlink to ground-station ATIS service',
+          },
+          {
+            type: 'atis_subtype',
+            code: 'SUBTYPE',
+            label: 'Sub-type / Service',
+            value: subtype === 'TI2' ? 'TI2 (Terminal Information v2)' : subtype,
+          },
+          {
+            type: 'sequence',
+            code: 'SEQ',
+            label: 'Sequence / Parameter',
+            value: seq,
+          },
+          {
+            type: 'airport',
+            code: 'AIRPORT',
+            label: 'Requested Airport',
+            value: airport,
+          },
+        ];
+        decodeResult.remaining.text = text.substring(stripped[0].length).trim();
+        this.setDecodeLevel(decodeResult, true, 'partial');
+        return decodeResult;
+      }
+
       // Partial fallback — pull just the leading /ICAO.SUBTYPE/ header if present
       const hdr = text.match(/^\/([A-Z]{4})\.([A-Z0-9]+)\//);
       if (hdr) {

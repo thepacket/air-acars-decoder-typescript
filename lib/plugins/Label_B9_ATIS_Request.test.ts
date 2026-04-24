@@ -1299,11 +1299,14 @@ describe('Label_B9_ATIS_Request', () => {
       label: "B9",
       text: "TI2/024DCA AA146",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-b9-atis-request");
     expect(decodeResult.formatted.description).toBe("ATIS Request (aircraft → ground-station ATIS service)");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.atis_subtype).toBe("TI2");
+    expect(decodeResult.raw.sequence).toBe("024");
+    expect(decodeResult.raw.arrival_icao).toBe("DCA");
+    expect(decodeResult.formatted.items).toHaveLength(4);
   });
 
   test("decodes #24: /KCLE.TI2/024KCLEC5273", () => {
@@ -1851,11 +1854,14 @@ describe('Label_B9_ATIS_Request', () => {
       label: "B9",
       text: "TI2/024GYY AD65A",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-b9-atis-request");
     expect(decodeResult.formatted.description).toBe("ATIS Request (aircraft → ground-station ATIS service)");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.atis_subtype).toBe("TI2");
+    expect(decodeResult.raw.sequence).toBe("024");
+    expect(decodeResult.raw.arrival_icao).toBe("GYY");
+    expect(decodeResult.formatted.items).toHaveLength(4);
   });
 
   test("decodes #34: TI2/024GYY AD65A", () => {
@@ -1863,11 +1869,14 @@ describe('Label_B9_ATIS_Request', () => {
       label: "B9",
       text: "TI2/024GYY AD65A",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-b9-atis-request");
     expect(decodeResult.formatted.description).toBe("ATIS Request (aircraft → ground-station ATIS service)");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.atis_subtype).toBe("TI2");
+    expect(decodeResult.raw.sequence).toBe("024");
+    expect(decodeResult.raw.arrival_icao).toBe("GYY");
+    expect(decodeResult.formatted.items).toHaveLength(4);
   });
 
   test("decodes #35: /RJFF.TI2/040RJFFA1876", () => {
@@ -2655,11 +2664,14 @@ describe('Label_B9_ATIS_Request', () => {
       label: "B9",
       text: "TI2/024LGA A699A",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-b9-atis-request");
     expect(decodeResult.formatted.description).toBe("ATIS Request (aircraft → ground-station ATIS service)");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.atis_subtype).toBe("TI2");
+    expect(decodeResult.raw.sequence).toBe("024");
+    expect(decodeResult.raw.arrival_icao).toBe("LGA");
+    expect(decodeResult.formatted.items).toHaveLength(4);
   });
 
   test("decodes #49: TI2/024LGA A699A", () => {
@@ -2667,11 +2679,14 @@ describe('Label_B9_ATIS_Request', () => {
       label: "B9",
       text: "TI2/024LGA A699A",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-b9-atis-request");
     expect(decodeResult.formatted.description).toBe("ATIS Request (aircraft → ground-station ATIS service)");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.atis_subtype).toBe("TI2");
+    expect(decodeResult.raw.sequence).toBe("024");
+    expect(decodeResult.raw.arrival_icao).toBe("LGA");
+    expect(decodeResult.formatted.items).toHaveLength(4);
   });
 
   test("decodes #50: TI2/024LGA A699A", () => {
@@ -2679,11 +2694,72 @@ describe('Label_B9_ATIS_Request', () => {
       label: "B9",
       text: "TI2/024LGA A699A",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-b9-atis-request");
     expect(decodeResult.formatted.description).toBe("ATIS Request (aircraft → ground-station ATIS service)");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.atis_subtype).toBe("TI2");
+    expect(decodeResult.raw.sequence).toBe("024");
+    expect(decodeResult.raw.arrival_icao).toBe("LGA");
+    expect(decodeResult.formatted.items).toHaveLength(4);
+  });
+
+  test('decodes relaxed full format with long network address and IATA airport: /ATSOOXA.TI2/024CLT ABAEF', () => {
+    const decodeResult = plugin.decode({ label: 'B9', text: '/ATSOOXA.TI2/024CLT ABAEF' });
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe('partial');
+    expect(decodeResult.decoder.name).toBe('label-b9-atis-request');
+    expect(decodeResult.formatted.description).toBe('ATIS Request (aircraft → ground-station ATIS service)');
+    expect(decodeResult.raw.ground_station_icao).toBe('ATSOOXA');
+    expect(decodeResult.raw.atis_subtype).toBe('TI2');
+    expect(decodeResult.raw.sequence).toBe('024');
+    expect(decodeResult.raw.arrival_icao).toBe('CLT');
+    expect(decodeResult.formatted.items).toEqual(
+      expect.arrayContaining([
+        { type: 'message_type', code: 'MSGTYP', label: 'Message Type', value: 'ATIS Request — downlink to ground-station ATIS service' },
+        { type: 'ground_station', code: 'GNDSTN', label: 'Ground Station / Network Address', value: 'ATSOOXA' },
+        { type: 'atis_subtype', code: 'SUBTYPE', label: 'Sub-type / Service', value: 'TI2 (Terminal Information v2)' },
+        { type: 'sequence', code: 'SEQ', label: 'Sequence / Parameter', value: '024' },
+        { type: 'airport', code: 'AIRPORT', label: 'Requested Airport', value: 'CLT' },
+      ]),
+    );
+  });
+
+  test('decodes stripped-preamble format: TI2/024IAH AF3C5', () => {
+    const decodeResult = plugin.decode({ label: 'B9', text: 'TI2/024IAH AF3C5' });
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe('partial');
+    expect(decodeResult.decoder.name).toBe('label-b9-atis-request');
+    expect(decodeResult.formatted.description).toBe('ATIS Request (aircraft → ground-station ATIS service)');
+    expect(decodeResult.raw.atis_subtype).toBe('TI2');
+    expect(decodeResult.raw.sequence).toBe('024');
+    expect(decodeResult.raw.arrival_icao).toBe('IAH');
+    expect(decodeResult.formatted.items).toEqual(
+      expect.arrayContaining([
+        { type: 'message_type', code: 'MSGTYP', label: 'Message Type', value: 'ATIS Request — downlink to ground-station ATIS service' },
+        { type: 'atis_subtype', code: 'SUBTYPE', label: 'Sub-type / Service', value: 'TI2 (Terminal Information v2)' },
+        { type: 'sequence', code: 'SEQ', label: 'Sequence / Parameter', value: '024' },
+        { type: 'airport', code: 'AIRPORT', label: 'Requested Airport', value: 'IAH' },
+      ]),
+    );
+  });
+
+  test('decodes stripped-preamble format with 3-char IATA code: TI2/024CVG AD3D0', () => {
+    const decodeResult = plugin.decode({ label: 'B9', text: 'TI2/024CVG AD3D0' });
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe('partial');
+    expect(decodeResult.decoder.name).toBe('label-b9-atis-request');
+    expect(decodeResult.raw.atis_subtype).toBe('TI2');
+    expect(decodeResult.raw.sequence).toBe('024');
+    expect(decodeResult.raw.arrival_icao).toBe('CVG');
+    expect(decodeResult.formatted.items).toEqual(
+      expect.arrayContaining([
+        { type: 'message_type', code: 'MSGTYP', label: 'Message Type', value: 'ATIS Request — downlink to ground-station ATIS service' },
+        { type: 'atis_subtype', code: 'SUBTYPE', label: 'Sub-type / Service', value: 'TI2 (Terminal Information v2)' },
+        { type: 'sequence', code: 'SEQ', label: 'Sequence / Parameter', value: '024' },
+        { type: 'airport', code: 'AIRPORT', label: 'Requested Airport', value: 'CVG' },
+      ]),
+    );
   });
 
 });

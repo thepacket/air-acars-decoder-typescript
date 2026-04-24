@@ -61,14 +61,20 @@ export class Label_33_TakeoffPerf extends DecoderPlugin {
       return decodeResult;
     }
 
-    // Two variants share label 33:
+    // Three variants share label 33:
     //  Variant A — takeoff perf report:
     //    <sub>,<phase>,<ORG>,<DEST>,<RWY>,,<temp>,<wind>,…,<CRC>
     //  Variant B — in-flight performance report with lat/lon + altitude:
     //    <sub>,<phase>,<lat>,<lon>,<alt>,<null|gs>,<ORG>,<DEST>,<RWY>,<cfg>,…,<weight>,…
-    // Detect by checking whether field[2] looks like a decimal number
-    // (variant B) or a 3-4 letter ICAO code (variant A).
-    const isVariantB = /^-?\d+(?:\.\d+)?$/.test(fields[2].trim());
+    //  Variant C — alternate layout where field[2] is a small integer and field[3]/[4] are ICAOs:
+    //    <sub>,<phase>,<int>,<ORG>,<DEST>,<param>,…,<perf_value>,<CRC>
+    const f2 = fields[2].trim();
+    const f3 = (fields[3] || '').trim();
+    const isVariantC = /^\d{1,3}$/.test(f2) && /^[A-Z]{3,4}$/.test(f3);
+    const isVariantB = !isVariantC && /^-?\d+(?:\.\d+)?$/.test(f2);
+    if (isVariantC) {
+      return this.decodeVariantC(message, fields, decodeResult);
+    }
     if (isVariantB) {
       return this.decodeVariantB(message, fields, decodeResult);
     }
@@ -216,6 +222,94 @@ export class Label_33_TakeoffPerf extends DecoderPlugin {
     }
 
     this.setDecodeLevel(decodeResult, true, 'full');
+    return decodeResult;
+  }
+
+  /**
+   * Variant C — alternate layout with a small-integer field[2] and ICAOs at field[3]/[4].
+   *
+   *   39, D, 23, KSEA, KSAN, 27, …(flags/empty)…, 138.0, 3123
+   *   |   |   |   |     |     |                    |      |
+   *   |   |   |   |     |     └── config param (wild guess — ignored)
+   *   |   |   |   |     └──────── Destination ICAO (confirmed)
+   *   |   |   |   └────────────── Origin ICAO (confirmed)
+   *   |   |   └────────────────── unknown integer (interpreted — ignored, meaning unclear)
+   *   |   └────────────────────── Phase flag (interpreted)
+   *   └────────────────────────── Subtype / sequence (interpreted)
+   *
+   * Penultimate field: performance value (interpreted as weight × 1000 lb or CG %).
+   * Last field: 4-char checksum (confirmed — not decoded).
+   */
+  private decodeVariantC(
+    message: Message,
+    fields: string[],
+    decodeResult: DecodeResult,
+  ): DecodeResult {
+    if (fields.length < 5) {
+      this.setDecodeLevel(decodeResult, false);
+      return decodeResult;
+    }
+
+    const subtype = fields[0].trim();
+    const phase = fields[1].trim();
+    const origin = fields[3].trim();
+    const dest = fields[4].trim();
+
+    if (!/^[A-Z]{3,4}$/.test(origin) || !/^[A-Z]{3,4}$/.test(dest)) {
+      this.setDecodeLevel(decodeResult, false);
+      return decodeResult;
+    }
+
+    decodeResult.raw.subtype = subtype;
+    decodeResult.raw.phase = phase;
+    ResultFormatter.departureAirport(decodeResult, origin);
+    ResultFormatter.arrivalAirport(decodeResult, dest);
+
+    // Performance value: last field containing a decimal point (interpreted).
+    // Scanning from the end avoids confusion with trailing zero flag fields or the checksum.
+    let perfValue: number | null = null;
+    for (let i = fields.length - 1; i >= 5; i--) {
+      const f = fields[i].trim();
+      if (/^-?\d+\.\d+$/.test(f)) {
+        perfValue = Number(f);
+        decodeResult.raw.performance_value = perfValue;
+        break;
+      }
+    }
+
+    decodeResult.formatted.items.unshift(
+      {
+        type: 'message_type',
+        code: 'MSGTYP',
+        label: 'Message Type',
+        value: 'Takeoff / Departure Performance Report',
+      },
+      {
+        type: 'subtype',
+        code: 'SUBTYPE',
+        label: 'Subtype / Sequence',
+        value: subtype,
+      },
+      {
+        type: 'phase',
+        code: 'PHASE',
+        label: 'Phase',
+        value: this.phaseDescriptions[phase]
+          ? `${phase} (${this.phaseDescriptions[phase]})`
+          : phase,
+      },
+    );
+
+    if (perfValue !== null) {
+      decodeResult.formatted.items.push({
+        type: 'performance_value',
+        code: 'PERF',
+        label: 'Performance Value (weight × 1000 lb or CG %)',
+        value: String(perfValue),
+      });
+    }
+
+    this.setDecodeLevel(decodeResult, true, 'partial');
     return decodeResult;
   }
 

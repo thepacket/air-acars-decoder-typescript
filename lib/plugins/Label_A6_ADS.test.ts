@@ -2020,16 +2020,22 @@ describe('Label_A6_ADS', () => {
     });
   });
 
-  test("decodes #38: /MLOCAYA.ADSHZ-AK71074F0B000199", () => {
+  test("decodes #38: /MLOCAYA.ADSHZ-AK71074F0B000199 (one-dot format)", () => {
+    // One-dot format where second dot is absent; greedy IMI capture "ADSH"
+    // is corrected to "ADS" and "H" is prepended back to rest.
     const decodeResult = plugin.decode({
       label: "A6",
       text: "/MLOCAYA.ADSHZ-AK71074F0B000199",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("full");
     expect(decodeResult.decoder.name).toBe("label-a6-ads");
     expect(decodeResult.formatted.description).toBe("Request ADS Reports (RAR — ADS-C contract, uplink)");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.ground_address).toBe("MLOCAYA");
+    expect(decodeResult.raw.imi).toBe("ADS");
+    expect(decodeResult.raw.tail).toBe("HZ-AK");
+    expect(decodeResult.raw.ads_payload_hex).toBe("71074F0B00");
+    expect(decodeResult.raw.crc_hex).toBe("0199");
   });
 
   test("decodes #39: /RGNCAYA.ADS.TC-LGL01EB25", () => {
@@ -2678,6 +2684,25 @@ describe('Label_A6_ADS', () => {
       label: "CRC (trailing hex)",
       value: "F06C (4-hex standard CRC)",
     });
+  });
+
+  test("decodes one-dot format: /MLOCAYA.ADSHZ-AK7107C60B00A452", () => {
+    // One-dot format: second dot between IMI and air-station is absent.
+    // Greedy [A-Z]{2,4} captures "ADSH"; IMI correction trims to "ADS",
+    // prepends "H" back to rest → rest = "HZ-AK7107C60B00A452".
+    const decodeResult = plugin.decode({
+      label: "A6",
+      text: "/MLOCAYA.ADSHZ-AK7107C60B00A452",
+    });
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("full");
+    expect(decodeResult.raw.ground_address).toBe("MLOCAYA");
+    expect(decodeResult.raw.imi).toBe("ADS");
+    // Tail heuristic: "HZ-AK" (5 chars — 'K' is last non-hex char at index 4)
+    expect(decodeResult.raw.tail).toBe("HZ-AK");
+    // Payload + 4-hex CRC split from "7107C60B00A452"
+    expect(decodeResult.raw.ads_payload_hex).toBe("7107C60B00");
+    expect(decodeResult.raw.crc_hex).toBe("A452");
   });
 
 });

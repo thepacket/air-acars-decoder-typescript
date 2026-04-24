@@ -621,11 +621,12 @@ describe('Label_33_TakeoffPerf', () => {
       label: "33",
       text: "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("RIC");
+    expect(decodeResult.raw.arrival_icao).toBe("LGA");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(59.9, 1);
   });
 
   test("decodes #12: 4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE", () => {
@@ -633,11 +634,12 @@ describe('Label_33_TakeoffPerf', () => {
       label: "33",
       text: "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("RIC");
+    expect(decodeResult.raw.arrival_icao).toBe("LGA");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(59.9, 1);
   });
 
   test("decodes #13: 4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE", () => {
@@ -645,11 +647,12 @@ describe('Label_33_TakeoffPerf', () => {
       label: "33",
       text: "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("RIC");
+    expect(decodeResult.raw.arrival_icao).toBe("LGA");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(59.9, 1);
   });
 
   test("decodes #14: 4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE", () => {
@@ -657,11 +660,12 @@ describe('Label_33_TakeoffPerf', () => {
       label: "33",
       text: "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("RIC");
+    expect(decodeResult.raw.arrival_icao).toBe("LGA");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(59.9, 1);
   });
 
   test("decodes #15: 4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE", () => {
@@ -669,11 +673,12 @@ describe('Label_33_TakeoffPerf', () => {
       label: "33",
       text: "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("RIC");
+    expect(decodeResult.raw.arrival_icao).toBe("LGA");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(59.9, 1);
   });
 
   test("decodes #16: 4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE", () => {
@@ -681,11 +686,12 @@ describe('Label_33_TakeoffPerf', () => {
       label: "33",
       text: "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("RIC");
+    expect(decodeResult.raw.arrival_icao).toBe("LGA");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(59.9, 1);
   });
 
   test("decodes #17: 2026-04-23,01:39:37,KEWR,LLBG,0026,N41253W072585,461,FL188,0…", () => {
@@ -717,11 +723,12 @@ describe('Label_33_TakeoffPerf', () => {
       label: "33",
       text: "4,G,22,RIC,LGA,4,,,,,,1,0,0,0,59.9,0,A8CE",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("RIC");
+    expect(decodeResult.raw.arrival_icao).toBe("LGA");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(59.9, 1);
   });
 
   test("decodes #20: 2026-04-23,01:39:37,KEWR,LLBG,0026,N41253W072585,461,FL188,0…", () => {
@@ -922,11 +929,12 @@ TRY THRUST RVRSR CREDIT
       label: "33",
       text: "262,B,22,KHIF,CYQX,03/,/,8,WET ICE,0,DRY,,,,,,1,0,0,0,0,0,638.5,23A3",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("KHIF");
+    expect(decodeResult.raw.arrival_icao).toBe("CYQX");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(638.5, 1);
   });
 
   test("decodes #32: 262,B,22,KHIF,CYQX,03/,/,8,WET ICE,0,DRY,,,,,,1,0,0,0,0,0,63…", () => {
@@ -934,11 +942,12 @@ TRY THRUST RVRSR CREDIT
       label: "33",
       text: "262,B,22,KHIF,CYQX,03/,/,8,WET ICE,0,DRY,,,,,,1,0,0,0,0,0,638.5,23A3",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("KHIF");
+    expect(decodeResult.raw.arrival_icao).toBe("CYQX");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(638.5, 1);
   });
 
   test("decodes #33: 262,B,22,KHIF,CYQX,03/,/,8,WET ICE,0,DRY,,,,,,1,0,0,0,0,0,63…", () => {
@@ -946,11 +955,12 @@ TRY THRUST RVRSR CREDIT
       label: "33",
       text: "262,B,22,KHIF,CYQX,03/,/,8,WET ICE,0,DRY,,,,,,1,0,0,0,0,0,638.5,23A3",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("KHIF");
+    expect(decodeResult.raw.arrival_icao).toBe("CYQX");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(638.5, 1);
   });
 
   test("decodes #34: 262,B,22,KHIF,CYQX,03/,/,8,WET ICE,0,DRY,,,,,,1,0,0,0,0,0,63…", () => {
@@ -958,11 +968,12 @@ TRY THRUST RVRSR CREDIT
       label: "33",
       text: "262,B,22,KHIF,CYQX,03/,/,8,WET ICE,0,DRY,,,,,,1,0,0,0,0,0,638.5,23A3",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("KHIF");
+    expect(decodeResult.raw.arrival_icao).toBe("CYQX");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(638.5, 1);
   });
 
   test("decodes #35: /33 SYS CONF RPT / KORD KONT 22 013653 AC TYPE B737 ACARS 2.…", () => {
@@ -1081,11 +1092,12 @@ INITIAL EON `,
       label: "33",
       text: "4,G,22,JFK,JAX,08,14,,,,,0,0,0,0,70.4,0,6337",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("JFK");
+    expect(decodeResult.raw.arrival_icao).toBe("JAX");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(70.4, 1);
   });
 
   test("decodes #41: P,H,23APR26 01:35:29,21521408,22APR,5582,KMKE,KORD,3596,KORD…", () => {
@@ -1208,11 +1220,12 @@ INITIAL EON `,
       label: "33",
       text: "4,G,22,JFK,JAX,08,14,,,,,0,0,0,0,70.4,0,6337",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("JFK");
+    expect(decodeResult.raw.arrival_icao).toBe("JAX");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(70.4, 1);
   });
 
   test("decodes #50: 4,G,22,JFK,JAX,08,14,,,,,0,0,0,0,70.4,0,6337", () => {
@@ -1220,11 +1233,34 @@ INITIAL EON `,
       label: "33",
       text: "4,G,22,JFK,JAX,08,14,,,,,0,0,0,0,70.4,0,6337",
     });
-    expect(decodeResult.decoded).toBe(false);
-    expect(decodeResult.decoder.decodeLevel).toBe("none");
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe("partial");
     expect(decodeResult.decoder.name).toBe("label-33-takeoff-perf");
-    expect(decodeResult.formatted.description).toBe("Takeoff / Departure Performance Report");
-    expect(decodeResult.formatted.items).toHaveLength(0);
+    expect(decodeResult.raw.departure_icao).toBe("JFK");
+    expect(decodeResult.raw.arrival_icao).toBe("JAX");
+    expect(decodeResult.raw.performance_value).toBeCloseTo(70.4, 1);
+  });
+
+  test('decodes Variant C: 39,D,23,KSEA,KSAN (analyst report sample)', () => {
+    const decodeResult = plugin.decode({
+      label: '33',
+      text: '39,D,23,KSEA,KSAN,27,,,,,,,,0,,0,0,0,0,0,0,0,0,0,0,138.0,3123',
+    });
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe('partial');
+    expect(decodeResult.decoder.name).toBe('label-33-takeoff-perf');
+    expect(decodeResult.raw.subtype).toBe('39');
+    expect(decodeResult.raw.phase).toBe('D');
+    expect(decodeResult.raw.departure_icao).toBe('KSEA');
+    expect(decodeResult.raw.arrival_icao).toBe('KSAN');
+    expect(decodeResult.raw.performance_value).toBeCloseTo(138.0, 1);
+    const codes = decodeResult.formatted.items.map((i) => i.code);
+    expect(codes).toContain('MSGTYP');
+    expect(codes).toContain('SUBTYPE');
+    expect(codes).toContain('PHASE');
+    expect(codes).toContain('ORG');
+    expect(codes).toContain('DST');
+    expect(codes).toContain('PERF');
   });
 
 });

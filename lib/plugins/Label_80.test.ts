@@ -169,4 +169,87 @@ describe('Label 80', () => {
     );
     expect(decodeResult.formatted.items.length).toBe(0);
   });
+
+  test('decodes ARRIVAL notification format (N788QS inbound KAUS)', () => {
+    message.text =
+      '001CT24002658N2847.3W09913.93275150030\r\n' +
+      '024N788QS ARRIVAL,.N788QS,1-737-208-1400,MILLION AIR AUS\r\n' +
+      'N788QS CL350 ETA 30 MIN\r\n' +
+      '3 PAX. LGT BAGS. CUSTOMS\r\n' +
+      'AND PAX CAR UNDER WARREN\r\n' +
+      'NO SRVCS. REPO TO SIG.';
+    const decodeResult = plugin.decode(message);
+
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe('partial');
+    expect(decodeResult.decoder.name).toBe('label-80');
+    expect(decodeResult.formatted.description).toBe('Airline Defined Position Report');
+
+    // Position: N28°47.3' W099°13.9'
+    const pos = decodeResult.raw.position as { latitude: number; longitude: number };
+    expect(pos.latitude).toBeCloseTo(28.788, 2);
+    expect(pos.longitude).toBeCloseTo(-99.232, 2);
+
+    // Heading (interpreted)
+    expect(decodeResult.raw.heading).toBe(327);
+
+    // ETA offset (interpreted, aligns with free text "ETA 30 MIN")
+    expect(decodeResult.raw.eta_minutes).toBe(30);
+
+    // Tail (confirmed)
+    expect(decodeResult.raw.tail).toBe('N788QS');
+
+    // Message sub-type (confirmed)
+    expect(decodeResult.raw.message_subtype).toBe('ARRIVAL');
+
+    // FBO (confirmed)
+    expect(decodeResult.raw.fbo).toBe('MILLION AIR AUS');
+
+    // Free text present
+    expect(decodeResult.raw.free_text).toContain('N788QS CL350 ETA 30 MIN');
+    expect(decodeResult.raw.free_text).toContain('3 PAX');
+
+    // Formatted items
+    const codes = decodeResult.formatted.items.map((i) => i.code);
+    expect(codes).toContain('POS');
+    expect(codes).toContain('HDG');
+    expect(codes).toContain('ETAMIN');
+    expect(codes).toContain('TAIL');
+    expect(codes).toContain('MSGTYP');
+    expect(codes).toContain('FBO');
+    expect(codes).toContain('NOTES');
+  });
+
+  test('decodes Asiana compact POS format (OZ743 HL8356 RKSI→VTBS)', () => {
+    message.text =
+      'POSHL83560743RKSIVTBS24APR26005124\r\n' +
+      'TN 23.064E121.636005124  33957- 4025715  59 25120';
+    const decodeResult = plugin.decode(message);
+
+    expect(decodeResult.decoded).toBe(true);
+    expect(decodeResult.decoder.decodeLevel).toBe('partial');
+    expect(decodeResult.decoder.name).toBe('label-80');
+    expect(decodeResult.formatted.description).toBe('Airline Defined Position Report');
+
+    expect(decodeResult.raw.tail).toBe('HL8356');
+    expect(decodeResult.raw.departure_icao).toBe('RKSI');
+    expect(decodeResult.raw.arrival_icao).toBe('VTBS');
+
+    const pos = decodeResult.raw.position as { latitude: number; longitude: number };
+    expect(pos.latitude).toBeCloseTo(23.064, 3);
+    expect(pos.longitude).toBeCloseTo(121.636, 3);
+
+    expect(decodeResult.raw.altitude).toBe(33957);
+
+    // FOB: last numeric token on line 2
+    expect(decodeResult.raw.fuel_on_board).toBe(25120);
+
+    const codes = decodeResult.formatted.items.map((i) => i.code);
+    expect(codes).toContain('TAIL');
+    expect(codes).toContain('ORG');
+    expect(codes).toContain('DST');
+    expect(codes).toContain('POS');
+    expect(codes).toContain('ALT');
+    expect(codes).toContain('FOB');
+  });
 });

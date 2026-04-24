@@ -23,6 +23,17 @@ export class Label_80 extends DecoderPlugin {
     );
 
     const lines = message.text.split(/\r?\n/);
+
+    // ARRIVAL notification format: line 2 matches NNN<TAIL> ARRIVAL,.<REG>,...
+    if (lines.length >= 2 && /^\d{3}[A-Z0-9-]+\s+ARRIVAL,\./.test(lines[1])) {
+      return this.parseArrivalFormat(lines, decodeResult);
+    }
+
+    // Asiana compact POS format: line 1 = POS<TAIL><FLT><ORG><DEST><DDMONYY><HHMMSS>
+    if (/^POS[A-Z0-9]{5,7}\d{4}[A-Z]{4}[A-Z]{4}\d{2}[A-Z]{3}\d{2}\d{6}/.test(lines[0])) {
+      return this.parseAsianaPos(lines, decodeResult);
+    }
+
     if (lines.length === 1 && lines[0].includes(',')) {
       this.parseCsvFormat(lines[0], decodeResult);
     } else {
@@ -178,6 +189,131 @@ export class Label_80 extends DecoderPlugin {
         ResultFormatter.unknown(results, part, '/');
     }
   }
+  private parseAsianaPos(lines: string[], decodeResult: DecodeResult): DecodeResult {
+    // Line 1: POS<TAIL(5-7)><FLT(4)><ORG(4)><DEST(4)><DDMONYY(7)><HHMMSS(6)>
+    const hdr = lines[0].match(
+      /^POS(?<tail>[A-Z0-9]{5,7})(?<flt>\d{4})(?<org>[A-Z]{4})(?<dst>[A-Z]{4})(?<date>\d{2}[A-Z]{3}\d{2})(?<time>\d{6})/,
+    );
+    if (!hdr?.groups) {
+      this.setDecodeLevel(decodeResult, false);
+      return decodeResult;
+    }
+    const { tail, org, dst, time } = hdr.groups;
+
+    ResultFormatter.tail(decodeResult, tail);
+    ResultFormatter.departureAirport(decodeResult, org);
+    ResultFormatter.arrivalAirport(decodeResult, dst);
+    ResultFormatter.timestamp(decodeResult, DateTimeUtils.convertHHMMSSToTod(time));
+
+    // Line 2: TN <lat>E<lon><time>  <alt>...<fob>
+    // TN prefix and sub-fields after altitude are wild guess — skipped.
+    if (lines.length >= 2) {
+      const l2 = lines[1];
+      const posMatch = l2.match(
+        /TN\s+(?<lat>\d+\.\d+)E(?<lon>\d+\.\d+)\d{6}\s+(?<alt>\d+)/,
+      );
+      if (posMatch?.groups) {
+        const lat = parseFloat(posMatch.groups.lat);  // implied North (TN prefix)
+        const lon = parseFloat(posMatch.groups.lon);  // explicit East hemisphere
+        ResultFormatter.position(decodeResult, { latitude: lat, longitude: lon });
+        ResultFormatter.altitude(decodeResult, parseInt(posMatch.groups.alt, 10));
+      }
+
+      // FOB: last whitespace-delimited numeric token on line 2 (interpreted)
+      const tokens = l2.trim().split(/\s+/);
+      const lastToken = tokens[tokens.length - 1];
+      if (/^\d+$/.test(lastToken) && lastToken.length >= 4) {
+        ResultFormatter.currentFuel(decodeResult, parseInt(lastToken, 10));
+      }
+    }
+
+    this.setDecodeLevel(decodeResult, true, 'partial');
+    return decodeResult;
+  }
+
+  private parseArrivalFormat(lines: string[], decodeResult: DecodeResult): DecodeResult {
+    // Line 1: e.g. "001CT24002658N2847.3W09913.93275150030"
+    // Fields (interpreted unless noted): DD HHMM [skip SS] POS HDG ALT_RAW ETA_MINS
+    const line1 = lines[0];
+
+    // Day + time: two-digit day and four-digit HHMM immediately before the two-digit seconds and position
+    const dtMatch = line1.match(/(\d{2})(\d{4})\d{2}[NS]/);
+    if (dtMatch) {
+      ResultFormatter.day(decodeResult, parseInt(dtMatch[1], 10));
+      ResultFormatter.timestamp(decodeResult, DateTimeUtils.convertHHMMSSToTod(dtMatch[2]));
+    }
+
+    // Position in DDMM.M / DDDMM.M format, followed by HDG(3) ALT_RAW(3) ETA_MIN(4)
+    const posMatch = line1.match(
+      /([NS])(\d{2,3})(\d{2}\.\d+)([EW])(\d{2,3})(\d{2}\.\d+)(\d{3})(\d{3})(\d{4})/,
+    );
+    if (posMatch) {
+      const latSign = posMatch[1] === 'S' ? -1 : 1;
+      const latDeg = parseInt(posMatch[2], 10) + parseFloat(posMatch[3]) / 60;
+      const lonSign = posMatch[4] === 'W' ? -1 : 1;
+      const lonDeg = parseInt(posMatch[5], 10) + parseFloat(posMatch[6]) / 60;
+      ResultFormatter.position(decodeResult, {
+        latitude: latSign * latDeg,
+        longitude: lonSign * lonDeg,
+      });
+      ResultFormatter.heading(decodeResult, parseInt(posMatch[7], 10));
+      // ETA in minutes (interpreted; aligns with free-text "ETA 30 MIN")
+      const etaMin = parseInt(posMatch[9], 10);
+      decodeResult.raw.eta_minutes = etaMin;
+      decodeResult.formatted.items.push({
+        type: 'eta_time',
+        code: 'ETAMIN',
+        label: 'ETA (minutes to destination)',
+        value: etaMin.toString(),
+      });
+    }
+
+    // Line 2: e.g. "024N788QS ARRIVAL,.N788QS,1-737-208-1400,MILLION AIR AUS"
+    // Skip wild-guess 3-digit prefix; extract tail, sub-type, FBO (confirmed/interpreted)
+    const line2 = lines[1];
+    const arrMatch = line2.match(
+      /^\d{3}(?<tail>[A-Z0-9-]+)\s+ARRIVAL,\.(?<reg>[A-Z0-9-]+),(?<contact>[^,]+),(?<fbo>.+)$/,
+    );
+    if (arrMatch?.groups) {
+      const { tail, fbo, contact } = arrMatch.groups;
+      ResultFormatter.tail(decodeResult, tail);
+      decodeResult.raw.message_subtype = 'ARRIVAL';
+      decodeResult.raw.fbo = fbo.trim();
+      decodeResult.formatted.items.push(
+        { type: 'message_type', code: 'MSGTYP', label: 'Message Sub-type', value: 'Arrival Notification' },
+        { type: 'fbo', code: 'FBO', label: 'Destination FBO', value: fbo.trim() },
+      );
+      // Contact info interpreted as dispatch/operations reference
+      const contactTrimmed = contact.trim();
+      if (contactTrimmed) {
+        decodeResult.raw.contact_info = contactTrimmed;
+        decodeResult.formatted.items.push({
+          type: 'contact_info',
+          code: 'CONTACT',
+          label: 'Contact / Reference',
+          value: contactTrimmed,
+        });
+      }
+    }
+
+    // Lines 3+: free-text operational instructions (confirmed plain English)
+    if (lines.length > 2) {
+      const freeText = lines.slice(2).join('\n').trim();
+      if (freeText) {
+        decodeResult.raw.free_text = freeText;
+        decodeResult.formatted.items.push({
+          type: 'notes',
+          code: 'NOTES',
+          label: 'Crew / Dispatch Notes',
+          value: freeText,
+        });
+      }
+    }
+
+    this.setDecodeLevel(decodeResult, true, 'partial');
+    return decodeResult;
+  }
+
   private parseCsvFormat(text: string, results: DecodeResult) {
     const csvParts = text.split(',');
     if (csvParts.length !== 9) {

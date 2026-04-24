@@ -48,16 +48,28 @@ export class Label_A6_ADS extends DecoderPlugin {
       return decodeResult;
     }
 
-    // 1) Envelope: /GROUND.IMI.REST
-    const envelope = /^\/(?<ground>[A-Z0-9]{5,9})\.(?<imi>[A-Z]{2,4})\.(?<rest>.+)$/;
+    // 1) Envelope: /GROUND.IMI.REST (two-dot) or /GROUND.IMIREST (one-dot, second dot absent).
+    //    The second dot is optional because some networks strip it, leaving the IMI
+    //    and air-station address concatenated (e.g. /MLOCAYA.ADSHZ-AK71...).
+    const envelope = /^\/(?<ground>[A-Z0-9]{5,9})\.(?<imi>[A-Z]{2,4})\.?(?<rest>.+)$/;
     const env = text.match(envelope);
     if (!env?.groups) {
       this.setDecodeLevel(decodeResult, false);
       return decodeResult;
     }
 
-    const { ground, imi, rest } = env.groups;
+    let { ground, imi, rest } = env.groups;
     decodeResult.raw.ground_address = ground;
+
+    // In the one-dot format, the greedy [A-Z]{2,4} may consume the first character(s)
+    // of the air-station address into the IMI field. Correct by checking known IMIs.
+    const KNOWN_IMIS = ['ADS', 'CPDLC', 'DCL', 'ACM', 'ACL', 'ACA', 'ADB', 'DIS', 'LAP'];
+    const shortImi = KNOWN_IMIS.find(k => imi.startsWith(k) && k.length < imi.length);
+    if (shortImi) {
+      rest = imi.substring(shortImi.length) + rest;
+      imi = shortImi;
+    }
+
     decodeResult.raw.imi = imi;
 
     // 2) Split `rest` into air-address (tail) and hex payload.
