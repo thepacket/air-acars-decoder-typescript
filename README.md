@@ -4,7 +4,7 @@ ACARS (Aircraft Communications Addressing and Reporting System) is a digital dat
 
 This project is a Typescript library derived from Airframes' acars-decoder-typescript for decoding ACARS messages.
 
-Massively using artifial intelligence for increasing coverage.
+Massively using artificial intelligence for increasing coverage.
 
 Additional details to follow.
 
